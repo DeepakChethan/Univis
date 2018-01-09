@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Univis</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="question_papers">Question Papers</string>
+    <string name="select_your_semester">Select your semester</string>
+    <string name="select_your_course">Select your course</string>
+    <string name="lets_go">Lets go!</string>
+
+    <string-array name="course_list">
+        <item>CSE</item>
+        <item>ISE</item>
+        <item>CIVIL</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECH</item>
+    </string-array>
+
+    <string-array name="sem_list">
+        <item>1st Year</item>
+        <item>3rd sem</item>
+        <item>4th sem</item>
+        <item>5th sem</item>
+        <item>6th sem</item>
+        <item>7th sem</item>
+        <item>8th sem</item>
+    </string-array>
+
+
+</resources>

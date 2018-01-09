@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/syllabus"
+        android:icon="@drawable/syllabus_icon"
+        android:title="@string/syllabus" />
+
+    <item
+        android:id="@+id/questionPapers"
+        android:icon="@drawable/question_paper_icon"
+        android:title="@string/question_papers" />
+
+</menu>
