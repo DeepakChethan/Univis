@@ -1,0 +1,49 @@
+2K11 CI 46: JAVA and INTERNET PROGRAMMING 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART-A 
+
+ Unit 1.Fundamentals: 
+
+ Class Fundamentals, Object and Object reference, Object life time andGarbage collection, Creating and operating objects, Constructors and initialization code block, Access controls, Modifiers, Methods nested inner class and Anonymous Classes, Abstract Classes and Interfaces, Defining methods, Argument Passing Mechanism method overloading, Recursion, Dealing with Static members, Finalize methods, Native method, Use f and method. 
+
+ Unit 2. Input/output operation in JAVA (java.io package): 
+
+ Streams and the new I/O capabilities, Understanding Streams The classes for Input and output ,The standard streams working with file Objects file I/O Basic Readingand write to file buffer and buffer management Read/Write Operations with File Channel Serializing objects. Extending classes and Inheritance, Use and benefits of inheritance of OOP, Types of Inheritance in JAVA, Inheriting data members and methods, Role of constructors in inheritance, Overriding Super Class methods, Use of “Super”, Polymorphism in h implementing interfaces. 
+
+ Unit 3. Array and Strings: 
+
+ Defining an Array Initialization and Accessing Array Multidimensional Array, Operating on string mutable and immutable string using collection bases Loop for string, Tokenizing a string, Creating string using string Buffer. Exception handling: The idea behind Exception: Exception and error types of Exception, Control flow of Exceptions, JVM reactions of Exceptions, Use of Try, Catch, Finally, Throw and throws in Exception handling, In-built and user defined exceptions, checked and unchecked Exceptions. 
+
+ Unit 4. Thread: Understanding Threads, Needs of multithreaded Programming, Thread Lifecycle, Thread Priorities, Synchronizing threads, Inter-communication of Threads, critical factor in thread deadlock :applet and applet architecture, Parameters to applet, embedding applets in web page, applet security politics. 
+
+ PART-B 
+
+ Unit 5. Perl, Cgi Programming: 
+
+ Origin and uses of Perl: Scalars and their operations; assignment statement and simple input and output; control statements; fundamentals of arrays; hashes; references; functions; pattern matching; file input and output; examples. The common gateway interface; CG linkage; query string Format configuring server , input to the CGI environmental variables assessing the input, output from CGI-CGI and response headers; Accept, types and content length header, server redirection the expire and pragma header, status header, designing application with Perl, server side includes(SSI), survey example. 
+
+ Unit 6. Fundamentals of Web, XHTML-1: 
+
+ Internet, www, web browsers and web servers; URL?s MI programmer?s toolbox. XHTML: origins and evaluati XHTML document structure; Basic text markup, XHTML-2: images; hypertext links; lists; tables; forms; frames; syntactic difference between HTML and XHTML. 
+
+ Unit 7. Java Scripts: Overview of JavaScript?s; Object orientation and Primitives, Operations and expressions; screen output and Keyboard output ; Control statements; Object creation and modifications; Arrays; Functions; Constructor; Pattern matching using regular expressions, Errors in scripts and examples. 
+
+ Unit 8. Java Scripts and Html Documents: 
+
+ The java script execution environment; The document object model; Element access in java scripts; Events and event handling events, handling events from the body elements, button elements, text box and password elements; The DOM2 event model; navigator object; DOM tree traversal modifications. 
+
+ References: 
+
+ 1. Programming the World Wide Web-Robert W. Sebesta, fourth edition, Pearson Education, 2008. 
+
+ 2. Internet and World Wide Web How to H Pogram- M. Dietel, P. J. Deitel, A. B. Goldberg, third edition, Pearson Education /PH1,2004. 
+
+ 3. CGI Programming on World Wide Web Oriely- Shishir Gundavaram Oriely Publication, 2nd edition, 2002. 
+
+ 4. Java Complete Reference by Herbert Schildt

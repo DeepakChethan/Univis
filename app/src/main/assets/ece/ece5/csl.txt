@@ -1,0 +1,35 @@
+Circuit Simulation Lab 
+
+I. Using pspice or equivalent simulation software 
+
+1. Power supply design: series voltage regulator (with preamplifier). 
+
+2. Switching regulator 
+
+3. Feedback amplifier: voltage series, current series 
+
+4. Filters: active filters (second order) 
+
+5. Combinational circuits: Mux and its applications, adders and its applications, Demux/decoder, Encoder. 
+
+6. Design of countrs/shift registers and their applications. 
+
+7. Experiments with 555 timer (Astable, monostable) 
+
+8. D/A Converters and A/D converters 
+
+9. FSK generation. 
+
+
+II. Using Model Sim (upto synthesis and functional simulation) 
+
+a) modeling of gates, HA, FA, MUX using 
+(i) Structural 
+(ii) Behavioral 
+(iii) Data flow model. 
+
+b) Modeling of Latches and Flip flops 
+(i) D flip-flop 
+(ii) SR flip-flop 
+(iii) JK flip-flop 
+(iv) T flip-flop.

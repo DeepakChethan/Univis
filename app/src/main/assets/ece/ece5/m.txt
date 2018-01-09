@@ -1,0 +1,24 @@
+Microprocessors 
+
+PART-A 
+
+1. Introduction to 8bit Intel microprocessor: 
+Architecture and addressing modes – instruction set, memory and I/O interface. Sample programs. 
+
+2. Architecture and addressing modes of advanced microprocessor: 
+Introduction. Architecture and addressing modes of 8086 and 80386 microprocessors. 
+
+3. Assembly language of 8086 microprocessor: 
+Data movement instructions, arithmetic and logical instructions, program control instructions. Pseudo instructions/assembler directives and programming methodologies and examples. 
+
+
+PART-B 
+
+4. Hardware specifications: 
+Pin outs and pin functions of 8086. Clock generator, bus buffering and latching, bus timing, ready and wait state, minimum and maximum mode, virtual mode of 80386. 
+
+5. Interfacing of input and output devices: 
+8255 PPI and its applications. BSR mode and I/O mode operations. Interrupts of 8086, 8259 PIC – Programmable interrupt controller, 8253/8254 programmable timer/counter, various modes of operations and their applications. 
+
+6. Controllers and Interfacing: 
+8237 DMA controller, 8272A floppy disk controller, Serial data transmission methods and standards, RS-232C serial data standard, 8251A programmable serial communication interface, Memory interfacing, microprocessor development system, ICE.

@@ -1,0 +1,12 @@
+
+ 2K11EE1302 ELECTRICAL LABORATORY 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Class Marks: 25 Max Marks: 100 1. Fluorescent lamp connection with and without capacitor. 
+ 2. Prove Kirchhoff’s laws for DC circuits. 
+ 3. Measurement of inductance (3 Voltmeter method and AVW-method). 
+ 4. V-I characteristics of semiconductor diode. 
+ 5. Open circuit characteristics of DC shunt generator. 
+ 6. Speed control of DC motor-flux control and Armature control. 
+ 7. Open circuit and Short circuit test on single phase transformer (Calculation of regulation and efficiency). 8. Transistor characteristics CE configuration. 
+ 9. Star and delta connection, to verify phase and line relationships. 
+ 10. Op-Amp applications: Voltage follower-Inverting, Non-inverting amplifier, Adder, Differentiator and Integrator. 

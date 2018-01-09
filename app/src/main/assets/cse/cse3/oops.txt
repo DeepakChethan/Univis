@@ -1,0 +1,57 @@
+
+
+ 
+
+ 2K11 CI36: OBJECT ORIENTED PROGRAMMING WITH C++ 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Unit 1. Introduction to OOP: 
+
+ Procedure oriented Programming, Object oriented programming paradigm, Basic concepts of OOP, Benefits of OOP, Object Oriented language, Applications of OOP, Introduction to C++, Applications, A basic structure of C++ program, Difference b/w C and C++, complilation and execution of C++ program. 
+
+ Unit 2. C++ Tokens, Expressions and Control Statements: 
+
+ Tokens, Keywords, Identifiers, Constants, Data types, Operators in C++, manipulators, statements, control structures, Scope Resolution Operator, Type cast operator, Implicit conversions. 
+
+ Unit 3. Functions in C++: 
+
+ Introduction to functions, Function prototyping, Call by Reference, Inline functions, Default arguments, constant arguments, Recursion, Function Overloading, Friend Functions. 
+
+ Unit 4. Classes and Objects: 
+
+ Introduction, Defining a member functions, member Access specifiers, nesting of member functions, array with in a class, memory allocation for objects, Static data members, 
+
+ Static member Functions, Arrays of objects, objects as function arguments, Returning objects, constant member functions, pointers to members, Local Classes. 
+
+ Unit 5. Templates: 
+
+ Class Templates, Class templates with multiple parameters, Function template, Function template with multiple parameters, Overloading of functions Template Non-type Template arguments. 
+
+ PART B 
+
+ Unit 6. Constructors and Destructors: 
+
+ Constructors, Parameterised Constructors, Multiple Constructors in a class, Constructors with default arguments, Dynamic Initialisation of Objects, Copy constructors, Dynamic constructors, constructing two- Dimensional arrays, Constant objects, Destructors. 
+
+ Unit 7. Operator Over loading and Type Conversions: 
+
+ Defining operator overloading, overloading unary and binary operators, overloading binary operators using friends, manipulation of strings using operators. Rules for overloading operators, type conversions. 
+
+ Unit 8. Inheritance: 
+
+ Defining Derived class, Single Inheritance, Making a private member inheritable, Multilevel Inheritance, Multiple Inheritance, Hierarchial Inheritance, Hybrid Inheritance, Virtual Base Classes, Abstract Classes, Constructors in Derived Classes, Nesting of classes, Inheritance and constructors, Inheritance and Destructors. 
+
+ Unit 9. Pointers, Virtual functions, Polymorphism: 
+
+ Pointers to Objects, this pointer, Pointers to Derived classes, polymorphism, Virtual functions, Pure Virtual functions, Virtual Destructors. 
+
+ Unit 10. The C++ I/O Library and Exception handling: 
+
+ C++ stream, C++ stream classes, Unformatted I/O operations, formatted console I/O operations, Managing output with manipulators, Basics of Exception handling, Exception.

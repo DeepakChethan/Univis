@@ -1,0 +1,50 @@
+2K11CI 61 : COMPUTER NETWORKS II 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1:Network Layer 6 Hours 
+
+ Network layer design issues: Store-and-forward packet switching, Services provided to the transport layer , Implementation of Connectionless service, Implementation of connection-oriented service, Comparison of virtual-circuit and Datagram subnets. Network topologies. 
+
+ Chapter 2 : Network Layer 6 Hours 
+
+ Routing algorithms: Principles ofrouting algorithms, static routing, dynamic routing, flow based routing, Dijkstra routing, link state routing, hierarchical routing, Broadcast routing, Multicast routing,Routing in Mobile hosts: Routing in Ad-Hoc networks-AODV, DSR, Routing in Sensor networks- Leach, SPIN, Zigbee Protocol, IEEE 802.15.4;Label switching and MPLS. 
+
+ Chapter3: Network Layer 6 Hours 
+
+ Congestion control algorithms:General principles of congestion control, congestion prevention policies, congestion control in virtual-circuit subnets, congestion control in datagram subnets- Warning bit, Choke packets, Hop-by-Hop choke packets, Load shedding, Random early detection, Jitter control. Techniques for achieving good quality of service: Overprovisioning, Buffering, Traffic shaping,Leaky Bucket algorithm, Token Bucket algorithm, Resource Reservation-Admission control, Proportional routing, Packet scheduling, 
+
+ Chapter4: Internetworking 6 Hours 
+
+ Concatenated virtual circuits, Connectionless internetworking, Tunneling, Fragmentation. IP Addresses, CIDR, NAT, Internet Protocols-ICMP, ARP, RARP, BOOTP, DHCP, OSPF, BGP, Internet Multicasting, IPv4, IPv6. 
+
+ PART B 
+
+ Chapter 5 : Transport Layer 6 Hours 
+
+ The transport services: Services provided to the upper layers, Transport service primitives, Berkeley Sockets. Elements of transport protocols: Addressing, Connection Establishment, Connection release, Flow control and Buffering, Multiplexing, Crash Recovery. TCP: TCP Header, TCP Connection Establishing and Releasing, TCP transmission policy, TCP timer management. 
+
+ Chapter 6 : Transport Layer 6 Hours 
+
+ UDP header, Integrated services, Differentiated services, QOS, Virtual Private Networks(VPNs), Overlay Networks. 
+
+ Chapter 7 :Network Security 6 Hours 
+
+ Overview, General principles of network security algorithms, Private Key, Public Key, General concepts of RSA, DES, Triple DES, Diffie-Hellman Key Exchange. 
+
+ Chapter 8 :Application Layer 6 Hours 
+
+ Domain Name System :The DNS name space, Resource space, Resource records and Name servers,Electronic Mail: Architecture and Services, The User Agent, Message Formats, Message Transfer, Final Delivery,Multimedia: VOIP, Video on Demand, MBone(Multicast Backbone), Compression Techniques-MPEG-7, JPEG; HTTP, SNMP,MIB, SMTP. 
+
+ References : 1. A S Tanenbaum, Computer Networks, Fourth Edition, PHI, 2002. 
+ 2. W Stallings, Data and Computer Communications, Fifth Edition, PHI, 2012. 
+ 3. S Keshav, An Engineering Approach to Computer Networking, Addison-Wesely, 1997. 
+ 4. Stevens, UNIX Network Programming, PHI, 2001. 
+ 5. B A Forouzan and D M Mukhopadhyay, Cryptography and Network Security, Second Edition, McGraw Hill, 2004. 
+ 6. James F Kurose, Keith W Ross, Computer Networking: A Top-Down Approach, Edition, 2005. 

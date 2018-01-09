@@ -1,0 +1,35 @@
+
+
+ 
+
+ 2K11 CIL37 : DIGITAL SYSTEMS AND ELECTRONIC CIRCUITS LAB 
+
+ 1. Design and implementation of Half and full adders, half and full Subractor using NAND 
+
+ 2. Design and implementation of 4 to 1 multiplexer using NAND gates only. 
+
+ 3. Design Full adder and Full Subractor using multiplexer (74153) 
+
+ 4. Design Full adder and Full Subractor using 7483 and Basic gates. 
+
+ 5. Design and implementation of BCD to Excess-3 code converter using 7483 and Basic gates. 
+
+ 6. Design and implementation of synchronous counters (mod 5 and mod 8) using 7476. 
+
+ 7. Study of IC Counters 7490, 7493. Design of MOD-N counters using the same. 
+
+ 8. Design SISO, SIPO, PIPO, PISO modes of shift register using 7495 and FET characteristics in common source configuration. 
+
+ 9. BJT characteristics in common emitter configuration 
+
+ 10. R-C coupled amplifier, determination of Zin, Zout, frequency response and bandwidth. 
+
+ 11. Voltage shunt regulator using zener diode. 
+
+ 12. Inverter, Non-Inverter, Adder, Subtractor, Voltage Follower 
+
+ 13. RF Oscillators (i) Colpitt’s (ii) Hartley (iii) Wein B 
+
+ 14. Schmitt Trigger 
+
+ 15. Digital to Analog Converter using R-2R method.

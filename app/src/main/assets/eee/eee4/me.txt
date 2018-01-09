@@ -1,0 +1,24 @@
+Micro Electronics 
+
+PART-A 
+
+1. Linear Ics: 
+Introduction to Liner ICs, Operational Amplifiers, Ideal op-amp, Electrical characteristics, Op-amp ckts - Inverting and Non-inverting amplifiers, Voltage follower, summing and subtracting amplifier, Integrator, Differentiator, Comparators, Schmitt trigger, Instrumentation amplifier, Precision rectifier, Peak detector, Sample and hold ckt, Voltage to frequency converter, Square wave and pulse generator. Timer: 555 timer operation, 555 timer used as Astable and Mono-stable Multivibrators. 
+
+2. Digital Ics: 
+Introduction to SSI, MSI, LSI and VLSI. Review of Boolean algebra, SOP and POS expressions (minterms and maxterms), Canonical SOP and POS forms, Karnaugh Map, Tabular Method, VEM Technique, Logic families: TTL, CMOS, NMOS, PMOS, HMOS, IIL (I²L) and ECL logic families - Characteristics. 
+
+
+PART-B 
+
+3. Combinational Circuits: 
+Half adder, full adder, half subtractor, full subtractor, Parallel adders, Design of Ex-3 adder/subtractor, BCD adder, Carry Look Ahead adder, Digital comparators, Multiplexer: Design of combinational ckts using MUX, MUX TREE and its design. Demultiplexers: Design of combinational ckts, Encoders, Decoders and Priority Encoders, Code converters: Gray to Binary and Binary to Gray, BCD to Ex-3, Ex-3 to BCD, ASCII Code. Introduction to ALU. 
+
+4. Sequential Circuits: 
+Flip flops, RS, JK, Master slave JK, D and T FFs. Counters: Asynchronous and synchronous, Design of Ripple/Binary counter, Up-Down counter, Binary Up-down counter, Study of 7490, 7493, 74192, 74193 and their applications, Shift Registers: Study of 7495, Ring counter, Johnson counter, Sequence Generators, LED and LCD display. 
+
+5. Data Converters: 
+D/A Converters: Binary Weighted and R-2R Ladder Network, A/D Converter: Flash/Simultaneous type, Successive Approximation, Single slope and Dual slope, RAM/Stair Step, Accuracy Resolution and Errors in D/A and A/D converters. 
+
+6. Memories: 
+RAM, ROM, PROM, EPROM, PLA: Design of Digital circuits using PLA, PAL.

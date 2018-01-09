@@ -1,0 +1,17 @@
+Utilization Of Electric Power 
+
+PART A 
+
+1. Heating and Welding : Advantage and method of electric heating, resistance ovens, induction heating, dielectric heating, the arc furnace, electric welding, resistance and arc welding, control device and welding equipment. 
+
+2. Electrolytic process: Fundamental principles extraction refining of metals electroplating, Factors affecting electro deposition process. 
+
+3. Refrigeration and Air conditioning : C.O.P, Air refrigeration system, Simple vapour compression, Regrigeration system, Domestic refrigerator, Water coolers, Air conditioning systems, Load estimation, applications. 
+
+
+PARTB 
+
+4. Electric traction: Traction systems, power supply, A.C. locomotive, Diesel electric traction, overhead equipment, power factor and harmonics, Speed time curves, mechanism of train movement, Tractive effort for propulsion of trains, Specific energy consumption, control of traction motors DC, Induction motors using PWM strategies, inverter design, speed control strategies v/f control, vector control, field weakening control, Electric braking, Energy savings in Regenerative breaking. 
+
+5. Electric vehicles and systems : 
+Road load characteristics, city drive cycle, Power estimation, Torque estimation, Acceleration profiling, Auxiliary loads. Electric propulsion: Electric vehicles, hybrid electric vehicles, series hybrid, parallel hybrid, combination hybrid, energy management, power flow strategies, regenerative breaking, gear train, differential gear. Batteries for electric vehicles: Power density, energy density, choice of batteries, DOD for EV batteries, Alternate energy storage mechanism (fuel cells).

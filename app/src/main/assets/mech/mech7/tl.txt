@@ -1,0 +1,47 @@
+2K11 ME 703 THEORY OF ELASTICITY 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT I 
+
+1. Introduction to Mathematical theory of elasticity, definition of continuum, stress and strain at a. point, constitutive laws, Generalised Hooke’s Law, Strain- displacement relations. 8 
+
+2. Differential equations of equilibrium, boundary conditions, compatibility equations, Airy’s stress function, problems, Stress polynomials, St. Venant’s principle. 8 
+
+3. Plane stress and plane strain, Principal stresses and strains, measurement of surface strains, strain rosettes, Mohr’s circle of stress and strain, analytical method. 6 
+
+4. Two-dimensional problems in rectangular coordinates, bending of a cantilever beam subjected to end load, effect of shear deformation in beams, Simply supported beam subjected to UDL. 10 
+
+UNIT II 
+
+5. Two-dimensional problems in polar coordinates, strain-displacement relations, equations of equilibrium, compatibility equation, stress function. 8 
+
+6. Stress distribution symmetrical about an axis, Rotating discs, Lame’s problem-thick cylinder. 6 
+
+7. Effect of circular holes an stress distribution in plates subjected to tension, compression and shear. Stress concentration factor, Bending of a curved bar by a force at the end. 7 
+
+8. Torsion: Inverse and Semi-inverse methods, stress function, torsion of circular and elliptical sections.7 
+
+REFERENCE BOOKS: 
+
+1. Contiuum Mechanics Fundamentals - Valliappan C: Oxford and IBH Publishing Co. Ltd, NewDelhi 
+
+2. Advanced Mechanics of Solids- Srinath L.S. Tata McGraw Hill Publications Co. Ltd., NewDelhi. 
+
+3. Structural Mechanics with Introduction to Elastity and Plasticity- Venkataraman and Patel: McGraw Hill Book Inc., New York. 
+
+4. Mechanics of Solids- Arbind Kumar Singh : Prentice hall of India Pvt. Ltd. New Delhi -2007. 
+
+5. “Theory of Elasticity” - International Students- Timoshenko. S.P. and Goodier. J.N. - Edition, McGraw Hill Book Co. Inc., New Delhi. 
+
+6. Applied Elasticity- Wang. P.C. 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit.

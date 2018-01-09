@@ -1,0 +1,33 @@
+2K11 ME 606: CAD LABORATORY –II 
+
+Class: 3 Hrs / week Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+I. Programs on 1. Functions 
+
+ 2. Classes and objects
+
+ 3. Inheritance
+
+ 4. Operator Overloading
+
+ 5. Stacks
+
+ 6. Queues
+
+ 7. Linked Lists
+
+ II. Exercises using Mathlab Package.
+
+ 
+
+Scheme of Examination
+
+ 
+
+1.Exercises using Programming 40 Marks 
+
+2.Exercises using Mathlab 40 Marks 
+
+3.Viva-voce 20 Marks

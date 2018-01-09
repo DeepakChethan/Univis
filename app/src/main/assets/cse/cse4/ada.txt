@@ -1,0 +1,71 @@
+2K11 CI44 : DESIGN AND ANALYSIS OF ALGORITHM 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART –A 
+
+ Unit 1. Introduction: 
+
+ The notations of Algorithms, Fundamentals of algorithmic problem solving, Important Problem types, A review of fundamental data structures. 
+
+ Unit 2. Fundamentals of the Analysis of Algorithm efficiency: 
+
+ The Analysis Framework, Asymptotic Notations and Basic Efficiency Classes, 
+
+ Mathematical Analysis of Non-recursive algorithms. Mathematical Analysis of recursive algorithms. An example: the Fibonacci Numbers. Emperical Analysis of Algorithms. Algorithm Visualisation. 
+
+ Unit 3. Brute-Force: 
+
+ Selection sort and Bubble sort. Sequential search and Brute String matching. Closest Pair and Convex-Hull problems by Brute Force. Exhaustive search. 
+
+ Unit 4. Divide and Conquer: 
+
+ Merge sort, Quick Sort, Binary Search, Binary tree traversals and related properties. Multiplication of 
+
+ Large Integers and Strassen?svideandconquerMatrixalgorithm formultiplicatclosest-pair and convex-hull problems. 
+
+ Unit 5. Decrease and Conquer: 
+
+ Insertion Sort, Depth-First Search and Breadth-First Search. Topological sorting. Algorithms for Generating Combinatorial objects. Decrease-by-a constant factor Algorithm. Variable-size-Decrease algorithms. 
+
+ PART –B 
+
+ Unit 6. Transform and Conquer: 
+
+ Presorting and its applications. Gaussian Elimination. Balanced search trees. Heap and Heapsort. 
+
+ Horner?s and Binary Exponentiation. Problem Reduc 
+
+ Unit 7. Space and Time Tradeoff in algorithms: 
+
+ Sorting by distribution counting-MooreAlgorithms. forHorspool?sStringMatching. an Hashing. B-Trees. 
+
+ Unit 8. Dynamic Programming: 
+
+ Computing a Binomial Coefficient. Warshall?sinarySearchtrees. and The Knapsack Problem and memory functions. 
+
+ Unit 9. Greedy Approach: 
+
+ Prim?s algorithm, Kruskal?s Algorithm, Dijkstra?s 
+
+ Unit 10. Limitations of Algorithm Power: 
+
+ Lower-Bound Arguments. Decision Trees. P, NP and NP-Complete Problems. Challenges of Numerical Algorithms. 
+
+ Unit 11. Coping with the Limitations of Algorithm Power 
+
+ Backtracking, Branch-and-Bound, Approximation Algorithms for NP-Hard Problems, Algorithms for solving Non-linear Equations 
+
+ References: 
+
+ 1. Anany Levetin, Introduction to the Design and Analysis of Algorithms, Pearson Education 2003 
+
+ 2. Thomas H Cornen, Leiserson C E, Rivest R L, Introduction to Algorithms, MIT Press 1990 
+
+ 3. Aho AV, Hopcroft JE, The Design and Analysis of Computer Algorithms, Addison-Wesley 1974 
+
+ 4. Horowitz and Smith, Fundamentals of Computer Algorithms, Galgotia Publications 1978

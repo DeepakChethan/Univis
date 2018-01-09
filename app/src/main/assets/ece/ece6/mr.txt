@@ -1,0 +1,33 @@
+Microwave and Radar 
+
+PART-A 
+
+1. Introduction: 
+Frequencies and application, High frequency, limitation of conventional tubes (qualitative only), Klystron amplifier (two cavity), reflex klystron oscillator power output, efficiency, TWT, BWO, cavity magnetron-construction, principle of operation, performance characteristics and application. 
+
+2. Solid state microwave devices: 
+(Qualitative discussion only) tunnel, PIN, varactor, Schottky barrier, read, Gunn, TRAPATT, IMPATT, Barritt construction and operation, Parametric amplifier using Varactor, Manley-Rowe relations MOSFET, HEMT, Oscillator using tunnel and Gunn diodes, PIN switch and modulator. 
+
+3. Microwave passive components: 
+S-plane-plane, magic Tee and directional couplers, Construction, operation, scattering matrix representation, Capacitive, inductive and E-Bends, Transitions and Twists in wave, posts, Tuning screws, coupling probes and loops, slotted line, Attenuators-fixed and movable vane and rotor phase shifter. 
+
+4. Antenna Basics: 
+Basic antenna parameters, Patterns, beam array radiation intensity, Beam efficiency. Directivity and Gain, Antenna aperture effective height, Radio communication link, fields, oscillating dipole, Antenna field zones, shape-impedances considerations. 
+
+
+PART-B 
+
+5. Point source and Antenna arrays: 
+Introduction, Power pattern theory and application, Radiation intensity, power patterns, patterns, phase patterns of two isotropic point sources, Non-isotropic similar point sources, pattern multiplication, pattern synthesis, Non-isotropic dissimilar point sources, array of n-isotropic sources of equal amplitude a spacing , null directions, array of two driven elements (broadside cast end-fire case and general case with equal currents phase) 
+
+6. Loop antenna, helical antenna and Yagi-Uda array: 
+Loop antenna (general case), Field comparison of short dipole and small loop, Field pattern, radiation resistance, directivity, radiation efficiency, Q, bandwidth and SNR. Helical antenna, Helical geometry, Design considerations of monofilar axial-mode helical antenna, dipole arrays with parasitic elements, the Yagi-Uda array, Axial-Mode pattern and phase velocity of propagation on monofilar Helices, Axial mode patterns, Axial and conditions for circular polarization of monofilar axial mode helical antenna and band characteristics of Monofilar axial-Mode helical antenna. 
+
+7. Introduction to Radar and Radar range equation: 
+Radar block diagram, Radar frequencies, application of radar, Derivation, prediction, minimum detectable signal, receiver noise, radar cross- section of target, range ambiguities, CW and frequency modulated radar: Doppler effect, CW radar, FM-CW radar, airborne Doppler navigation, multiple frequency CW radar. 
+
+8. MTI and Pulse Doppler radar: 
+Block diagram, multiple or staggered pulse repetition frequencies, pulse Doppler radar, Tracking radar: Tracking with radar, Sequential lobbing, conical scan, monopulse tracking radar, tracking in range, acquisition. 
+
+9. Radar transmitters and receivers: 
+Block diagram description, duplexers, noise figure, low noise font end, mixers, displays- PPI and A-scope, Randomes.

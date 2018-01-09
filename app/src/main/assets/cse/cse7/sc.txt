@@ -1,0 +1,38 @@
+
+ 
+ 2K11CI72:SOFT COMPUTING 
+ Note: 
+ FOUR questions from PARTA and FOUR questionsfromPARTBtobeset. Students should answerFIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question maybe set. 
+ HoursperWeek:4 ExaminationMarks:100 SessionalMarks:25 
+ PART A 
+ 
+ Chapter 1: Introduction 6 Hours 
+Neural Networks, Fuzzy Logic, Genetic Algorithms, Hybrid Systems. 
+
+Chapter 2: Artificial Neural Networks 6 Hours 
+ Fundamental Concepts, Basic Models of Artificial Neural Networks, Important Terminologies of ANN, McCulloch Pitts Neuron, Linear Separability, Hebb Network. 
+
+ Chapter 3: Supervised Learning Network 6 Hours 
+ Perceptron Networks, Adaline, Multiple Adaptive Linear Neurons, Back Propagation Network, RBFs. 
+
+ Chapter 4: Unsupervised Learning Networks 6 Hours 
+ Kohonen Self Organizing Feature Maps, Learning Vector Quantization, Counterpropagation Networks, ART. 
+ PART B 
+ 
+ Chapter 5: Fuzzy Sets and Fuzzy Relations 6 Hours 
+ Crisp Setsvs Fuzzy Sets, Operations and Properties, Classical Relation vs Fuzzy Relations, Tolerance and Equivalence Relations. 
+ 
+ Chapter 6: Membership Functions, Fuzzy Arithmetic and Fuzzy Rules 6 Hours 
+ Features of the Membership Functions, Fuzzification, Methods of Membership Value Assignments, Defuzzyfication, Fuzzy Arithmetic, Fuzzy Measures, Truth Values and Tables in Fuzzy Logic. 
+ 
+ Chapter 7: Genetic Algorithms 6 Hours 
+ Introduction, Basic Operators and Terminologies in GAs, Simple GA, The Schema Theorem, Classification of GAs. 
+ 
+ Chapter 8: Applications of Softcomputing 6 Hours 
+ Applications, Image Processing, Optimization, Search Engines, Real Time Applications. 
+ 
+ References : 
+ 1. S N Sivanandam, S N Deepa, Principles of Soft Computing, Wiley India Edition. 
+ 2. Vojislav Kecmann, Learning and Soft Computing, Pearson Education
+ 3. David E Goldberg, Genetic Algorithms in search, optimization and machine learning,1989
+ 4. Andrea Tettamanzi,MarcoTomassini and J JanBen, Soft Computing, Springer, 2001

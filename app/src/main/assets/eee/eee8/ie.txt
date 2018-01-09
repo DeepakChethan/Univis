@@ -1,0 +1,30 @@
+UVCE Syllabus
+Illumination Engineering 
+
+PART A 
+
+1. Light and Vision: Electromagnetic spectrum, visible spectrum, Photopic, Scotopic and Mesopic Visions – Visual functions, Accommodation, Adaptation and Convergence. 
+
+2. Propagation of light: 
+Light propagation, Reflection, Specular, diffuse, spread, compound, scattered and selective reflections, Absorption, Transmission, Refraction, Polarization. 
+
+3. Photometric quantities andUnits: 
+Basic quantities – Laws of illumination from point law, surface, photometry, spectrometry and photocells - Inter relation between the various photometric quantities, Luminous efficacy, Spectral eye sensitivity curve, Light watt, Brightness, Luminous exitance, Radiometric quantities and units, Point by point method of illuminance Calculations – Horizontal and Vertical illuminance calculations. 
+
+4. Artificial light sources: 
+Construction – principle of operation - Luminous efficiency, Lamp life and Colour characteristics of incandescent, Tungsten halogen, fluorescent, High pressure mercury vapour, High pressure sodium vapour and metal halide lamps, CFL lamps – Electro luminescence and LED-LCD Displays. 
+
+
+PART B 
+
+5. Luminaire: 
+Definition – optical characteristics of light control elements – classification, Symmetrical and asymmetrical , diffuse and focussed and C.I.E. classification - Applications of various light control elements (Reflectors, Refractors, diffusers and screening devices), Luminous intensity distribution measurements using GONIO photometer, L.I.D. diagrams in rectangular and polar co-ordinates. 
+
+6. Artificial illumination design techniques: 
+Utilization factor – Maintenance factor – Light output ratio – D.L.O.R and U.L.O.R - L.D.L of various lamps – Glare – Direct and Indirect types - Designing for average uniform illumination – Room index – space to mounting height ratio – Lumen method of calculations – Numerical examples – IES glare index computation method – simple examples using ceiling mounted luminaires (Calculation of initial glare index only) – Evaluation of total luminous flux output from photometric test data. 
+
+7. Flood lighting of buildings: 
+design aspects – Location of the equipment – Flood lighting of monuments and sports grounds – Numerical examples. Flood light calculation. 
+
+8. Road lighting: 
+Road lighting criteria – Luminance and Luminance ratio – Overall and Longitudinal uniformity ratio – Zebra effect – Convectional lighting schemes – Factors affecting cost and quality of road lighting – Lighting of curves. Energy conservation measures in illumination systems – Introduction to optical fibers and Lasers.

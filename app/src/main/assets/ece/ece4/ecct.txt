@@ -1,0 +1,24 @@
+Electronics Components and cmos Technology 
+
+PART A 
+
+1. Passive Devices And Fabrication: 
+Resistors and capacitor color codes, Specifications, Types of resistors and their fabrications, types of capacitors and their fabrications, Inductors -their specifications and types. 
+
+2. Integrated Circuits And Fabrication Techniques: 
+Definition, Classification of ICs, Fabrication of monolithic IC, Fabrication of thin film ICs using MBE,VPE, LPE techniques, Sputtering deposition and CVD techniques. 
+
+3. Assembly Techniques and Packaging Ic’s: 
+Introduction, Packing types, Packing design considerations, Packing fabrication technologies. 
+
+
+PART B 
+
+4. Fundamentals of MOS transistors: 
+The MOS structure, MOS system under external bias. Structure and operation of MOS transistor (MOSFET), MOSFET current-voltage characteristics, types-comparison with BJTs 
+
+5. Fabrication of NMOS and CMOS, and modeling: 
+Basic MOS semiconductor fabrication process, CMOS n-well process. Modeling: Basic concepts, Simple MOS Large-Signal Model (SPICE LEVEL 1), MOS large-Signal model parameters, Small signal Model for the MOS transistor, Computer simulation models. 
+
+6. MOS: 
+MOS inverters, Static characteristics: Introduction, resistive load inverter, N-type MOSFET load, CMOS inverter, switching characteristics and Interconnect effects. Delay time definitions, calculations, Inverter design with delay constraints. Estimation of interconnect delay, switching power dissipation Combinational MOS logic circuits: MOS logic circuits with depletion NMOS loads, CMOS logic circuits, Complex logic circuits, CMOS transmission Gates (Pass Gates). Sequential MOS logic circuits: Behavior of bistable elements, SR latch circuit, Clocked Latch and Flip flop circuits Amplifiers: Differential amplifiers, cascade amplifiers, Current amplifiers and output amplifiers. Op-Amps: Design of CMOS OpAmps, compensation of Op-Amps, design of 2 stage Op-Amps.

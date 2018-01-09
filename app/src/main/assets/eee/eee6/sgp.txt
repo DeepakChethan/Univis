@@ -1,0 +1,36 @@
+Switch Gear and Protection 
+
+PART A 
+
+1. Representation of Power System : 
+Single line diagram of Generating Station, Substation and Distribution System. 
+
+2. Switches: 
+Isolating switches, Load break switches, Earthing switches. HRC fuses and their applications. 
+
+3. Theory of Circuit interruption: 
+Introduction. Physics of arc phenomenon. Essential properties of the arc. Maintenance of the arc. Arc interruption theories. 
+
+4. Circuit Breakers: 
+DC Circuit breaking, AC circuit breaking. Methods of arc extinction. Restriking voltage, rate of rise of restriking voltage. Resistance switching, current chopping, capacitive and inductive current breaking. Principle’s of arc quenching. Arc controlled devices. Requirement of an ideal circuit breaker. Rating of circuit breakers. Types of circuit breakers, plain break, self generated pressure oil circuit breakers. Externally generated pressure oil circuit breakers. Air circuit breakers - low voltage air break type, arc chutes, axial blast and cross blast air circuit breakers. Advantages and disadvantages OCB and ACB, SF6 circuit breakers. Vacuum circuit breakers, HVDC Breakers. Testing of circuit breakers. 
+
+5. Switchgear: 
+HT, LT, indoor, outdoor cubicle drawout, metal clad, SF6 switchgear. 
+
+
+PART B 
+
+6. Protective Relays: 
+Purpose of protective relaying. Requirement of relays, sensitivity, selectivity, reliability and speed of operation. Glossary of terms used in protective relaying like pick-up level, reset level, zone of protection - over reach and under reach. Classification of relays. universal relay-torque equation. 
+
+7. Electromagnetic Relays: 
+Operating principles of attracted armature, solenoid and induction type relays, over current relays, Directional over current relays. Differential relays. Distance relays. Negative sequence relays. 
+
+8. Protection of apparatus: 
+Introduction. Transformer protection. Generator protection. Motor protection and Bus-zone protection. 
+
+9. Feeder Protection: 
+Introduction – over current protection. Determination of TMS and PSM setting. Protection of radial feeders. Parallel feeders and ring main. Distance protection. Pilot protection. Carrier current protection. 
+
+10. Solid State Relays : 
+Advantages. Application of semiconductor devices to power system protection. Comparators. Level detectors. Logic circuit for fault detection and protection. Static over current relays. IDMT relays. Distance relays. Two input and multi input relays. Relay with quadrilateral and elliptic characteristics. Microprocessor based Relays. Computer Based integrated protection system.

@@ -1,0 +1,31 @@
+
+ 
+ 2K11SC1101 ENGINEERING CHEMISTRY 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 1. Solid State Chemistry/ Metallic Solids
+ Bonding in solids: Ionic, covalent, metallic and molecular solids. Band Theory of solids: Molecular orbital theory, linear combination of atomic orbitals, bonding and anti –bonding orbitals with H and He as examples, extension of band theory to metals, semiconductors and insulators. Semiconductors: Intrinsic and extrinsic –p and n –types, stoichiometric semiconducting compounds, numerical problems. 8 hrs. 
+ 2. METAL FINISHING
+ Polarisation, decomposition potential and overvoltage, Technological importance of metal finishing.Effect of plating variables on electrodeposits.Electroplating techniques –methods of electroplating, surface preparation, plating of Cr. Electroless plating of copper for PCB.7 hrs. 
+ 3. Battery technology: Battery-their importance, classification. Cell characteristic, cell reactions and performance of primary batteries-Zn-MnO2, Secondary batteries –working principle, cell reactions and performance of Pb-acid battery, Ni-Cd battery, Modern batteries –Zn –air battery, Li-MnO2 battery. Fuel cells –definition, classification, advantages and limitations. Construction and cell reactions of H2-O2 fuel cell and methanol –oxygen fuel cell. 7 hrs. 
+ 4. Corrosion Engineering: Metallic corrosion-definition, electrochemical theory of corrosion, Forms of corrosion-differential metal corrosion, differential aeration corrosion –pitting corrosion, waterline corrosion, stress corrosion. Factors affecting the rate of corrosion. Corrosion control –surface coatings, inorganic coatings- phosphating, anodizing, organic coatings –paints and enamels. Metal coatings –anodic metal coatings –galvanizing.Cathodic metal coatings –tinning.Corrosion inhibitors.Cathodic and anodic protection.7 hrs. 
+ 5. High Polymers: Definitions –Natural and synthetic polymers, mechanism of addition polymerization (free radical mechanism), degree of polymerization, glass transition temperature. Addition and condensation polymers. Resins and plastics : Differences between resins and plastics, thermoplastics and thermosetting plastics –manufacture, properties and applications of HDPE and LDPE, polystyrene, phenol - formaldehyde, Teflon, polymethylmethacrylates, polyurethanes and polycarbonates. Elastomers: Deficiencies of natural rubber, vulcanizations, advantages of synthetic rubber. Manufacture and uses of Neoprene and Buna-S. Adhesives: Manufacture and applications of epoxy resins. 8 hrs. 
+ 6. Conducting Polymers and fullerenes: Conducting Polymers: Definition, examples –PA, PPP, PPY and others, differences between conducting polymers and conventional conductors, doping –oxidation reductive, protonic acid doping, mechanism of conduction –formation of soliton, polaron and bipolar mechanisms. Fullerenes: Structure of C60, preparation, reactions; Friedal Crafts reaction, addition halogenations. 8 hrs. 
+ 7. GREEN CHEMISTRY: Introduction, Principles, Atom economy : Concept, AE in oxidation of benzene and butane, synthesis of aldrin by Diels –Alder reaction; Waste : Production and Prevention, E-factor, synthesis of ibuprofen; Water as a reaction solvent : Concept and Synthesis of indole, reduction reactions; Microwave Irradiation in Organic synthesis : concept, advantages, synthesis of esters, oxidation reactions, amination of ketones; Ionic liquids : examples, concept, synthesis of 2 –phenylacrylic acid; Biocatalysis : concept, advantages, synthesis of 6 - aminopenicillanic acid; Synthesis of vitamin C. 8 hrs. 
+ 8. Nonomaterials: Introduction and definition of nanoparticles and nanomaterials, electronic structure, electronic band theory. Preparation of nanoscale materials: Precipitation, mechanical milling, chemical vapor deposition and sputtering. Fullerene: Nature of carobn bond, Discovery of C60, Synthesis of C60, Structure of C60, Alkali doped. 7 hrs. 
+ 
+ Question paper pattern: 
+ It shall consists of 14 questions of 10 marks each (with sub divisions A and B with 6 and 4 marks) out of which 10 questions have to be answered (5 questions from each PART). While setting the question paper, 7 questions in PART-A and 7 questions in PART B have to be set. For PART A, questions should be drawn from the chapters 1-4 (Electronic structure of solids, metal finishing, Battery technology and corrosion Engineering) and for PART B, questions should be drawn from the Chapters 5-8 (High polymers, conducting polymers and fullerenes, Green Chemistry and Nanomaterials) 
+ 
+ 
+ Reference Books: 
+ 1. Solid State Chemistry and its applications by A. R West, John Wiley , 1987 
+ 2. Engineering Chemistry by P C Jain and Monica Jain, Dhanpatrai Publishing Co. Ltd. 
+ 3. Chemistry in Engineering and Technology Vol. 1 and Vol. 2 by J. C Kuriacose and J. Rajaram, Tata McGraw-Hill Publishing Company Ltd. 
+ 4. Chemistry of Advanced Materials by C.N. R. Rao, Blackwell Scientific Publications. 
+ 5. Solid State Chemistry Compounds by A. K. Cheethan and P. Day, Clarendon Press, Oxford, 1992. 
+ 6. An introduction to electrochemistry by Glasstone, East-West Press Pvt. Ltd, 1985. 
+ 7. Chemical and Electrochemical Energy Systems by R. Narayan and B. Viswanathan, University Press, 1998. 
+ 8. Text book of Polymer science by F. W. Billmeyer, Jr., John Wiley and Sons, 1994. 
+ 9. Engineering Chemistry by R. Gopalan, D. Venkappayya and Nagarajan, Vikas Publishing House Pvt. Ltd, 1999. 
+ 10. Green Chemistry: An Introductory Text by Mike Lancaster, Royal Society of Chemistry, 2002. 
+ 11. Green Chemistry Environment Friendly Alternatives by RashmiSanghi and M. M. Srivastava, Narosa Publishing House, 2003. 

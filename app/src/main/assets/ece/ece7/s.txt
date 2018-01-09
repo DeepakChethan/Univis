@@ -1,0 +1,23 @@
+SATCOM 
+
+PART- A 
+
+Introduction to satellite communication 
+
+Space craft, Space craft sub systems, Altitude and orbit control systems, Telemetry, tracking and command, power systems, communication sub systems, description of communication systems, transponders, Space craft antennas Equipment reliability and space qualification. 
+
+Multiple access systems. FDMA, FDM/FM/ TDMA, CDMA, spread spectrum transmission and reception. Applicability of CDMA to commercial systems, demand access in the INTELSAT, TDMA system, SPAADE, the INMARSAT system 
+
+Earth station, Satellite television networks. 
+
+
+PART- B 
+
+Introduction to remote sensing. Acquisition of multi spectral images from space borne platforms, visual range IR bands. Types of sensors. Data from ERS and other satellites. Data resolution, bandwidth requirement for various themes. Data formats. 
+
+Processing of Data. Rectification and classification, edge extraction, spatial and wave number domain filtering, estimation of Band ratio, principal component analysis. Normalized difference Vegetation index. Histogram equalization, density slicing, linear feature extraction. Thematic application: application of remote sensing in the field of ground water exploration, identification of surface feature, drainage pattern and catchment delineation, identification of structural patterns and Thermal spots from IR Bands. Delineation of coastal features, study of ocean waves from ERS data. 
+
+REFERENCES 
+1>T.Pratt (2nd Edn, John Wiley 2002) 
+2>T.T.Ha. Dig sat com, Colher Macmillan (1986) 
+3>Richard John (Remote Sensing Digital Image Analysis: An Introduction, 4rth Edn Springer, 2008)

@@ -1,0 +1,26 @@
+Power Electronics 
+
+PART A 
+
+1. Power Semiconductor Devices: 
+Diodes, SCR, GTO, Triac, BJT, MOSFET, IGBT - their junction structure, ideal and practical Switching characteristics, Switching characteristics, Rating and applications, firing and communication circuits of SCR, RL and RC snubber circuits. 
+
+2. Gate drive circuits: 
+Drive circuits for BJT, MOSFET and IGBT. 
+
+3. Controlled Rectifiers: 
+Single phase and three phase, half and fully controlled bridge rectifier with R,L and DC motor loads, condition for continuous conduction mode (CCM), and discontinuous conduction mode (DCM), input current waveform and Harmonic analysis of CCM, Effect of source inductance, Single phase AC voltage controller – Principle of operation with resistive load only. 
+
+
+PART B 
+
+4. Choppers: 
+Principle, step down, step up, one quadrant and multi quidrant chopper, chopper fed DC motor drive. 
+
+5. DC –DC Converter: 
+Buck, Boost, Buck0-Boost regulators, loss calculations an heat sink design for buck converter only. 
+
+6. Inverters: 
+1φ and 3φ VSI, Bridge, Current source Inverters, Square wave operation, Sine-triangle PWM, Selective Harmonic elimination. 
+
+7. Applications: UPS.

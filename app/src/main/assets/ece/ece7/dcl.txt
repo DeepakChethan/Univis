@@ -1,0 +1,25 @@
+DIGITAL COMMUNICATION LAB 
+
+1. Generation of PWM and PPM 
+
+2. Generation pf PCM 
+
+3. Delta modulator and ADM 
+
+4. ASK generation and detection 
+
+5. PSK generation and detection 
+
+6. FSK generation and detection 
+
+7. BPSK generation and detection 
+
+8. Frequency synthesis by PLL 
+
+9. Generation and decoding of hamming code 
+
+10. Experiment on TDM 
+
+11. Study of Modems 
+
+12. Study on matched filters

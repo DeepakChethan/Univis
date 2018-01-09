@@ -1,0 +1,42 @@
+2K11CE506 EARTH AND EARTH RETAINING STRUCTURES 
+
+Hours / Week: 4 Exam: 3 Hours 
+
+Total: 60 hours Class Marks: 25 
+
+Max Marks: 100 
+
+PART –A 
+
+1. Geostatic stresses Total, neutral and effective stresses in homogeneous soils, Stress diagrams, Stresses effected by Capillary water and direction of flow of water. Numerical problems 6 Hrs. 
+
+2. Shear strength of soils Introduction, Concept of Stress, Principal str Basic concept of shearing resistance,-Coulomb’stheorycoulomb’s.DeterMo parameters, Direct shear, triaxial compression, unconfined compression and vane shear test. Stress controlled and strain controlled tests, classification of shear tests based on drainage conditions, Stress-strain relationship of clays and sands, concept of critical void ratio, Determination and uses of Skempton’s p Numerical problems. 16 Hrs. 
+
+PART - B 
+
+1. Earth pressure Introduction, Active and passive earth pressure of active and passive earth pressure, coefficient of earth pressure at rest, earth pressure distribution, total earth pressure and its point of application, Determination of tension cracks and critical height for unsupported excavation, effect of water table on earth pressure, Coulombs theory of graphical methods for determination of active and passive earth pressures. Earth pressure calculations for line load and / or uniform strip load acting on the ground surface. 16 Hrs. 
+
+PART - C 
+
+1 Stability of slopes Introduction, Factor of safety, slope failure, toe and base failure of finite slopes, Analysis of stability of slopes Bymethod of slices, Taylor’s stability number, Ef12 Hrs. 
+
+2.Seepage Analysis Laplace’s equation for two dimensional flow of nets, Phreatic line, Graphical and analytical procedures for determination of quantity of seepage, prevailing hydraulic head and exit gradient in homogeneous earth dam, uplift pressure. Sketching of flow nets for typical hydraulic structures –Weirs, Dams, Sheet pile walls. 10 Hrs. 
+
+Question paper pattern:
+
+ 
+
+Eight Questions should be set, three from Part –A, two each from Part –B and part C, and one compulsory question covering all the three parts A, B and C. Students should answer the compulsory question and any other four questions selecting at least one from each part. All the main questions carry 20 marks each. 
+
+Reference Books: 1. Foundation analysis and design by J.E. Bowles, McGraw Hill, New York, 1997. 
+
+ 2. Soil Mechanics in Engineering Practice by Karl Terzaghi and R.B. Peck, John Wiley and Sons, New York, 1967. 
+
+ 3. Soil Mechanics and Foundation Engineering by B.C. Punmia, Laxmi Publications Pvt. Ltd. New Delhi, 2000. 
+
+ 4. Soil Mechanics and Foundation Engineering by S.K. Garg, Khanna Publications, 1998. 
+
+ 5. Geotechnical Engineering by C. Venkataramaiah, New age International Publishers, 1995 
+
+ 6. Analysis and Design of Foundations and Retaining structures by S. Prakash, SaritaPrakashana, Meerut, 1979. 
+

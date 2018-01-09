@@ -1,0 +1,57 @@
+2K11 CIL 47: MICROPROCESSOR LAB 
+
+ PART - A 
+
+ 1) Write an 8086 program to Search-bit numbersakeyusing elementthe Binary Search Algorithm. 
+
+ 2) Write an 8086 program to Sort a given set of n numbers in ascending order using Bubble Sort algorithm. 
+
+ 3) Write an 8086 program to find the GCD of Two 16 bit Numbers. 
+
+ 4) Write an 8086 program to Reverse a given string and check whether it is a palindrome or not. 
+
+ 5) Read two strings, store them in locations STR1 and STR2.Check whether they are equal or notand display appropriated messages. Also display the length of the stored strings. 
+
+ 6) Read your name from the keyboard and display it at a specified location on the screen after the messWhatge is“ your mustname?”cleartheentire screen before display. 
+
+ 7) Write a program to computenCr using recursive procedure.- Assu negative integers. 
+
+ 8) Read the current time from the system and display it in the standard format on the screen. 
+
+ 9) Write a Program to simulate a Decimal Up-counter to display 00-99. 
+
+ 10) Write a Program to Generate the first „N? Fibo 
+
+ 11) Read a pair of input co-ordinates in BCD and move the cursor to the specified location on the screen 
+
+ 12) Write a Program to create a file (input file) and to delete an existing file. 
+
+ PART –B 
+
+ 1) Read the status of eight input bits from the Logic controller Interface and display FFif it is even parity bits otherwise display 00, Also di 
+
+ 2) Perform the BCD Up-down counter using the Logic Controller Interface. 
+
+ 3) Read the status of two 8 bit inputs(X and Y) from the Logic controller Interface and display X*Y. 
+
+ 4) Display the messages FIRE and HELP alternately with flickering effects on a 7-Segmentdisplayinterface for a suitable period of time. Ensure a flashing rate that makes it easy to readboth the messages. 
+
+ 5) Assume any suitable messages of 12 characters length and display it in the rolling fashion on a7-segment display interface for a suitable period of time. Ensure a flashing rate that makes it easy to read the messages. 
+
+ 6) Convert a 16- bit binary value (assumed to be an unsigned integer) to BCD and display it from left to right and right to left for specified number of times on a 7 –segment display interface. 
+
+ 7) Scan a 4X4 keypad for key closure and to store the code of the key pressed in a memory location or display on screen. Also display row and column numbers of the key pressed. 
+
+ 8) Drive a Stepper Motor interface to rotate the motor in specified direction (clockwise or counter-clockwise) by N steps(Direction and N are specified by the examiner). Introduce suitable delay between successive steps (Any arbitrary value for the delay may be assumed by the student). 
+
+ 9) Generate a Sine Wave using the DAC interface (The output of the DAC is to be displayed on a CRO). 
+
+ 10) Generate a Half Rectified Sine Wave form using the DAC interface (The output of the DACis to be displayed on a CRO). 
+
+ 11) Generate a Fully Rectified Sine Wave form using the DAC interface (The output of the DAC is to be displayed on a CRO). 
+
+ 12) Drive an Elevator Interface in the following way. 
+ a. Initially the elevator should be in the ground floor, with all requests in OFF state. 
+ b. When a request is made from a floor, the elevator should move to that floor, wait there forcouples of seconds, and then come down to ground floor and stop. If some requests occur during going up or coming down they should be ignored. 
+
+ NOTE: The student has to write and execute one program from each part of the practical examination.

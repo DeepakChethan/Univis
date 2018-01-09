@@ -1,0 +1,42 @@
+2K11CE801 FUNDAMENTALS OF EARTHQUAKE ENGINEERING 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1.Characteristics of free vibrations of elementary systems: Free undamped vibration, motion equation and solution, initial conditions phase angle and natural frequency, periodic and harmonic motion. Free damped vibration, motion equation and viscous damping. Critical damping, over damping and under damping, logarithmic decrement. Numerical examples.(14 Hrs.) 
+
+2.Characteristics of forced vibrations of elementary systems: Forced undamped vibration, harmonic forces, steady- state vibration and resonance, impulses and shock spectra, general loading, step forcing function method Vs integralDuhamel’s.Forceddamped vibration, Harmonic forces, steady - state vibration for damped vibration, resonant and peak amplitude. Magnification factor, transmissibility and response to foundation motion. Numerical examples.(14 Hrs.) 
+
+3. Earthquakes and their effects: Causes of earthquakes, effects of earthquakes on structures. Seismic waves, measurements of earthquakes, earthquake characteristics, intensity, magnitude and amplitude parameters of earthquakes. Characteristics of strong earthquake ground motions. Numerical examples. (12 Hrs.) 
+
+4. Earthquake response spectra for analysis and design: Response Spectra, Pseudo –spectra, spectra and principal components Housner average design spectra, site dependent spectra. (8 Hrs.) 
+
+5. Earthquake forces: Background of lateral force procedures in building codes, effective earthquake force and effective mass. Base shear and overturning moment, criteria for appropriate lateral force procedure, vertical distribution of lateral force, provisions of IS: 1893 (Part-1) - 2002 and IS: 13920 –1993 for buildings.(12 Hrs.) 
+
+Question Paper Pattern: 
+
+Students have to answer any five of the eight main questions, carrying 20 marks each. 
+
+Reference Books: 1. Franklin Y Cheng, Matrix analysis of structural dynamics, applications earthquake engineering, Marcel Dekker Inc., New York , 2001
+
+ 2. Mario Paz, Structural dynamics, (2nd Edition) CBS Publication, 1987
+
+ 3. David Key, Earthquake design practice for building, Thomas Telford, London, 1988
+
+ 4. Anil K Chopra, Dynamics of structures, (2nd Edition), Pearson education, 2001
+
+ 5. Ray W Clough and Joseph penzien, Dynamics of structures, International Students ed 1985
+
+ 6. S.K.Duggal, Earthquake Resistant Design of Structures, Oxford University Press, ed 2009
+
+ 7. Pankaj Agarwal and manish Shrikhande, Earthquake Resistant Design of Structures, PHI Learning Private Ltd., New Delhi.
+
+ 8. Steven L. Kramer, Geotechnical Earthquake Engineering, Pearson education, 2004.
+

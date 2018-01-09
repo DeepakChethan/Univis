@@ -1,0 +1,24 @@
+
+ 2K11CE1201 STRENGTH OF MATERIALS 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+ PART –A
+ 1. Simple Stresses and Strains : Concept of stress and strain, types of stresses, types of stra law, Elastic Modulus, stress-strain diagrams for ductile and brittle materials, principle of superposition, bars of varying cross section, Saint Venant’singprinciple,barsofrectangular cross section of uniform thickness, compound bars. 10 Hrs. 
+ 2. Elastic constants : Poisson’s ratio, Volumetric strain, Volu Bulk Modulus, relation between E and K, Rigidity modulus, relation between E and C, relation among E, C and K. Temperature stresses –temperature stresses in composite sections. 8 Hrs. 
+ 3. Shear force and bending moment in beams: Shear force, Bending moment, relation among loading, SF and BM, SFDs and BMDs for simply supported beam, cantilever beams and overhanging beams subjected to concentrated, uniformly distributed load, uniformly varying loads, moment and couple. Loading pattern and BMD form SFD. 12 Hrs. 
+ PART –B
+ 5. Deflection of Beams: Differential equation of deflected beam, slope and deflection of simply supported beam, cantilever beams and overhanging beams .by double8Hrs. i
+ 6. Torsion of Shafts: Theory of Torsion, Torsion equation –assumptions and derivation, torsional rigidity, polar modulus transmission of power, strength and stiffness of solid and hollow circular shafts. 8 Hrs. 
+ 7. Elastic stability of columns: Ideal column, slenderness ratio, short column and long column, critical load, effective length, Euler’s formula for different8Hrs. en 
+ 8. Thin and Thick Cylinders: Introduction, stresses and strains in thin cylinders subjected to internal fluid pressure, stresses in thick cylinders. Lame’s equation6.Hrs. 
+ Question paper pattern: 
+ The question paper consists of 4 questions from Part A and 4 questions from Part B. The students have to answer five full questions, selecting at least two questions from each part. 
+ References Books: 
+ 1. Strength of Materials –S SBhavikatti, New Age Intenational (P) Ltd., 
+ 2. Strength of Materials –R K Bansal, Laxmi Publications (P) Ltd., 
+ 3. Strength of Materials –S Ramamrutham, DhanpatRai Publishing Company (P) Ltd., 
+ 4. Strength of Materials –M A Jayaram, Sapna Book House. 
+ 5. Mechanics of Materials –B C Punmia, Ashok K Jain and A K Jain, Laxmi Publications (P) LTd., 
+ 6. Mechanics of Materials –J B K Das and P L Srinivas Murthy, Sapna Book House. 
+ 7. Engineering Mechanics of Solids –Popov E P., Pearson Education Asia. 
+ 8. Strength of Materials –Singer F L., Harper International. 

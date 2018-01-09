@@ -1,0 +1,51 @@
+2K11 ME 704 THEORY OF I.C. ENGINES 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+Part A 
+
+1. Air Standard Cycles: air standard efficiency and - mep of otto cycle – diesel cycle – dual combustion cycle numerical problems - deviation of real cycle from theoretical air cycle, numerical problems. 8 
+
+2. Combustion of Fuels: theoretical air required, excess air actual air required for complete combustion of solid, liquid and gaseous fuels - numerical problem - analysis of products of combustion. 8 
+
+3. Performance and Testing of IC Engines: Introduction: Indicated power - Brake power - Various I.C. engine efficiencies - Specific fuel consumption - Heat balance sheet Measurement of IP of IC engines - Performance curves for SI engines - Variables effecting engine performance - Power requirement and power available curve problems. 8 
+
+Part B 
+
+4. Combustion in I.C Engines; Four stoke and two stroke cycle engines - Valve time diagram for four stoke engine combustion in SI Engines - detonation (KNOCK) in SI engines - variable affecting knock in SI Engines and their effects - methods to reduce detonation - combustion in CI engines - Knock in the CI engine – effect of engine variables on diesel knock and methods to reduce diesel knock rating of SI and CI engine fuels. 12 
+
+5. I.C Engine systems: carburetion - simple and complex carburetor - fuel pump for S.I engine - ignition systems for SI engines - fuel injection system for CI engine - Supercharging of IC engines - Cooling of IC engines - Governing of IC engines - Introduction to wrankle engine, Introduction to MPF engine.12 
+
+PART C 
+
+6. Alternative fuels for I.C. Engines: Introduction, Engine performance with pure alcohols, alcohol and gasoline fuel blends, alcohols, Vegetable oils and Biogas as diesel fuel, Hydrogen- as fuel, Modification to IC engine, Performance and Emission. 8 
+
+7. Air pollution : Introduction, pollutant from gasoline engines, gasoline emission control, diesel emission, diesel smoke and control, diesel odour and control, comparison of diesel and gasoline emissions control. 4 
+
+Book of Reference: 
+
+1. Thermal Engineering by Kodandaram, Dhanapat Rai and Co. New Delhi. 
+
+2. Thermal Engineering by Rajput R.K, Laxmi publications, New Delhi. 
+
+3. A Course in I.C. Engines by Mathur andSharma, Dhanpat Rai publications. 
+
+4. Thermal Engineering by S.K. Kulshresta, Vikas publications. 
+
+5. I.C. Engines by V.Ganeshan.vol.1 vol.2. 
+
+6. I.C. Engines Fundamentals, TATA Mc. Grawhill, John.B. Heywood. 
+
+Scheme of Examination: 
+
+Questions to be set: 3 questions from part A 
+
+3 questions from part B 
+
+2 questions from part C 
+
+Students are to answer 5 questions choosing at least 1 questions from each Part.

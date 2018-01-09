@@ -1,0 +1,32 @@
+2K11CE603 TRANSPORTATION ENGINEERING - II 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Highway materials and pavement design: Sub grade soil: Desirable properties, HRB classification, group index, CBR and plate bearing tests problems on above, Road aggregates, desirable properties and tests. Uses and properties of bituminous mixes and cement concrete in pavement construction. CBR method of flexible pavement design as per IRC recommendations. Evaluation of vertical stress and deflection in homogeneous mass under single and dual wheel loads using charts. General considerations for design of rigid pavements.25 Hrs. 
+
+2.Highway construction and maintenance: Construction of embankments and sub grade: Requirements of materials and construction steps for the construction of WBM, WMM, bituminous surface dressing, premix carpet, bituminous concrete and cement concrete pavement, details of different types of joints in CC pavement. Design of soil aggregate mixes by Rothfutch’son,Soil m cement, soil-lime and soil-bitumen stabilized pavement layers. Types and causes of failures in flexible and rigid pavements; maintenance steps; Methods of strengthening existing pavements.25 Hrs. 
+
+3.Highway drainage: Objects, surface drainage system for roads, side drain hydrologic and hydraulic design, problems on above, Subsurface drainage; lowering of ground water level; interception of seepage flow and capillary rise, design of filter material; Types of cross drainage structures, their choice and location.10 Hrs. 
+
+Question paper pattern: 
+
+Answer any five of the eight main questions, to be set covering the entire syllabus. 
+
+Reference Books:
+
+ 1. Khanna, S.K. and Justo, C.E.G., `Highway Engin book)
+
+ 2. Kadiyali, L.R., `Highway Engineering’, Khanna
+
+ 3.Khanna S.K., Justo, C.E.G., Veeraragavan A. `Highway Materials and Pavement Testing’, NemchanBros, Roorkee
+
+ 4.Rao G.V., `Principles of Transportation and Hig
+

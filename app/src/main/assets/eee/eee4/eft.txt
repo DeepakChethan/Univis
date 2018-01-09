@@ -1,0 +1,24 @@
+Electromagnetic Field Theory 
+
+PART-A 
+
+1.Electrostatics: 
+Coulomb's law. Electric field intensity, electrostatic potential and potential difference. Field due to several point charges, principle of linear superposition. Concept of line charge, surface charge and volume charge. Scalar potential and its relation with electric field. Field maps and field cells. Gauss's theorem and applications. Poisson's and Laplace equations - solutions for simple cases. Dipole, polarization and εr of dielectric. Capacitance calculations for different configurations. Energy and energy density in an electrostatic field. Boundary conditions. Displacement current and density. Equation of continuity of currents. 
+
+2.Magnetostatics: 
+Introduction. Magnetic flux and flux density. Magnetic field intensity. Biot-Savart's law. Ampere's law and applications. Forces and Torque Lorentz force equation. Force acting on a current carrying conductor. Examples on Force Calculation, Torque on a loop in magnetic field. Scalar and vector potentials - applications. Neuman's formula for Inductance, inductance calculations for simple configurations. Magnetic Dipole and µr . Energy stored and energy density in a magnetic field. Boundary conditions. 
+
+
+PART-B 
+
+3.Time varying Electric and Magnetic fields: 
+Introduction. Faraday's law of electromagnetic induction. Faraday's law in integral and differential forms. Maxwell's equations from different laws in differential and integral forms. Maxwell's equations for free space and harmonic fields. 
+
+4. Relationship between field and circuit theory: 
+Application of field and circuit theory for series circuit. Maxwell's equations as generalization of circuit equations. 
+
+5. Electromagnetic Waves: 
+Wave equations in free space. Rectangular plane waves in free space. Sinusoidal plane wave propagation in free space. Good dielectrics, good conductors and in lossy dielectric media. Skin depth and skin effect. Relaxation time. 
+
+6. Poynting Vector and flow of power: 
+Poynting's theorem and poynting vector. Instantaneous average and complex poynting vector. Power loss in a plane conductor. Application of P-vector.

@@ -1,0 +1,55 @@
+2K11CIL 76 : INTERNET PROGRAMMING LABORATORY 
+
+(Programming/Mini Project Laboratory) 
+
+Hours per Week : 3 Examination Marks : 100 Sessional Marks : 50 
+
+PART A 
+
+Develop and execute the following programs using HTML and PHP. Create Database using MYSQL wherever necessary. 
+
+1. a) Program to display various Server Information like – Server Name, Server Software, Server protocol, CGI Revision etc. 
+
+b) Program to accept UNIX command from a HTML form and to display the output of the command executed. 
+
+2. a) Program to accept the User Name and display a greeting message. 
+
+b) Program to keep track of the number of visitors, visited the web page and display the counter with proper headings. 
+
+3. Program to display a greeting based on the access time of the Web server. Also to verify whether the webmaster is currently logged in. 
+
+4. Program to display a digital clock which displays the current time of the server. 
+
+5. Program to display the current contents of the table in a database. 
+
+6. Program to insert new name and age information entered by the user into the database. 
+
+7. Program to query the database and to display the result on a web page. 
+
+8. Program to accept book information viz. Accession number, title, authors, edition and publication from a web page and to store those in a database. 
+
+9. Program to search a book for a title given by the user on a web page and display the search results with proper headings. 
+
+Develop and execute the following programs using HTML and JAVA Servlets. 
+
+10. a) Program to accept user name and display a greeting message. 
+
+b) Program to change the background color of the page based on the color selected by the user. 
+
+11. Program to display a greeting based on the access time of the server. 
+
+12. Program to create and display a cookie. 
+
+13. Program to create a session and display session information viz. session ID, creation time and last accessed. 
+
+14. Program to request server information viz. Request Method, URI, Protocol and Remote address. 
+
+15. Program to accept User name and address and display them in a web page by passing parameters. 
+
+PART B 
+
+The Student should Develop an integrated Mini project to demonstrate their skills in JAVA, CGI, PERL, HTML, XML, etc. based on Internet Applications. 
+
+Note : 
+
+The evaluation is based on Execution of any one program from PART A and demonstration of Mini Project. The student has to submit a report to the examiner.

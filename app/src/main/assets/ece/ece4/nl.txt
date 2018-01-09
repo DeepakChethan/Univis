@@ -1,0 +1,36 @@
+Network and Lines 
+
+PART A 
+
+1. Networks: 
+Network elements, classifications of networks, Parameters of two port networks, Conversion of Parameters, Topologies of 2 port networks-T, Pi, Ladder networks, Bridged T, Lattice, Parallel T networks, Symmetric networks, Reciprocal networks, Symmetrical network parameters, Asymmetrical network parameters. 
+
+2. Attenuators: 
+Insertion loss, Design of lattice type attenuators, Symmetrical T and Pi attenuators, Asymmetrical T and PI attenuators, Balance and Unbalanced attenuators. 
+
+3. Equaliser: 
+Classification of equalizers, Series and shunt Equalisers, Amplitude and Phase Equalisers, Constant resistance equalizers, Design of amplitude equalizers, Bridged T and Lattice equalizer. 
+
+4. Passive Filters: 
+General theory of filters, design of prototype LP and HP filters, m-derived sections. Impedence matchimg filters. Design of composite filters. 
+
+5. Different Types of Transmission Lines: 
+Two line, Co axial line, Shielded cable, Submarine cable. Differential equations of uniform transmission line. Solutions of differential equations, line terminated in characteristic impedence, line of infinite length, Derivation for alpha, beta, wavelength and velocity of propagation. Computation of primary constants, Expression for Secondary constants, Loseless line conditions. 
+
+6. Distortions in Transmission Line: 
+Method of reducing distorsion, distortionless line, Telephone cable-loading of telephone cables-Campell’s equations. Diffent types of loading-merits and demerits. 
+
+
+PART B 
+
+7. Open And Short Circuited Lines: 
+Input impedence of short circuited lines. Reflection of waves-reflection coefficient, Reflection loss and reflection factors, Standing wave ratio-power delivered to the load-transmission efficiency-standing wave pattern- dissipationless line-the eight wave line, Quarter wave line-Application of quarter wave and half wave line. Properties of lines of various lengths. 
+
+8. Smith Charts: 
+Construction of smith charts-constant ‘r’ and constant ‘X’circles-properties and uses of Smith chart-Smith chart as admittance chart-Use of Smith chart for transmission line problems. 
+
+9. Impedence Matching: 
+Quarter wave transformer, Stub matching-single stub matching, Double stub matching,Single and double stub matching using Smith chart,Double stub matching with quarter –wave spacing andthree-eighth wave spacing between stubs. 
+
+10. Optical Fiber: 
+Introduction, Construction-core and cladding, Types-single and multimode, Step Index and Graded Index cables, Propagations modes and losses in fibers, connectors and splicers.

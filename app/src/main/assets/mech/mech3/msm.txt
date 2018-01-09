@@ -1,0 +1,19 @@
+2K11 ME 302 Material Science and Metallurgy 
+Lecture: 4 Hrs / week Internal Assessment Marks: 25 Total No. of Hours: 60 Examination: 3 Hrs Max marks for Examination: 100 
+UNIT - I 
+1. Engineering requirements of materials. Mechanical Properties of Materials, Tension test, Hardness tests and Impact tests. 5 
+2. Metallography: Optical Microscopy, Metallurgical microscope and specimen preparation. Scanning Electron Microscope 5 
+3. Solidification and Phase diagrams: Homogeneous and heterogeneous nucleation, grain growth. Solid solutions, Gibbs Phase rule. Types of phase diagrams, Lever Rule, intermediate phases. 5 
+4. Crystal Structures: Space lattice classification. Miller Indices for planes and directions. Crystal imperfections. 5 
+5. Atomic Diffusion: Phenomenon, mechanisms of diffusion. Flicks’ Laws. Activation energy. Factors affecting diffusion. Practical applications. Related Problems. 5 
+
+UNIT -II 
+6. Mechanical Behaviour of Materials: Elastic and Plastic behaviour. Yield point phenomenon. True stress-true strain relationships. (Related Problems). Plastic deformation of single crystals: CRSS (Related Problems,) Slip deformation. Dislocations and plastic deformation. Twinning deformation. 10 
+7. Strengthening Mechanisms: Grain boundary effect, strain hardening, solid solution strengthening, strain aging. Recovery , Recrystallisation and Grain Growth. Frank Read Source of dislocations. 10 
+UNIT- III 
+8. Fracture of Materials: Types of fracture. Effect of temperature, strain rate and triaxiality on flow stress and ductile to brittle transition. Notch sensitivity. 5 
+9. Fatigue Behaviour: Types of fatigue loading, Mechanisms of fatigue failure. Fatigue properties, fatigue test: S-N Diagram, factors affecting fatigue behaviour. 5 
+10. Creep Behaviour: Creep Phenomenon, Three stages of creep. Transient creep and Viscous creep. Creep rupture. Creep Properties, Creep Test 5 
+Books for Reference: 
+1. William D. Callister: Material Science and Engineering - An Introduction. John Wiley and sons Inc. 1997. 
+2. William F Smith: Principles of Materials Science and Engineering. Tata McGraw Hill Inc 1996.

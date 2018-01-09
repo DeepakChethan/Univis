@@ -1,0 +1,28 @@
+
+ 
+ 2K11SP1101 ENGINEERING PHYSICS 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+ 
+ PART –A 
+ 1. Physics of Vibrations: Free oscillations–differential equation and solution; Damped vibrations–differential equation and solution; critical, over and under damping; analogy with electrical circuits; Forced vibrations – differential equation and solution; amplitude and velocity resonance; sharpness of resonance and quality factor; LCR resonance . 6 hrs. 
+ 2. Elasticity : Statement of Hooke’s law; Elastic moduli; torsion of cylinder; expression for couple per unit twist; bending of beams; expression for bending moment; theory of single cantilever; 
+ 6 hrs. 3. Free electron theory of metals: Classical free electron theory for electrical conduction in metals; expression for drift velocity and electrical conductivity; expression for thermal conductivity; Weideman Franz law; limitations of free electron theory. 6 hrs. 
+ 4. Superconductivity : Temperature dependence of electrical conductivity in metals and superconductors; magnetic effects –Meissner effect; type I and type II superconductors; temperature dependence of critical magnetic field; qualitative ideas of BCS theory of superconductivity; high temperature superconductors; application of superconductors –cryotron, superconducting magnets. 6 hrs. 
+ 5. Cryogenics : Idea of throttle expansion of gases; Joule Thomson experiment, Expression for inversion temperature, Method of production of low temperature- platinum resistance thermometer (theory and construction). 6 hrs. 
+ PART –B
+ 6. Lasers : Spontaneous and stimulated emission of radiation; population inversion; necessary condition for laser action; optical resonator; construction and working of Ruby; -Helium-Neon and semi conducting laser; applications of laser (any two). 5 hrs. 
+ 7.Optical Fibre: Schematic of optical fibre; total internal reflection; derivation of expression for numerical aperture and acceptance angle; types of optical fibre; loss mechanisms in optical fiber; absorption; attenuation and scattering effects; applications in communication; point to point communication. 5 hrs. 
+ 8.Holography: Fundamentals of holography, difference between photography and holography, Construction of hologram, recording and reproducing of three dimensional image, applications of holography (any two). 5 hrs. 
+ 9.Dielectric materials: Definitions of dielectric constants and polarization –different types of polarization – electronic, orientation and ionic –Clausius –Mossetti equation –Ferro electric materials –applications of dielectric materials. 5 hrs. 
+ 10. Magnetic materials: Definition of magnetization and magnetic susceptibility; diapara, ferro and ferri magnetic materials; qualitative ideas of Langevin theory of dia and para magnetism; soft and hard magnetic material - applications. 5 hrs. 
+ 11. Liquid Crystal: Classification of liquid crystals –Orientational order intramolecular forces –deformation of the director - magnetic effects –optical properties –applications –LCD. 5 hrs. 
+ Question paper pattern: 
+ The question paper consists of 8 questions of 20 marks each. The students have to answer 5 full questions, selecting at least two questions from each PART. 
+ Reference Books: 
+ 1. Modern Physics, Kenneth. S. Krane, John Wielyand Sons. 
+ 2. Solid State Physics, S. O. Pillai, New Age International 
+ 3. Fundamentals of Physics –Halliday and Resnick, Ninth Edition. 
+ 4. Material Science, S. L. Kulkarniand K. C. Bhandari, New Age International 
+ 5. Laser and Non Linear optics: B B Laud 
+ Physic for Scientists and Engineers Serwayand Jewett Thomson Book Collections. 

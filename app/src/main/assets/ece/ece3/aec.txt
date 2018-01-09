@@ -1,0 +1,31 @@
+Analog Electronic Circuits 
+
+PART A 
+
+1. Fundamentals of CRO: 
+Functional description of CRT, Focusing with electric and magnetic fields. Deflection mechanism and synchronization, Block diagram of CRO and description(Qualitative treatment only). 
+
+2. Diode and Diode circuits and linear wave shaping: 
+Derivation of equations for PN junction current,Diode Junction capacitance-Ideal and practical diodes ,equivalent circuits of a diode. Diode circuits. FW bridge rectifier with C and LC filters-Design calculations-Voltage multiplier-Diode clippers and clampers. Special purpose diodes:breakdown in PN junctions-Zener ,varactor,Tunnel,Schottkey and photo diodes and characteristics and applications. RC,RL and RLC circuits response to step pulse and ramp pulse and ramp inputs. 
+
+3. BJT Biasing and AC models: 
+Ebers-moll model-Transistor rating,basic CE amplifier –load line,operating point-stabilization of operating point-biasing circuits and analysis.AC models:Small signal LF and HF-Hybrid models and Analysis. 
+
+4. BJT Amplifiers: 
+a)Voltage amplifiers-CE amplifier analysis-Cascaded stage-types of coupling-frequency response –effect of coupling ,bypass and devices capacitance. 
+b)Emitter Follower-CC amplifier, Darlington and Bootstrap circuits and analysis. Power amplifier(BJT)-Classification of large signal amplifiers, concept of AC load line analysis with respect to efficiency, Linearity and harmonic distortions of class A, class B and Class AB push-pull amplifier-Complementary symmetry circuits. 
+
+
+PART-B 
+
+5. FET amplifiers: 
+FET biasing, low frequency equivalent circuit. Analysis of common source and common drain amplifiers. Construction and Characteristics of Enhancement and Depletion type of MOSFETs. 
+
+6. Feedback Amplifiers using BJT only: 
+Types of feedback-their advantages and disadvantages. Effect of feedback on frequency response and impedance. Qualitative ananlysis of voltage-series, voltage-shunt, current-series and current shunt feedback amplifiers. 
+
+7. Tuned Amplifiers: 
+Introduction, Analysis and design of single tuned amplifiers, double tuned and stagger tuned amplifiers. Analysis of class-C tuned amplifier, Q factor, Frequency translators and mixers. 
+
+8. DC and Difference amplifiers: 
+DC amplifier, Analysis of emitter coupled differential amplifiers, Different modes of operation, FET differential amplifiers.

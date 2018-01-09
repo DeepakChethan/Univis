@@ -1,0 +1,48 @@
+
+
+ 2K11CI 52 : OPERATING SYSTEMS 
+
+ Note: 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1 : Introduction 6 Hours 
+
+ Batch Systems, Concepts of multi programming and time-sharing, parallel, distributed and real - time systems. Operating system structures - operating system components and services. System calls and system programs. Virtual machines. 
+
+ Chapter 2 : Process Synchronization 6 Hours 
+
+ Introduction to Process concept, The critical section problem, synchronization hardware, semaphores, classical problems of synchronization, critical regions and monitors. 
+
+ Chapter 3 : Process Management 6 Hours 
+
+ Process scheduling, cooperating processes, threads and interprocess communication. CPU scheduling - scheduling criteria, scheduling algorithms, multiple- processor scheduling and real-time scheduling.Algorithm evaluation. 
+
+ Chapter 4 : Dead Locks 6 Hours 
+
+ Deadlocks - system model, characterization, Deadlock prevention, avoidance and detection. Recovery from dead lock.Combined approach. 
+
+ PART B 
+
+ Chapter 5 : Storage Management 6 Hours 
+
+ Memory management - logical and physical address space, swapping, contiguous allocation, paging and segmentation. Segmentation with paging in MULTICS and Intel 386. Virtual Memory - Demanding paging and its performance. Page replacement algorithms.Allocation of frames.Thrashing.Page size and other considerations. Demand segmentation. 
+
+ Chapter 6 : File systems and Disk management 6 Hours File systems, Secondary Storage Structure, Protection and Security-File concept, access methods, directory structure, protection and consistency semantics. File system structure, allocation methods. Free space management. Directory implementation. Efficiency and performance.Recovery.Disk structure, disk scheduling methods.Disk management.Swap-space management.Disk reliability. 
+
+ Chapter 7 : Protection and Security 6 Hours Protection - Goals of protection, domain of protection. Access matrix and its implementation.Revocation of access. Security - Authentication, passwords. Threats and threat monitoring.Encryption.Computer security classifications. 
+
+ Chapter 8 : Case Study 6Hours Windows NT, LINUX, Design principles, system components, environmental subsystems. File system, networking and programmer interface. 
+
+ References: 1. Silberschatz and Galvin, Operating System Concepts, Fifth Edition, Addision-Wesley, 1997. 
+
+ 2. Milan Milancovic, Operating Systems, Concepts and Design. Second Edition, McGrawHill, 2004. 
+
+ 3. Harvey M Deital, Operating Systems, Third Edition, Addision-Wesley, 2000. 
+
+ 4. Dhananjaya M Dhamdhere, Operating Systems, Science Engineering and Math, 2008. 
+

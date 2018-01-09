@@ -1,0 +1,33 @@
+2K11 ME 806 CAD/CAM and ROBOTICS LABORATORY 
+
+Class: 3 Hrs / week 
+
+Internal Assessment Marks: 25 
+
+Examination: 3 Hrs 
+
+Max marks for Examination: 100 
+
+1. Programming and Demonstration of production of components using CNC lathe. 
+
+2. Programming and Production of Components using CNC milling machine. 
+
+3.Computer simulation and programming of robots for pick and place, stacking, palletizing, assembly,inspection, etc. applications using suitable software and hardware. UVCE, Mechanical Engg. 
+
+4. Use of Computer vision and interfacing with robots for industrial applications. 
+
+5. Experiments of Direct and Inverse Kinematic analysis of two dimensional three degrees of freedom robotic arm. 
+
+6. Use of mater CAM to generate part programs for simple axis symmetric and prismatic components. 
+
+Note: The details of the relevant theory for conducting above experiments are to be covered during laboratory hours. 
+
+Scheme of Examination: 
+
+Two experiments are to be conducted as follows: 
+
+1. One Experiment on CNC Lathe/ Milling Machine – 40 Marks. 
+
+2. One Experiment on Robotics and Master CAM – 40 Marks. 
+
+3. Viva Voice – 20 Marks.

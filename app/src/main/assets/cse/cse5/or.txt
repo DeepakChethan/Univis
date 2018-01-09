@@ -1,0 +1,59 @@
+UVCE Syllabus
+
+
+ 2K11CI 56 : OPERATION RESEARCH 
+
+ Note: 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per week: 4 Examination Marks: 100 Sessional Marks: 25 
+
+ PART A 
+
+ Chapter 1 : Introduction 4 Hours 
+
+ Introduction: The origin, nature and impact of OR; Defining the problem and gathering data; Formulating a mathematical model; Deriving solutions from the model; Testing the model; Preparing to apply the model; Implementation. 
+
+ Chapter 2 : Linear Programming 6 Hours 
+
+ Introduction to: Prototype example; The linear programming (LP) model.Assumptions of LP; Additional examples. 
+
+ Chapter 3 : Simplex Method 8 Hours 
+
+ The essence of the simplex method; Setting up the simplex method; Algebra of the simplex method; the simplex method in tabular form; Tie breaking in the simplex method.Adapting to other model forms; Post optimality analysis; Computer implementation Foundation of the simplex method.The revised simplex method, a fundamental insight. 
+
+ Chapter 4 : Duality Theory and Sensitivity Analysis 8 Hours 
+
+ The essence of duality theory; Economic interpretation of duality, Primal dual relationship; Adapting to other primal forms. The role of duality in sensitive analysis, The essence of sensitivity analysis; Applying sensitivity analysis. The dual simplex method; Parametric linear programming; The upper bound technique. 
+
+ PART B 
+
+ Chapter 5: Transportation 6 Hours 
+
+ The transportation problem; A streamlined simplex method for the transportation problem. The assignment problem, A special algorithm for the assignment problem. 
+
+ Chapter 6 : Assignment Problems and Game Theory 6 Hours 
+
+ Game Theory: The formulation of two persons, zero sum games; Solving simple games- a prototype example; Games with mixed strategies; Graphical solution procedure. 
+
+ Chapter 7 :Decision Analysis 6 Hours 
+
+ Solving by linear programming, Extensions. Decision Analysis: A prototype example; Decision making without experimentation; Decision making with experimentation; Decision trees. 
+
+ Chapter 8 :Metaheuristics 6 Hours 
+
+ The nature of Metaheuristics, Tabu Search, Simulated Annealing, Genetic Algorithms 
+
+ References : 1. Frederick S. Hillier and Gerald J. Lieberman: Introduction to Operations Research: Concepts and Cases, Eighth Edition, Tata McGraw Hill, 2005. 
+
+ 2. Wayne L. Winston: Operations Research Applications and Algorithms, Fourth Edition, Cengage Learning, 2003. 
+
+ 3. Hamdy A Taha: Operations Research: An Introduction, Eighth Edition, Pearson Education, 2007. 
+
+ 4. S. D. Sharma :Operations Research, KedarnathRamnathand Co, 2002. 
+
+ 5. Prem Kumar Gupta, D S Hira : Operations Research, S Chand Pub, New Delhi, 2007. 
+
+ 6. Sharma J K :Operations Research: Theory and Applications, Fourth Edition, Macmilan, 2010. 
+

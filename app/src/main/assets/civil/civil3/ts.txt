@@ -1,0 +1,29 @@
+2K11CE301 THEORY OF STRUCUTRES –I 
+
+Hours / Week: 4 Exam: 3 Hours 
+
+Total: 60 hours Class Marks: 25 
+
+Max Marks: 100 
+
+PART –A 
+
+1. Stresses in Homogenous beams: Theory of simple bending, Moment carrying capacity of a section, Compositebeams / flitched beams, beams of uniform strength, Shear stresses in beams, Shear stresses in a few standard sections, Shear stresses in a built up secti9ns; Limitation of theory developed. 9 hrs. 
+
+2. Deflection of Beams: Deflection of cantilever, simply supported and overhanging beams by conjugate beam method. 8 hrs. 
+
+3. Compound stresses: Transformation of stresses in two dimension, principle • stress, maximum shear stress and construction of Mohrs circle for stresses. 8 hrs. 
+
+4. Strain energy method: Castiglione’s theoremofstaticallydeterminateno.1,beams,deflectionframesand•trusses. 8 hrs. 
+
+PART –B 
+
+5.Moving loads and influence lines: Bending moment and shear force diagram for different cases of moving loads, enveloping parabola, equivalent uniformly distributed load, Influence lines for reaction, shear force and bendingmoments in beams. 14 hrs. 
+
+6.Three hinged Arches and Suspension bridges: Analysis of three hinged parabolic and ci theorem, radial shear and normal thrust and bending moment diagrams. Elements of suspension bridges, analysis of suspension bridges supported at same level and different level. 13 hrs. 
+
+Question paper pattern: 
+
+Four questions have to be set from each part and student has to answer FIVE questions by selecting at least TWO from each part –A and part –B. 
+
+Reference Books: 1.PoperEgor P., Engineering mechanics of solids, Pearson Education Asia, 2nd Edition 2001. 2.Singer Ferdinand L., Strength of Materials, Harper International, 3rd Edition 1980. 3.Mechanics of Materials by Dr. M.A. Jayaram, Sapna Publications 2009. 4.Mechanics of Materials (SI Version) 2ndEditon Popov, Prentice Hall of India Pvt. Ltd. 5.Analysis of Structures Vol. 1, Vazarani and Ratwani, Khanna Publications.

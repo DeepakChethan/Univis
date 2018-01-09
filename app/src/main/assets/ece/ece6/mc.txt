@@ -1,0 +1,30 @@
+Microcontrollers 
+
+PART- A 
+
+1. Introduction to Microcontrollers: 
+Comparison between microprocessors and microcontroller, Microcontroller families RISC/CISC Architecture, Harward and Von Neumann architecture. 
+
+2. 8051 Architecture: 
+8051 Microcontroller Hardware, Pins, ports, circuits, external memory, counters and timers, Serial data I/O interrupts. 
+
+3. Assembly Level Programming Concepts of 8051: 
+Understanding assembly language syntax of 8051, Instruction syntax, addressing modes of 8051, Extensive study of instruction set of 8051 and example programs. 
+
+
+PART-B 
+
+4. Memory Interfacing: 
+Memory devices, Address decoding, 8/16/32 and 64 bit memory interfacing and dynamic RAMs. 
+
+5. I/O Interface: 
+I/O Port address decoding, Programmable peripheral interface, keyboard/display interface, programmable interrupt timer, programmable communication interface, interfacing ADC and DAC. 
+
+6. Interrupt Structure OF 8051 Microcontroller: 
+Basic interrupt processing, Hardware interrupts, Expanding interrupt structures, Programmable interrupt controller, Real time clock. 
+
+7. Direct Memory Access and DMA Control I/O: 
+DMA operation, DMA controller, Shared bus operation, Disk memory systems, Video display. 
+
+8. Applications of 8051: 
+Temperature sensors. Stepper motor and data acquisition system.

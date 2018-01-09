@@ -1,0 +1,45 @@
+ME 406 Fluid mechanics and machines laboratory 
+
+Laboratory : 4 Hrs / week Internal Assessment Marks:25 
+
+Examination: 3 Hrs Max. Marks for Examination: 100 
+
+1. Calibration of pressure gauge. 
+
+2. Calibration of V notch. 
+
+3. Determination of coefficient of vertical and horizontal orifices. 
+
+4. Calibration of venturi meter. 
+
+5. Losses in pipes 
+
+a. Major loss 
+
+b. Minor loss 
+
+6. Impact of jet on vanes. 
+
+7. Testing of hydraulic ram. 
+
+8. Performance test on centrifugal pump. 
+
+9. Performance test on reciprocating pump. 
+
+10. Performance test on Pelton turbine. 
+
+11. Performance test on Francis turbine. 
+
+12. Performance test on Kaplan turbine. 
+
+13. Performance test on air blower. 
+
+14. Performance test on single and two stage compressor. 
+
+Schme of examination. 
+
+One exercise from Fluid Mechanics. : - 30 marks 
+
+One exercise from Fluid Machines. :- 50 marks 
+
+Viva-voice :-20 marks

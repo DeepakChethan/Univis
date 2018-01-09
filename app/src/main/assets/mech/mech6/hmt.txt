@@ -1,0 +1,55 @@
+2K11ME 604 HEAT AND MASS TRANSFER 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 
+
+Internal Assessment Marks: 25 
+
+Examination: 3 Hrs 
+
+Max marks for Examination: 100 
+
+Part A 
+
+1. INTRODUCTION: Units, definitions, basic modes of heat transfer, mechanism and basic laws of heat transfer, Thermal conductivity for various types of materials, Thermal resistance and conductance, heat capacity , heat diffusivity connective heat transfer co-efficient, Stefan Boltzmann’s Law of Thermal radiation. 4 
+
+2. CONDUCTION: Three dimensional general heat conduction equation in Cartesian co-ordinates. One dimensional steady state heat conduction without heat generation, through plane slabs, cylinders and spheres. Concept of Thermal resistance, electrical analogy, heat transfer through composite slabs, cylinders and spheres, contact resistance, combined conduction and convection. Overall heat transfer co-efficient variable Thermal conductivity, critical thickness of insulation for cylinder and sphere. 10 
+
+3. HEAT TRANSFER FROM EXTENDED SURFACES: Types of fins, applications, Governing equations, fin performance: fin effectiveness, fin efficiency. 8 
+
+Part B 
+
+4. ONE DIMENSIONAL TRANSIENT CONDUCTION: Conduction in solids with negligible internal temperature gradient (Lumped system analysis) use of transient temperature charts for transient conduction in slabs, long cylinder and sphere: use of transient temperature charts for transient conduction in semi infinite solids. 6 
+
+5. CONVECTION HEAT TRANSFER : Dimensional analysis, Buckingham p Theorem, application to free and forced convection, physical significance of Reynolds, prandtl Nusselt and Stantan numbers numerical problems. 10 
+
+6. HEAT EXCHANGERS: Classification of heat exchangers, Heat changers effectiveness and LMTD for parallel and counter flows, Falling and falling factor, significance of NTU. 8 Part C 7. BOILING AND CONDENSATION: Regimes of pool boiling, pool boiling correlations, Types of condensation: NUSSETT’S Theory for laminar condensation on a vertical flat surface, expression for film thickness and heat transfer co-efficient: Use of correlations for condensation on horizontal tube and horizontal tube banks: Reynolds number for condensate flow. 6 
+
+8. RADIATION HEAT TRANSFER: Thermal radiation; definitions of various terms used in radiation heat transfer, Stefan-boltyzman law, Krichoff’s Law, Plank’s Law and Wein’s displacement Law, Radaiation heat exchange between two parallel infinite black surfaces, between two parallel infinite gray surfaces. Effect of radiation shield: Intensive of radiation and solid angle: Lamber Law: Radiation heat exchange between two finite surfaces. 6 
+
+9. MASS TRANSFER : Definitions of terms used in mass transfer analysis; Flick’s first law; Steady state equimolar counter diffusion in gases; Steady state unidirectional in gases; steady state unidirectional in gases; steady state diffusion in liquids, Schmidt Number, Sherwood Number. 2 
+
+Books for Reference: 1. Heat transfer a practical approaches by YUNUS A CENGEL, Tata MC Graw Hill 2002.
+
+ 2. Fundamentals of Heat and mass transfer, Frankkrith, Incropera, Wiley and Sons 4th ed. 1995.
+
+ 3. Heat transfer – A basic approach, Necats Osisik, MC Graw Hill International ed. 1988.
+
+ 4. R.K. Hegde and Niranjan Murthy, Heat and Mass transfer, Sapna Publications, Bangalore.
+
+ 5. R.K. Rajput, Heat and Mass transfer, Laxmi publication, New Delhi.
+
+ 6. Domakundawar, Heat and Mass transfer, Dhanapat Rai and Co. New Delhi.
+
+ 7. P.K. Nag, Heat and Mass Transfer, TATA Mc. Grawhill publications.
+
+ 8. Kodanadaraman and Subramanyam, Heat Transfer data hand book.
+
+ 
+
+Scheme of Examination: 
+
+Questions to be set: 3 questions from part A 3 questions from part B 2 questions from part C 
+
+Students are to answer 5 questions choosing at least 01questions from each Part.

@@ -1,0 +1,83 @@
+ELECTIVE I - Transducers And Signal Conditioning 
+
+PART A 
+
+1. Introduction, Classification, Active / Passive, Mechanical / Electrical, Basic requirements of Transducer, Electrical Transducers, Variable resistance transducers – Strain gauges, Variable Capacitance transducers, Variable Inductance transducers-LVDT, Hall-effect, Semiconductor, Opto-electric, piezo-electric transducers. 
+
+2. Instrumentation Amplifier : 
+Basic characteristics, Three-amplifier configuration, Amplifiers for signal conditioning. 
+
+
+PART B 
+
+3. Signal Processing : 
+Stair case generator comparator V/f – I/f comparator, filters, Data acquaintance and conversion, Multiplexer, Sample and hold click, ADC, DAC. 
+
+Digital signal transmission and processing, Modulation and Demodulation digital data transmission, telemetry Input devices and display, Analog devices and receivers, digital input output devices, semi signal, dot matrix display LED, LCD. Digital fuzzy meter, time period and time interval. 
+
+
+ELECTIVE - Process Instrumentation 
+
+PART A 
+
+1. Process Modelling and Response : 
+Heat exchanger, Mixing process, Stirred tank reactor-First order systems-Response of thermometer, RC circuit, Mixing Process, Liquid level process-Second order systems-Transportation lag-Response of simple closed loop systems. 
+
+2. Controller Tuning and Process identification : 
+Controller tuning – Zeigier Nichois tuning method-Cohen and Coon turning method-Electronic PID controllers – Process identification-Open loop identification method-First order and second order model-Closed loop identification method. 
+
+PART B 
+3. Control Schemes : 
+Ratio control systems – Split range control – Cascade control – Selective control – Internal model control – Dead time compensation – Feedforward control – Adaptive control – Inferential control 
+
+4. Control Valves : 
+Construction – Valve sizing – Characteristics – Types- transfer function – valve positioner. 
+
+5. Programmable Logic Controllers : 
+Introduction – PLC Architecture – PLC programming and programming languages – Ladder diagrams – Basic functions – Advanced functions – PID control of continuous process, Networking of PLC’s. 
+
+
+ELECTIVE I - VLSI Design 
+
+PART A 
+
+1. Introduction: 
+Moore’s Law, VLSI design flow, design philosophy – full-custom, semi-custom design; VLSI trends - ITRS roadmap, CMOS and bipolar technologies. 
+2. MOS transistor: 
+MOS structure, MOS system under external bias; structure and operation of MOSFET, I-V and C-V characteristics of MOSFET, threshold voltage; MOS Scaling and small geometry effects, MOS capacitances. 
+3. VLSI fabrication: 
+Processes – photolithography, ion implantation, diffusion, oxidation, thin film deposition – CVD, PVD (Sputtering); etching; epitaxy; n-well, p-well and twin tub processes, LOCOS and STI isolation; Standard CMOS process flow for fabrication. 
+
+PART B 
+4. MOS Inverters: 
+Static characteristics – R-load inverter, NMOS load inverter, CMOS inverter, Switching characteristics - Calculation of delay times, inverter design with delay constraints, power dissipation of CMOS inverters. 
+
+5. Combinational MOS logic circuits: 
+CMOS logic circuits – NAND2, NOR2 gates, complex logic circuits, CMOS transmission gates. 
+
+6. Sequential MOS logic circuits: 
+Bistable elements, SR latch, clocked latch and flip flop circuits; CMOS D-Latch. 
+
+7. High performance CMOS logic: 
+Dynamic logic, Domino logic. 
+
+8. Semiconductor Memory: 
+Classification, Architecture, Dynamic RAM – 1T DRAM cell, Static RAM - 6T SRAM cell. 
+
+9. VLSI Testing: 
+Fault types and Models, Controllability and observability, Scan based and BIST techniques, IDDQ testing. 
+
+
+ELECTIVE I - Programmable Logic Controllers 
+
+1. Introduction to PLC : 
+Programmable logic controller (PLC) basics, definition overview of PLC systems – ON–OFF control concept using relay logic– Input and Output modules– Power Supplies– Isolators– PLC installation – Trouble Shooting And Maintenance of PLC – General PLC Programming Procedures – Programming ON–OFF Outputs. 
+
+2. PLC – Auxiliary Commands and Functions : 
+Creating ladder diagram from process descriptions – PLC basic functions – Register basics – Timer functions – Counter functions – Design of Interlocks and Alarms using PLC – PLC advanced functions – Alternate Programming Languages – Analog PLC operation. 
+
+3. Automation : 
+Introduction and Historical background – Traditional and Computer based control system developments – Resulting System Architectures – Local Control Unit (LCU) Introduction – Basic Elements of A Microprocessor Based Controller – Function blocks – Example of continuous control, Logic control and Batch Reactor – Security design issues for LCU – manual back–up designs – Redundant controller designs. 
+
+4. Communication system requirements : 
+Architectural issues – Channel structure – Operator interface requirements – Low Level Operator Interface – High Level Operator Interface, Introduction to Field Bus – Architecture Topology – Bus standards – Interoperability – Interchangeability.

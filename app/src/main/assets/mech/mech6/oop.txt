@@ -1,0 +1,46 @@
+2K11 ME 601 Object Oriented Programming 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 
+
+Internal Assessment Marks: 25 
+
+Examination: 3 Hrs 
+
+Max marks for Examination: 100 
+
+UNIT I 
+
+1. Basic Introduction of C++ Language: Characteristics of OOPs, Preprocessor directives, C++ data types, pointer types, string types, reference types, enumerations types, array types, Const def names, new and delete expressions, type conversion. 6hr 
+
+2.Functions: Defining a function, function arguments, default arguments, constant arguments, pass byvalue, pass by reference, inline functions, functions overloading. 6hr 
+
+3. Class and Objects : Specifying class, defining member functions, private member functions, memory allocation for objects, static data members, static member functions, array of objects, objects as function arguments, friend functions, returning objects, pointers to members, constructors, constructor overloading, dynamic initialization of objects, copy constructors, destructors. 12hr 
+
+4. Inheritance and Polymorphism: Derived Classes and Base Classes, multilevel inheritance, multiple inheritance, hierarchical inheritance, hybrid inheritance, virtual base class, abstract classes, pointers to objects, this points, virtual functions. 6hr 
+
+UNIT II 
+
+5. Operator overloading and type conversion: Introduction, defining operator overloading, unary and binary operator, overloading binary operators using friends, rules of overloading operators.8 
+
+6.Data Structures: Stacks, Queues and Linked Lists 10hr 
+
+7. Algorithms: Notions of algorithms, fundamentals of algorithm problem solving, important problem types, fundamental data structures, algorithm design strategies: BRUTE FORCE and DIVIDE and CONQUER. 12hr 
+
+Books for References: 1. Object Oriented programs in Turbo C++ Robert Lafore
+
+ 2. Object Oriented programs in Turbo C++ by Balaguruswamy
+
+ 3. Data Structures using C and C++ by Yeadidyah Langson, Noshe J Augenstein and M Tanenbaum
+
+ 4. Computer Algorithms by Horowitz E, Sahani S and Rajashekaran S
+
+ 
+
+Scheme of Examination 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit.
+

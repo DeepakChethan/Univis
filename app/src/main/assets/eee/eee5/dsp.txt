@@ -1,0 +1,21 @@
+Digital Signal Processing 
+
+PART A 
+
+1. Discrete Fourier Transform: 
+Introduction, definition of D.F.T and IDFT. Properties of D.F.T, Circular convolution, linear convolution using D.F.T, Computation of D.F.T - Decimation-in-time F.F.T algorithm, Decimation in frequency F.F.T algorithm, Chirp Z-transform algorithm. 
+
+2. Digital Filter Structures: 
+IIR filter structures: Direct form I and II, cascade, parallel and ladder type realization. FIR filter structures: Direct form and Linear phase FIR structures. 
+
+
+PART B 
+
+3. Analog Filter Design: 
+Butterworth low pass filters, Chebyshev low pass filters. Frequencytransformation. 
+
+4. IIR Filter Design: 
+IIR filter design by approximation of derivatives, IIR filter design by impulse invariance, IIR filter design by Bilinear transformation, Transformation of basic low pass filter. 
+
+5. FIR Filter Design: 
+Characteristics of FIR digital filters, Different types of windows : Rectangular, Bartlett, Hamming, Blackman and Kaiser windows, Design of FIR filters using windows, Design of FIR filters by Frequency sampling method, Design of Equiripple FIR filters, Design of FIR differentiators, Comparison of IIR and FIR digital filters. Application of DSP to Speech and Electric Drives signal Processing.

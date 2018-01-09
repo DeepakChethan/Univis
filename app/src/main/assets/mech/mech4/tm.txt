@@ -1,0 +1,53 @@
+2K11 ME 404 Turbo Machinery 
+
+Lecture: 4 Hrs / week Exam: 3 Hrs 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Exam Marks: 100 
+
+PART A 
+
+1. Impact of jet on vanes: 
+
+Impulse momentum principle, application, Impact of jet on flat, inclined curved, fixed and moving vanes, numerical problems. 10 
+
+2. Hydraulic turbines: 
+
+Theory of turbines and classification of turbines, study of construction, working, velocity diagrams and efficiencies of pelton wheel, Francis and Kaplan turbines, numerical problems.Performance of turbines, specific speed and unit quantities, characteristic curves, cavitations, governing of turbines, model testing of turbines, numerical problems. 15 
+
+PART B 
+
+3. Centrifugal pumps: 
+
+Construction and working principle classification vector diagram, Work done, efficiencies, minimum starting speed specific speed performance characteristics, multistage pumps, numerical problems. 10 
+
+4. Reciprocating Pumps: 
+
+Construction and working principle, classification, definition of slip, co-efficient of discharge, indicator diagram effect of friction acceleration and air vessel, maximum speed of crank, numerical problems. Rotary Compressors: 10 
+
+PART C 
+
+6. Gas Turbines and Jet Propulsion: Introduction - Simple open cycle Gas turbine - Thermal efficiency of GT - Mechanical efficiency ofof compressor and GT – Over all efficiency of GT - The cycle work ratio - Optimum pressure ratio for maximum thermal efficiency and work output – Means of improving the performance of the simple GT – closed cycle GT - Advantages and Disadvantages over open cycle GT- Jet propulsions - the turbojet, thrust, thrust power, propulsive efficiency and thermal efficiency - introduction to ram jet engine and rocket engines. 12 
+
+7.Hydraulic devices: Hyd. Ram, Simple Hyd. Accumulator, Hyd. Intensifier Hyd. Press Hyd. Crane Hyd. Coupling Jet pump, Air Lift Pump Gear Pump (Theoretical Concepts only), introduction to air compressors. 5 
+
+Reference Books: 
+
+1. Principles of turbo machines by H.G. Sheppard. 
+
+2. Fluid mechanics and hydraulic machines by Modi and Seth 
+
+3. Fluid mechanics and Hydraulic Machines by D.S. Kumar 
+
+4. Power plant engineering by Domkundwar 
+
+Scheme of Examination: 
+
+Questions to be set: 3 questions from part A 3 
+
+questions from part B 2 
+
+questions from part C 
+
+Students are to answer 5 questions choosing at least 01questions from each Part.

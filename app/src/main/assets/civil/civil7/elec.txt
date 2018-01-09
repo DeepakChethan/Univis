@@ -1,0 +1,481 @@
+2K11CE706 (a) SOLID WASTE MANAGEMENT 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Solid wastes-Definitions Solid waste management (SWM), evolution of SWM and public health aspects, types of solids waste. Sources, Composition of municipal solid wastes, Validation in distribution of waste Components.Determination of waste composition in the field, future changes.(8 Hrs.) 
+
+2.Legal aspects and solid waster legislation and policy Guidelines.(4 Hrs.) 
+
+3.Properties of solid waste. Physical –density and moisture content percentile distribution, size of waste constituents. Chemical Calorific value. PH, N-P-K, Total Carbon, C/N Ratio, Biological properties and Toxic properties.(8 Hrs.) 
+
+4.Solid waste generation Measures and methods used to assess solid waste quantities, Solid waste generation andcollection rate, Factors that affect generation rates.(4 Hrs.) 
+
+5.Waste handling on site at residential dwellings, commercial and industrial facilities, storage of solid wastes at sources, Processing of solid waste at source.(8 Hrs.) 
+
+6.Collection of solid wastes-types of collection, system equipment and personal requirement. Analysis of collection system, collection routes - optimal.(8 Hrs.) 
+
+7.Transfer and transport-need for transfer operation-types of transfer station-location-mean sand methods.(6 Hrs.) 
+
+8.Separation and processing of solid wastes, unit operation. Mechanical, chemical, thermal volume reduction, mechanical segregation.(8 Hrs.) 
+
+9.Ultimate disposal-Landfill methods and operation, gases and leach ate in landfill, their control, land farming- 
+
+Deep well injection.(6 Hrs.) 
+
+Question paper Pattern: 
+
+Answer any Five full question out of Eight question set. Each question carry 20 marks. 
+
+Reference Books:
+
+ 1. George tchobanogJus, Hilay thciscn and roefEliasscn (1977), Solid wastes Engineering principles and management uses, McUraw hill Book Company.
+
+ 2. Howard.S.Peavy, Donald.R.Rowe :md George tchobanoglous (1985), Environmental Engineering, NkGraw 11i11 company, New York.
+
+ 3. George tchobanoglous, Hilay theisen and SamueMcGraw Hill international edition.
+
+ 4. Mackenzie L Davis and David A Cornwel, “Introduc
+
+ 5. Manual on Municipal Solid Waste Management –prepared by Experts committee, Central Public Health Engineering organization, 2000, May.
+
+ 2K11CE706 (b) DESIGN AND DRAWING OF WASTEWATER TREATMENT UNITS 
+
+Hours / Week: 4 
+
+Exam: 4 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+Design and drawing of following wastewater treatment units 
+
+1.Screens(4 Hrs.) 
+
+2.Grit chambers(4 Hrs.) 
+
+3.Trickling filters(8 Hrs.) 
+
+4.Rotating biological filters(8 Hrs.) 
+
+5.Activated sludge process(6 Hrs.) 
+
+6.Oxidation Ditch(4 Hrs.) 
+
+7.Oxidation pond(4 Hrs.) 
+
+8.Aerated lagoon(4 Hrs.) 
+
+9.Up flow anaerobic sludge blanket.(4 Hrs.) 
+
+10.Septic tank(4 Hrs.) 
+
+11.Anaerobic digesters(6 Hrs.) 
+
+12.Sludge drying beds.(4 Hrs.) 
+
+Question paper Pattern: 
+
+Question paper consists of Two parts –Part A and Part B, consisting of two question each to answer ONE question of 40 marks from Part A (chapters I to IV) and One question of 60 marks from Part B (chapters V to XII) 
+
+Reference Books:
+
+ 1. S. K. Garg “Environmental Engineering Vol. II 
+
+ 2. Hammer and Hammer, “Water and e WasteHallofIndia PvtWaterLtd. Technol
+
+ 3. Manual on waste water treatment – prepared by the expert committee. Central public Health and Environmental Engineering Organization, May 1999
+
+ 4. G. S. Bridie J. S. Bride –Water supply and Sanitary Engineering Edition 2004
+
+ 5. E. W. Steel and Terence J McGhee Water Supply and Sewage –Fifth Edition McGraw-Hill
+
+ 6. G. M. fair J. C. Geyer and D. A Okun “Water andInc.
+
+ 7. Metcalf and Eddy, “Wastewaterrdand4thEditionMcGraw -HillEngineering” 3
+
+ 8. Davis and Cornwell, Environmental Engineering, 3rd edition McGraw –Hill.
+
+ 2K11CE706 (c) GROUND IMPROVEMENT TECHNIQUES 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 1.Soils of India: Distribution: Problematic types of soils and their characteristics. (6 Hrs.) 
+
+2.General methods of Ground Modification, Factors to be considered in the selection, suitable method, Traditional objective and emerging trends-Environmental Geo-technique, Low cost building with soils, Reinforced earth, Current and future development.(8 Hrs.) 
+
+3. Mechanical modification: Introduction, Methods of compaction, Shallow surfaces, Deep and Hydrodynamic Compaction, Principle of soil densification, Properties of compacted soil, Compaction control, test,Specification of compaction requirements, problems. (12 Hrs. 
+
+4. Hydraulic modification: Introduction, Objectives, Fundamental soil-water relationship, Traditional dewatering methods, Dewatering systems, Drainage-soil and filters permeability, filter criteria, drainage layout, pumping systems, seepage control with Geosynthetics, Preloading and vertical drains, Electro kinetic dewatering and stabilization. (12 Hrs.) 
+
+5. Physical and Chemical modification: Modifications by admixtures –Granular admixtures, Cement, Fly ash, Lime and other chemical admixtures Grouting –Definition, Purpose, classification, Grouts and their properties Grouting technique and controls, Thermal modification –Heating and freezing. (12 Hrs.) 
+
+6. Modification by inclusion and Confinement: Concept of soil reinforcement, History benefits, application, areas, material, Toe back fill, reinforcement and Facing element, durability, Design principle, Design of retaining wall. (10 Hrs.) 
+
+Question paper Pattern: 
+
+Eight question should be set and the student should answer any five question. One each from chapters 1 to 6 and Two questions covering all chapter. 
+
+Reference Books: 1. Engineering principles of Ground modifications by M.R. Hausmann, Mc.Graw Hill Com. New Delhi.
+
+ 2. Soil mechanics for Road Engineers by H.M.S.O.
+
+ 3. Sub surface exploration and sampling of soils for Civil engineering purposes by Hvorslev M.J.
+
+ 4. Foundation engineering by S.P. Brhama. Tata Mc. Graw Hill Com. New Delhi. Foundation analysis and design by J.E. Bowles, Mc. Graw 2K11CE706 (d) REINFORCED SOIL STRUCTURES 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1.Reinforced Soil Structure: Historical back ground, Modern developments, Potential areas of use.6 Hours 
+
+2.Principles of reinforced earth: Introduction Principle, Basic Concept, Effect of reinforcement on basic mechanism involved in soil Components of reinforced structure.8 Hours 
+
+3.Design Consideration: Introduction, Design consideration for retaining wall, Earth Embankments, Earth Dams, Earth Slopes, Foundations, Pavements, RE for controlling and prevention of heave.8 Hours 
+
+4.Materials: Introduction, Back fill materials, Reinforcement, Facing elements, Types, Functions, Physical Properties, Laboratory testing procedures for all the reinforcing material.9 Hours 
+
+5. Design of reinforced structures: Retaining wall (Internal and overall stability), Typical design of reinforced embankments, slopes, foundations, pavements and retaining walls using metal strips, Geomembranes and geo-grid, Soil nailing, Designs concepts in using software.15Hours 
+
+6.Construction Methods: Concertina method, Telescope method, sliding method, Reinforcing system, Rate of Construction, Compaction, Logistics, Construction sequence, Construction details –Foundation, Drainage, Facing, Reinforcement and reinforcement connection.8Hours 
+
+7.Case Studies of reinforced soil structures 6Hours 
+
+Question Paper Pattern: 
+
+Eight Questions should be set and the student should answer any five questions. Set Four questions from Chapters 1,2,3,4. Two questions from Chapter 5, One question from chapters 6 and 7. one question (Short Notes form) covering all chapters. 
+
+Reference Books: 1. Koerner, R.H. Designing with geosynthetics, Prentice Hall Inc, 1994.
+
+ 2. Jones, C.J.E.P. Reinforcement and soild structures, Butterworth Publications, 1996.
+
+ 3. Jewel, R.A. soil reinforcement with geotextiles, CIRIA, 1996.
+
+ 4. Ingold, J.S. and Miller, K.S. Geotextiles hand book, Thomas Telford ltd, 1998.
+
+ 5. Rankilor, P.R., Membranes in ground engineering, John Wiley and Sons, 1985 6. Current Literature.
+
+ 2K11CE706 (e) PAVEMENT DESIGN 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Introduction: Types and component parts of pavement, factors affecting design and performance of pavements. Highway and airport pavements. - 6 Hrs. 
+
+2. Subgrade and Climate: Function and significance of subgrade soil properties, various methods of assessment of subgrade soil strength for pavement design. Causes and effects of variation in moisture content and temperature; depth of frost penetration. - 10 Hrs. 
+
+3. Stresses and Deflection in Flexible Pavements: Stresses and deflection in homogenous masses. Burmister two layer theory, wheel load stresses, various factors in traffic wheel loads. ESWL of multiple wheels. Repeated loads and EWL factors, sustained loads, pavement behaviour under traffic loads. - 12 Hrs. 
+
+4. Flexible Pavement Design Methods for Highways and Airports: Empirical, semi-empirical and theoretical approaches, development, principle, design steps, advantages and application of the different pavements design methods including IRC-37: 2001 method. - 12 Hrs. 
+
+5. Stresses in Rigid pavements: Types of stresses and causes, factors influencing the stresses, general consideration in rigid pavement analysis, ESWL, wheel load stresses, warping stresses, frictional stresses, combined stresses. - 10 Hrs. 
+
+6. Rigid Pavements Design: Types of joints in cement concrete pavements and their functions, joint spacing, design of slab thickness, design of joint detail for longitudinal joints, contraction joints and expansion joints. 
+
+IRC-58:2002 method of design. - 10 Hrs. 
+
+Question paper pattern: 
+
+Answer any five of the eight main questions, to be set covering the entire syllabus 
+
+Reference Books: 1. Yoder and Witczak, principle of pavement design, 2nd Ed. John Wiley and sons, 1975
+
+ 2. Khanna, S.K. and Justo C.E.G., `Highway Engin
+
+ 3. Relevant IRC Codes
+
+ 2K11CE706 (f) AIRPORT PLANNING AND DESIGN 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Introduction: Growth of air transport, airport organization and associations, Classification of airport, airfield components, airport traffic zones and approach areas. - 6 Hrs. 
+
+2. Aircraft characteristics related to airport design: Components, size, turning radius, speed, aircraft characteristics. - 6 Hrs. 
+
+3. Capacity and Delay: Factors affecting capacity, determination of runway capacity related to delay, gate capacity, taxiway capacity. - 6 Hrs. 
+
+4. Airport planning and surveys: Airport location survey, traffic forecasting, Meterological survey, soil survey, material survey, drainage survey, airport configuration, runway orientation. - 10 Hrs. 
+
+5. Airport Geometric Design: Runway length and width, sight distances, longitudinal and transverse grades, runway intersections, Taxiways, clearances, aprons, numbering, holding aprons. - 12 Hrs. 
+
+6. Planning and Design of the terminal area: Operational concepts, space relationship and area requirements, noise control, vehicular traffic and parking at airport. - 8 Hrs. 
+
+7. Airport grading and drainage: Grading of airport area, hydrology, Design of drainage system, construction method, layout of surface drainage and sub-surface drainage system. - 8 Hrs. 
+
+8. Air Traffic Control and Aids: Runway and taxiway markings; day and night landing aids, airport lighting and other associated aids. - 4 Hrs. Question paper pattern 
+
+8 full Question are to be set, each carrying 20marks. Students shall answer five full questions. 
+
+Reference Books:
+
+ 1. Robert horenjeff, `Planning and Design of Airport’, McGrawndEd. Hill book 
+
+ 2. G. Glushkov, V. Babkov, `Airport Engineering’
+
+ 3. Khanna Arora and Jain, `Airport Planning and Design;, Nemchand and Bros, Roorkee
+
+ 4. Virendra Kumar and Satish Chandra, `Air Transportation Planning and Design’, Galgot 1999
+
+ 2K11CE706 (g) ADVANCED R.C.C. DESIGN 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. RCC structural system, Loads on structures, calculation of Dead, Imposed and Wind load on structures using IS: 875. (6 Hrs.) 
+
+2. Design of one-way and two-way continuous slab system, transfer of the load from slab to beams. (8 Hrs.) 
+
+3. Continuous Beams: Pattern-loading use of co-efficient from IS 456 Design consideration including redistribution of moments, design for flexure and shear. (8 Hrs.) 
+
+4.Design for Torsion, Design of balcony, portico slab system, beam curved in plan.(8 Hrs.) 
+
+5.Multi storey structures: Introduction to space frame and plane frames, substitute frame method, Design ofportal frame for analysed data.(10 Hrs.) 
+
+6.Design of footings and columns under uniaxial and biaxial bending and detailing of beam column junctions. (10 Hrs.) 
+
+7. Water retaining structures general requirements as per IS 3370, Design of water tanks on ground; circular and rectangular tanks –fixed base and with different end conditions. Approximate and exact methods (using Part IV-IS-3370) (10 Hrs.) 
+
+Note: 
+
+(a) All designs shall be made using Limit state method except chapter 7 as per relevant BIS codes of Practice. 
+
+(b) All limit state designs shall be made using SP-16 
+
+(c) Detailing of reinforcement to be discussed at the end of each topic. 
+
+Question paper Pattern: 
+
+To set 6 Full Question consisting of theory and problem covering entire syllabus 25 Marks. To answer any 4 question (of 25 Marks each) 
+
+Reference Books: 
+
+IS Codes and design Aids 1. SP: 16 Design Aids for reinforced concrete structures to IS: 456 –2000, BIS, New Delhi
+
+ 2. SP: 34-Hand book on concrete Reinforcement and detailing BIS: New Delhi
+
+ 3. IS: 875-1987 (part 1 to 4) code of practice for loading standards
+
+ 4. IS: 3370-2009 code of practice for concrete, structures for the storages of liquids
+
+ (a) Part I general requirements
+
+ (b) Part II Reinforced structures
+
+ (c) Part IV design tables.
+
+ 5. Krishna Raju N. Advanced reinforced concrete design, CBS publishers, New Delhi
+
+ 6. Verghese P. C. Advanced reinforced concrete design Prentice-Hall of India Pvt. Ltd. New Delhi
+
+ 7. Ferguson PM., Breen, J. E and Jirsa, J. O. Reinforced concrete fundamentals, wiley and sons, New York.
+
+ 8. Wang C K. and salmon C. G. reinforced concrete design, Harper and Row
+
+ 2K11CE706 (h) THEORY OF ELASTICITY 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Introduction theory of elasticity vs, ordinary mechanics, concept of homogeneity, anisotropy, isotropy and orthotropy. Generalized-straindiagramHook’sforrigid,plasticlaw,andviscousidealmaterials. stre(10 Hrs.) 
+
+2. Notation for forces and stresses components of stresses and strain, plane stress and plane strain, principal stress and strain, maximum shear stress, and S(10 Hrs.) 
+
+3.Differential equations of equilibrium, boundary conditions, compatibility equations and stress functions.(10 Hrs.) 
+
+4.Two-dimensional problems in rectangular coordinates displacemendetermination of displacements.(10 Hrs.) 
+
+5.Bending of a cantilever loaded at the end and beam with uniform load, solution to problems usingpolynomials.(8 Hrs.) 
+
+6.Two-dimensional problems in polar coordinates –governing equations, stress distribution symmetric aboutand axis.(12 Hrs.) 
+
+Question paper pattern: To set 6 Full Question consisting of theory and problem covering entire syllabus 25 Marks 
+
+To answer any 4 question (of 25 Marks each) 
+
+Reference Books: 1. Timoshenko S. P. and Goodier J. N. Theory of Elasticity. McGraw Hill Publications.
+
+ 2. Sadhu Singh, Theory of Elasticity, Khanna Publication.
+
+ 3. T. G. Sitran and L. Govindaraju, Applied Elasticity, Interline Publication, Bangalore
+
+ 4. Frocht, Photo Elasticity.
+
+ 2K11CE706 (i) GROUND WATER ENGINEERING 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Ground Water hydrology: Types of aquifers, ntDarcy’softransmissibility, steadyequationradial flow into a well, well capacity, coefficient of permeability, well yield, well losses. (8 Hrs.) 
+
+2. Aquifer parameters Estimation: Aquifers parameter and estimation, well-function methods, copper Jacob method, chow method, recovery method. (10 Hrs.) 
+
+3. Well Hydraulics: Steady unidirectional flow, Steady radial flow to well, well in uniform flow, unsteady radial flow in unconfined and aquifers, well flow aquifer boundaries, multiple well system, well losses, specification capacity and well efficiency. (12 Hrs.) 
+
+4. Water Wells: Different types, methods of drilling, shallow and deep wells, well development, yield test pumping equipments, projection of wells. Identification of potential zone using remote sensing techniques, recharge estimation with different models. (10 Hrs.) 
+
+5. Ground Water Models: Type of models: 1D, 2D flow models, Ground water management models, management through artificial recharge, ground water pollution and aquifer remediation, transport phenomenon. (8 Hrs.) 
+
+6. Regional ground water system: Ground water development –basin wise, inverse modelling, Gauss Newton’s algorithm, Sensitivitydraft,operationanalysispolicies.(12 ofHrs.) re 
+
+Questions paper Pattern: 
+
+Instruction: Student has to two from answer Part –A and any five full question of the remaining selecting at least one each part. 
+
+Part A compulsory covering the entire syllabus. 10 question to be set of 2 marks each Part B: four question to be set of 16 marks each covering topics 1,2,3 
+
+Part C: four question to be set of 16 marks each covering topics 4,5,6, 
+
+Reference Books:
+
+ 1. Ground water Hydrolog –David K Todd
+
+ 2. Groundwater Resources Evaluation –Walton
+
+ 3. Hydraulics of groundwater –Jacob Bear
+
+ 4. Groundwater –Freeze and Cheny
+
+ 5. Groundwater R –H M Raghunath
+
+ 6. Groundwater hydrology –Bouwer
+
+ 2K11CE707 COMPUTER APPLICATION LAB 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+STADD-PRO and AUTO CAD 
+
+1.Draw the plan and cross sectional details of the residential school building and shoe the detailed plan, elevation and cross sectional details of the building.(6 Hrs.) 
+
+2.Analysis to block level data and plot the longitudinal, cross section.(6 Hrs.) 
+
+3.Draw the plan and elevation of deck Slab Bridge.(6 Hrs.) 
+
+4.Analyse the following structures: a) Truss structures for axial forces (b) continuous beam (c) frame structures for stress resultants and draw the bending moment and shear force diagram and comment on result of STADD-PRO,(24 Hrs.) 
+
+Reference books: 1. Srinivasa Prakash Regalla “Computer- Aided Analysis and Design” I. Pvt.Ltd-2010
+
+ 2. Damodar Maity “Computer Analysis of framed-2007Stru
+
+ 3. R.B.Choudaryto“IntroductionANSYS10.0“I.K International-2009
+
+ 2K11CE708 EXTENSIVE SURVEY PROJECT 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+Aim: To make the students familiar with the various types of fixed survey works for typical civil Engineering Projects, such as Irrigation, Highway, Water supply and preparing plans using geodetic survey. Surveying Projects work: by using necessary surveying methods and instruments, field survey work should be conducted for the projects mentioned above over a duration of eighteen days. Project Work: The survey data collected should be used to prepare necessary preliminary design of the projects. This work as well as drawings should be done in regular class hours spending two hours on alternate week. The following are the details of the projects for which survey should be conducted. 
+
+1. IRRIGATION PROJECT: (a) NEW TANK PROJECTS: 5 days
+
+ i. Longitudinal and cross section of bund
+
+ ii. Block Leveling for waste weir
+
+ iii. Capacity contouring
+
+ iv. Irrigation canal alignment
+
+ (b) ESTORATION OF TANK PROJECT: 2 days
+
+ i. Longitudinal and cross section of existing bund
+
+ ii. Block Leveling for waste water
+
+ iii. Capacity contouring
+
+ 
+
+2. WATER SUPPLY PROJECTS: 4 days 
+
+(a) Collecting data on sources of water, sampling and analysis, population projection, demand of water. 
+
+(b) Conducting surveys for location of intakes, treatment plant site, distribution, reservoir, distribution system. 
+
+(c) Carrying survey work for transmission main, longitudinal section and cross section. 
+
+(d) Block Leveling for treatment plant site. 
+
+(e) Plane Table and Leveling for distribution system. 
+
+(f) Design and drawings. 3. HIGHWAY PROJECT: 3 days 
+
+This work should include field survey work either for alignment of New Highway or modification to the existing highway. These projects contain preliminary survey or alternate routes and final survey from various highway design consideration. 
+
+Soil sample collection and testing soil samples at selected location should be collected for laboratory test to find group index values, soil classification, CBR values, Bituminous mix design for pavement construction. 
+
+The drawings should include index plan, alignments of alternate proposals, longitudinal section of final alignment, typical cross sections road and pavement selection details. 
+
+4. TRIGONOMERIC AND TRIANGULATION PROJECT: 4 days 
+
+This survey work includes accurate measurement of base line using precision instrument and observation of horizontal and vertical angles at selected triangulation stations around the base line. These observations should be used to calculate distance and levels between the selected trigulation stations. A drawing should be prepared showing base line and location of all the triangulation station. 
+
+Finally a consolidated projects report should be prepared which includes all the above projects, Projected Report to be submitted covering the entire work at the said date. 
+
+Pattern of Examination: Evaluation of projects report and viva voice Examination to be conducted by Two Examiners.

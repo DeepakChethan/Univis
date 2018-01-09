@@ -1,0 +1,68 @@
+2K11CE704 TRANSPORTATION ENGINEERING - III 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+PART –A: RAILWAY ENGINEERING 1. Railway Track: Cross Section, gauges, wheel and axle arrangement, Rails- material strength, length, creep, wear, rail joints, welding, failure of rails. Sleepers - requirements, types and relative merits; sleeper density and spacing. Track fittings, fixtures at rail joints; fixtures for FF rails on different types of sleeper; Ballast – objects, requirements and types, formation - functions and typical sections, soil improvements measures.10 Hrs.
+
+ 2. Stresses and resistance: Types of traction, requirements of track, track modulus stresses in rails, sleepers, ballast and formation resistance to traction, hauling capacity and power of engines, problems on above.6 Hrs.
+
+ 3. Alignment and Geometric design: Requirements of railway alignment, surveys, cross section of track, Design of horizontal curves, radius, superelevation, cant deficiency, maximum speed, transition curve: widening of gauges at curves. Gradients and grade compensation: vertical curves, problems.10 Hrs.
+
+ 4. Points and Crossings: Simple turn out, detail at points and crossings, design methods for simple turn out, cross over and diamond crossing, problems - 6 Hrs.
+
+ 5. Construction and Maintenance: Construction of railway track, Drainage system for railway track.4 Hrs.
+
+ 
+
+PART –B: TUNNEL ENGINEERING 
+
+6. Introduction: Objects of tunneling, tunneling surveying and alignment,transferring of centre line and grade of tunnel. Tunnel cross section –size and shape. - 4 Hrs. 
+
+7. Tunnel and shaft: Construction, Tunnel Driving, Methods of tunneling in soils and soft rocks; tunneling inhard rocks –different methods.- 4 Hrs. 
+
+8.Tunnel lining: Tunnel safety measures, tunnel ventilation, lighting and drainage.- 4 Hrs. 
+
+PART –C: HARBOUR ENGINEERING 
+
+9.Introduction: Classification of harbours, road steads, requirements and general principles of layout and design.- 2 Hrs. 
+
+10.Natural Phenomena: Wave generation, Characteristics, effects of wave action in harbour structures, evaluation of wave pressure on harbour structure problems, tide causes and effects on harbours.4 Hrs. 
+
+11.Break Waters: Classification forces, design factors, Construction methods and protective measures, problems.4 Hrs. 
+
+12. Quays, Wharves: transit sheds, ware houses and docks - 2 Hrs. 
+
+Question Paper Pattern: 
+
+1. Part A –Railway Engineering, five questions are to be set out which three questions are to be answered 
+
+2. Part B –Tunnel Engineering, Two questions are to be set and one question to be answered 
+
+3. Part C –Harbour Engineering, Two questions are to be set out of which one question is to be answered 
+
+Reference Books:
+
+ 1. K.F. Antia, Railway Track, New Book Co. (P) Ltd.
+
+ 2. M.M. Agarwal, `Indian Railway Track’, Prabha an
+
+ 3. Saxena and Arora, Dhanpat`RailwayandSons (textEngineering’,book)
+
+ 4. IRS Track Manual, Research Design and Standards Organisations, Ministry of Railways
+
+ 5. R. Srinivasan, `Harbour, Dock and Tunnel Engg’,
+
+ 6. Aioznzo Def. Quinn, `Design and construction of ports and Marine Structures’
+
+ 7. Saxena, ` Tunnel Engineering’, Dhanpat Rai and
+
+ 8. Richards and Mayo, `Practical Tunnel Driving’
+

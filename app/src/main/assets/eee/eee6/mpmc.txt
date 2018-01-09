@@ -1,0 +1,21 @@
+Micro Processor and Micro Controller (8086 / 8051) 
+
+PART A 
+
+1. Architecture of 8086: 
+Architecture of Intel 8086 processor, Signals, Internal Operation, Memory Decoding, 8086 configurations: Minimum mode and Maximum mode, Instruction execution, system bus timing, Timing diagrams, Interrupts: Interrupt mechanism, Types and priority, Interrupt vector table, Software interrupts, Non maskable interrupts. Direct memory access. 
+
+2. Assembly Language Programming: 
+8086 Addressing modes, Instruction set: Data transfer Instructions, String Instructions, Logical Instructions, Arithmetic Instructions, transfer control Instructions, Processor control instructions. Basic Concepts of modular programming: Assembler directives, Memory organization, Macros. Assembly language programming examples: block transfer, multi precision arithmetic operations, Code conversion, searching, sorting, subroutine calls, stack operations, Time delay loops, simple programs using DOS and BIOS interrupts. Concepts of executing assembly language programs using MASM. 
+
+
+PART-B 
+
+3. Interfacing with 8086: 
+Programmable Peripheral interface (8255) – Mode 0,1,2 operations, programming examples. Serial Communication Interfaces – Asynchronous communication, Synchronous communication, Programmable communication Interface (8251), Programmable interval timer (8253) – Operating modes and Interfacing. DMA Controller, Organization of Intel 8257- different modes of operation, Interrupt Controller - Organization of programmable interrupt controller 8259. Keyboard and Display interface 8279–block diagram, interfacing of matrix key board and seven segment LED display using 8279. 
+
+
+PART – C 
+
+4. Microcontroller 8051: 
+Overview of microcontrollers, 8051 Architecture, Addressing modes, Instruction Set - Arithmetic and Logic instructions, loop and Jump instructions, call instructions, Assembly programming - simple programs, programming timer, and interrupts.

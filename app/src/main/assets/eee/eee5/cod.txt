@@ -1,0 +1,21 @@
+Computer Organization and Design 
+
+PART A 
+
+1. General Purpose Machines: 
+General purpose machine views of the computer - user’s view, machine / assembly language programmer’s view, stored program concept, computer architect’s view, logic designer’s view, Classification of computers, Computer Instruction sets, 4- 3- 2- 1- and 0- address machines, addressing modes, informal description of simple RISC computer (SRC), formal description of SRC using RTN, addressing modes with RTN, different logic circuits for data transfer. 
+
+2. Real Machines: 
+Machine characteristics and performance RISC v/s CISC, a CISC microprocessor, the Motorola MC 68000 = CPU and memory architecture, operand and instruction formats, and their interpretation MC 68000 instruction set, program examples and MC68000 assembler. 
+
+
+PART B 
+
+3. Computer Arithmetic: 
+Number systems and radix conversion, fixed point arithmetic – 2’s complement adder / subtractor, look ahead carry generator, unsigned multiplication hardware, Booth algorithm for signed multiplication, Division hardware, floating point arithmetic, Hardware structure for floating point add and subtract. 
+
+4. Control unit: 
+Basic concepts, clocking and timing, Register transfer timing, 1bus SRC hardware control unit, Block diagram of microcoded control unit, Horizontal and vertical microcoding, difference between hard wired control unit and micro coded control unit. 
+
+5. Memory unit: 
+Dynamic and static memories, cache memories, virtual memory, memory management and address translation, virtual address translation in a paged MMU, input output organization.

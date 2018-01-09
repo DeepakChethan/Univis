@@ -1,0 +1,23 @@
+Microprocessor and Microcontroller Lab (8086 / 8051) 
+
+1. Programs for 8 / 16 bit Arithmetic operations. 
+
+2. Programs for sorting and searching. 
+
+3. Programs for string manipulation operations. 
+
+4. Programs for Digital clock and Stop watch. 
+
+5. Interfacing ADC and DAC. 
+
+6. Parallel communication between Two Microprocessor Kits using Mode 1 and Mode 2 of 8255. 
+
+7. Interfacing and programming 8279 - Keyboard and display interface 
+
+8. Square wave generation using 8253 timer. 
+
+9. Interfacing and programming of Stepper motor. 
+
+10. Programming using Arithmetic, Logical and Bit Manipulation instructions of 8051 Microcontroller. 
+
+11. Programming and verifying Timer and Interrupts operation of 8051 Microcontroller.

@@ -1,0 +1,37 @@
+2K11SM110 ENGINEERING MATHEMATICS –I 
+ (Common to Civil, Mechanical, Electrical, Electronics, Computer Science and Information Science) 
+
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+
+ PART –A 
+
+ Unit-1: Successive Differentiation: nth derivative of standard functions, Leibnitz theorem and problems, Polar curves and angle between two polar curves, Pedal equation of polar curves 6+1*=7 hrs. 
+
+ Unit-2:Rolle’sTheorem, Lagrangevaluetheorem andapplications,CauchyApplicationsmeanofTaylor and McLaurin’sexpansionfor a single and two variables (without proof). Indeterminate forms, evaluation of limits by L-Hospital rule (without proof). Maxima and Minima for a function of two variables. 7+2*=9 hrs. 
+
+ Unit-3: Derivative of an arc in Cartesian, parametric and polar forms. Curvature of plane curves-formula for radius of curvature in Cartesian, parametric, polar and pedal forms, centre of curvature –evolutes, singular points, asymptotes and envelopes. 6+1*=7 hrs. 
+
+ Unit-4: Partial differentiation: First and higher order derivatives, Euler theorem, Total differentiation, differentiation of implicit functions and composite functions, Jacobians, Errors and approximations. 6+1*=7 hrs. 
+
+ PART –B 
+
+ Unit-5: Standard reduction formulae for definite and indefinite integrals, Evaluation of these integrals with standard limits, problems, Tracing of standard curves in Cartesian form, parametric form and polar form. 6+1*=7 hrs. 
+
+ Unit-6: Double and Triple integrals, evaluation by the change of order of integration, change of variables and applications to area and volume, Beta and Gamma functions, Relation between beta and gamma functions, applications. 5+3*=8 hrs. 
+
+ Unit-7: Sequence of real numbers: Definition of a sequence, Bounded sequence, limit of a sequences Convergent, divergent and oscillatory sequences, iteriaMonotonic.6+1*=7hrs. seq 
+
+ Unit-8: Infinite series : Convergence, divergence and oscillation of an infinite series, comparison tests, p-series, D’Alembert’s ratio test, Raabe’s test, Cauchy’sforseriesofro positive terms. Alternating series: absolute and conditional convergence of binomial, exponential and logarithmic series. 7+1*=8 hrs. 
+
+ Question paper pattern:
+ The question paper contains two parts namely, Part A and Part B. Each part contains 4 questions. Five full questions are to be answered in all out of 8 questions, choosing at least two from each part. 
+
+ 
+
+ Text Books:
+ 1.Thomas, G B and R L Finney, Calculus, Addison Wesley, 9th Edition, 1998. 
+
+ 2.E.Kreyszig, “Advanced”8thEdition,Engineering2004,JohnWileyandsons. Mathematics
+
+ 3.P V O Neil Advanced Engineering Mathematics, Pearson / Thomson. 
+

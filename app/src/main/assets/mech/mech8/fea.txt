@@ -1,0 +1,57 @@
+2K11ME ME 802 FINITE ELEMENT ANALYSIS 
+
+Class: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT 1: 
+
+Introduction, Revision of matrices , Revision of Basic Elasticity [1, 2 And 3D], Stress Analysis, Boundary Conditions, Rayleigh-Ritz Method, Galerkin Method, Variational Approach, Concept And Explanation of Potential Energy And Condition for Equilibrium. 
+
+Basic Concepts of FEM, General Applicability of FEM, Engineering Applications, Derivation of Finite Element Equations Using Direct Approach, Some Commercial Finite Element Program Package. 
+
+Element Properties, Displacement Models, Natural Coordinate System, Relation Between Nodal Degree of Freedom And Generalized Coordinates, Selection of the Order of Interpolation Polynomial, Isoparametric Formulation, Criteria For Convergence Including Compatibility Conditions, Patch Test, Integration of Functions Using Gaussian Quadrature Formula, Static Condensation. 
+
+UNIT-2 
+
+Development of equation for finding shape functions, stiffness matrix, strain matrix and recovery of elements stresses for. 
+
+i) Bar elements. 
+
+ii) Truss elements. 
+
+iii) Beam elements. 
+
+iv) Axis symmetric problems. 
+
+v) Three nodded C.S.T. 
+
+vi) Four nodded quadrilateral element. 
+
+vii) Eight nodded curved quadrilateral element. 
+
+viii) Three dimensional stress analysis- Hexahedral element. 
+
+Both at an element level and global level assembly of global stiffness matrix, imposition of boundary conditions, Singularities that may occur in stiffness matrix. 
+
+Importance of Jacobean matrix in 2-D problems. General discussion of mesh parameters and properties. Introduction to thermal problems and fluid flow problems. 
+
+BOOKS 
+
+1) The Finite Element Method in Engineering, Singiresu. S, Rao, Elsevier Publ, ISBN:978-93-80931-55-5. 
+
+2) Introduction to Finite Elements in Engineering, Tirupathi R .Chandrupatla and Ashok D .Belegundu, Pearson Publications, ISBN:81-7808-644-1. 
+
+3) Finite Element Analysis, George R. Buchanan, Schaum’s Outline series, Tata MacGraw Hill, ISBN-13: 9780070087149. 
+
+4) The finite Element Method and Application in Engineering using ANSYS, Erdogan Madenci, Ibrahim Guven, Springer International Edition, ISBN:978-81-8489-746-3 
+
+5) Practical Finite Element Analysis by Nitin S. Gokhale, Sanjay S. Despande, Sanjeev V .Bedekar, Anand N. Thite, Finite to Infinite Publications, ISBN:978-81-90195-0-9. 
+
+SCHEME OF EXAMINATION 
+
+Examiner to set three questions from Unit – I and 5 questions from Unit – II. 
+
+Students should answer 2 full questions from Unit – I and 3 full questions from Unit – II.

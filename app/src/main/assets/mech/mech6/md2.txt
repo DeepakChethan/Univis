@@ -1,0 +1,69 @@
+2K11ME602 Machine Design –II 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT - I 
+
+1. FLY WHEELS: Analysis and Design of flywheel for engines and punching press, consideration of stresses in rims and arms. 6 
+
+2. FLEXIBLE MACHINE ELEMENTS: Design and selection of flexible machine elements. 
+
+Belt Drives- design of belt drives – calculation of the length of the belt, Number of piles and width of the belt – standard, flat and V-belt sections, V Belts-cross section-section procedure of V belts- pulley details for both flat and V belts-Ribbed V belts.8 
+
+Rope Drives- design and application of rope drives, wire ropes and pulleys-elevator and hoists-fatigue life of wire ropes.5 
+
+Chain drives- selection procedure of transimission chains and sprockets for various application-link chains and pulleys-silent chains.5 
+
+3. DESIGN OF SPRINGS: Springs-Types of springs-leaf,-helical, -disc or Belleville and concentric torsion springs-Uses of springs- Belleville springs,-Helical spring of different cross sections-combination of springs. Design of helical spring-compression and tension,-fatigue surge elimination- design of leaf springs.6 
+
+UNIT -II 
+
+4. DESIGN OF BEARINGS : Types of bearing, lubrication and types of sliding lubrication. Properties of oil and equation of flow: Introduction, viscosity, the Hagen – poiseuille law, flow between parallel stationery planes, viscosity - temperature relationship. Influence of pressure on viscosity and density – problems.4 
+
+Hydrostatic lubrication: Introduction, Hydrostatic step bearings, Hydro static journal bearings, and pivoted pad thrust bearings, oil lifts – problems. 4 
+
+Rolling contact bearings: Types of rolling contact bearings- applications- selection based on dynamic capacity, equation and different reliabilities, selection for variable loads and speeds- Radial bearing; Axial bearing-selection of bearing- Deep groove ball bearing, roller bearings, angular contact bearings. 4 
+
+5. DESIGN OF GEARS: 
+
+Spur and helical gears: Introduction to transmission elements-positive drivers and friction drives; gear drives-standard modules and various proportions-design of spur and helical gears based on contact stress and beam strength – based on Lewis and Buckingham equation, dynamic effects- check for wear and endurance strength-Gear Materials. 10 Bevel and worm gears:Bevel gears-Nomenclature-design based on contact strength and beam strength-based on Lewis and Buckingham. Worm and worm wheel-Nomenclature-design procedure-efficiency and thermal considerations in worm gears. Introduction to Multi-speed Gear Box and Speed Reducers.8
+
+ 
+
+Text Books: 
+
+1. Joseph Edward Shigley and Charles, R. Mischke, ?Mechanical Engineering Design?. McGraw Hill International Edition, 2000
+
+ 
+
+2. S.G. Kulakarni, ?Machine Design – solved problems ?Tata McGraw Hill Publishing Company Ltd., 1998.
+
+ 
+
+3. William orthein, ?Machine Component Design (vol.I and II)?, M/s. Jaico publishing 1998-99.
+
+ 
+
+4. T.V. Sundarajamoorthy and N. Shanmugum, ?Machine design?, Khanna Publishers,Delhi-6.
+
+ 
+
+Books for Refernce: 1. Gitan M. Maitra and L.N. Prasad, ?Hand Book of Mechanical Design?, Tata McGraw Hill 1985.
+
+ 2. V.B. Bhandari, ?Design of Machine Elements?, Tata McGraw Hill Publishing Company Ltd, 1998.
+
+ 3. Prabhu T.J., ?Fundamentals of Machine Design?, Madras Book House, Chennai.
+
+ 4. Panday and Shah ?Machine Design?.
+
+ 5. Design Data Books.
+
+ 
+
+Scheme of Examination: Examiner to set four questions from each Unit. 
+
+Students are to answer any five full questions choosing at least two questions from each unit.

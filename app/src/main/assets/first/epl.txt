@@ -1,0 +1,20 @@
+
+ 
+ 2K11SP1102 ENGINEERING PHYSICS LABORATORY 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Class Marks: 25 Max Marks: 100
+ 1. Density of Glass tube 
+ 2. Volume resonator 
+ 3. Sonometer
+ 4. Diffraction grating 
+ 5. Air wedge 
+ 6. Newton’s ring 
+ 7. Experiment with laser 
+ 8. n by dynamic method 
+ 9. y by single cantilever 
+ 10. y by bending method 
+ 11. Experiment with fiber optics 
+ 12. Determination of Currie temperature of a ferromagnetic substance 
+ 13. Transistor characteristics 
+ 14. Temperature dependence of risibility of semiconductor 
+ 15. Measurement of dielectric constant and its temperature dependence 

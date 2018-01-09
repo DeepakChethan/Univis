@@ -1,0 +1,60 @@
+2K11CE601 THEORY OF STRUCTURES –III 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+PART-A 
+
+1.Kani’s Method :Analysis of Beams, Frames with a storey)10 Hrs. 
+
+2.Lateral load Analysis: Cantilever Method, Portal frame Method10 Hrs. 
+
+PART-B 
+
+1.INTRODUCTION Static indeterminacy, Degree of Static indeterminacy, Kinematic indeterminacy, Generalized coordinates, Generalized Force and Deformation, Flexibility Matrix, Flexibility Equation, Stiffness Matrix, Stiffness Equation, Relation between Flexibility and Stiffness Matrices6 Hrs. 
+
+2.REVIEW OF CONSISTENT DEFORMATION AND SLOPE DEFLECTION METHODS Consistent Deformation Method, Methods of Finding Displacements, Slope Deflection Method 10 Hrs. 
+
+3.FLEXIBILITY MATRIX METHOD: STRUCTURES APPROACH Flexibility Equation, Analysis of Beams, Analysis of Plane Rigid Frames, Analysis of Pin Jointed Plane Frames12 Hrs. 
+
+4.STIFFNESS MATRIX METHOD: STRUCTURES APPROACHStiffness Equation, The method, Analysis of Beams, Analysis of Frames, Analysis of Pin Jointed Plane Frames, Comparison of Methods 12 Hrs. 
+
+2.Dams: Definitions, Classification, factors governing the selection of the type of dam, Investigation for a dam site selection, Types of Dams –earth and rock- fill, types of arch dam, design of arch dam, Butters dam and its advantages.(6 Hrs.) 
+
+3.Gravity Dam: forces acting –combination of forces for design, stone masonry vs concrete, elementary profile, practical profile principle and shear stresses, criteria for design. Methods of design of gravity dam. Low and high dams, single step method of design of gravity dams, joints, keys, water stops, opening and galleries and foundation treatment ad instrumentation.(10 Hrs.) 
+
+4. Uniform flow and its computations: Chezy’s formula, Manning’s f conveyance of a channels sections, section factor, hydraulic exponent. Economical sections (rectangular, triangular, trapezoidal and circular). Specific energy and force.(8 Hrs.) 
+
+5. Canal Irrigation: Classification of canals and their alignments, selection of canal-cutting, filling, partial cutting and filling. Canal structures-canals outlet, canals falls.(6 Hrs.) 
+
+6. Spillway: Importance and essentials of spillway, spillway components, factors affecting types and design of spillway, types of spillways : overflow, side channels, shaft tunnel siphon, emergency spillway, energy dissipater below spillway, types of energy dissipaters, stilling basin, appurtenances, spillway gates types.(8 Hrs.) 
+
+7. Design of canal in alluvial and non-alluvial soils: Sediment transport, Kenne comparison, design of unlined canals using both theories in alluvial soils and non-alluvial soils.(8 Hrs.) 
+
+8. Diversion Headwork: Functions of diversion headwork, types location and component parts of diversion headwork, effect of construction of a weir on the regime of rivers, causes of failures of weirs on permeable foundation. Bligh creep theory and its limitations, lances weighted creep theory, Khosals theory and design as permeable foundation. Design of vertical drop weir, silt control devices, silt excluder and silt ejector.(8 Hrs.) 
+
+Question Paper pattern: 
+
+Students have to answer Part-A and any Five full question of the remaining selecting at least two from each part. Part-a Compulsory covering the entire syllabus. 10 questions to be set of 2 marks each 
+
+Part-B-3 question to be set of 16 marks each covering topics 1, 2, 3. Part-C-5 question to be set of 16 marks each covering topics 4, 5, 6, 7, 8. 
+
+References:
+
+ 1. S. K. Garg Irrigation and Hydraulic structures
+
+ 2. Creager, Justin and Hinds engineering for dams Vol. L IL ill
+
+ 3. Elate-Caski, energy dissipaters
+
+ 4. Ven Te chow Open channel hydraulics
+
+ 5. P. N. Modi, Irrigation water resources and water power engineering.
+

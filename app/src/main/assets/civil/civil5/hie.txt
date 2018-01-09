@@ -1,0 +1,51 @@
+2K11CE502 HYDROLOGY AND IRRIGATION ENGINEERING 
+
+Hours / Week: 4 Exam: 3 Hours 
+
+Total: 60 hours Class Marks: 25 
+
+Max Marks: 100 
+
+1.Hydrology: 
+
+Importance of hydrology-hydrologic cycle. Hydrologic data global water budget–Waterresources of Karnataka and India. (2 Hrs.) 
+
+2.Precipitation: 
+
+Global wind, circulation system water vapour, amount of perceptiable water forms ofprecipitation, measurement of rainfall –range network, Analysis of rainfall data-Arithmetic, polygon and Isohytal method, average rain fall, missing rainfall and consistency of rainfall data. (8 Hrs.) 
+
+3.Hydrologic Abstraction and their importance: 
+
+Interception, infiltration. Detention storage,evapotranspiration, infiltration indices, base measurements of infiltration and evapotranspiration by different methods. (10 Hrs.) 
+
+4.Runoff: 
+
+Effective rainfall, factors affecting runoff, catchment yield. Runoff estimation with differentempirical methods and rational methods, stream gauging. (6 Hrs.) 5.Hydrograph: 
+
+Components of hydrograph, time of concentration of base flow separation, basin lag time, unit hydrograph theory-assumption, instantaneous unit hydrograph, s-hydrograph, derivation of unit hydrograph and synthetic unit hydrograph by Snyder’smethod.Flood and flash foods. (12 Hrs.) 6.Irrigation: 
+
+definition, necessity of irrigation, advantages and disadvantages of irrigation. (4 Hrs.) 7.Soil water plant Relation: 
+
+Water holding capacity of soil field capacity, wilting point, soil water classification. Optimum moisture for crop growth, frequency of irrigation of irrigation, intensity of irrigation, Types of crops India. Duty, delta and Base period relationship, Factor affecting duty, Consumptive use, irrigation efficiencies. (12 Hrs.) 8.Water logging and its control: 
+
+Definition, causes of water logging and their measure for prevention, anti- water logging measures and reclamation. (6 Hrs.) 
+
+Question paper Pattern: 
+
+Introduction: Students has to answer Part-A and any five full question of the remaining selecting at least one from each part. 
+
+Part A: Compulsory covering the entire syllabus 10 question to be set of 2 marks each Part B: Three Question to be set of 16 marks each covering topics: 1, 2, 3, and 4. 
+
+Part C: Five Question to be set of 16 marks each covering topics: 5, 6, 7 and 8. Reference Books: 
+
+1.Singh VP “Elementarydrology”PrenticeHallEnglewoodHy cliffs, New Jersey 
+
+2.Ven The Chow “HandbookMcGrawof-Hill appliedbookcompany Hydrology” 
+
+3.S. K. Grag “Irrigation and hydraulic structure 
+
+4.B. C. Punmia “Irrigation Engineering” 
+
+5.Varshney and Gupta “Irrigation Engineering Volt I and II 
+
+6.P N Modi “Irrigation, Water Resources and Wate

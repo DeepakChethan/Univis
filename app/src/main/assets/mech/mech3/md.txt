@@ -1,0 +1,79 @@
+2K11 ME 306 Machine Drawing (In First Angle Projection) 
+
+Class : 3 Hours/Week Internal Assessment Marks: 25 
+
+Examination: 4 Hrs Max marks for Examination: 100 
+
+Non – Examination Unit: 
+
+B.I.S. Codes in Machine Drawing, Dimensioning, Indication of Tolerances, fits, surface Texture symbols, conventional representation of screw threads, construction of nut and bolt, studs, machine parts not 
+
+sectioned materials in section, different types of keys, welding symbols. 6 
+
+Examination Unit: 
+
+UNIT I 
+
+(To set 2 questions i.e. One on Developments and ONE on conversion of views and student to answer any ONE question of 20 marks) 
+
+Development of lateral surfaces: 
+
+Development of lateral surfaces of right regular prisms, pyramids, cones, cylinders and when truncated and with through holes. Development of transition pieces. 
+
+Conversion of Views: Drawing orthographic views and sectional views from given isometric view of simple machine parts 15 
+
+UNIT II 
+
+(To set 2 questions and student to answer ONE question of 20 Marks) 
+
+Drawing only the front view of the assembly in section/half section, when details of individual parts are given, for the following items: 
+
+1. Cotter Joints 
+
+2. Pin or Knuckle Joints 
+
+3. Split Muff Coupling 
+
+4. Flanged couplings 
+
+5. Compression Coupling 
+
+6. Bush Type Flexible Coupling 
+
+7. Universal Coupling 15 
+
+UNIT III 
+
+(To Set ONE question of 60 marks, to be answered compulsory) 
+
+Drawing the 3 principal views of the assembly, of which one or two views in section/half section, when the details of individuals parts are given, for the following items: 
+
+1. Screw Jack 
+
+2. Stop Valve 
+
+3. Plummer Block 
+
+4. Split Sheave Eccentric 
+
+5. Gland and Stuffing Box Expansion Joint 
+
+6. Feed Check Valve 
+
+7. Swivel Bearing 
+
+8. Machine Vice 
+
+9. Rams bottom safety Valve. 
+
+10. Tailstock of Lathe 
+
+11. Tool Head of a Shaper 
+
+12. Cross Head of a Vertical Steam Engine 24 
+
+TEXT BOOKS: 
+
+1. Machine Drawing: K.R.Gopala Krishna 
+
+2. Machine Drawing : N.D. Bhatt.

@@ -1,0 +1,31 @@
+Measurements Laboratory 
+
+1. Measurement of inductance by three Voltmeter, Ammeter method and AVW method. 
+
+2. Measurement of Capacitance by three voltmeter, Ammeter method and AVW method. 
+
+3. Verification of theorems (DC circuits only) Superposition, Reciprocity. 
+
+4. Verification of theorems (DC circuits only) Thevnin’s theorem, Maximum power transfer theorem. 
+
+5. Measurement of resistance by 
+a. Wheat stone’s bridge 
+b. Kelvin’s Double bridge 
+
+6. Adjustment and calibration of single phase Energy meter. 
+
+7. Measurement of Resistance by DC potentiometer; Calibration of ammeters, Voltmeter and Wattmeter by DC Potentiometer. 
+
+8. Measurement of 3 phase active and reactive power by One wattmeter method and Two wattmeter method. 
+
+9. Measurement of L and C by AC bridges 
+a. Maxwell Bridge 
+b. Desauty Bridge 
+
+10. Calibration of current – transformer by Silsbee’s Test. 
+
+11. Calibration of Dynamometer type wattmeter by Phantom loading method 
+
+12. Measurement of displacement using LVDT. 
+
+13. Temperature measurement by Thermocouple/RTD.

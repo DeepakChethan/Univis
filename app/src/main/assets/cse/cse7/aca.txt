@@ -1,0 +1,40 @@
+2K11CS 71 : ADVANCED COMPUTER ARCHITECTURE 
+
+Note : 
+
+FOUR questions from PART A and FOUR questions from PART B to be set. 
+
+Students should answer FIVE questions selecting atleast TWO from each PART . 
+
+For every SIX hours of syllabus ONE question may be set. 
+
+Hours per week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+PART A 
+
+Chapter 1 : Parallel Computer Architecture 6 Hours The State of Computing, Computer Development Milestones, Elements of Modern Computers, Evolution of Computer Architecture. 
+
+Chapter 2 : Parallel Architecture Types 6 Hours System Attributes to Performance, Multiprocessors, Multivector and Architecture types SISD, SIMD, MISD and MIMD Computers. 
+
+Chapter 3 : Program and Network Properties 6 Hours Conditions of Parallelism, Program PART itioning and Scheduling, Program Flow Mechanisms, System Interconnect Architecture. 
+
+Chapter 4 : Processor and Memory Technologies 6 Hours Advanced Processor Technology, Superscalar and Vector Processor, Backplane Bus System, Shared Memory Organizations. 
+
+PART B 
+
+Chapter 5 : Pipelining and Superscalar Technologies 6 Hours Linear Pipeline Processors, Non Linear Pipeline Processors, Instruction Pipeline Design, Arithmetic Pipeline Design. 
+
+Chapter 6 : Multiprocessors and Multi Computers 6 Hours Multiprocessor System Interconnects, Cache Coherence and Synchronization Mechanisms, Message Passing Schemes. 
+
+Chapter 7 : Parallel Programs 6 Hours Parallel Application Case Studies, The Parallelization Process, Parallelization of an Example Program. 
+
+Chapter 8 : Scalable Multiprocessors 6 Hours Scalability, Realizing Programming Model. 
+
+References : 1. Kai Hwang, Advanced Computer Architecture – Parallelism, Scalability, Programmability, McGraw Hill. 2005
+
+ 2. David E Culler, J P Singh, Anoop Gupta, Parallel Computer Architecture, Harcoust Asia and Morgan Kaufmann, 1998.
+
+ 3. John P Hayes, Computer Architecture and Organization, 3rd Edition, McGrawHill,1998
+
+ 4. V Rajaraman, C Siva Ram Murthy, Parallel Computers – Architecture and Programming, PHI.
+

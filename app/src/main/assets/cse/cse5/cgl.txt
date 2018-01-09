@@ -1,0 +1,40 @@
+
+
+ 2K11CIL 57 : COMPUTER GRAPHICS LABORATARY 
+ (Regular Laboratory with Mini Project) 
+
+ Hours per week : 3 Examination Marks : 100 Sessional Marks : 25 
+
+ PART A 
+
+ In this laboratory the students has to write and execute programs in C/C++ like 
+
+ 1. Program to recursively subdivide a tetrahedron to from 3D Sierpinski gasket. The number of recursive steps is to be specified by the user. 
+
+ 2. Program to implement Liang-Barsky line clipping algorithm. 
+
+ 3. Program to draw a color cube and spin it using OpenGL transformation matrices. 
+
+ 4. Program to create a house like figure and rotate it about a given fixed point using OpenGL functions. 
+
+ 5. Program to implement the Cohen-Sutherland line-clipping algorithm. Make provision to specify the input line, window for clipping and view port for displaying the clipped image. 
+
+ 6. Program to create a cylinder and a parallelepiped by extruding a circle and quadrilateral respectively. Allow the user to specify the circle and the quadrilateral
+
+ 7. Program, using OpenGL functions, to draw a simple shaded scene consisting of a tea pot on a table. Define suitably the position and properties of the light source along with the properties of the surfaces of the solid object used in the scene. 
+
+ 8. Program to draw a color cube and allow the user to move the camera suitably to experiment with perspective viewing. Use OpenGL functions. 
+
+ 9. Program to fill any given polygon using scan-line area filling algorithm. (Use appropriate data structures.) 
+
+ 10. Program to display a set of values { fij } as a rectangular mesh. 
+
+ 
+
+ PART B 
+
+ Develop a suitable Graphics package to implement the skills learnt in the theory and the exercises indicated in PART A using OpenGL. 
+
+ Note: 
+Any one question from PART A may be asked in the examination. 
+A report of about 10 – 12 pages on the package developed in PART B, duly certified by the department must be submitted during examination.

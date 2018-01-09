@@ -1,0 +1,45 @@
+2K11 CI 42 : MICROPROCESSORS 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART-A 
+
+ Unit 1. Microprocessors Architecture and Addressing Mode: 
+
+ Introduction to Microprocessors, Modern Microprocessors, Architecture of 8-86 Microprocessor, the Programming Model, Real Mode Memory Addressing, Protected Mode Memory Addressing, Memory Paging, Data Addressing modes, Program Memory Addressing Modes, Stack Memory Addressing. 
+
+ Unit 2. Instruction Set and Programming: 
+
+ Data Movement Instructions, Assembler Directives, Arithmetic and logic Instructions, Program Control Instructions, Procedures and Macros, Introduction to Hardware and Software Interrupts, Machine Control and Miscellaneous Instructions, Programming Examples. 
+
+ PART-B 
+
+ Unit 3. Programming: 
+
+ Modular programming, Using the Keyboard and Video Display, Using Assembly language with C/C++for 16-bit applications. 
+
+ Unit 4. 8086 Hardware specifications: 
+
+ Pin functions, Clock generators, Bus buffering and Latching, Timing diagram, Min/Max Mode. 
+
+ Unit 5. Memory and I/O interfacing: 
+
+ Memory devices, Addressing decoding, 8086 Memory Interface, Dynamic RAM, Introduction to I/O Interfaces. 
+
+ Unit 6. Interfacing Devices: 
+
+ 82C55 Programmable Peripheral Interface, 8254 Programmable Interval Timer, Introduction to DMA Process, 8237 DMA controller, 8259 Programmable Interrupt Controller, Programmable Interval timer chips. 
+
+ References: 
+
+ 1. Barry B Brey - The Intel Microprocessors 8086- Pentium processor,8th edition, Prentices Hall of India, 2009 
+
+ 2. Venugopal K R, Rajkumar –Microprocessor x86 programming, BPB Publications, New Delhi, 1995 
+
+ 3. Douglas V Hall –Microprocessors and Interfacing, Revvised second edition, TMH, 2006 
+
+ 4. K. Udaya Kumar and B S Umashankar –Advanced Microprocessors and IBM-PC Assembly Language Programming Family, TMH 2003

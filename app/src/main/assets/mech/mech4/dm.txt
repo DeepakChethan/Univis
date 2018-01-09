@@ -1,0 +1,51 @@
+2K11 ME 403 Dynamics of Machines 
+
+Lecture: 4 Hrs / week Exam: 3 Hrs 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Exam Marks: 100 
+
+UNIT I 
+
+1. Force Analysis of Mechanisms. 15 
+
+D’Alembert’s principle, equivalent mass system. Static and dynamic force (considering friction) analysis in mechanisms. 
+
+2. Gyroscopic Couple and Predessional Angular Motion 8 
+
+Principle of gyroscope motion: Spin, precession and torque vectors, gyroscopic and its effect on planes, ships, 2 wheelers and 4 wheelers. 
+
+UNIT II 
+
+3. Flywheel and Governers. 5 
+
+Turning moment diagram for different engines. Fluctuation of speed, energy, design of flywheel. Governor function and its classification (Centrifugal and Inertia). Porter governor, Hartnell governer, effect of friction, characterization of governors. 
+
+4. Balancing of rotating and reciprocating masses 12 
+
+Static and dynamic balancing. Balancing of rotating and reciprocating (primary and secondary forces) masses. Balancing of inline engine, Radial engines, V-engine. 
+
+5. Vibrations 20 
+
+Causes and effect of vibration in machines. Different methods of reprenting of vector. S.H.M, degrees of freedom. Free, damped and forced vibration. Transmissibility and isolation. Free torsional vibration of shafts. Whirling of shafts. Geared System. 
+
+Books for Reference: 
+
+1. Theory of Machines by J.E. Shiegley, Vicker, McGraw Publication. 
+
+2. Mechanisms and Dynamics of Machinery by Hamilton, H. Mabie and Charles F. Rein holtz., John Wiely Publishers. 
+
+3. Dynamics of machine by A.R.Holovenko. 
+
+4 Theory of vibration with application by W.T.Thomson. 
+
+5) Mechanical vibration by P.srinivasan. 
+
+6) Mechanical vibration by Den Hertog J.P 
+
+Scheme of Examination: 
+
+Examiner to set three questions from unit I and five questions from unit II. 
+
+Students are to answer a total of five questions choosing at least two questions from each unit.

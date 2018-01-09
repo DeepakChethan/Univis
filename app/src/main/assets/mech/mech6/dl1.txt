@@ -1,0 +1,63 @@
+2K11 ME 607 DESIGN LABORATORY – I 
+
+Class: 3 Hrs / week 
+
+Internal Assessment Marks: 25 
+
+Examination: 3 Hrs 
+
+Max marks for Examination: 100 
+
+UNIT I 
+
+1. To draw the displacement, velocity and acceleration curves for a slider-crank mechanism 
+
+2. To study motion of the follower for the given cam and determine the displacement, velocity andacceleration at every point (cam analysis). 
+
+3. To study the variation of input torque with respect to the out put torque on a four bar mechanism and to find the mechanical advantage 
+
+4. To determine the coefficient of friction, slip and creep in belt. 
+
+5. Determination of Gyroscopic couple.UVCE, Mechanical Engg. 
+
+6 
+
+UNIT II 
+
+7. Determination of natural frequency, damping ratio and damping coefficient in a longitudinal vibrations system. 
+
+8. Determination of natural frequency, damping ratio and damping coefficient in a torsional vibration systems. 
+
+9. Determination of critical speed of a rotating shaft (whirling of shaft) 
+
+10. Static balancing of masses. 
+
+11. Balancing of rotating masses. 
+
+12. Determination of equilibrium speed, sensitiveness power and effort of porter governor. 
+
+Books for References :
+
+ 1. Theory of Machines – Shigley and Vichel
+
+ 2. Theory of Machines – Ballany
+
+ 3. Theory of Machines – Sadhu singh
+
+ 4. Fundamentals of mechanical vibrations – S. Graham Kelley
+
+ 5. Theory and practice of Mechanical vibrations – J.S Rao and K. G Gutpta.
+
+ 
+
+Scheme of Examination: 
+
+One question from Unit I One question from Unit II Viva – voce 
+
+Class: 3 Hrs / week Examination: 3 Hrs 
+
+40 Marks 
+
+40 Marks 
+
+20 Marks

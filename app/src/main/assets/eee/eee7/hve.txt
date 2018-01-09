@@ -1,0 +1,32 @@
+High Voltage Engineering 
+
+PART A 
+
+1. Introduction: 
+Advantages of high voltage for power transmission-prospective voltage levels. 
+
+2. Generation of high voltages : 
+A C Voltages : Transformers in cascade. Resonant transformers – parallel and series resonant transformers. Tesla coil. 
+D C Voltages : voltage doubler circuit, cockroft - Walton cascaded D C generators – Voltage regulation, ripple, optimum number of stages. Electrostatic DC generators. 
+Impulse Voltages: Standard Lighting and switching voltages. Single stage impulse generators. Multistage impulse generators. Controlled tripping - three - electrode and trigatron gap methods. Impulse current generator. Generation of switching surge voltages. 
+
+3. High Voltage and Current Measurements : 
+R-dividers for AC and DC voltages. Generating voltmeter. Electrostatic voltmeter, sphere gaps - Method of measurement of AC, DC and impulse voltages. Effects of temperature, pressure, humidity and radiation. Potential dividers for impulse voltages-R, C and RC mixed dividers. Measurement of high DC, AC and Impulse currents. Diode peak voltmeter. 
+
+
+PART B 
+
+4. Breakdown Theory : 
+Ionization phenomena, Breakdown in Gases - Townsend’s theory, Paschen’s law, streamer’s theory of break down. Time lags of breakdown, Breakdown in Electronegative gases, Corana discharges and breakdown in non-uniform field. Breakdown in solid and liquid dielectrics. 
+
+5. Over Voltage Phenomena on Transmission lines : 
+Causes of over voltages including lightning, switching, faults etc. Origin of travelling waves. Partial differential equations for loss less lines and their solution. Behavior of rectangular travelling wave at transition points - open ended line, short circuit line, line terminated with a resistance, capacitance and inductance (R-L-C). Bewley - Lattice diagram. Protection of transmission lines against over voltages - Horn gap, surge absorber. Ground wires, Lightning arrestors - Silicon carbide and Zinc oxide arrestors - comparison between them with regard to construction and characteristics. Insulation co-ordination. 
+
+6. High Voltage testing of electrical apparatus : 
+Layout of HV Testing laboratory. Clearances, earthing and shielding. 
+
+7. Non destructive HV tests on materials and apparatus: 
+Introduction, Measurements of capacitance and loss factor using Scherings bridge at low and high frequencies. Partial discharge measurements. Straight and balanced methods of detection. Measurement of PD in cables and transformers. 
+
+8. High voltage Testing of Electrical apparatus : 
+HV testing of Bushings, testing of cables, transformers and surge diverters ( to be discussed with testing circuits and procedure for important tests as per Indian Standards).

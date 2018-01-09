@@ -1,0 +1,27 @@
+Digital Signal Processing 
+
+PART-A 
+
+1. Introduction 
+Fourier Transform, Z-Transforms, Frequency Domain Sampling, DFT as Linear Transformation, Relationship of DFT to other Transformation, Frequency analysis of signals using DFT. 
+
+2. Computation of DFT: 
+Direct Computation of DFT, Introduction to FFT, FFT Algorithms, Decimation in Time FFT algorithms, Decimation in Frequency algorithms, FFT algorithm for a Composite number – Chirp Z Transformation. 
+
+3. Digital Filter Structures: 
+IIR-Filter structures: Direct form I andII, Cascade, parallel and Ladder type realization, FIR filer structures: Direct form I and II Linear Phase FIR structure. 
+
+4. IIR Filter Design: 
+IIR Filter design by approximation of derivatives, IIR filter design by Impulse Invariance IIR filter design by Bilinear transformation, Transformation of basic low pass filer. 
+
+
+PART-B 
+
+5. FIR Filter Design: 
+Characteristics of FIR digital filters, Different type of windows: - Rectangular, Barlett, Hamming, Blackman and Kaiser window, Condition of FIR filter to have Linear Phase, symmetric and anti-symmetric. Design of FIR filters using windows Design of FIR filters by frequency sampling method, Design of Equi-ripple FIR filters, Comparison of IIR and FIR filters. 
+
+6. Multirate digital signal processing: 
+The basic sample rate alterations – decimators and interpolators. Filter in sampling rate alteration. Multistage design of decimators and interpolators. 
+
+7. Digital Signal Processors(DSP’s): 
+Architecture and features of TMS 320CXX, DSP Processor, Addressing modes, instruction set and application.

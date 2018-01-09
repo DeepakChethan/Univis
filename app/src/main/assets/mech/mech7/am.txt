@@ -1,0 +1,49 @@
+2K11 ME 701 AUTOMATION IN MANUFACTURING 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+PART-A 
+
+1. Automation-Definition, Reasons, Arguments for and against Automation. Production Operations and Automation strategies-Manufacturing Industries, Types of Production, Functions in Manufacturing, Information Processing in Manufacturing, Plant layout, Production concepts and Mathematical models, Automation Strategies, Problems. 
+
+2. Automation and Control strategies, Basic elements of Automated system-Power to Accomplish the Automated process, Program of Instructions, Control system, Advanced Automation Functions-Safety monitoring, Maintenance and Repair diagnostics, Error Detection and Recovery, Level of Automation, Sensors, Actuators and other Control System components. 10 
+
+3. Automated Material Handling and Storage system, Principles of Material Handling, Equipments, Automated Guided Vehicle systems-Components, Types, Guidance, Routing, Steering, Control, Loading, System design, Advantage and Applications. Automated Storage and Retrieval systems- Definition of ASRS, functions, components, Types and Design of ASRS, Distributed Control structure for AGVs and ASRS, Conveyors, Problems. 12 
+
+PART-B 
+
+4. Discrete Control using Programmable Logic Controllers and Personal Computers-Discrete Process Control- Logic Control and Sequencing, Ladder Logic Diagrams, Programmable Logic Controller- Components of PLC, operating cycle, Capabilities and Programming PLC, Problems. 10 
+
+5. Pneumatic and Electro Pneumatics in Automation, Industrial Prime movers, Basics of Pneumatics, Compressed Air-generation and Contamination control, Pneumatic Actuators, Pneumatic Valves and Control Circuits. Building of Pneumatic Circuits for typical Automation applications. 10 
+
+PART-C 
+
+6. Electro Pneumatics-Integration of Technologies, Solenoid valves, Control Devices-Switches, Push button, Relays, Sensors. Time delay relays (Timers), Electro Pneumatic multiple actuator circuits. Interfacing with PLC, Building of Electro pneumatic circuits for typical Automation applications. 10 
+
+Text Books 
+
+9. Mikell P Groover- Automation, Production systems and Computer Integrated Manufacturing, PHI Publishers 2002 and 1997. 
+
+10. Nanua Singh-Systems Approach to Computer Integrated Design and Manufacturing, John Wiley and Sons. Inc, New York 1996. 
+
+11. Joji P.-Pneumatic Controls. Wiley India Pvt Ltd edition 2008. 
+
+References 
+
+1. Ackermann et al., Programmable logic controllers –Advanced level, Festo Didactic KG, 1991 
+
+2. American Society of tool and manufacturing engineers, Michigan, Pneumatic controls for industrial applications, 1965. 
+
+3. J.R. Hackworth and F.D. Hackworth, Jr., Programmable logic controllers-Programming methods and applications, Pearson Education, Pentice hall. 
+
+4. Programming and Applications of Allen Bradely PLCs, Course material of Apex High-Tech Institute, Bangalore. 
+
+Scheme of Examination: 
+
+Examiners to set Three Questions in Part-A and Part-B, Two Questions in Part-C 
+
+Students are to answer Five full questions choosing at least One full question from each Part.

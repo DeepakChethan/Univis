@@ -1,0 +1,657 @@
+2K11CE606 (a) AIR POLLUTION and CONTROL METHODS 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+Part-A 
+
+1.Definition, Atmosphere and its structures, role of air pollution control in modern society, Classification and sources, characteristics of air pollution, units.(8 Hrs.) 
+
+2.Effects of air pollution on human health. Animals, materials and vegetation, global Effects, smog, greenhouse effect, air pollution episodes.(10 Hrs.) 
+
+3.Meteorology - Meteorological parameters-wind direction and speed, wind rose, Temperature and lapse rates, Stability, Inversions, : Mixing height, moisture and humidity, Rainfall and precipitation, Stack plumes, effects of terrain - heat island, Plume rise, Stack height, and Air pollutant concentration models.(12 Hrs.) 
+
+Part-B 
+
+4.Air pollution control philosophy, control of air pollution of stationary sources, methods and nature of air pollutants, Design process of air pollution control equipments Gravity settling chambers, cyclones, filters, electrostatic precipitators, scrubbers, control, of gaseous emissions.(12 hrs.) 
+
+5.Air pollution measurement-sampling and analysis- stack sampling train, isokinetic sampling, SPM (Suspended particulate matter) sampling, smoke measurement dust fall jar.(8 hrs.) 
+
+6.Air pollution control legislations, Air quality standards, emission standards, Air Pollution index. Air pollution duo to mobile sources.(10 hrs.) 
+
+Question paper pattern: 
+
+Five question to be answered with a minimum of two from each part. Question Paper should be set for 8 main questions, 4 from Part A and 4 in Part B. 
+
+Reference Books:
+
+ 1. M. N. Rao and H V.N Rao (l989), Air pollution, Tata McGraw hill publishing co Ltd, New Delhi. (Text book)
+
+
+2. Gerard Kiely (199R), Environmental Engineering, McGraw hill international edition. 
+
+
+3. Pratapa Mowli. N. Venkata Subbaya (1989), Air pollution and control, Divya jyothi Prakashan, Jodhpur.
+
+
+4. Howard S Peavy, Donald R Rowe and George Tchobanoglous (1985), Environmental
+
+ 5. C. S. Rao (1991) environmental rnPollutionLimitedNew ConDelhi
+
+ 6. Noel De Nevers: Air pollution Control Engineering”,Grawhillinternational1995;edition. Mc
+
+ 7. Mackenzie L Davis and David A Cornwel; Introduction to Environment engineering McGraw hill.
+
+ 2K11CE606 (b) DESIGN AND DRAWING OF WATER TREATMENT UNITS 
+
+Hours / Week: 4 
+
+Exam: 4 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+Design and drawing of following water treatment units: 
+
+1.Screens4Hrs. 
+
+2.Aerators4Hrs. 
+
+3.Flash mixers 4Hrs. 
+
+4.Flocculators 4Hrs. 
+
+5.Clariflocculators 4Hrs. 
+
+6.Sedimentation tank s8Hrs. 
+
+7.Slow sand filters 8Hrs. 
+
+8.Rapid sand filters and Pressure fittings 12Hrs. 
+
+9.Miscellaneous treatment units 12Hrs. 
+
+Question paper pattern: 
+
+Question papers consists of two parts –PART A and PART B, consisting of two question each to answer ONE question of 40 marks from Part A (Chapters I to IV) and ONE question of 60 marks from part B (Chapters V to XI) 
+
+Reference Books: 1. S. K. Garg “EnvironmentalplyEngineering,engineering Vol1998)”.I
+
+ 2. Hammer and Hammer, “Water and Waste LtdTechnology”,.ManualonWater supply and Treatment –prepared by the expert committee, Central
+
+ 3. Public Health and Environmental engineering Organization May 1999
+
+ G. S. Birdie –Water Supply and Sanitary Engineering, Edition 2004
+
+ E. w. Steel and Terence J McGhee –Water and Sewerage-fifth Edition-n McGraw-Hill
+
+ G. M. Fair J. C. Geyer and D. lA. OakumIand “WaterII” aJohn Wiley and Sons Inc
+
+ 2K11CE606 (c) CONSTRUCTION PROJECT MANAGEMENT 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+OBJECTIVE: To study the various management techniques for successful completion of construction project 
+
+CHAPTER I 
+
+CONCEPTS OF PROJECT MANAGEMENT Concepts of a project –categories of project –Project life cycle phases –Project management concepts –tools and techniques for project management –the project manager –Basic education for a project manager –Roles and responsibilities of a project manager –Project manager as a profession. (10 hrs.) 
+
+CHAPTER II ESTABLISHING THE PROJECT: SCOPE, TIME, COST AND PERFORMANCE GOALS Financing arrangements –Preparation of cost estimates –Finalization of project implementation schedule – Evaluation of project profitability –Appointing a project manager, CPM/PERT Network analysis.(10 hrs.) 
+
+CHAPTER III ORGANIZING FOR PROJECT MANAGEMENT Project manager’s–Projectorganizationauthority–Accountability in project execution –Contracts –3 “R” S contracting –Tendering and selection of contractors –Team building.(10 hrs.) 
+
+CHAPTER IV DESIGN FOR PROJECT IMPLEMENTATION Working of systems –Design of systems –Project work system design –Work break down structure (WBS) –Project execution plan (PEP) –Project procedure manual –Project procedure manual –Project control system –Planning, Scheduling, and monitoring –Monitoring contracts –Project diary. (10 hrs.) 
+
+CHAPTER V COST ESTIMATION AND PROJECT WORK SCHEDULE Project direction –communications in a project –Project coordination –Project control –Scope/progress control – Performance control –Schedule control –Cost control, cost indices and types of construction cost estimates, Line-of –balance method of scheduling, factors affecting work schedule. (8 hrs.) 
+
+CHAPTER VI PROJECT MANAGEMENT PERFORMANCE Performance indicators –Performance improvement –The CM and DM companies for better project management-project management environment, (4 hrs.) 
+
+CHAPTER VII SELECTING CONSTRUCTION EQUIPMENT Equipment management in construction projects, economics of construction equipment, operating and owning cost, maintenance, construction planning, materials management and inventory control, environmental aspect of construction site, execution and site monitory.(8 hrs.) 
+
+Question paper pattern: 
+
+Answer any Five full question out of Eight Question is to be set. Each questions carry 20 marks. 
+
+Reference Books:
+
+ 1. S CHOUDHARY, Project management –McGraw-Hill companies,1998
+
+ 2. K.K. CHITKARA, Construction project management: Planning, scheduling and control, Tata McGraw-Hill publishing company,1998
+
+ 3. Chris Hendrickson and Tung Au Project Management for Construction –Fundamental concepts for Owners, Engineers, Architects and Builders, Prentice Hall, Pittsburg, 2000
+
+ 4. Fredrick E. Gould, Construction Project management, Wentworth institute of technology, Vary E. Joyce, Massachusetts institute of technology, 2000
+
+ 5. George J. Ritz, Total construction project management –McGraw-Hill Inc, 1994.
+
+ 6. Construction planning equipments and methods by R. L. Peurifoy and W. B. Ledbetter, McGraw-Hill companies,2000
+
+ 2K11CE606 (d) EXPANSIVE SOIL ENGINEERING 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 Max Marks: 100 
+
+1. Introduction: Origin, Distribution, Recognition and Identification and Classification of expansive soils Engineering, Classification, Mineralogy, CEC, Clay minerals, free swell, shrinkage index, swelling potential and swelling pressure –methods of determination and factors influencing 10 Hrs. 
+
+2. Design alternatives: Introduction, Structural foundation alternatives - Drilled pier and beam foundation, Mat foundation, Shallow footing foundation, under-reamed pile foundation, general condition for under-reamed piles, Design and construction.12 Hrs. 
+
+3. Design for highway and airfield pavements: Introduction, general principles of pavement design, Design features and treatment methods for expansive soil sub grades and highway pavements, Air field procedures.6 Hrs. 
+
+4. Treatment of Expansive soils : Introduction, General consideration and Guide lines, removal and replacement, re-moulding and compaction, pre-loading and pre-wetting, chemical admixtures- lime, cement, fly ash, mixture design procedure and application methods, Moisture control, Electro-chemical methods12 Hrs. 
+
+5. Remedial measures: Introduction, investigation of structures and foundation soil, remedial procedure alternatives- drilled pier and beam foundation, underpinning, slab on grade foundation, footing, foundation Exopy treatment moisture stabilization and barriers, Remedial measure for building and pavements, case histories. 8 Hrs. 
+
+6. Method of construction in expansive soils: Introduction, sub- base preparation, construction and water – protection measures, maintenance and rehabilitation of structures founded on expansive soils.6 Hrs. 
+
+7. Swell-shrink behavior of expansive soil: Introduction investigation of foundation movements, cycle behaviour, factors affecting, case histories. 6 Hrs. 
+
+Question paper pattern: 
+
+Answer any Five full question out of Eight Question is to be set. Each question carry 20 marks. 
+
+Reference Books:
+
+ 1. Foundations on Expansive soils by F.H. Chen, Elsevier Scientific Publishing Company, New York
+
+ 2. Construction of Buildings on Expansive soils by E.A. Sorochan, Oxford and IBH publishing Co. Pvt. Ltd.
+
+ 3. Expansive soils –Problems and Practice in foundation and Pavement engineering by John D. Nelson and Debora. J. Miller, John Wiley and Sons Inc, New York.
+
+ 4. Clay mineralogy by R.E. Grim, McGraw hills Book Company Inc., New York.
+
+ 2K11CE606 (e) PAVEMENT MATERIALS 
+
+Hours / Week: 4
+
+ 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Aggregates: Origin; classification, requirements; properties and tests on road aggregate concepts of size and gradation - design gradation, maximum aggregate size, aggregate blending to meet specification.(10 Hrs.) 
+
+2.Bitumen and Tar: Origin, preparation, properties and chemical constitution of bituminous road binders,requirements.(6 Hrs.) 
+
+3.Bituminous Emulsions and, Cutbacks: Preparation, characteristics, uses and tests.(6 Hrs.) 
+
+4.Adhesive or Bituminous Binders to Road Aggregates: Adhesive fai1ure, mechanism of stripping, tests andmethods of improving adhesion.(6 Hrs.) 
+
+5.Bituminous Mixes: Mechanical properties dense and open graded mixes, common mechanical tests bituminousmix. Design methods and specification using different criteria.(10 Hrs.) 
+
+6.Cement Concrete for Pavement Construction: Requirements, IRC and ISI specifications and tests, joint filler and sealer materials - requirement and tests.(10 Hrs.) 
+
+7.Special bituminous Mixtures, Recycling and Additives: Use of different additives, viz., polymer, rubber, anti- stripping agents, recycling of bituminous mixes.(6 Hrs.) 
+
+8.Geo synthetic in Pavement Construction, Geo-fabrics, geo-grids and Geo-mats.(6 Hrs.) 
+
+Question paper pattern: 
+
+Answer any Five of the eight main questions to be set covering the entire syllabus. All question carry 20 marks. 
+
+Reference Books:
+
+ 1. RRL, DSIR, Bituminous Materials in Road Construction, IIMSO Publication
+
+ 2. RRL, DSIR, Soil Mechanics for Road Engineers HNISO Publication
+
+
+3. BIS and IRC Publications on relevant topics
+
+
+4. Freddy, L Roberts, Prithvi, S. Kandhal, Ray Brown, Dah. - Yinn Lee and Thomas Kennedy, Hot Mix Aspahlt Mixes, Mixture Design and Construction NAPA Educational foundation, Maryland
+
+
+
+
+2K11CE606 (f) TRAFFIC ENGINEERING
+
+
+Hours / Week: 4
+
+
+Exam: 3 Hours
+
+
+Total: 60 hours
+
+
+Class Marks: 25
+
+
+Max Marks: 100
+
+
+1. Introduction: Components of road traffic, the vehic1e, driver and road, Objectives and scope of traffic engineering. (2 Hrs.)
+
+
+2. Traffic Characteristics: Road user characteristics, human factors and vehicle characteristics affecting road traffic - vehicular factors, static and dynamic characteristics, resistance and power, speed, acceleration, changein horizontal and vertical directions, problems on above. (8 Hrs.)
+
+
+3. Traffic Engineering Studies and Analysis: Sampling in traffic studies, adequacy of. sample size, objectives methods of study and equipment, data collection, analysis and interpretation of (i) Spot speed (ii) Speed anddelay (iii) Volume and (iv) Origin and destination (v) Parking (vi) Accident Studies, concept of PCUs under mixed traffic flow road safety audit. (12 Hrs.)
+
+
+4. Traffic flow Theory: Elements of Traffic flow, linear methods. Shock wave theory and bottleneck problems. Simple queuing theory and its, applications, linear car following theory .and its applications.
+(6 Hrs.)
+
+
+5.Traffic Regulations: General regulations, regulations on vehicles, drivers, flow and other regulations, traffic
+management.(6 Hrs.)
+
+
+6.Traffic Control Devices: Traffic signs, markings islands and signals. Design of fixed time signals by IRC
+method, signal co-ordination.(10 Hrs.)
+
+
+7.Intersections and Interchanges: Conflict points, design of rotary as per IRC, mini round-about, grade separated intersections/flyovers - capacity, level of service and planning of number of lanes.(8 Hrs.)
+
+
+8. Traffic and Environment: General traffic planning, environmental aspects - noise and air pollution due to road traffic, Environmental impact assessment of road projects.(8 Hrs.)
+
+
+Question paper pattern:
+
+
+Answer any Five full question out of Eight Question set. Each question carry 20 marks
+
+
+Reference Books:
+
+
+1. Matson, Smith and Hurd, Traffic Engineering, McGraw Hill Book Co.
+
+
+2. Kadiyali, L.R., Traffic Engineering and Transport Planning, Khanna Publishers
+
+
+3. Wells, G.R., Traffic Engineering - An Introduction, Griffin, London
+
+
+4. Khanna, S.K. and Justo, C.E.G., Highway Engineering, Nero Chand and Bros.
+
+
+5.Fred Mannering and Walter P. Kilareski, Principles of Highway Engineering and Traffic Analysis, JohnWiley and Sons, Inc. 1990
+
+
+6.Salter, RJ., and Hounsell, N.R., Highway Traffic Analysis and Design, Mac Millanpublishers, 1996
+
+
+7.Ogden K. W, Safer Roads - A Guide to Road Safety Engineering, Avebury Technical, UK, 1996
+
+
+
+
+2K11CE606 (g) PLASTIC ANALYSIS OF STEEL STRUCTURES
+
+
+Hours / Week: 4
+
+
+Exam: 3 Hours
+
+
+Total: 60 hours
+
+
+Class Marks: 25
+
+
+Max Marks: 100
+
+
+1. Introduction to plastic design concepts, ductility of steel, analysis of axially loaded members. (2 Hrs.)
+
+
+2. Flexure of Beams: Assumptions and conditions, bending of rectangular beam Plastic hinges, Redistribution of moment, Mechanisms plastic modulus, shape factor for different C.S., Factors affecting bending strength andstiffness.(8 Hrs.)
+
+
+3.Analysis of Structures: Plastic analysis compared with elastic analysis, fundamental principles; Principles ofvirtual displacements, upper, and lower bound theorems, principles of statical methods and KinematicsMechanism method of analysis.(12 Hrs.)
+
+
+4.Statical (equilibrium) method of analysis: Application to fixed beam, propped cantilever.(10 Hrs.)
+
+
+5.Mechanism method of analysis - Application to propped cantilever, fixed beam, continuous beams, Simple portal
+Frames with different types loads.(10 Hrs.)
+
+
+6.Method of combining mechanisms, evaluation of ultimate loads of plane frames (single bay or two storey and
+two-bay - single storey only), Gable Frame (single bay) use of instantaneous center.(12Hrs)
+
+
+7.Minimum Weight Design: Weight compatible mechanism Geometrical analogues to determine weight ofstructure.(6 Hrs.)
+
+
+Question paper pattern:
+
+
+To set 8 full questions of theory and problems covering entire syllabus (each of 20 marks) to answer any 5 questions (20 marks each)
+
+
+Reference Books:
+1. Beedle L. S.., Plastic design of steel frames,
+
+
+2. Neal B.G. “Plastic ana1ysis and design of stee
+
+
+3. Baker J.F., Home M.R. and Heyman. J. Steel skeleton Vol. II - Plastic behaviour and design Cambridge university press; Cambridge, 1956’
+
+
+4. Heyman J. “Plastic design of portal frames” Ca
+
+
+5. Ramachandra “Steel–VolStructures.II”
+
+
+6. SP: 6(6) - 1978 Plastic design of steel structures, BIS New Delhi.
+
+
+7. IS 800 - 1978 Code of .Practice for design of steel structures, BIS New. Delhi
+
+
+
+
+2K11CE606 (h) ADVANCED STRENGTH OF MATERIALS
+
+
+Hours / Week: 4
+
+
+Exam: 3 Hours
+
+
+Total: 60 hours
+
+
+Class Marks: 25
+
+
+Max Marks: 100
+
+
+1.Curved beams: Winkler-Bach formula, stresses in hooks and closed rings, deflection of curved beams.(12 Hrs.)
+
+
+2.Torsion: of circular and non-circular sections St-Venants Theory, Membrane and sand heap analogies Torsion
+of multi-celled thin walled and closed sections, warping.(16 Hrs.)
+
+
+3.Unsymmetrical bending: concepts, stresses in beams subjected to unsymmetrical bending of C.S. - Rectangular. I Section and Angle section, deflection computation, shear centre for unsymmetrical sections.(12 Hrs.)
+
+
+4.Elastic Stability –Elastic Buckling of column Beams –column, Treatment of Elastic stability of columns by
+general differential equation.(12 Hrs.)
+
+
+5.Introduction to Stress concentration, causes and prevention(8 Hrs.)
+
+
+Question paper pattern:
+
+
+To set 8 full questions of theory and problems covering entire syllabus (each of 20 marks) to answer any 5 questions (20 marks each)
+
+
+Reference Books:
+1. Vazrani, V. N. and Ratwani M. M. - Advanced Theory of structure and matrix methods of structural analysis. Khanna Publications, 1976
+
+
+2. Timoshenko S - Strength of materials (part-2) (3rd ed), CBS Publications986
+
+
+3. Seely and Smith-m Advanced Mechanics of materials (2nd ed.) John Wiley Publication 1952.
+
+
+4. Boresi A. P. and Side bottom O. M. - Advanced Mechanics of Materials, John WileyPublications, 1985
+
+
+5. Krishnaraju N and Gururaj D.R. - Advanced Mechanics of Solids and Structures, Narosa Publication, 1997. (Tex1 book)
+
+
+
+
+2K11CE606 (i) OPEN CHANNEL HYDRAULICS
+
+
+Hours / Week: 4
+
+
+Exam: 3 Hours
+
+
+Total: 60 hours
+
+
+Class Marks: 25
+
+
+Max Marks: 100
+
+
+1.Open channel flow and its classification: Description, Types of flow, and Regimes of flow, Channel geometry,
+Design of channels for uniform, non-erodible channels, Erodible channels, Velocity distribution and velocity
+distribution coefficients.(12 Hrs.)
+
+
+2.Non uniform flow: Assumptions, Dynamic equation for GVF, surfaces profile on different slopes, hydraulic
+jumps, energy dissipater and back water.(14 Hrs.)
+
+
+3.Gradually varied flow: assumptions, Dynamics equation of GVF, Determination of normal and critical slope.
+Characteristics and classification of flow profile, surface profile on different slopes; Methods of computation,
+Graphical integration method, direct step method, Practical problems, Back water effect.(18 Hrs.)
+
+
+4.Rapidly varied flow: characteristics flow over spillways, pressure on overflow spillway, Hydraulic jump, and
+jump as energy dissipater.(8 Hrs.)
+
+
+5.Element of unsteady flow: Definition, Surges, Positive and Negative surges.(8 Hrs.)
+
+
+Question paper pattern:
+
+
+Answer any Five full question out of Eight Question set. Each question carry 20 marks
+
+
+Reference Books:
+1. Ven Te Chow Open channel Hydraulics
+
+
+2. Ranga Raju Flow through open channel
+
+
+3. Henderson., Open channel flow
+
+
+4. Subramanya flow through open channels
+
+
+5. R. K. Bansal fluid mechanics and hydraulic machinery.
+
+
+
+
+2K11CE606 (j) NUMERICAL METHODS IN CIVIL ENGINEERING
+
+
+
+
+Hours / Week: 4
+
+
+Exam: 3 Hours
+
+
+Total: 60 hours
+
+
+Class Marks: 25
+
+
+Max Marks: 100
+
+
+1.Introduction, exact and approximate numbers, rounding off of a number of significant digits.(2 Hrs.)
+
+
+2. Solution of linear system of equations by direct and indirect methods: Direct methods: Method of determinants, Method of Leading co-efficient, Gaussian elimination method, factorization method, Cholskys method and
+Matrix Inversion method; Indirect method: Gauss Seidel Iteration and Relaxation method . (12 Hrs.)
+
+
+3. Solution of algebraic and transcendental equations (i) Bisection method, (ii) Graphical method (iii) Regu1a Falsi method (iv) Iteration method, (v) Newton Raphson method. (10 Hrs.)
+
+
+4. Solution of Ordinary differential equations i. Eulers method, ii. Taylor Series method, iii. Runge -
+Kutta method. (10 Hrs.)
+
+
+5. Numerical Integration i. trapezoidal Rule, ii. Simpsons rule, iii. Newmarks method applied to beams and
+columns. Beams - determination of SFD, BMD and slope deflections of simply supported beams, cantilever
+beams, propped cantilever and fixed beams with constant and variable columns with different end conditions and
+constant and variable MI (8 Hrs.)
+
+
+Question Paper Pattern:
+
+
+Set Eight Full questions consisting of theory and problems covering entire syllabus (each of 20 marks) answer any FIVE questions (of 20 marks each)
+
+
+Reference Books:
+1. Scarborough, JB. Numerical Mathematical Analysis Johns Hopkins Univ, Bres, Baltimore, 1950.
+
+
+2. Stanton, R.G., Numerical Methods for Science and Engineering, Prentice hall of India, New Delhi, 1967
+
+
+3. Jain M. K. Numerical Analysis for Scientists and Engineer, SB.W. Publishers, Delhi, 1971 (Text book)
+
+
+4. McCormick J.M and Salavdori, M.G. Numerical method in FORTRAN, Prentice Hall of India, New Delhi 1971
+
+
+5. Sastry S. S., “Introductory Methods of Numeric
+
+
+6. Krishnaraju and Uthu K. V., “Numerical Method
+
+
+
+
+2K11CE606 (k) ARCHITECTURE and TOWN PLANNING
+
+
+Hours / Week: 4
+
+
+Exam: 3 Hours
+
+
+Total: 60 hours
+
+
+Class Marks: 25
+
+
+Max Marks: 100
+
+
+PART –A
+
+
+ARCHITECTURE and TOWN PLANNING
+
+
+1.Introduction: Definition of Architecture, Development and necessity of Architecture, nature and function of
+Architecture, Principles of Architecture.(4 Hrs.)
+
+
+2.Qualities of Architecture: Strength, Breadth, Scale, Contrast, Vitality, Restraint, Repose, Refinements, Grace.(4 Hrs.)
+Factors of Architecture: Proportion, light and shade, harmony, Rhythm, Solids and voids, Balance and
+symmetry, colour contrast.
+(4 Hrs.)
+
+
+3 Classic order in Architecture
+
+
+6.Finite Difference method: Expression of derivatives by backward, forward and central difference, solution of
+initial and boundary value problems using central differences.(4 Hrs.)
+
+
+7.Application of finite difference method to determination of BMD and deflection of determinate beams withconstant and variable EI.(10 Hrs.)
+
+
+8.Demonstration of packages programmes for solving numerical problems and not for examination.(4 Hrs.)
+i) Greek Orders in Architecture
+ii)Roan orders: Doric, Ionic, Carinthian, Tusken and Composite order.(6 Hrs.)
+
+
+4. Factors influencing the Evolution of Architecture.
+(4 Hrs.)
+
+
+5. Greek Architecture (10 Hrs.) Evolution of Greek Architecture, Architectural feature, Roam temples, Basillicas, town, gateway and Arches Amphitheatres (Calosium), forums circus, Tombs, Thermea, Dwellings, Bridges, Theatres, Egyptian Architecture, Indian Architecture, Islamic Architecture, Indo-Sarosonic Architecture Benzatine Architecture, Romansque Architecture Early Christina period, Gothic Architecture Renaissance Architecture, modern Architecture.
+
+
+PART –B
+
+
+TOWN PLANNING
+
+
+Introduction:
+General definition –Evolution of planning aims and objectives of town planning origin of towns, Ancients towns, Pre-mediaeval towns, Medieval towns Modern towns moghul towns, Roman towns, Greeks Towns in British Period, Renaissance towns, Indian ancient towns and town planning in ancient India. Indus valley
+
+
+civilization. Growth of towns, features of town –requirements of town stages of development towns.(4 Hrs.)Survey(2 Hrs.)
+
+
+Principles of Town planning:
+Pattrick Geddes Principles, Le-Carbanar Principles and Garden city principles.(4 Hrs.)
+Land Use Concept, Zonning, Clums, master plan Housing, building Bye laws
+Public Buildings, Parks and Playgrounds, Urban roads, Traffic management
+Industries, Miscellaneous, Village Planning and Housing(18 Hrs.)
+
+
+Question Paper Pattern:
+
+
+Eight Questions should be set, four each from Part-A and Part-B students should answer five full questions selecting at least two questions from each part. All main questions carry 20 marks each.
+
+
+Reference Books:
+
+
+1. Architecture and Town Planning –G. M. Rajkumar

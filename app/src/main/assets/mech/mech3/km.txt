@@ -1,0 +1,51 @@
+2K11 ME 305 Kinematics of Machines 
+
+Lecture: 4 Hrs / week Internal Assessment Marks: 25 
+
+Total No. of Hours: 60 Examination: 3 Hrs 
+
+Max marks for Examination: 100 
+
+UNIT I 
+
+1. MECHANISMS 8 
+
+Introduction to the course: Definitions of: degrees of freedom, elements, kinematic pair, kinematic chain, inversion and machine.Linkages: 4 bar chain, single and double slider crank chain and their inversions. Velocity and acceleration of single slider mechanisms by analytical and Klein’s Construction. Straight line motion: Peaucellier mechanism, Watt’s Straight line mechanism, Hookes joint; Double Hookes joint, pantograph.Intermittent motion mechanism: Rachet and Pawl Mechanisms, Intermittent Gearing, Geneva Wheel, Escapement. 
+
+UNIT II 
+
+2. VELOCITY AND ACCELERATION IN MECHANISMS: 20 
+
+Velocity and acceleration by: a) relative velocity and acceleration method b) Instantaneous centre method. c) Vector methods. 
+
+UNIT III 
+
+3.BELT, ROPES AND CHAIN DRIVES: 6 
+
+Introduction to belt drive, length of belt, effect of slip and creep in belts, initial tension: ratio of belt tensions, power transmitted, effect of centrifugal tension, Max power transmission, rope and V belt drives, kinematics of chain drive. 
+
+4.CAMS 6 
+
+Classification of cams and followers, types of motion of follower (Uniform velocity, SHM, UARM and cycloidal). Graphical cam layout. 
+
+5.GEARS: 6 
+
+Friction wheel, teeth for positive action: Classification of gears, gear terminology; law of gearing ; velocity of sliding; forms of teeth (Cylindrical and Involute), path of contact; contact ratio. Interference in gears and methods of avoiding interference; Minimum number of teeth on rack, pinion and gear when in mesh to avoid interference. Introduction to bevel, helical, spiral and worm gears (without involving problems) 
+
+6.GEAR TRAINS: 6 
+
+Classification: Velocity ratio for epicyclic gear train, evaluation tooth loads and torques in epicyclic gear train; Automobile gear box, Differential gear box. 
+
+REFERENCE BOOKS: 
+
+1 Theory of machines by Thomas Beven 
+
+2. Dynamics of machine by A.R.Holovenko 
+
+3 Theory of Machines by J.E.Shigley, Vicker, McGraw Hill. 
+
+4. Mechanics and Dynamics of Machinery by Hamilton. H. Mabie and Charles. F Rein holtz… John Wiley Publishers. 
+
+Scheme of Examination: 
+
+To set two questions each from Unit I and unit II: four questions from units III.Students are required to answer five full questions choosing at least one from each unit.

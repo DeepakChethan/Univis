@@ -1,0 +1,34 @@
+2K11CE702 
+
+FOUNDATION ENGINEERING 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+PART –A 1.Stress distribution in soils: Introduction, Boussinesq’s and Westergaardfor determination of stress due to point loads, stress beneath, line, strip, uniformity loaded rigid circular footing (derivation not required). Pressure bulb, Isobars, construction and uses of Newmark’s c of subgrade reaction and factors affecting it, contact pressure distribution and factors affecting it. Contact pressure distribution in granular and clayey soils for flexible and rigid footing.15 Hrs. 
+
+PART –B 1. Soil mechanics and foundations by B.C. PUNMIA, Laxmi publications ltd. New Delhi.
+
+ 2. Soil mechanics and foundation engineering by V.N.S. Murthy, Sai kripa technical consultants Bangalore.
+
+ 3. Basic and applied soil mechanics by Gopal Ranjan and A.S.R. Rao, Wiley Eastern ltd. New Delhi.
+
+ 4. Geotechnical engineering by C. Venkataramaiah, New Age International publishers Bangalore.
+
+ 5. Geotechnical engineering by P. Purushothama Raj, Tata Mc Graw Hill Com. New Delhi.
+
+ 6. Modern Geotechnical engineering by Alam singh. CBS publishers and distributors ltd. New Delhi.
+
+ 7. Foundation engineering by S.P.Brahma, Tata Mc Graw Hill Com. New Delhi.
+
+ 8. Soil mechanics in engineering practice by Terzhaghi and Peck
+
+ 9. Foundation analysis and design by J.E. Bowles, Mc.Graw Hill International book Com.
+

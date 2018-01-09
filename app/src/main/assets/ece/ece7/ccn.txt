@@ -1,0 +1,32 @@
+CCN 
+
+PART- A 
+
+Overview, OSI layers overview 
+
+Internet Protocols 
+
+Application Layer: HTTP, FTP, SMTP 
+
+Transport Layer: Basics of UDP, TCP, and window flow control 
+
+Network layer and routing: routing algorithms, Inter protocols, IPv6, OSPF, BGP 
+
+Data link Layer: Switching, MAC layer: CSMA/CD, ALOHA, Hubs, bridges, ATM, Physical layer. 
+
+
+PART- B 
+
+Congestion control: Flow control, TCP control, scheduling at the routers. 
+
+QOS: Real and Non Real time applications, Intserv, Diff serve architecture, RTP, RSVP 
+
+MPLS: Generalized MPLS 
+
+WLAN: MAC protocol 
+
+Network Security, Network Management 
+
+References- 
+1. J.W. Kurose and K.W. Ross, Computer Networking: A top Down approach featuring the Internet, Addison –Wesley, 2001 
+2. J.Warland and P. Varaiya, High performance Communication Networks, Morgan Kaufman, 2nd Edn

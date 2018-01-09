@@ -26,7 +26,8 @@
         <activity
             android:name=".SettingsActivity"
             android:label="@string/title_activity_settings" />
-        <activity android:name=".Activities.Activities.SettingActivity"></activity>
+        <activity android:name=".Activities.Activities.SettingActivity" />
+        <activity android:name=".Activities.Activities.SyllabusDisplay"></activity>
     </application>
 
 </manifest>

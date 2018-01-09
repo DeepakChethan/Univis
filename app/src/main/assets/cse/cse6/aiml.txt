@@ -1,0 +1,54 @@
+
+
+ 2K11CS 65 : ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleastTWO from each PART . For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter1: Introduction 6 Hours 
+
+ Artificial Intelligence: Its scope, history and applications, The Propositional Calculus, The Predicate Calculus, Using Inference Rules to produce Predicate Calculus Expressions, Application: A logic based financial advisor. 
+
+ Chapter2: Structures and strategies for state space search 6 Hours 
+
+ graph theory , strategies for space search , using state space to represent reasoning with the predicate calculus. 
+
+ Chapter3: Heuristic Search 6 Hours 
+
+ Heuristic search- An algorithm for heuristic search. Admissibility,monotonicity and informedness. Heuristics in games. Complexity issues. Control and implementation of state space search- Recursion based search, pattern directed sesarch, production systems, the black board architecture for problem solving. 
+
+ Chapter 4: Knowledge Based Systems 6 Hours 
+
+ Overview of expert system technology. Rule based expert systems, Model- based, Case –based and Hybrid Systems. Reasoning in uncertain situations, The stochastic ap-proach to uncertainity. Non - monotonic systems. Reasoning with fuzzy sets. 
+
+ PART B 
+
+ Chapter5: Knowledge Representation 6 Hours 
+
+ Knowledge representation - languages.Issues in knowledge representation.A survey of network representation. Conceptual graphs. A network representation language. Structured representations. Further issues in knowledge representation. 
+
+ Chapter6: An Introduction to LISP 6 Hours 
+
+ LISP: A brief Overview, Search in LISP: A functional approach to the farmer, wolf, goat, and cabbage problem. Higher- order functions and procedural abstraction. Search strategies in LISP. A recursive Unification function. 
+
+ Chapter7: Machine Learning : Connectionist 6 Hours 
+
+ Foundations for connectionist networks, preception learning, backpropagation learning. Competitive learning.Hebbian coincidence learning. Attractor networks or memories. Machine learning: social and emergent - models; the genetic algorithm. classifier systems and genetic programming. Artificallife and society based learning. 
+
+ Chapter8: Automated Reasoning 6 Hours 
+
+ Automated reasoning - Weak methods in theorem proving. The general problem solver and difference tables. Resolution theorem proving.Further issues in automated reasoning. 
+
+ References : 
+
+ 1. George. F. Luger , Artificial Intelligence - Structures and Strategies for Complex Problem Solving, Fourth Edition, Pearson Education, 2002. 
+
+ 2. P. H. Winston, Artificial Intelligence, Third Edition, Addision-Wesely, 1992. 
+
+ 3. E. Rich and Knight, Artificial Intelligence, Second Edition, TMH, 1994. 
+

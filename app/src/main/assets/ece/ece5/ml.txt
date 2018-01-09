@@ -1,0 +1,29 @@
+Microprocessors Lab (Using 8085 systems) 
+
+1. Block Movement of data (8085 up only) 
+
+2. Arithmetic operations and Logical operations on Binary and BCD Nos. Addition, subtraction, multiplication, division, LCM, HCF, marking specific bit/bits of a given byte and 2-out of 5-code (using 8085 and 8086 ups) (for packed and unpacked Nos) 
+
+3. Finding the Largest number in a given set of data (8085). 
+
+4. Ascending order arrangement of a set of Data Bytes – Bubble sort and selection sort, Linear Search (8085 and 8086). 
+
+5. Code Conversion (8085) 
+
+6. Concatenation of the input string with a defined string (8086) 
+
+7. Reversal of a data string (8086) 
+
+8. Palindrome of a binary data (8085 and 8086) 
+
+9. Data Acquisition, A/D conversion and string of data (8085) 
+
+10. D/A conversion generating waveform (8085) 
+
+11. Stepper Motor Control (8085) 
+
+12. CRT Interface (8085) 
+
+13. Keyboard and Display interface-software approach and Hardware approach (8279 chip) 
+
+14. Interfacing experiments using 8085 up only.

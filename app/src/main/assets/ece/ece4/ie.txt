@@ -1,0 +1,30 @@
+Industrial Electronics 
+
+PART A 
+
+1. Switching Devices: 
+Principles of operation and characteristics of SCR, BJT, POWER MOSFET, IGBT, Dynamic characteristics, Mechanism of turn on, turn off of SCR,BJT,POWER MOSFET, IGBT, Voltage, Current andpower ratings, mechanisms of failure, Overvoltage andover current protection, Snubber circuits, Mountings andcooling of device. Devices in series and parallel. Study and scope of applications of SCR, DIAC, TRIAC, SCS, UJT, PUT, GTO. 
+
+2. Gate Drivers For Mosfet /Igbt/Power Bjt: 
+Gate drive requirement, MOSFET drive circuits, BJT drive circuits, IGBT drive circuits. 
+
+3. AC Voltage Controller: 
+Single phase bidirectional circuits with R and R-L loads-analysis. 
+
+4. DC-DC Converters: 
+Single phase half wave, Full wave controlled rectifier, Half and fully controlled bridge rectifier on R and R-L load. Use of free wheeling diodes. 3 phase half wave and full wave controlled rectifier. Choppers-oscillatory and Jones Choppers. 
+
+
+PART B 
+
+5. DC-AC Converters: 
+Principles of Inversion, Analysis of single phase simple series and parallel inverters, PWM, Space vectors modulation. Harmonic reduction, McMurray Inverters. 
+
+6. Resonant Converters: 
+Classification, Basic resonant circuit concepts, Zero Voltage switching. 
+
+7. Application -1-Motor Control: 
+DC motor control operating modes, Single phase drives, Single phase half wave converter drive and single phase full converter drives, Single phase dual converter drive. AC motor control –Induction motor speed control using phase control and slip recovery 
+
+8. Application 
+Battery chargers, UPS(uninterruptible power supplies), SMPS(switched mode power supplies), buck converter, Boost converter, Buck-Boost converter, Cuk converter, DC power supplies: Forward converters, Fly back converters, Push pull converters, Full bridge converter, half bridge converters. Electromagnetic Interference (EMI),Sources of EMI, Mitigation of EMI.

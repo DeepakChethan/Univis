@@ -1,0 +1,24 @@
+Power Electronics and Drives Laboratory: 
+
+1. Static characteristics of SCR, Dirac, Tirac and MOSFET 
+
+2. Single phase half controlled bridge rectifier with R and RL loads. 
+
+3. Single phase fully controlled bridge rectifier with R load. 
+
+4. DC motor speed control using single phase converter. 
+
+5. Speed control DC motor using four quadrant chopper. 
+
+6. Stator voltage control of Single phase induction motor. 
+
+7. Three phase inverter fed induction motor drive. 
+
+8. Stepper motor drive. 
+
+Circuit simulation: 
+9. Series RLC circuit – Study of damping. 
+
+10. Design of chopper circuit and its simulation using P-spice. 
+
+11. Simulation of single phase, three phase voltage source inverter and observe load voltage and current using P-spice / Simulink.

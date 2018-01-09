@@ -1,0 +1,48 @@
+2K11CE605 DESIGN AND DRAWING –STEEL STRUCTURES 
+
+Hours / Week: 4 
+
+Exam: 4 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1.a) Standard Structural Steel Section and Sketch of bolt showing details of bolt. 
+
+ b)Simple connections (Lap and Butt connection) (i) Bolted Joints (chain and staggered bolting) (ii) Welded Joints 1 sheet (4 Hrs.) 
+
+c) Eccentric connections –Bracket connections Type I and Type II(bolted and welded Joints ) 1 sheet (8 Hrs.) 
+
+2. a) Beam to beam connection - Framed Connection b) Beam to column (Flange and web) connection - Framed and Seated (unstiffened and stiffened) connection - Both Connections by Bolted and welded joints 2 X 2 sheet (16 Hrs.) 
+
+3. Compression Members - both axial and eccentric loads. (a) Built up columns (with lacing and Battening) –welded Joints (b) Column base (Slab base and Gusseted base) –welded Joints 2 sheet (16 Hrs.) 
+
+4. Welded Plate Girder with Stiffeners 1 sheet (8 Hrs.) 
+
+5.Roof truss - Angles and Tubular section (welded joints)2 sheets (8 Hrs.) 
+
+Question paper pattern: 
+
+To set 2 Question for 30 marks and 2 questions for 70 marks. 
+
+To answer any one question for 30 marks and any one question for 70 marks. 
+
+Reference Books:
+
+ 1. N. Subramanian, Design of Steel Structures –Oxford University Press
+
+ 2. Krishne Raju N., Structural Design and Drawing, University Press India.
+
+ 3. S. Bhavikatti, Design of Steel Structures, IK, Interline Publishers.
+
+ 4. Shah and Veena Gore –Limit state design of steel structure –S. S. Kurmi, sales –Structures Publication – Pune.
+
+ 5. V. Ramachandra, Design of steel structures, scientific Publishers, India.
+
+ 6. IS - 800 –2007 code of practice for Design of steel structures, IS –New Delhi.
+
+ 7. IS –875 –1987 code of practice of loads.
+

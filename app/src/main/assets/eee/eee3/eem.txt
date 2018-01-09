@@ -1,0 +1,36 @@
+Electrical and Electronics Measurements 
+
+PART-A 
+
+1. Units, Dimensions: 
+S.I system of units. Dimensional analysis using S-I system of units. 
+
+2. Calibration of Measurements and Errors: 
+Prototype calibration, Standard classification, systematic errors, Cumulative errors, Resolution, accuracy, Precision, Stability of instruments. 
+
+3. Ammeters, Voltmeters, Wattmeter, Energy meter and Instrument Transformers: 
+Review of permanent magnet moving coil, moving iron, Ammeter, Voltmeter, Electrostatic meter-theory, construction, errors and limitations. Methods of range extension. Dynamometer type wattmeter-errors and compensating devises. LPF wattmeters. Three phase wattmeter and reactive power meter. Induction type energy meters – single phase and three phases. Errors, adjustments and calibration,, Theory and construction of current transformers ratio and phase angle error. Theory and construction of potential transformers, errors. Effect of variation of burden, power factor and frequency on the performance of CT and PT, Silsbee’s method of CT testing. 
+
+4. Measurement Or Resistance, Inductance And Capacitance: 
+Wheatstone bridge and its limitations, Kelvin’s double bridge. Loss of charge method, Measurement of Earth resistance, Factors affecting Earth resistance. Cable fault location by Murray loop test, Maxwell’s bridge. Anderson’s bridge. Desauty’s Bridge and Schering Bridge AC and DC detectors. Sources of errors in AC bridges, Remedial measures. 
+
+
+PART-B 
+
+5. Potentiometers: 
+Principle, Crompton’s DC potentiometer, Polar and co-ordinate type AC potentiometers, Applications. 
+
+6. Electric meters: 
+Block schematic description of electric Voltmeter, True RMS voltmeter, Digital Voltmeter (Ramp and SAR), Source of error in DVM, RF power and voltage measurements, Q meter. 
+
+7. Signal Sources: 
+Function generators, Frequency synthesized signal generator, Standard signal generators(RF), Sweep frequency generators (Direct). 
+
+8. Signal Analyzing Instruments: 
+Spectrum Analyzers – Principal of operation, application of spectrum Analyzer, quantitative analysis. 
+
+9. Digital Analyzing Instruments: 
+Electronic counters, Logic analyzers. 
+
+10. Input Transducers for instrumentation systems: 
+Classification, selection, strain gauge, LVDT, RDT, piezoelectric, Thermocouple.

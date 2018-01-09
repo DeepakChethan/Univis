@@ -1,0 +1,39 @@
+
+
+ 2K11CIL 67: LINUX/UNIX PROGRAMMING LABORATORY AND SYSTEM SOFTWARE LABORATORY(Regular laboratory) 
+
+ Hours per Week : 3 Examination Marks : 100 Sessional Marks : 25 
+
+ UNIX / LINUX PROGRAMS 1. A) shell script that accepts any number of non recursive arguments and print them in reverse order
+ B) C program to create child process to read commands from standard input and execute them
+
+ 2. A) C program to create file with 16 bytes of ordinary data from the beginning and other 16 bytes of ordinary data from an offset of 48. display the contents to demonstrate how hole in a file is handled. 
+ B) C program that accepts valid filename as command line argument and print the type of the file
+
+ 3. A) Shell script which prints command line arguments one by one after translating all lower case to upper case
+ B) C program to run the command and determine the time taken by it
+
+ 4. A) Shell script to check file permissions process status , date and the current user using case conditional statements. 
+ B) AWK script to print the transpose of matrix
+
+ 5. A) Shell script that accept valid login name and print corresponding home directory 
+ B) Shell script that accepts two file names as arguments sort both to temporary files and merge the sorted output and finally delete the temporary files. 
+
+ 6. A ) Shell script to display the calendar of the current month with current date replaced by * (or ) ** depending on whether the date has one digit or two . 
+ B) Terminal locking using shell script. 
+
+ 
+ 
+ SYSTEM SOFTWARE PROGRAMS 
+ Execution of the following programs using LEX: 
+ 1. Program to count the number of vowels and consonants in a given string. 
+ 2. Program to count the number of characters, words, spaces and lines in a given input file. 
+ 3. Program to count number of (i) positive and negative integers (ii) positive and negative fractions. 
+ 4. Program to count the number of comment lines in a given C program. Also eliminate them and copy that program into separate file. 
+ 5. Program to count the number of scanf and printf statements in a C program. Replace them with readf and writef statements respectively. 
+ Execution of the following programs using YACC: 
+ 1. Program to test the validity of a simple expression involving operators +, -, *, and /.
+ 2. Program to recognize nested IF control statements and display the number of levels of nesting. 
+ 3. Program to recognize a valid arithmetic expression that uses operators +, -, * and /.
+ Note : 
+ The evaluation is based on execution of one program from Linux/Unix and one from system software(LEX or YACC). 

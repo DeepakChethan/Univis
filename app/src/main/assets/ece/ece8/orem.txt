@@ -1,0 +1,33 @@
+2KEC803 – OPERTATION RESEARCH AND ENGINEERING MANAGEMENT 
+
+PART – A 
+
+1.INTODUCTION 
+Introduction, Overview of OR modelling approach, introduction to linear Programming, graphical and simple’s method. Big M method, concept of slack and artificial variables. Duality theory principles. Problems. -10hrs 
+
+2.LPP 
+Special types of LPP, Transportation and Assignment problems [hoth balanced and unbalanced types]. Finding the initial solution by N-W corner rule and Vogel’s approximation method [VAM technique]. Finding the optimal solution by stepping stone method and method of multipliers for transportation problems and Hungarian method for assignment problems. Travelling salesman problem. - 8hrs 
+
+3.CPM AND PERT 
+Networks in management, finding the critical path and the various times and floats for project, Finding the expected duration of a project, Critical path and probability estimation for a project. -6hrs 
+
+4.QUEUING THEORY AND GAMES 
+Block diagram of a queuing system, Single server model with finite and infinite q- length, Solution of two-person zero sum game by Dominance, Mini-Max criteria, concept of saddle point , solution of games by graphical method. -6hrs 
+
+
+PART – B 
+
+5.MANAGEMENT AND PLANNING 
+Introduction, Need for managers, what managers do? Need for organization, management –is it an art or science? Need for planning, its premisers, concept of stragic planning and MBO. Types of Plans. -12hrs 
+
+6.ORGANIZING AND LEADING 
+Types of organizing, Depigmentation, span of control, need for depart mentation. Types of leaders, Traits of leaders, Maslow’s hierarchy of needs, Ohio university leadership theory, need for leaders. -12hrs 
+
+7.CONTOLLING 
+Controlling –why control? Types of Control, Managerial and Bureaucratic control. Designing effective control systems. -6hrs 
+
+REFRENCE 
+1.Operation research - Hamdy .H. Taha 8th edition Pearson education. 
+2.Introduction to Operations research – Hiller and Leibermann, TMH. 
+3.Principles of Management – koontz and weirich, TMH. 
+4.Introduction to Management science – Anderson, Sweeny, Williams Thomson learning.

@@ -1,0 +1,25 @@
+Electrical Machines Laboratory 
+
+1. Open circuit characteristics of a D.C. generator 
+
+2. Load characteristics of shunt generator 
+
+3. Load test on shunt motor 
+
+4. Hopkinson's test 
+
+5. Swinburne's test 
+
+6. Speed control of D.C. shunt motor by field control and armature control 
+
+7. O.C. and S.C. tests on single phase transformer, predetermination of efficiency, regulation, equivalent circuit 
+
+8. Parallel operation of two single phase and 3 phase transformers 
+
+9. Sumpner's test 
+
+10. Separation of losses in a single phase transformer 
+
+11. Polyphase connections : Voltage relation of Y-Y, Y-Δ, Δ-Y and Δ-Δ 
+
+12. Scott connection

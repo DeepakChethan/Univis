@@ -1,0 +1,41 @@
+2K11CE305 STRENGTH OF MATERIALS LABORATORY 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1.Tension test on Ductile and Brittle metals. 
+
+2.Compression test on Ductile and brittle metals. 
+
+3.Bending test on wood 
+
+4.Hardness test on ferrous and non-ferrous metals (Brinnels hardness, Rockwell hardness, Vickers hardness) 
+
+5.Torsion test on Ductile and Brittle metals. 
+
+6.Impact test on Ductile and Brittle metals (Izod impact andcharpy impact) 
+
+7.Test on bricks and concrete blocks (Compressive strength and water absorption) 
+
+8.Test on masonry joints (bond strength) 
+
+9.Test on tiles - floor tiles (Abrasion and water absorption) roof tiles (transverse strength and water absorption) 
+
+10.Fatigue test on steel specimen, fatigue life estimation using S-N diagram. Tests to be conducted on any two materials for each test covering all the materials, such M.S, C.I, Cu, Al, Brass. 
+
+Reference Books: 
+
+1.I.S. Codes Mild Steel:IS 1608 (1960) IS 16 (1960) Part I and II IS 1521 (1960) Copper L IS 2654 and 2655 (1964) Aluminium IS 2697 and IS 2658 (1964) Hardness test IS 1790 and IS 1810 (1961) IS 2866 and IS 1810 (1961) IS 1500, IS 1501 and IS 1568 (1968) Torsion IS 1717 (1971) Fatigue IS 5075 (1969) Impact IS 1449 (1959) 
+
+2.Testing and inspection of engineering materials, Troxwell, Davis and Wiskocil McGraw Hill Book Co. (Text book) 
+
+3.Experimental Strength of materials - K.A. Holes. 
+
+4.Kukreja, C.D. Sastry V.V. and Singla J.K., Experimental methods in structural mechanics. DhanpatRaiand Sons, New Delhi, 1983 
+
+5.Suryanarayana A.V.K. Testing of Metallic Materials, Prentice Hall of India Pvt. Ltd., New Delhi 1985.

@@ -1,0 +1,58 @@
+UVCE Syllabus
+
+
+ 2K11 CI43 : COMPUTER ORGANIZATION AND ARCHITECTURE 
+
+ Note :FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART –A 
+
+ Unit 1. Introduction: 
+
+ The General Purpose Machine: The general purpose /assembly language programmer?s view, The comput logic designer?s view, Historical perspective,ddigitallogic: Classification of computers and their instructions, Computer instruction sets. 
+
+ Unit 2. Machines, machine languages and Digital logic: 
+
+ Informal description of the simple RISC computer, SRC: Formal description of SRC using register transfer notation, RTN , Description of addressing modes with RTN, Register transfer and logic circuits: from behaviour to hardware. 
+
+ Unit 3. Real Machines: 
+
+ Machine characteristics and Performance, RISC versus CISC microprocessor: The Motorola MC68000, A RISC architecture: The SPARC. 
+
+ Unit 4. Processor Design and Microprogramming: 
+
+ The design Process, A 1-bus micro architecture for the SRC, Data path implementation, Logic design for the 1-bus SRC, The control unit, The 2 and 3-bus processor designs, The machine reset, Machine exceptions, Microprogramming. 
+
+ PART-B 
+
+ Unit 5. Computer Arithmetic: 
+
+ Addition and Subtraction of signed numbers, Design of fast adders, Multiplication of positive numbers, signed operand multiplication ,Fast multiplication, Integer division, Floating point numbers and operations. 
+
+ Unit 6. The Memory Systems: 
+
+ Some basic concepts, Semiconductor RAM memories, Read Only Memories, Speed, Size and cost, Cache Memories, Performance Considerations, Virtual Memories, Memory management requirements. 
+
+ Unit 7. Input and Output: 
+
+ The I/O subsystems, Programmed I/O, I/O interrupts, Direct Memory access, I/O data format change and error control. 
+
+ Unit 8. I/O Organization and Peripheral devices: 
+
+ Buses, Interface circuits, Standard I/O interfaces, Magnetic Disk drives, Display devices, Printers, Input Devices, Interfacing to the analog world. 
+
+ References: 
+
+ 1. Vincent P. Heuring and Harry F. Jordan, Computer Systems Design and Architecture, Second edition, Pearson education, Indian Reprint, 2003. 
+
+ 2. Carl Hamachar, Zvonko Vranesic, and Safwat Zaky, Computer Organization, fifth edition, McGraw Hill. 
+
+ 3. William Stallings, Computer Organization and Architecture, Fourth edition , PHI. 
+
+ 4. M. Mano, Computer Architecture, Prentice Hall, Third edition, 2001. 
+
+ 5. Hayes, Computer Architecture and Organization, Third edition , TMIL. 
+
+ 6. Patierson, Computer Architecture, third edition,PHI

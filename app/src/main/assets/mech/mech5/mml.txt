@@ -1,0 +1,57 @@
+2K11 ME 507 Measurement and Metrology Laboratory 
+
+Class: 3 Hrs / week Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+PART A 
+
+1. MEASUREMENTS: 
+
+i. Determination of elastic constants using strain gauges from the following experiment: A constant stress cantilever beam subjected to a concentrated end load. 
+
+ii. Determination of gauge factor and cross sensitivity of a given strain gauge. 
+
+iii. Calibration of load cell and pressure gauge with strain gauge. 
+
+iv. Calibration of LVDT and study of characteristics of LVDT. 
+
+v. To study the amplitude and the frequency of unknown wave forms using CRO. Study of Lissajous diagrams for studying frequency and phase relations. 
+
+vi. Determination of time constant of first order system such as thermocouple. 
+
+vii. Calibration of thermocouple using resistance thermometer. 
+
+viii. Use of pyrometers Total radiation and optical pyrometers. 
+
+ix. Use of stroboscope for measurement of rotational speeds. 
+
+x. Vibration of displacement, velocity and acceleration measurement using vibration pick-ups. 
+
+xi. Measurement of sound pressure level using sound level meter, obtaining SPL spectrum at different frequencies. 
+
+PART B 
+
+2. METROLOGY: 
+
+i. Measurement of Surface Finish. 
+
+ii. Measurement of angle (Sine Bar) 
+
+iii. Measurement of center distance b/w holes 
+
+iv. Measurement of internal and external taper. 
+
+v. Measurement of pitch and profile errors of threads and gears. 
+
+vi. Use of comparators. 
+
+vii. Measurement of radius of components. 
+
+Viii Measurement of form 
+
+Scheme: (i) One experiment from Part A = 40 Marks 
+
+(ii) One experiment from Part B = 40 Marks 
+
+(iii) Viva-voce = 20 Marks

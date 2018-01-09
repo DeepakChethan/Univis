@@ -1,0 +1,24 @@
+Signals and Systems 
+
+PART A 
+
+1. Introduction to signals and systems: 
+Continuous time and discrete signals. Energy and power signals, deterministic and random signals. Periodic and aperiodic signals, even and odd signals, simple manipulations of signals, signals of importance, the unit impulse ,the unit step, the ramp, the sinusoidal and the complex exponential signals. Continuous and Discrete time systems: system properties: Linearity, Shift invariance, Causality, Stability and reliability. The sampling theorem and its applications, spectra of sampled signals , reconstruction, aliasing and its effects. 
+
+2. Time domain properties of Linear time invariant system (LTI system): 
+Discrete time LTI systems, the convolution sum, Continuous time LTI systems, The convolution integral, properties of LTI system, Causality and stability, systems with finite and infinite duration impulse response, LTI systems described by differential and difference equations, interconnection of LTI systems. 
+
+3. Fourier Series Representation of periodic signals: 
+Response of LTI systems to complex exponentials. Fourier series representation of continuous time periodic signals and their properties. Fourier series representation of discrete time periodic signals and their properties. 
+
+
+PART B 
+
+4. Fourier Transform: 
+Definition of discrete time fourier transform(DTFT) and its properties. Definition of Inverse time Fourier transform(ITDFT) .Frequency response of discrete time systems and its interpretation. Definition of Inverse time fourier transform(DFT) and its properties. Definition of inverse Discrete Transform.Relation between DFT and DTFT. DFT algorithm: Fast fourier transforms: decimation in time and decimation in frequency. 
+
+5. Z-transforms: 
+Definition of Z-transform, Region of convergence and its properties. Definitions of Inverse Z-transform and computation of inverse Z-transform by long division method, partial fraction expansion and by the method of residues. Definition of system functions, Poles and Zeroes of systems and analysis and characterization of LTI systems. Relation between system function and frequency response. 
+
+6. Realization of Discrete time systems: 
+Solving difference equations using Z-transform. Realization of discrete time systems using Direct forms, cascade and parallel forms.

@@ -1,0 +1,30 @@
+VLSI Design 
+
+PART–A 
+
+1. VLSI Basics: 
+Evolution of Microelectronics, Moore’s law, Introduction to VLSI design, the design flow Design philosophies – full-custom and semi-custom design, silicon compiler, trends In VLSI. 
+
+2. Processing of MOS Devices: 
+Brief overview of oxidation, diffusion, Ion-implantation, sputtering, chemical vapour deposition and etching, NMOS – self aligned process, CMOS – n- well, p- well and twin tub processes. Channel stop implantation, LOCOS and STI isolations. Layout details and examples. 
+
+3. MOS Devices: 
+Depletion and enhancement type transistors - Construction and working. Transfer and output characteristics, Drain current equation, Expressions for gm, ωo, Cg, Cox, current gain factor etc. 
+
+4. MOS circuits and building blocks: 
+Different Inverter configurations, CMOS and BiCMOS inverters, characteristics, Power dissipation, Noise margin, Switch logic and restoring logic. Implementation of building blocks such as logic gates, transmission gates, MUXs Latches and registers, multivalued logic. Analog building blocks: current mirrors, differential amplifier, op-amps, CMOS memory and filters 
+
+
+PART-B 
+
+5. Delay calculations: 
+Definitions of sheet resistance, standard unit of capacitance and delay, and their calculations. Inverter pair delay, Design of I/Os, design of tapered buffers. 
+
+6. Scaling: 
+Different scaling models. Merits of scaling, Limitations of scaling, Based design rules. 
+
+7. VLSI testing: 
+Testing philosophy, VLSI testing process and test equipment, fault modeling, testing combinational and sequential logic. Design for testability (DFT). Scan design techniques. BIST. 
+
+8. Programmable Devices: 
+ROMs, PALs, PLAs, PLDs and FPGAs. Types of FPGAs. Xilinx and Altera series of ICs. Two typical ICs from each vendor, Architecture and details. Design examples.

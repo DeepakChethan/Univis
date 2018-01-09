@@ -1,0 +1,25 @@
+Digital System Design Lab 
+
+1. Truth Table and Verification of Flip Flop Using NAND gates.(JK,JKMS) 
+
+2. Realisation of JK,D,T Flip Flops using SR Flip Flops. 
+
+3. DAC-808(current driven type of DAC)stair case generator. 
+
+4. ADC-808(Successive approximation) 
+
+5. PLL-565(Application like frequency multiplexer)Parameters like capture range and lock in range. 
+
+6. Counter-74192, 74193(Programmable,Presettable),7490,7492,7493,MOD-N counters. 
+
+7. Shift Registers-7495,7496(application, ring and twisted ring counter,s equence generator) 
+
+8. MUX and DEMUX-74153 and 74139(Application like code coverters, adder, subtractors, parallel adder circuits). 
+
+9.7483 adder chip-modification for BCD addition and other arithmetic operations-adder, subtractor, excess 3 adder/ subtractor in 1’s and 2’s compliment. 
+
+10. Decoders and Encoders-use of Decoder chip to drive LED display. Realise combinational circuits-Full adder, Full subtractor. 
+
+11. ROM and RAM-use suitable chip to demonstrate. 
+
+12. Arithmetic Logic Unit and its application for various operations (Use the IC)

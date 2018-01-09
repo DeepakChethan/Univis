@@ -1,0 +1,36 @@
+HVDC and FACTS 
+
+PART A 
+
+1. D.C. Power transmission technology : 
+Comparison of A.C. and D.C transmission, application of D.C transmission, different types of D.C links, description of D.C transmission systems, planning and modern trends in H.V.D.C transmission. Economic considerations 
+
+2. Analysis of HVDC Converters : 
+Thyristor valve, valve protection, tests and recent trends. Choice of Converter configuration. Analysis of 6 pulse bridge type converter (Graetz circuit), effect of source inductance, equivalent circuit (without filters) converter bridge characteristics. Valve voltage wave forms with and without overlap. Line commutated inverter with source inductance. 
+
+3. Harmonics and Filters : 
+Generation of Harmonics, types of filters, carrier frequency and RI noise. 
+
+
+PART B 
+
+4. Converter and HVDC System Control : 
+Principles of D.C link control, converter control characteristics, Firing angle control current and extinction angle control, power control, higher level controllers. 
+
+5. Converter faults and protection : 
+Converter faults, protection against over currents and over voltages, over voltages in a Converter station. Reactive power control during transients. 
+
+6. Multiterminal HVDC Systems : 
+Types of MTDC Systems, Control and protection of MTDC Systems, applications of MTDC Systems. 
+
+7. Stability of A.C. -D.C interconnected system. 
+
+8. Simulation of HVDC Systems :
+ Modelling of HVDC Systems for digital dynamic Simulation. 
+
+
+PART C 
+
+9. Principles of Reactive power compensation, Load and Line compensation, Concepts of Flexible AC Transmission system (FACTS). 
+
+10. Shunt and Series compensation, Static variable compensations, Thyristor controlled reactor, Thyristor switched capacitor.

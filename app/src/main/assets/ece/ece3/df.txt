@@ -1,0 +1,21 @@
+Digital Fundamentals 
+
+PART A 
+
+1. Number System: 
+Decimal, Binary, Octal, Hexadecimal, BCD and Excess 3numbersd and their conversions to other numbers, gray code. Multiplication, Division: Restoring and Non-restoring methods-1’s,2’s,9’s and 10’s complements. BCD, Excess 3 and hexadecimal and their arithmetic operations. Other 4 bit codes, hamming code. Error detection and correction for n bits, ASCII, EBCDIC code, Self Complementary codes. 
+
+2. Logic families: 
+History of logic families HTL, RTL, DTL, EFL, TTL, ECL, MOS. Parameters and characteristics of each family. Definition of logic flexibility, Speed of operation, Availability of Complex functions, Power dissipation, Noise generation, Noise immunity cost, temperature, Multiemitter transistor. Fan in, Fan out, Totem pole output circuits. Input and output currents, Noise margin TTL .Low, Medium and high speed TTL, Low power schotty, Advanced low power schotty, Advanced Schottty TTL, open collection tristate logic, wire-AND logic. MOS-CMOS Logic, NMOS logic, open drain and high impedance outputs. Specifiacations and standards, CMOS hazards, NMOS ECL input and output characteristics. OR/NOR gate.IIL: integrated Injection Logic gates and its circuits interfacing CMOS and ECL gates. ANSI/IEEE representation and symbols. 
+
+
+PART B 
+
+3. Digital ICs: 
+SSI,MSI,LSI,VLSI,GSI,USI circuits and specifications, Boolean Algebra theorems, laws, and their properties. Logic gates. Simplification of Boolean functions in terms of SOP and POS expressions(min terms and max terms)canonical SOP and POS forms. Karnaugh map, Yubular method/Quine McKluskey method, VEM and MEV Techniques for SOP and POS up to six variables. Functional decomposition of Switching function decomposition by expansion, test for decomposability, SYSTEMS Decomposition charts. 
+
+4. Combinational circuits: 
+Half adder, full adder, Half and full subtractor, parallel adder, parallel substractor, design of adder/subtractor, excess 3 adder/subtractor, BCD adder/subtractor, serial adder ,look ahead carry adder and its design. Design using 74182.digital Comparator P=Q, P less than Q, P>Q for 5 bits. MULTIPLEXER:4×1,8×1,16×1,32×1,MUX tree and its design. Design of arithmetic and other combinational circuits using decoder/Demux and MUX. Encoders: Diode matrix encoder, Priority encoder, Key board encoder. 
+
+5. Code converters: 
+Design of Gray to Binary and Binary to Gary, BCD to Excess 3 and vice versa, Decimal to BCD, Decimal to Hexadecimal and vice versa with seven segment display.LED and LCD display. Study of 7483, 74138, 74148, 74139, 74151, 74153, 74154, 74157, 74181 IC chips.

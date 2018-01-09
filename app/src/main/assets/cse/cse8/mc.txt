@@ -1,0 +1,44 @@
+UVCE Syllabus
+n
+2K11CS83 MOBILE COMPUTING 
+
+Note : 
+
+FOUR questions from PART A and FOUR questions from PART B to be set. 
+
+Students should answer FIVE questions selecting atleast TWO from each PART . 
+
+For every SIX hours of syllabus ONE question may be set. 
+
+Hours per week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+PART A 
+
+Chapter 1: Mobile Devices And Systems, Architectures 6 Hours Mobile phones, Digital Music Players, Handheld Pocket Computers, Handheld Devices, Operating Systems, Smart Systems, Limitations of Mobile Devices, Automotive Systems. GSM – Services and System Architectures, Radio Interfaces, Protocols, Localization, Calling, Handover, General Packet Radio Service. 
+
+Chapter 2: Wireless Medium Access Control And CDMA – Based Communication 6 Hours Medium Access Control, Introduction to CDMA – based Systems, OFDM 
+
+Chapter 3: Mobile Ip Network Layer, Mobile Transport Layer 6 Hours IP and Mobile IP Network Layers Packet Delivery and Handover Management, Location Management, Registration, Tunneling and Encapsulation, Route Optimization, Dynamic Host Configuration Protocol. Indirect TCP, Snooping TCP, Mobile TCP, Other Methods of TCP – layer Transmission for Mobile Networks. 
+
+Chapter 4: Databases 6 Hours Database Hoarding Techniques, Data Caching, Client – Server Computing and Adaptation, Transactional Models, Query Processing, Data Recovery Process, Issues relating to Quality of Service. 
+
+PART B 
+
+Chapter 5: Data Dissemination And Broadcasting Systems 6 Hours Communication Asymmetry, Classification of Data – Delivery Mechanisms, Data Dissemination Broadcast Models, Selective Tuning and Indexing Techniques, Digital Audio Broadcasting, Digital video Broadcasting. 
+
+Chapter 6: Data Synchronization In Mobile Computing Systems 6 Hours Synchronization, Synchronization Protocols, SyncML – Synchronization Language for Mobile Computing, Synchronized Multimedia Markup Language (SMIL). 
+
+Chapter 7: Mobile Devices, Server And Management, Wireless LAN, Mobile Internet Connectivity And Personal Area Network: 6 Hours Mobile agent, Application Server, Gateways, Portals, Service Discovery, Device Management, Mobile File Systems. Wireless LAN (WiFi) Architecture and Protocol Layers, WAP 1.1 and WAP 2.0 Architectures, Bluetooth – enabled Devices Network, Zigbee. 
+
+Chapter 8: Mobile Application Languages – XML, Java, J2ME And JavaCard, Mobile Operating Systems 6 Hours Introduction, XML, JAVA, Java 2 Micro Edition (J2ME), JavaCard. Operating System, PalmOS, Windows CE, Symbian OS, Linux for Mobile Devices. 
+
+References 1. Mobile Computing – Raj Kamal, Oxford University Press, 2007.
+
+ 2. Mobile Computing: Technology, Applications and Service Creation, Asoke K. Talkukder, Roopa R Yavaga, Tata McGraw Hill, 2005.
+
+ 3. Mobile Computing Principles: Designing and Developing Mobile Applications with UML and XML, Reza B’Far, Fifth Edition, Cambridge University press, 2006.
+
+ 4. Principles of Mobile Computing – Uwe Hansmann, Lothat Merk, Martin S Nicklous and Thomas Stober, Second Edition, Springer International Edition, 2003.
+
+ 5. Mobile Communication – Schiller, Pearson Education, 2004.
+

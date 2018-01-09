@@ -1,0 +1,43 @@
+2K11 ME 502 Machine Design – I 
+
+Lecture: 4 Hrs / week Exam: 3 Hrs 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Exam Marks: 100 
+
+UNIT I 
+
+1. The meaning of Mechanical Engineering Design – the phases of design – design considerations – codes and standards – review of stress analysis – factor of safety. Design for static loading – Failure theories – stress concentration. 12 
+
+2. Design for variable loading – Endurance limit and fatigue strength – Fluctuating stress – combination of loading modes – Design of Impact loading. 8 
+
+3. Design of shafts of circular section – Crankshafts – connecting rods – power screws. 10 
+
+UNIT II 
+
+4. Design of Keys and Splines; Couplings – Rigid and Flexible Couplings; Mechanical joints –cotter joints; Knuckle joints; Bolted joints; Riveted joints; Welded joints. 15 
+
+5. Design of clutches – Disc, cone and centrifugal clutch; Design of brakes – block brake, band brake – internal expanding brakes. 15 
+
+Text Books : 
+
+1) Mechanical Engineering Design – Joseph Shigley and Charles – Mischke, Mc Graw Hill international 
+
+2) Machine Design – P.C. Sharma, D.K. Kataria and Sons 
+
+3) Machine Design Data Hand Book (Dr. Lingaiah) 
+
+REFERENCE: 
+
+1) Design of Machine elements – M.F. Spots 
+
+2) Machine Design – Paul H Black and Adams Jr. 
+
+Scheme of Examination: 
+
+Note: USE OF DESIGN DATA HAND BOOK IS PERMITTED IN THE EXAMINATION. 
+
+Examiner to set four questions from each Unit. 
+
+Students are to answer any five full questions choosing at least two questions from each unit.

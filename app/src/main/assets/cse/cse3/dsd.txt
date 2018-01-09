@@ -1,0 +1,47 @@
+
+
+ 
+
+ 2K11CI 33: DIGITAL SYSTEMS DESIGN 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Unit 1. Digital Principles, Digital Logic: 
+
+ Definitions for Digital Signals, Digital Waveforms, Digital Logics, 7400 TTL Series, TTL Parameters, The Basic Gates: NOT, OR, AND, Universal Logic Gates: NAND, NOR, Positive and Negative Logic. 
+
+ Unit 2. Combinational Logic Circuits: 
+
+ Sum-of-products methods, Truth table to Karnaugh map, Pairs, Quads, Octets, Karnaugh Simplification, Dont care conditions, Product of sums Simplifications, Simplification by Quine-Mccluskey method. 
+
+ Unit 3. Data Processing Circuits: 
+
+ Multiplexers, De-Multiplexers, 1of 16 Decoder, Encoders, Exclusive OR gates, Parity generator and checker, Magnitude Comparator, Programmable Array Logic, Programmable Logic Arrays. 
+
+ Unit 4. Clocks, Flip-Flops: 
+
+ Clock Waveforms, TTL Clock, Schmitt Trigger, Clocked D Flip-Flop, Edge triggered D Flip Flop, Edge triggered JK Flip Flop Timing, JK Master-slave Flip-Flop, Switch Contact Bounce Circuits, Various representation of Flip-flops, Analysis of Sequential Circuits. 
+
+ PART B 
+
+ Unit 5. Registers: 
+
+ Types of Registers, SISO, SIPO, PISO, PIPO, Universal shift register, Applications of shift registers. 
+
+ Unit 6. Counters: 
+
+ Asynchronous counters, decoding gates, synchronous counters, changing the counter modulus, Decade Counters, Presettable Counters, Counter Design as Synthesis Problem, A digital Clock. 
+
+ Unit 7. Design of synchronous and asynchronous sequential circuits: 
+
+ Model Selection, State transition Diagram, State Synthesis Table, Design Equations and Circuit Diagrams, Implementation using Read only Memory. Algorithmic State Machine, State Reduction Technique, Asynchronous Sequential Circuits: Analysis of Asynchronous Sequential Circuits: problems with asynchronous sequential circuits, design of asynchronous sequential circuits. 
+
+ Unit 8. D/A Conversion and A/D Conversion: 
+
+ Variable, Resistor Networks, Binary Ladders, D/A Converters, D/A accuracy and Resolution, A/D Converter – Simultaneous Conversion, A/D Converter-Counter Method, Continuous A/D Conversion, A/D techniques, Dual-s;ope A/D Conversion, A/D Accuracy and Resolution.

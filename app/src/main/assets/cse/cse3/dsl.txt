@@ -1,0 +1,41 @@
+
+
+ 
+
+ 2K11 CIL38: DATA STRUCTURES LABORATORY 
+
+ 1. a) Tower of Hanoi 
+
+ b) Stack Using Array 
+
+ 2. Infix expression to Postfix form 
+
+ 3. Infix expression to Prefix form 
+
+ 4. a) Insertion sort 
+
+ b) Queue using Array 
+
+ 5. Create singly linked list 
+
+ 6. Stack using singly linked list 
+
+ 7. Queue using singly linked list 
+
+ 8. Singly circular linked list 
+
+ 9. Create doubly linked list 
+
+ 10. Create doubly linked list 
+
+ 11. Circular doubly linked list 
+
+ 12. Create binary tree 
+
+ 13. Create binary search tree and perform traversals 
+
+ 14. Create binary search tree 
+
+ 15. Evaluate expression using binary tree 
+
+ 16. Threaded binary tree

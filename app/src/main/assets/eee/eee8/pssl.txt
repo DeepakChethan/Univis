@@ -1,0 +1,90 @@
+ELECTIVE - Artificial Intelligence Techniques For Power Systems 
+
+PART A 
+
+1. Introduction : 
+Approaches to Intelligence control, Architecture of Intelligent control. Symbolic reasoning system, Rule based systems, AI approach. Knowledge representation, Expert systems. 
+
+2. Artificial Neutral Networks: 
+Concept of ANN and its Basic Mathematical model – Mcculloch-pitts, Neuron model, Simple perceptron. Adaline and Madaline, Feed-forward, Multi layer perceptron. Learning and Training the neural network. Data processing, Scaling, Fourier transformation, principal-component, analysis and wavelet transformations, Hopfield network, Self organizing network and Recurrent network, Neural network based controller. Application of ANN to power systems. 
+
+PART B 
+
+3. Fuzzy logic system : 
+Introduction to crisp sets and fuzzy sets, basic fuzzy set operation and approximate reasoning. Introduction to Fuzzy logic modeling and control. Fuzzification, inferencing and defuzzification, Fuzzy knowledge and Rule based. Fuzzy modeling and Control schemes for non-linear systems. Self organizing fuzzy logic control, Fuzzy logic control for non-linear time delay system. 
+
+4. Genetic algorithm : 
+Basic concept of GA and detail algorithm steps. Adjustment of parameters. Solution of typical control problems using GA. Evolutionary techniques and Tabular search. Economic dispatch problem using these techniques. 
+
+5. Applications : 
+GA application to Power System optimization problems, case studies. Identification and control of linear and non-linear dynamic systems using Matlab, Neural Network tool box. Stability analysis of Neural network interconnection systems. Implementation of Fuzzy logic controller. Stability Analysis of Fuzzy control systems Power system problems Optimal power flow, economic dispatch and stability studies. 
+
+
+ELECTIVE II - Analog and Mixed Mode VLSI 
+PART A 
+
+1. Introduction: 
+CMOS Analog design, levels of abstraction, robust analog design – analog design tradeoffs. 
+
+2. MOS device physics for analog design: 
+I-V characteristics, MOS device capacitances, MOS small signal model, device parameters – gm and ro, Implications of scaling and MOS second order effects for analog design – subthreshold conduction, body bias effect, channel length modulation. 
+
+3. Single stage amplifiers: 
+CS stage – R-load, diode-connected load, current source load, triode load, source degeneration, Source follower, CG stage, Cascode amplifier, folded cascade. 
+
+4. Differential amplifiers: 
+Single ended and differential operation, basic differential pair, common mode response, differential pair with MOS loads, Gilbert cell; Current mirrors - cascade current mirrors, active current mirrors; Bandgap references - Supply-independent and temperature independent references, Speed and noise issues. 
+
+PART B 
+5. Operational amplifiers: General considerations, 1-stage, 2-stage op amps, performance issues – input range, slew rate, power supply rejection, and noise; frequency compensation. 
+
+6. Switched capacitor circuits: Sampling switches, switched capacitor amplifiers, integrators and filters. 
+
+7. Oscillators and PLLs: Ring oscillators, LC oscillators, Voltage controlled oscillators, Simple PLL, Non-idealities and applications of PLLs. 
+
+8. Digital-to-Analog and Analog-to-Digital Converters: DAC - characterization, Parallel DAC, Serial DAC; ADC - characterization, Serial ADC. 
+
+
+Elective II - Micro Electromechanical Systems (MEMS) 
+
+PART A 
+1. Introduction : 
+Microsystems and microelectronics- Block diagram, components, multidisciplinary nature of microsystem design and fabrication, classification of MEMS : Mechanical, thermal, Magnetic, RF, Bio and chemo MEMS, MFS, MOEMS, Typical MEMS products and application. 
+
+2. Working principles of MEMS : 
+Principles of sensing and actuation; structures : beam and cantilever, microplates; Microsensors – pressure sensors, thermal sensors, chemical sensors, optical sensors, bio and biomedical sensors, flow sensors, gas sensors; Microactuation – thermal forces, shape memory alloys, piezoelectric crystals, electrostatic forces; Microactuators - microgrippers, micromotors, microvalves, micropumps, MEMS relay, thermovessels. 
+
+3. Scaling laws in miniaturization: 
+Scaling in geometry, rigid body dynamics, electrostatic forces, electromagnetic forces, electricity. 
+
+PART B 
+
+4. Engineering mechanics for Microsystems design: 
+Static bending of thin plates – circular, rectangular and square plates, mechanical vibration: microaccelerometers – design theory; resonant vibration; thermo mechanics – thermal stresses, creep deformation. 
+
+5. Materials for MEMS : 
+Substrates and wafers, Si as substrate material, Si compounds – SiO2, Silicon carbide, Silicon nitride, Poly Si, Polymers, packaging materials. 
+
+6. Micromanufacturing: 
+Fabrication of MEMS devices - Bulk micromachining, surface micromachining, LIGA process. 
+
+7. MEMS packaging: 
+General considerations, 3 levels of packaging – die level, device level and system level; interfaces and technologies for packaging ELECTIVE II - Energy Management and Auditing 
+
+PART A 
+1. Introduction : 
+Energy scenario – world and India, energy consumption, Demand patterns, Codes, standards and Indian electricity policy / regulations, power sector reforms. 
+
+2. Energy Economic Analysis: 
+The time value of money concept, developing cash flow models, payback analysis, depreciation, taxes and tax credit – numerical problems, Electricity billing, Tariff. 
+
+3. Energy Auditing : 
+Introduction, Types of Audit, Methods of conducting, Elements of energy audits, energy use profiles, measurements in energy audits, presentation of energy audit results, Energy Audit Report format. (Case study) 
+
+PART B 
+
+4. Electrical Equipment And Power Factor: 
+Correction and location of capacitor, Advantages of Pf correction, energy efficient motors, light, Fan, Concept of ABT. 
+
+5. Demand Side Management : 
+Introduction to DSM, concept of DSM, benefits of DSM, different techniques of DSM – time of day pricing, multi-utility power exchange model, time of day models for planning, load management, load priority technique, peak clipping, peak shifting, valley filling, strategic conservation, energy efficient equipment. Management and organization of Energy Conservation, Methods of conservation (Case study), Awareness programs, Congestion management, open access.

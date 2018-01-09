@@ -1,0 +1,19 @@
+
+ 2K11SM1201 ENGINEERING MATHEMATICS –II 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+ PART –A Unit-1: Solutions of ordinary differential equations of first order and first degree: Homogeneous forms, Linear and Bernoulli equations, Exact and reducible to exact equations, using standard integrating factors –orthogonal trajectories in Cartesian and polar forms. 6 + 1*=7 hrs. 
+ Unit-2: Second and higher order differential equations, homogenous linear equations with constant and variable co- efficients, problems. Non-homogeneous linear equations with constant and variable co-efficients, problems, Method of variation of parameters, Method of undertermined co-efficients. 6 + 2*=8 hrs. 
+ Unit-3: Vector differential calculus: Vector valued function of a single variable, Differentiation, Geometrical meaning, examples. Scalar and vector fields, gradient of a scalar field, geometrical application, divergence and curl of a vector field, Laplacian, vector identities. 7 + 1*=8 hrs. 
+ Unit-4: Vector integration: Line, surface and volume integrals of theorem (without proof) problems. Orthogonal curvilinear co-ordinates. 6 + 1*=7 hrs. 
+ 
+ PART –B Unit-5: Laplace transforms: Definitions and basic properties, Laplace transform of elementary functions and standard results, Laplace transforms of derivatives and integrals, Laplace transforms of periodic function, Unit step functions. 6 + 1*=7 hrs. 
+ Unit-6: Inverse Laplace Transforms, Convolution theorem, Applications of Laplace transforms to solve linear ordinary differential equations of first and second order with constant co-efficients. 6 + 2*=8 hrs. 
+ Unit-7: Analytical Geometry in three dimensions: Direction cosines and direction ratios, planes, straight lines, Angle between planes / straight lines, coplanar lines, shortest distance between skew line and right circular cone and right circular cylinder. 6 + 1*=7 hrs. 
+ Unit-8: Special functions: Series solution of the Bassel differential equation, Recurrence relation orthogonality, generating function. Series solution of Legendre differential equation, Recurrence relations, Generating functions, Legendre polynomials. 7 + 1*=8 hrs. 
+ Question paper pattern: 
+ The question paper contains two parts namely, Part A and Part B. Each part contains 4 questions. Five full questions are to be answered in all out of 8 questions, choosing at least two from each part. 
+ Reference Books: 
+ 1. Thomas G B and R L Finnery, Calculus, Addison Wesley, 9th Edition, 1998. 
+ 2. E. Kreyszig, “Advanced”8thEdition,Engineering2004,JohnWileyandsons. Mathematics 
+ 3. P V O Neil, “Advanced EngineeringThomson. Mathematics”, 

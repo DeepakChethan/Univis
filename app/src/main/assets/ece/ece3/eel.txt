@@ -1,0 +1,25 @@
+Electrical And Electronics Laboratory 
+
+1. Verification of Kirchoff’s law, Superposition, Thevenin’s, Reciprocal, maximum power transform theorem for DC circuits only. 
+
+2. Two way and Three way control of a lamp. 
+
+3. Measurement of power and PF of a fluorescent lamp with or without capacitor. 
+
+4. V-I characteristics of semiconductor diode and Zener diode. 
+
+5. V-I characteristics of SCR and UJT,BJT relevant parameters. 
+
+6. Drain characteristics of JFET and determination of rd,gm and µ. 
+
+7. OC and Sc test on single phase transformer-Determination of effiency and regulation. 
+
+8. NO load and load characteristics of DC shunt generator. 
+
+9. Load test on Induction motor. 
+
+10. Load test on DC shunt Motor. 
+
+11. Synchronization of alternator with bus bar. 
+
+12. Synchronous motor characteristics.

@@ -1,0 +1,26 @@
+
+ 
+ 2K11EC1201 BASIC ELECTRONICS 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+ PART –A 1. Introduction to Electronics : What is electronics, Electronic Devices, Evolution of Electronics- Vacuum tubes to Integrated Circuits, Conduction in Semiconductor: Electrons and holes in an intrinsic semiconductor, conductivity of a semiconductor, carrier concentration in an Intrinsic semiconductor, donor and acceptor impurities , charge densities in a semiconductor, Fermi level in a semiconductor having impurities, life time of carriers, Hall effect. Introduction to Solar energy Conversion, Photovoltaics.7 hrs. 
+ 2. Semiconductor –Diode Characteristics: Qualitative theory of a PN junction, PN Junction as a diode, Volt – Ampere characteristics, temperature dependence of P-N characteristics, half wave and full wave rectifiers, ripple factor, capacitor filter, Zener Diode- characteristics, Zener and avalanche breakdown, Zener regulated power supply. 7 hrs. 
+ 3. Transistor Characteristics : Junction transistor, transistor –current components, transistor as an amplifier, common base configuration, common –emitter configuration and Common Collector configuration with input and output characteristics, CE cut-off region, CE saturation region , large signal , DC and small-signal CE values of current gain, operating point, bias stabilization, decibel, Classification of amplifiers, RC coupled amplifier, frequency response, distortion in an amplifier, cascading transistor amplifiers 12 hrs. 
+ 4. Theory of Sinusoidal oscillators: Concept of feedback, sinusoidal oscillators, working of RC phase shift, Colpitts and Hartley’s oscillator using BJT’s Ex oscillator oscillator. 4 hrs. 
+ PART –B
+ 5. Operational Amplifiers (OPAMP): Introduction, ideal OPAMP, need for OPAMP, OPAMP characteristics, OPAMP applications: voltage follower, addition and subtraction using OPAMP circuits, OPAMP integrating and differentiating circuits. 7 hrs. 
+ 6. Communication systems: Basic block diagram of communication systems: Radio AM and FM, TV, Overview of Mobile communication, Satellite communication, Modulation, Amplitude Modulation , Frequency spectrum, power relations, Phase and Frequency modulation ,comparison of AM and FM, radio telephony, super heterodyne receiver, Transmitters. 10 hrs. 
+ 7. Digital Electronics: Digital logic –Binary numbers base conversion, Octal and Hexadecimal numbers , binary addition and subtraction using One’s and Two’s complements Hexadecimal Number systems, BCD and EX-3 addition and subtraction, numbers, binary logic symbols, basic theorems and properties of Boolean Algebra, De-Morgan’s ANDtheoremORlogicgate.realizations using Transistor –Transistor Logic (TTL), MOS, CMOS, NMOS, PMOS. Symbols used for NOT, OR, AND, NAND, NOR, XOR gates and their truth tables, Realization of Boolean functions using basic gates. Realization of basic gates using universal gates. 10 hrs. 
+ 8. Introduction to Cathode Ray Oscilloscope (CRO) Basic block diagram, use of CRO for measurement of amplitude Frequency and Phase. 3 hrs. 
+ Question paper pattern: 
+ Question paper shall contain 8 questions, one question from each unit. Five questions to be answered choosing at least 2 from each part. 
+ Reference Books: 
+ 1. Basic Electronics M.V. Rao
+ 2. “Electronics DevicesandHalkias,andTMHCircuits”1991Reprint2001 Millman
+ 3. Electrical and Electronics Computer Engineering for Scientist and Engineers, 2nd edition K.A. Krishna Murthy and M Raghuveer, New Age International Publishers(Wiley Easter 2001 
+ 4. Electronics Communication Systems, George Kennedy (TMH 4th edition 
+ 5. Electronics Principles A.P. Malvino, TMH 6th edition 
+ 6. Digital Logic and Computer Design, Morris Mano 
+ 7. Basic Electronics by Dr. H. N. Shivashankar and B. Basavasraju. 
+ 8. Principles of solar energy by D. Yogi Goswami, Frank Kreith, Jan.F. Kreider.,Eswar Press, Chennai. 
+ 9. Data Communication by William Schweber, Mcgraw Hill. 

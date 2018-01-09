@@ -1,0 +1,57 @@
+2K11 ME 501: Control Engineering 
+
+Lecture: 4 Hrs / week Exam: 3 Hrs 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Exam Marks: 100 
+
+UNIT I 
+
+1. INTRODUCTION TO CONTROL SYSTEMS: Introduction - Definition of control system terminology classification of control systems, open loop and closed loop system. 3 
+
+2. MATHEMATICAL MODEL OF PHYSICAL SYSTEMS: Transfer function derivation of transfer function of Physical systems-Mechanical systems, Concept of mechanical impedance - Electrical system-Hydraulic system. Thermal system Block diagrams and signal flow graphs. 8 
+
+3. TRANSIENT RESPONSE ANALYSIS: Standard test signals for time response, response of first and second order systems. 4 
+
+4.ERROR ANALYSIS: Static error coefficients, dynamic error co- efficient, Errors Analysis. 3 
+
+5. BASIC CONTROL ACTIONS AND CONTROLLERS : Proportional controllers, derivatives and integral controls proportional plus-derivative and proportional-plus-integral controllers, PID controllers, velocity feedback control. 3 
+
+6. STATE VARIABLE ANALYSIS: Introduction to modern control theory-comparison of conventional and modern control theories-state variables and state models, derivation of state models, deagonalisation, solution of state equation, controllability and observability. 8 
+
+UNIT II 
+
+7. CLOSED LOOP FREQUENCY RESPONSE: Frequency domain specifications, M circles, N circles, Nichols chart, experimental determination of transfer function. 3 
+
+8. FREQUENCY RESPONSE ANALYSIS: Polar plots, logarithmic plots, log magnitude vs phase Plots. 4 
+
+9. STABILITY ANALYSIS: Introduction-characteristic equation sand stability criterion, Routh Hurwitz’s criterion, Nyquist stability criterion, relative stability analysis, Bode analysis. 10 
+
+10. ROOT LOCUS METHOD: General procedure for construction of root loci-root locus plots-root locus analysis. 6 
+
+11. SYSTEM COMPENSATION: Introduction, phase lead, phase lag, lag-lead compensation methods- comparison of compensation methods. 3 
+
+12. ELEMENTS OF NON-LINEAR CONTROL SYSTEM: Introduction, common physical non-linearities-describing function and describing function analysis, phase -plane analysis, singular points, limit cycle behavior 5 
+
+Book for REFERENCES : 
+
+ 1. Automatic Control Systems - Harrrison and Boelinger
+
+ 2. Modern Control Theory - Ogata
+
+ 3. Automatic Control Systems - Benjamin C Ku
+
+ 4. Automatic Control Engineering – Raven
+
+ 5. Control Systems – A. Nagoor Karni
+
+ 6. Control system Engineering – Bakshi
+
+ 
+
+Scheme of Examination: 
+
+Examiner to set four questions from each Unit. 
+
+Students are to answer any Five Full questions choosing at least Two questions from each unit.

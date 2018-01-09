@@ -1,0 +1,70 @@
+
+
+ 
+
+ 2K11CE403 DESIGN OF RC STRUCTURES 
+
+ Hours / Week: 4 Exam: 3 Hours 
+
+ Total: 60 hours Class Marks: 25 
+
+ Max Marks: 100
+
+ 1. Philosophy of design of Reinforced concrete, properties of concrete and steel, Introduction to IS : 456 - 2000 and IS : 875-1987 (4 Hrs.) 
+
+ 2. Working stress method : design of singly reinforced and doubly reinforced rectangular beams and axially loaded columns. (8 Hrs.) 
+
+ Limit state method : 
+
+ 3. Single and Doubly reinforced rectangular beams; flanged beams, simply supported and cantilever beams. (10 Hrs.) 
+
+ 4. Design for shear and bond, development length (6 Hrs.) 
+
+ 5. Design of slabs ; One way and two way slabs. (8 Hrs.) 
+
+ 6. Design for torsion and combined shear, bending and torsion. (4 Hrs.) 
+
+ 7. Design of compression members : short column and long columns, circular columns subjected to axil loads and Uniaxial bending, (using SP : 16) (8 Hrs.) 
+
+ 8. Concept of SBC of soils, Design of isolated footings subjected to axial load, square and rectangular flat footings. (8 Hrs.) 
+
+ 9. Stair Cases : Types : staircase with waist slabs. (4 Hrs.) 
+
+ Note 1 : Detailing or reinforcements to be discussed at the end of each topic. 
+
+ Note 2 : Chapter 2 By W.S. M and remaining by L.S.M. 
+
+ Note 3 :Codel provisions are per IS : 456 - 2000 to be discussed in each topics. 
+
+ Use of Design Aids like SP - 16 to be illustrated. 
+
+ 
+
+ Question Paper Pattern: 
+
+ To answer 1 question out of 2 set as Part A : Covering Working Stress method (20 marks) 
+
+ To answer 4 questions out of minimum 6 questions set as Part B covering limit state method (20 x 4=80) 
+
+ 
+
+ Reference Books: 
+
+ 1. IS : 456-2000 Code of Practice for Plain Reinforced concrete (latest version) 
+
+ 2. IS : 875-1987 (parts 1 to ) Code of Practice for loading standards. 
+
+ 3. SP - 16 : Design Aids to IS 456 - 1978, SP 34 
+
+ 4. PillaiandMenon - Reinforced Concrete Design Tata - McGraw Hill Publishing co. Ltd., 
+
+ 5. Syal I.C. and Goel A.K. Reinforced Concrete Structures, AH, Wheeler Co. Pvt. Ltd., 
+
+ 6. VERGHESE, P.C. - Limit State Design of Reinforced Concrete, Prentice hall of India, Pvt. Ltd. New Delhi. 
+
+ a) FERGUSON, BREEN and JIRSA Reinforced Concrete Fundamentals, fifth Edition, John Wiley and Son. 
+
+ b) Dayarathnam, Design of R.C. Structures, Wheelers Publications. 
+
+ c) Shah and Kale Reinforced concrete structures. 
+

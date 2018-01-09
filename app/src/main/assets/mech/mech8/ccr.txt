@@ -1,0 +1,51 @@
+2K11ME 801 CAD/CAM AND ROBOTICS 
+
+Lecture: 4 Hrs / week Internal Assessment Marks : 25 
+
+Total No. of Hours: 60 Max marks for Examination: 100 
+
+PART-A 
+
+1. Introduction to CAD, CAM, CAD/CAM, Manufacturing data base, Application of Computers in Design and Manufacturing activities. Product Life cycle in Conventional and Computerized Manufacturing Environment. CAD/CAM Hardware and Software. 8 
+
+2. Geometric Modeling-Wire frame, Surface and Solid modeling, Transformation of 2D and 3D Geometric models-Translation, Scaling, Rotation, Homogeneous Representation and Concatenation of Geometric Transformations. Problems. 12 
+
+PART-B 
+
+3. NC, CNC and DNC – working of NC/CNC machines, classification, Design features of CNC machine tool, Machining centre, Turning centre, Axes definition of NC systems, Part Programming – G and M codes, Punched tape Preparation as per EIA and ISO Code formats, APT language, DNC – configuration, types, advantages, Adaptive control. Problems. 12 
+
+4. Group Technology and Cellular manufacturing systems–Group Technology Implementation, Part family formation, Selection of classification and coding systems, Design of Cellular manufacturing, Cell formation approaches. Computer Aided Process Planning-Approaches, Varient, Generative Knowledge based Process planning, Feature recognition in CAPP. Problems. 8 
+
+PART-C 
+
+5. Robotics Technology – Definition, Anatomy, Robot Control Systems, Resolution Accuracy and Repeatability, Specification, Problems. 4 
+
+6. Classification and Structure of Robotic systems, Point to Point and continuous path systems, Control loops of Robotic systems, The manufacturers – Cartesian ,cylindrical, spherical, jointed, and SCARA. Drives and Control Systems Problems. 4 
+
+7. Kinematic Analysis and Coordinate Transformation – Direct and Indirect Kinematics Problems. Geometry based direct Kinematic Analysis coordinate and vector transformations using materials, Denavit – Hartenberg convention, problems. 4 
+
+8. Robot end effectors – Grippers and Tools, Mechanical and Other types of grippers. Robot Programming, Sensors in Robotics, Robot applications, problems. 4 
+
+9. Machine Vision-Components and Working of Machine Vision system for typical Industrial Robot application. 4 
+
+Text Books: 
+
+1. Automation, Production Systems and Computer Integrated Manufacturing – Mikell P. Groover pub: PMI, New Delhi (1997). 
+
+2. Systems Approach to Computer Integrated Manufacturing – Nanua Singh Pub: John Wiley and Sons. 
+
+3. Industrial Robotics: Technology, Programming and Applications – Mikell P. Groover, Mitchell Weiss, etal. Pub: Mc Grow Hill International Ed. (1988). 
+
+4. CAD/CAM Principles and Applications-P.N. Rao. Pub: Tata McGraw Hill. 
+
+Reference: 
+
+1.Robotics for Engineers – Yoran Koren. Pub: McGraw Hill International Editions (1987). 
+
+2. Numerical Control Machines and Computer Aided Manufacturing.-Kunder, Tewari, Rao. Pub: Tata McGraw Hill. 
+
+3. Robots and Manufacturing Automation – C Ray Pub: John Wiley and sons. 
+
+Scheme of Examination: Examiners to set Two Questions in Part-A, Three Questions in Part-B and Part-C. 
+
+Students are to answer Five full questions choosing at least One full question from each Part.

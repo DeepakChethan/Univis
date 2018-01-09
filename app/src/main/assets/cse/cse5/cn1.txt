@@ -1,0 +1,60 @@
+
+
+ 2K11CI 53 : COMPUTER NETWORKS I 
+
+ Note: 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1 : Introduction Data, Signals and Digital Transmission 6 Hours 
+
+ Data Communications; Networks; the Internet; Protocols and Standards; Layered tasks; The OSI Model and the layers in the OSI model; TCP / IP Protocol Suite. Analog and digital signals; Transmission impairment; Data rate limits; Performance; Digital-to-Digital conversion; Analog-to-Digital conversion; Transmission modes. 
+
+ Chapter 2 :Analog Transmission and Multiplexing 6 Hours 
+
+ Digital - to - Analog conversion; Analog - to - Analog conversion; Multiplexing; Spreadspectrum. 
+
+ Chapter 3 :Transmission Media, Error Detection and Correction 6 Hours 
+
+ Twisted pair cable, Coaxial cable, Fiber-Optic cable, Radio waves, Microwaves, Infrared. Introduction to error detection / correction; Block coding; linear block codes; Cyclic codes, Checksum. 
+
+ Chapter 4 :Data Link Control 6 Hours 
+
+ Framing; Flow and Error control; Protocols; Noiseless channels; Noisy channels; HDLC; Point-to-point Protocol - framing, transition phases, ALOHA, CSMA, CSMA/CD. 
+
+ PART B 
+
+ Chapter 5 : Multiple Access, Ethernet 6 Hours 
+
+ Random Access; Controlled Access; Channelization. Ethernet: IEEE standards; Standard Ethernet IEEE 802.3 and changes in the standard; Fast Ethernet; Gigabit Ethernet. 
+
+ Chapter 6 :Wireless LANS and Connection of LANS 6 Hours 
+
+ IEEE 802.11; Bluetooth IEEE 802.16, Wireless Broadband IEEE 802.15.Connecting devices; Backbone Networks; Virtual LANs, CSMA/CA. 
+
+ Chapter 7 :Interconnecting Devices 6 Hours 
+
+ Cellular telephony; Introduction to 2G, 3G, 4G and 5G.Switching: 2X2 Switch, Crossbar Switch, ButterflySwitch, Banniyan Switch. WDM, DWDM. Bridges: Working of Bridges, Wireless Bridges, Transparent Bridges. 
+
+ Chapter 8:Introduction to Network Layer 6 Hours 
+
+ Introduction to Routing, Different network topologies and their characteristics, Introduction to Router, Routing tables. 
+
+ References: 1. Data Communications and Networking – Behrouz A. Forouzan, Fourth Edition, Tata McGraw-Hill, 2006. 
+
+ 2. Communication Networks: Fundamental Concepts and Key Architectures - Alberto Leon, Garcia and IndraWidjaja,Third Edition, Tata McGraw- Hill, 2004. 
+
+ 3. Data and Computer Communication, William Stallings, Eighth Edition, Pearson Education, 2007. 
+
+ 4. Computer Networks: A Systems Approach - Larry L. Peterson and Bruce S. David, Fourth Edition, Elsevier, 2007. 
+
+ 5. Introduction to Data Communications and Networking – Wayne Tomasi, Pearson Education, 2005. 
+
+ 6. Computer and Communication Networks – Nader F. Mir, Pearson Education, 2007. 
+
+ 7. Computer Networks , Andrew S.Tanenbaum, Fourth Edition, Prentice Hall PTR, 2007. 
+

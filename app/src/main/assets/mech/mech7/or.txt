@@ -1,0 +1,45 @@
+2K11ME 702 OPERATION RESEARCH 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT – I 
+
+1. Introduction: Managerial Decisions, Decisions under certainty and decisions under uncertainty, Development of O.R, Definitions and essential characteristics of O.R, Phases of O.R, scope of O.R. Advantages and limitation of O.R. 5 
+
+2. Linear Programming Problems: Formulation, and application, concepts of solution space, convex regions, basic feasible solution, by Graphical method, Simplex method, Big-M method, Degeneracy in L.P.P., Theory of duality, Dual-simplex method. 10 
+
+3. Transportation Problems: Finding initial BFS using N-W corner method, Matrix Minima method and VAM. Optimal solution by Modi method, Degenerate and unbalanced transportation problems. 10 
+
+UNIT – II 
+
+4.Assignment Problem: solution by Hungarian method, and Traveling Salesman problems. 5 
+
+5. Sequencing Problems: Johnson’s algorithm, n jobs 2 machines, n jobs 3 machines, 2 jobs m machines problems 5 
+
+6. Replacement Analysis: Causes for replacement and types of replacement problems, Items deteriorating with time, Items with sudden failure. 5 
+
+7. Network Analysis: Introduction to network planning, construction of activity on arrow diagrams. Determination critical path, computation of slack/float, Differences between PERT AND CPM. Determination of probability of completion of a project crashing of networks and determination of lowest cost schedule and minimum length schedule. 10 
+
+UNIT – III 
+
+8. Queuing Theory: Queuing system, Terminology and characteristic Analysis of (m/m/1): (8/FIFO) and (m/m/k): (8/FIFO) queues. Applications of queuing theory. 5 
+
+9. Game Theory: 2 persons Zero sum games, game with saddle point and games with mixed strategies. Graphical Solutions to games, Solution of Games using Dominance rules. 5 
+
+Books for References: 
+
+1. Introduction to Operations Research - Hiller. F.S and Lieberman. G.S 
+
+2. Operations Research - Kanti Swarup, Gupta and Manmohan 
+
+3. Operations Research - S.D. Sharma 
+
+4. Operations Research - Hira and Gupta 
+
+Scheme of Examination: 
+
+Examiners are to set Three questions from each of Unit-I and Unit-II and Two questions from Unit-III. Students to answer Five full questions choosing Two from Unit-I and Unit-II One from Unit-III.

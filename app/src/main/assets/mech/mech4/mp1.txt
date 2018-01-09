@@ -1,0 +1,65 @@
+2K11 ME 402: Manufacturing Processes – I 
+
+Lecture: 4 Hrs / week Examination: 3 Hrs 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Max marks for Examination: 100 
+
+Unit.1 
+
+1. Casting patterns: Functions of patterns, Types of patterns ,and their brief description, pattern allowance. Pattern materials. 3 
+
+2. Sand moulding process and materials: 
+
+Essential features of a sand mould. Description of green sand moulding. Dry-sand moulding core-sand moulding process. Working of moulding machine-Squeezers, Jolting machines. Jolt-Squeeze machine. Composition and properties of Moulding sands and core sands.Sand additives,Sand tests,Moulding materials other than silica sand, 7 
+
+3. Melting practice: 
+
+Introduction to fuels and furnaces, Crucible furnaces, Arc furnaces, open hearth furnace,Induction furnace, Induction furnaces, Convertors,Cupola. Metal refining,inoculation ,Metal handling 5 
+
+4. Special molding and casting processes: Shell molding, investment casting. Permanent mould casting, centrifugal. Pressure die casting. Plaster casting, Slush casting. 5 
+
+5.Solidification of castings:Volumetric shrinkage in castings,Solidificaation of pure metals,Rate of solidification of castings,Solidification of alloys,Grain stracture of cast metals,Solidification shrinkage of alloys,Gases in cast metals,prevention of gas obsorbtion,gas removal. 5 
+
+6. Risering;The reason for risering, Requirement for a riser, Riser size and directional solidification, Riser location and directional solidification, Riser size,Riser feeding distance,Riser treatments,Insulation,Exothermic sleeves,Exothermic riser compounds,Chills and chaplets,padding, 5 
+
+Unit -2 
+
+7.Gating:Gating system,Types of gates,Gating rato,Turbulance in the gating system, Fundamentals of metal flow in gating systems, 4 
+
+8.Casting defects,their origin and control:Surface imperfections,Deffects resulting from incomplete feeding,Gas porosity,Hot tears,cold cracks,warpage,molding defects,unfused chills and chaplets, 3 
+
+9.Cleaning operation of castings and Inspections of castings: Removing the mold materials,Removing gates and risers,Finish cleaning,Magnetic and fluorescent powder inspection,Radiography, The ultosonic reflectoscope, 3 
+
+10. Welding: 
+
+Principles and practice of following welding process. Manual metal arc. TIG, MIG, Submerged arc welding.Friction welding, Gas welding, Resistance welding. Explosive welding,Thermit welding 
+
+11. Metallurgical aspects: 
+
+Structure of welds, Heat Affected Zone, shrinkage and residual stresses in welds, weldability of cast Iron, Low alloy steels, Copper, Aluminum ,Welding defects, inspection and control. 8 
+
+12.Soldering and Brazing: Metallurgy of soldering and brazing, Brazing processes, Soldering processes, 3 
+
+Books for References: 
+
+1. Principles of Metal Casting by Heine and Rosenthal. 
+
+2.ASM-Hand Book,Foundry. 
+
+3.Foundry Engineering; Taylor, Flemings, Wulff 
+
+4.Foundry technology.N.Lakshmana Swamy. 
+
+5.Welding Technology by N.K. Srinivasan 
+
+6.Welding Hand book.AWS 8THEdition. 
+
+Scheme of Examination: E
+
+xaminers to set a total of eight questions as follows: 
+
+Four questions each from Units I and II 
+
+Students are to answer a total of five questions, choosing at least one from each Unit.

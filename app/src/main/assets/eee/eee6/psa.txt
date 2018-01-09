@@ -1,0 +1,24 @@
+Power System Analysis 
+
+PART A 
+
+1. Representation of a Power system components : 
+Circuit models of Transmission line, Synchronous Machines, Transformer and load, one line diagram, impedance and reactance diagram. Per unit system, Per unit impedance diagram of Power System Networks. 
+
+2. Symmetrical 3-phase faults : 
+Transients on transmission lines – Short circuit currents – Reactance of Synchronous machines on load and on no load. 
+
+3. Symmetrical Components : 
+Analysis of unbalanced load against balanced 3-phase supply, Neutral shift resolution of unbalanced of phasors into their symmetrical components, phase shift of symmetrical components in star-delta transformer bank. Power in terms of symmetrical components. Analysis of Balanced and unbalanced loads against unbalanced 3-phase supplies. Sequence impedances and sequence networks. Sequence impedance of power system elements (Alternator, transformer and transmission line), +ve, -ve and zero sequence networks of Power System elements. 
+
+
+PART B 
+
+4. Unbalanced faults : 
+LG, LL, LLG faults on an unbalanced alternator with and without fault impedance. Unsymmetrical faults on a power system with and without fault impedance, open conductor faults in power systems. 
+
+5. Stability studies : 
+Steady state and transient stability. Rotor dynamics and the swing equation. Power Angle equation. Equal area criterion of stability and its application. 
+
+6. Load frequency control : 
+Modelling of Isolated power system and problems.

@@ -1,0 +1,27 @@
+Information Theory and Coding 
+
+PART-A 
+
+1. Discrete sources: 
+Entropy, Conditions for maximum value, Definitions, Markov sources, problems. 
+
+2. Source coding: 
+Properties of codes, Shannon, Shannon-Fano, Huffman binary coding and efficiency calculation, Non-binary coding –Huffman ternary and quaternary coding, efficiency calculations. 
+
+3. Discrete Channels: 
+Joint and conditional entropies, Mutual information, Capacities and extension of channels. 
+
+4. Continuous sources and Channels: 
+Maximum entropy, Shannon - Hartley Law and its Implications, problems. 
+
+
+PART-B 
+
+5. Error control coding: 
+Block codes, minimum distance considerations, standard array and syndrome decoding. Block diagram for encodes and decodes 8 
+
+6. Binary cyclic codes: 
+Generate polynomial systematic cyclic codes, Circuit or block diagram for encodes and syndrome calculation BCH, R-S and Goolay codes 8 
+
+7. Convolutional Codes: 
+Block diagram, Encoding using time domain and transform domain approach, State diagram approach, code tree.

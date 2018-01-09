@@ -1,0 +1,449 @@
+2K11 ME 705.A. ENTREPRENEURSHIP DEVELOPMENT 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+1. SCOPE AND CHARACTERISTICS OF ENTERPRNEURSHIP: Special schemes for Entrepreneurs, exposure to demand based, service based, import substitute and export promotion industries. Identification of opportunities. 8 
+
+2. TUTIONS, FINANCING PROCEDURE AND FINANCIAL INCENTIVES: Financial ratios and their significance, books of accounts, statements and fund flow analysis. 8 
+
+3. ENERGY REQUIREMENT and UTILISATION: Resource management, persons, machine and materials, critical path method (CPM)- projection review techniques (PERT) as planning tools for establishing SSI. 10 
+
+4. TECHNO-ECONOMIC FEASIBILITY OF THE PROJECT: Plant layout and process planning for the product, quality control/quality enhance and testing the product, costing and pricing. 8 
+
+5. ELEMENTS OF MARKETING and SALES MANAGEMENT: Nature of product and market strategy, packing and advertising, after sales social responsibility and business ethics. 8 
+
+6. IMPORTANT PROVISIONS OF FACTORY ACT: Sales of good act, partnership act, Income Tax, Sales Tax and Excise rules, Licensing, tration, Muncipal bye laws and insurance coverage. 8 
+
+7. POLLUTION CONTROL, CREATIVITY AND INNOVATION: Problem solving approach, strength weakness opportunity and threat (SWOT) techniques, management of self and understanding human behaviour, coping with uncertainties, stress management and positive reinforcement. 10 
+
+Text Book: 
+
+Prasanna Chandra, ?Project – Preparation, Appraisal and Implementation?, Tata McGraw Hill, New Delhi, 1990. 
+
+Books for Reference: 
+
+1. Philip Kotler, ?Marketing Management?, Prentice Hall, 1990. 
+
+2. Prasanna Chandra, ?Fundamentals of Financial Management?, Tata McGraw Hill, Publication, 1995. 
+
+Scheme of Examination: Number of questions to be set =8, 
+
+Number of questions to be answered =5 2K11 ME 705.B. ELECTRONICS MANUFACTURING PROCESSES 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+1. Introduction: Important components of Electronic products. Types of Semiconductor materials and their properties. 6 
+
+2. Manufacturing ICs: The functions of ICs manufacturing of diodes. Production of a singal I component classification of Ic Architecture. 6 
+
+3. Manufacturing of Silicon Wafer: Fabrication of IC on Silicon wafers. 
+
+Fabrication of IC on Silicon wafers. Diffusion doping, Ion implantation, Rapid thermal processing- Thermal oxidation Monolithic processing. Lithography, Photolithography, Etching processes 10 UVCE, Mechanical Engg. 7 
+
+4. Thin film Deposition: Physical Vapour Deposition, chemical vapor deposition, Epitoxial growth, IC component interconnection, IC yield and economics 6 
+
+5. IC packaging. Types of packaging: Packaging process. 6 
+
+6. Printed Circuit Boards: Typical substrate (base) Materials and selection o substrate materials. Types of PCBs. Methods of manufacturing of PCBs. 8 
+
+7. Electronic Assembly General Description of Electronic Assembly detailed study of sequences of operation for through-hole and surface mount process 6 
+
+8. Micro Electro-Mechanical systems 
+
+(a) Introduction to micro electronics, Micro sensors MEMS, micro machines fundamentals of Silicon micro machining – Bulk and surface micromachining. Micro stereo lithography. 4 
+
+(b) Micro sensors: Types and brief description and applications of Thermal, Radiation, Mechanical, Magnetic, Bio-chemical sensors 4 
+
+(c) Smart sensors and MEMS Devices 4 
+
+Books for Reference: 
+
+1. E. Paul Degarmo, JT Black and Ronald A Kohser: Materials and processes in manufacturing. Wiley student Edition 2004 
+
+2. Minger ML: Electronics materials handbook Vol 1. Packaging ASM 
+
+3. Jarger RC: introduction to micro electronic Fabrication. Addision-Wesley 1990 
+
+4. Cambell A: The science and Engineering of micro electronics Oxford University press 2001. 
+
+5. Pierset RF: Semiconductor fundamentals Addisor-Wisley, Reading mass.1988 
+
+6. CA Harper and RM Sampson: Electronic materials and processes Handbook 2nd Edition Mc Graw Hill 1994. 
+
+Scheme of Examination: 
+
+Number of questions to be set =8 
+
+Number of questions to be answered =5 2K11ME705.C. AUTOMOBILE ENGINEERING 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+UNIT – I 
+
+1. Automotive Engines: Introduction to Engine, Engine classification, SI and CI engines, cylinder-arrangements and their relative merits, liners, piston- materials and design features, connecting rod, crankshaft, camshaft, cylinder heads, valves, valve actuating mechanisms, valve and port timing diagrams, types of combustion chambers for S.I Engine and C.I Engines, compression ratio, intake and exhaust system, choice of materials for different engine components, engine positioning, engine diagnostics, evaluating the engine’s condition. 10 
+
+2. Engine Lubrication and cooling system: Lubrication, oil types, lubricating systems, oil pump. Cooling systems, cooling requirements, liquid – cooled system-coolant, water pump, radiator, thermostat, water jackets, oil cooler, Air – cooled system. 5 
+
+3. Fuels, fuel supply systems: Conventional fuels, alternative fuels, fuel performance, basic fuel additives, fuel mixture requirements for SI Engines, Carburetors – basic carburetor design, types of carburetors, Fuel injection systems – multipoint and single point, EFI, TBI, CPI, GDI, CIS, Fuel delivery system- fuel transfer pumps, fuel filters, fuel injection pumps and injectors. 10 
+
+4. Ignition systems:Purpose of the ignition system, Ignition timing, Ignition components, Battery Ignition systems, Magneto Ignition system, Electronic Ignition system, spark timing, Automatic Ignition advance systems. 5 
+
+UNIT – II 
+
+5. Transmission: Clutches- Single plate, multi-plate and centrifugal clutches, Gear box- Necessity in transmission, gear shift mechanisms, sliding mesh, constant mesh, synchromesh gear boxes – 3,4 and 5 speed, Planetry gear system, over drives, fluid coupling, torque convertors, Epicyclic gear box, principle of automatic transmission.Drive to wheels- propeller shaft and universal joints, Hotchkiss and Torque tube drives, differential rear axle, different arrangements of fixing the wheels to rear axle. 10 
+
+6. Suspension and Steering systems: Tyres – Types of tyres, cornering, properties of tyre, causes and types of tyre wear, slip angle and cornering force, tyre dynamics, tyre repair. Suspension systems – requirements, suspension system components, torsion bar suspension systems, leaf spring, coil springs, shock absorbers, Semi-independent, Independent suspension systems, Air suspension system, Electronically controlled suspension systems, Active suspension system. Steering systems- Theory of steering mechanism, general arrangements of steering system, steering geometry, camber, King pin inclination, included angle, castor, toein and toeout, Manual-steering systems, Power–steering systems, Electronically controlled power- steering systems, general arrangements of links and stub axle, over steer under steer and neutral steer. Wheel alignment – Alignment geometry, wheel alignment equipment, four – wheel drive vehicle alignment. 10 
+
+7. Brakes: Friction, types of brakes, Mechanical, Air, Vacuum and Hydraulic braking systems. Construction and working of master and wheel cylinder, Hydraulic tubes and hoses, Drum brakes, Disc brakes, Brake shoes and lining, Antilock Brake systems (ABS) – components types, operation, Automatic traction control, Automatic stability control 6 
+
+8. Modern development in Automotives: Alternative fuels for Automotive traction, electric cars, Hybrid cars, Automotive exhaust emissions, control measures, Euro norms, Safety and Comfort features-Restraint systems, Air bags, Automotive heating systems, Air-condition systems, security and Antitheft devices. On-Board Diagnostic (OBD). 4 
+
+9. General maintenance of an automobile – fault tracing – repairs. 
+
+Books for Reference: 
+
+1. Automotive mechanics – Crouse 
+
+2. Automotive Mechanisms – Srigham 
+
+3. Motor vehicle – Newton and steeds 
+
+4. Automotive Mechanisms – S. Srinivasan 
+
+5. Automobile Engineers – K.K. Jain and R.B. Arshana 
+
+6. Automotive Technology –Jack Erjavec 
+
+7. Automotive Engineer’s Reference book – Melloj and Lenehestor. 
+
+8. Automobile Engineering – R.B. Gupta 
+
+9. Automobile Engineering – Narang. 
+
+10. Automotive mechanics- Joseph Heithner 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit. 2K11 ME 705.D. MODERN METHODS OF MANUFACTURING 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+PART-A 
+
+1. Rapid Prototyping- Introduction, Basic concepts in free form fabrication, photo polymer based free form process – Solid ground curing, Deposition based FF process – Fused deposition modeling powder based FF process – S selective laser sintering soligen and inkjet binder lamination based FF process,Rapid tooling, Economic consideration. 10 
+
+PART-B 
+
+2. Non Traditional Machining process – Principle of operation, Process description, process parameters, process capabilities, limitations, applications of Abrasive Jet Machining, Abrasive flow Machining, Water Jet Machining, Ion Beam Machining, Laser Beam Machining, Electro discharge wire cutting, Shaped tube electrolytic machining, Hybrid Non-traditional machining processes. High speed machining. 10 
+
+3. Micro Electronic Manufacturing and Electronic Assembly Introduction, Semiconductors Manufacture of Integrated Circuit Boards, Silicon wafer, I.C. on silicon wafer, Thin film deposition– Chemical Vapor Deposition, Epitaxial deposition, I.C. component interconnection, I.C. yield and economics, I.C. packaging types, packaging processes, printed circuit boards, Electronic assembly. 10 
+
+PART-C 
+
+4. Surface treatment, finishing and integrity – Mechanical clearing and finishing, Chemical cleaning, coating, Vaporized metal coating, Clad materials, Texturised surfaces, Coil coated surfaces, Coil coated sheets, Edge finishing and burns, Fatigue failures associated with surface integrity. 8 
+
+5. Advanced forming techniques – High Energy rate forming (HERF), Spinning, Forming with rubber tooling or fluid pressure, Sheet Hydro forming, Tube Hydro forming, Fine edge blanking, Electro forming and Spray forming. 8 
+
+6. Advanced welding techniques – Electron beam welding, Friction stir welding, Laser beam welding and cutting, Ultrasonic welding, Diffusion welding, Explosive welding, Flash welding, welding of plastics, welding related process – Surfacing metallizing. 6 
+
+7. Lean manufacturing, Agile manufacturing, Flexible manufacturing, Simultaneous/concurrent engineering – basic philosophy and other related issues. Use of Artificial Intelligence/expert/soft computing system in manufacturing. 8 
+
+Books for Reference: 
+
+1. E. Paul Degarmo, J.J. Black and Ronald A. Kosher – ?Materials and Processes in Manufacturing? John Wisely and sons. 
+
+2. Bhattacharya – ?New Technology? B.S. publishers. 
+
+3. Phillip F. Ostwald and Jaiso Munoz, ?Manufacturing Processes and systems, John Wiley and sons. 
+
+4. Pandey P.C. – ?Non Traditional Machining Processes?, Tata Mc GrawHill Publishers. 
+
+5. Mikell P. Groover – Automation, Production Systems and Computer Integrated Manufacturing?, PHE Publishers. 
+
+6. Nanua Singh – System approach to Computer Integrated Design and Manufacturing, John Wiley and Sons. 
+
+7. Andrew Kusaik – Intelligent Manufacturing Systems. 
+
+8. Kelpakjian – Manufacturing Engineering and Technology, Addison Wesley Publishers. 
+
+Scheme of Examination: 
+
+Examiners to set Two Questions in Part-A, Three Questions in Part-B and Part-C. 
+
+Students are to answer Five full questions choosing at least One full question from each Part. 2K11 ME 705.E. EXPERIMENTAL STRESS ANALYSIS 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+UNIT –I 
+
+1.Introduction: Mechanical, Optical, Pneumatic, Acoustic methods of Strain Measurement 6 
+
+2. Electrical Resistance Strain Gauges-Gauge factor types, properties of an ideal gauge material, backing material, Adhesive material, protective coatings; Methods of bonding strain gauges, strain gauges lead wire and connections, semiconductor strain gauges, Problems 6 
+
+3. Strain Gauge Circuits Wheatstone Bridge, error due to input impedance of measuring instrument, temperature compensation, multiple gauge circuits, calibration of strain measuring system, load cells, problems. 6 
+
+4. Strain Gauge Rosette- Necessity analysis, problems. 6 
+
+5. Photoelasticity – Nature of light- Harmonic wave, Phase amplitude polarization. 6 
+
+UNIT-II 
+
+6. Crystal optics-Passage-Passage of light through crystalline media, Absolute and relative phase difference, Quarter wave plate, half wave plate, production plane polarized light 6 
+
+7. Two dimensional photo elasticity- Stress optical law, plane Polariscope, isochromatics, isoclinics and isochromatics fringe order at a point, methods of compensation separation techniques, Problems. 6 
+
+8. Practice- Calibration of photo elastic model, material, properties of ideal photoelastic model material, casting of photo elastic models, machining, stress relieving, scaling model prototype relation, two dimensional application, problems. 6 
+
+9. Birefringent coating, theory, reflection polariscope. 6 
+
+10. More Techniques, Phenomenon, Moire fringe analysis, Geometric approach displacement approach, Moire techniques for inplane problems, Sign and order of fringes problems of Moire gratings, Moire fringe photography 6 
+
+Books for Reference: 
+
+1. Experimental Stress Analysis – L.S Srinath M.R Raghavan, K.Lingaiah. G. Gargesha, K. Ramachandra and B. Pant. 
+
+2. Experimental stress Analysis- Dally and Riley 
+
+3. Photo Mechanics-A.J Durelli 
+
+4. Theoretical and applied Stress Analysis- Durelli Philips and Tsno 
+
+5. Moire Analysis of strain- Durrelli and Parks 
+
+6. Photo Elasticity Volume 1 and 2 – Max M Frocht 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit. 2K11 ME 705.F. FOUNDRY TECHNOLOGY 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+UNIT-I 
+
+1. Synthetic sands- Role of properties –testing of sands 6 
+
+2. Patterns-different types-pattern allowances. 6 
+
+3. Sand Moulding-Machine Moulding-CO2 sands-Resin based no bake sand. 6 
+
+4. Die casting-centrifugal casting-Investment casting solidification of pure metal and alloy. 6 
+
+5. Melting Practice of cast iron, steel, Aluminium, Magnesium. 6 
+
+UNIT-II 
+
+6. Gating and risering of cast metals- method of calculating risers –Method of improving Yield. 10 
+
+7. Common casting defects and remedial measures. 5 
+
+8. NDT Methods 10 
+
+9. Foundry Mechanisation- Layouts of modern foundries. 5 
+
+Books for Reference: 
+
+Principles of Metal casting – Heine, Looper and Rosenthal 
+
+Foundry Engineering-Taylor, Flemmings and Wulff. 
+
+Fundamentals in the Production and Design of Casting, C.T. Merck. 
+
+Foundry Technology – Mukherjee. 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit. 2K11 ME 705.G. ENVIRONMENTAL ENGINEERING 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+UNIT-I 
+
+1. Air Pollution: :Sources Pollutants, global implications, classification of pollutants, particulates, Hydrocarbons Oxides of sulphur and Nitrogen, Photochemical Oxidants, Indoor air pollution. 8 
+
+2. Metrology and Natural purification processes: Elemental properties of the atmosphere scales of motion, Heat pressure, Wind, Moisture and relative humidity. Influence of Meteorological phenomena on air quality. Laps rate and dispersion pressure systems and air dispersion, winds and dispersion.Moisture and dispersion, Modeling. 12 
+
+3. Engineering systems for Air Pollution control Atmospheric cleaning processes, Approaches to contaminant control. Gravitational Settling chambers, centrifugal collectors. Wet collectors falanic filters, Electrostatic precipitators. Control devices for gaseous contaminates. Absorption, condensation, combustion, Automotive Emission control. 10 
+
+UNIT-II 
+
+4. Noise Pollution: Sources, Causes, limits of sound control 6 
+
+5. Solid Waste Pollution: Sources and types – municipal, Industrial and hazardous Wastes. Properties, Physical, Chemical of the above waste. Reuse of solid waste materials, materials recovery energy recovery. Collection-Types, determination of vehicle and labour requirements, collection routes, mechanical Volume reduction, Thermal volume reduction, Manual Component separation. Ultimate disposal-Land filling, deep – well injections. 12 
+
+6. Thermal Waste Pollution: Sources and types – Solids (Ash et.) and liquid properties effects on atmosphere property and human health remedial measures. Effect on steams. 6 
+
+7. Nuclear Waste Pollution: Types and sources – Abatement procedures, controlling measures. 6 
+
+Books for Reference: 
+
+a. Environmental Engineering by Howard S. Peavy, Donald R. Rowe and George Techbobongolons. Mc. Graw Hill International Editions (1987) 
+
+b. Air Pollution Hand Book by Magill PL, F.R. Holder and C. Ackley, Mc Graw Hill. 
+
+c. Solid Wastes: Engineering Principles and Management issues. 
+
+d. Air Pollution, h.C. Perkins, Mc Graw Hill, New York, 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit 2K11 ME 705.H. GAS DYNAMICS AND PROPULSION 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+UNIT I 
+
+1. Concepts from thermodynamics – System State Variables, process- reversible and irreversible, perfect gases. Continuity, momentum and energy equations Stagnation conditions. Speed of sound and Mach number. 10 
+
+2. One dimensional gas dynamics. Isentropic flow with variation of area. Mass flow and Mach number- Area relation. Nozzles and diffusers. Constant area flow with friction- Fanno line. Constant area with heating or cooling –Rayleigh line. Reference states. 10 
+
+3. Shocks-normal and oblique. Occurrence of shocks. Relations for normal shocks. Shock strength, Rankine-Hugoniot relations. Oblique shock deflection angle, shock separation.Pandit-Mayer expansion. 10 
+
+UNIT II 
+
+4. Propulsion systems. Newton’s laws of motion and momentum theorem. Classifications of propulsion engines for different speed ranges. Power and efficiency. 10 
+
+5. Jet engines- Turbojet and Ramjet engines. Thrust equation, specific thrust, thermal and overall efficiencies. Static performance and flight performance. Fuel (Numerical problems in all the above sections) 10 
+
+6. Rocket engines. General principles, thrust equation. Criterion for performance. Design parameters-Combustion Chambers and nozzles. Solid and liquid propellants and combustion theory. Electric and ion propulsion. 10 
+
+Books for Reference: 
+
+1. Fundamentals of Compressible Flows-S.M. Yahya 
+
+2. Gas Dynamics and Jet Propulsion-S.L. Somasundaram 
+
+3. Gas Turbenies and Jet Propulsion- Khafuria and Dubey 
+
+4. Elements of Gas Dynamics- Liepmann and Roshko 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit 2K11ME 705.I. SMART MATERIALS AND STRUCTURES 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+UNIT I 
+
+1.Overview of smart materials, structures and product technologies. 1 
+
+2. Smart materials: Piezoelectric materials, electro- and magnetic – strictive materials, magneto electric materials, magnetosheological fluids, electrisheological fluids, shape memory materials, fiber optic sensors. 10 
+
+3. Smart sensor, Actuator and transducers smart sensors: Accelerometers, force sensors, load cells, Torque sensors, pressure sensors etc smart actuators: Displacement actuators, force actuators, power actuators, vibration dampers Smart Transducers: Ultrosonic transducers, Sonic transducers, airtransducers. 15 
+
+UNIT II 
+
+4. Beam modeling with induced strain actuation simple model, Dual actuators, uniform strain beam model, Bernoounts- Euler Beam model (Symmetric and asymmetric induced strain actuation) 
+
+Embedded actuators. Extension-bending – torsion model. 12 
+
+5. Plate modeling without induced strain actuation and with induced strain actuationSingle layer composite plates Multi layer composite plates Antisymmetric laminates 12 
+
+6. Shape memory alloys for actuation of structural elements . 
+
+References: (i) Smart Materials and Structures by Srinivasan 
+
+(ii) Smart Structures by Bran Culshaw. 
+
+(iii) Piezoelectricity by Cady. 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit 2K11 ME 705.J. FINANCIAL MANAGEMENT AND COSTING 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination:100 
+
+UNIT - I 
+
+1. Preview of Organization: Organizational Goals, types of decisions, benefits and costs relevant to operating and capacity decisions. 11 
+
+2. Financial Accounting : Book keeping: Double entry accounting, journal and ledger posting 4 
+
+3. Financial statements and analysis Trial balance, preparation of trading account and profit and loss account, balance sheet, funds flow statement and ratio analysis 15 
+
+4. Product costing : Production costs, non production costs, Product costing with absorption and variable costing. 5 
+
+5. Variable job order and process costing system Element of cost, job costing, process costing. 5 
+
+UNIT - II 
+
+6. Variable standard costing for efficiency : Types of standard costs, setting of standards, variable standard cost system, standard cost variance, selection of standard cost system. 10 
+
+7. Cost and Production decisions : Contribution margin and Production decisions - adding a new product, sell or process further - make or buy decision , dropping the product line, optimum product mix. 5 
+
+8. Budgeting: Planning and control process, master budget - Profit plan, cash budget, capital expenditure budget, development of a master budget - sales forecast, cost behavior patterns. product cost, company objectives, sales budgets, production budget, raw materials, purchasing budget, factory cost budget, selling and administrative expense budget, profit plan , projected cash budget. 10 
+
+9. Responsibility Accounting and Budgetary Control : Responsibility accounting - cost centers profit or contributions centers. Responsibility planning, accounting and control process. 5 
+
+Books for Reference: 
+
+1. Management accounting - Wiley international, Don T December, Elton L Schafer, Marie T Ziegler, IV edition , 1988 
+
+2. Managerial Accounting - Garrison, BPI 
+
+3. Management accounting - Horn Gren PHI 
+
+4. Advanced Accounting - J.R. Batliboi, The standard accountance publications Pvt. LTD 
+
+ 
+
+5. Financial Management and Costing - Khan and Jain, TMH 
+
+6. Management Accounting and costing books SYN. Ltd 
+
+Scheme of examination : 
+
+Examiners to set four questions from each unit. 
+
+Students are to answer five full questions choosing at least two questions from each unit.

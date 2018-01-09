@@ -1,0 +1,53 @@
+2K11 CI45: FINITE AUTOMATA AND FORMAL LANGUAGES 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART-A 
+
+ Unit 1. Introduction To Finite Automata: 
+
+ Introduction to grammars-Production systems, Introduction to Finite Automata; The central concepts of Automata Theory, Deterministic Finite Automata, Nondeterministic Finite Automata 
+
+ Unit 2. Finite Automata, Regular Expressions: 
+
+ An application of Finite Automata; Finite Automata with epsilon –Transitions, regular expressions, Finite automata with Regular Expressions, Applications of regular expressions. 
+
+ Unit 3. Regular Languages, Properties Of Regular Languages: 
+
+ Regular languages; proving languages not to be regular languages; closure properties of regular languages; Decision properties of regular languages; equivalence and minimization of automata. 
+
+ Unit 4. Context-Free Grammars And Languages: 
+
+ Context-free grammars, Parse trees applications; Ambiguity in grammars and languages. 
+
+ PART-B 
+
+ Unit 5. Pushdown Automata: 
+
+ Definition of the Pushdown Automata; Thes andlanguagcfg?Deterministic Pushdown Automata. 
+
+ Unit 6. Properties of Context-Free Languages: 
+
+ Normal forms of CFG?s, the pumping lemma for CFG? 
+
+ Unit 7. Introduction To Turing Machine: 
+
+ Problems that computer cannot solve; the Turing machine; Programming techniques of Turing machines, Extensions to the basic Turing Machines, Turing Machine and Computers. 
+
+ Unit 8. Undecidability: 
+
+ A Language that is not recursively enumerable; correspondence problems; other undecidable problems. 
+
+ References: 
+
+ 1. Introduction to Automata: Theory , Languages and Computations- John E.Hoperoft, Rajeev Motwani, Jeffery D. Ullman, 3rd edition, Pearson Education,2007. 
+
+ 2. Introduction to Languages and Automat Theory- John C. Martin, 3rd edition, Tata McGraw-Hill,2007. 
+
+ 3. Introduction to Formal Languages and Automata- Peter lenz, Narosa Publishing house. 
+
+ 4. Fundamentals of theory of computation: Principles and Practice- Raymond Greenlaw, H. James Hoove, Morgan Kitufmann,1998.

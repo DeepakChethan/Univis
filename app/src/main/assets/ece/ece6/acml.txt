@@ -1,0 +1,31 @@
+Analog Communication and Microwave Lab 
+
+Analog communication experiments: 
+
+1. Design and testing of Butterworth second order active filters –LPF, HPF, BPF, BEF 
+
+2. Constant K, T and π type filters – LPF,HPF, BPF, BEF 
+
+3. AM generation and detection 
+
+4. FM generation and detection 
+
+5. DSBSC/SSB generation and detection 
+
+
+Microwave Experiments: 
+
+1. Mode curves of Microwave sources (Gunn/Klystron) 
+
+2. Measurement of Frequency and VSWR 
+
+3. Measurement of unknown impedance (use slotted lines and Smith chart) 
+
+4. Experiments on directional couplers 
+
+5. Experiments on magic Tee. 
+
+6. Measurements of Antenna parameters (may be of Hon antenna) 
+
+
+Study of Radio Receiver and Transmitter Characteristics.

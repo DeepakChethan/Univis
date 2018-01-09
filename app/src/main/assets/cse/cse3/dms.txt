@@ -1,0 +1,47 @@
+
+
+ 
+
+ 2K11 CI34: DISCRETE MATHEMATICAL STRUCTURES 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Unit 1. Fundamentals: 
+
+ Sets and subsets, Operations on sets, Counting – Permutations, Combinations, Pigeonhole principle, Recurrence relations. 
+
+ Unit 2. Logic: 
+
+ Propositions and logical operations, Conditional statements, Methods of proof, Mathematical Induction. 
+
+ Unit 3. Relations and Digraphs: 
+
+ Product sets and partitions, Relations, Digraphs, Paths in relations and digraphs, Properties of relations, Equivalence relations, Computer representation, Manipulation of relations, Transitive closure and Warshall’s algorithm. 
+
+ Unit 4. Functions: 
+
+ Functions for computer science, Permutation functions, Growth of functions. 
+
+ PART B 
+
+ Unit 5. Topics in Graph Theory: 
+
+ Graphs, Euler paths and circuits, Hamiltonian paths and circuits, colouring graphs. 
+
+ Unit 6. Trees: 
+
+ Trees, Labelled trees, Tree searching, undirected trees, Minimal spanning trees. 
+
+ Unit 7. Order Relations and Structures: 
+
+ Partially ordered sets, External elements of partially ordered sets, Lattices, Finite Boolean Algebras, Functions on Boolean algebras. 
+
+ Unit 8. Semi Groups and Groups: 
+
+ Binary Operations, Semi groups, Products and quotients of Semi groups, Groups, Products and Quotients of Groups.

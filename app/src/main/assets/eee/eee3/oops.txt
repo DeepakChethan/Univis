@@ -1,0 +1,30 @@
+Object Oriented Programming Using C++ 
+
+PART - A 
+
+1. Introduction: 
+Characteristics of OOP’s, Program Statements, Declaration statements, Constant variable data types, Operators, type conversion, assignment statements, cin and cout statements. Loops and Decisions: For, while and Do-while loops. If, If-else, Switch statements. Break, continue and goto statements. 
+
+2. Functions: 
+Defining a Function, function arguments, Default arguments, constant arguments, Passing by value, passing by reference, inline functions, function overloading, functions and strings, functions and structures, arrays and pointers. 
+
+3. Classes and Objects: 
+Specifying a class, member function, private and public. Static data members, static member function, array of object, function argument, friend function, returning objects. 
+
+4. Constructor and Destructor: 
+Definition, Constructor with default and multiple arguments, copy constructor, dynamic initialization of objects. 
+
+
+PART - B 
+
+5. Operator overloading: 
+Definition, Overloading unary and binary operator, usage of friend function rules for overloading. 
+
+6. Inheritance: 
+Introduction, Single , Multiple. Hierarchical hybrid virtual base class, abstract base class, constructors in derived class, pointers to objects, virtual functions, polymorphism. 
+
+7. Files: 
+Streams, opening and closing of files, File modes, File input and output using fundamental and abstract data types, character and string input/output, templates and exception handling. 
+
+8. Data structures: 
+Stack and Queues.

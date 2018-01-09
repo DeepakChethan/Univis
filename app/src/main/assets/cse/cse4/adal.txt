@@ -1,0 +1,57 @@
+2K11 CIL 48: ALGORITHMS LABORATORY USING C++ 
+
+ Brute Force Technique 
+
+ Find the time complexity of 
+
+ 1. Sequential Search and Selection sort 
+
+ Divide and Conquer Techniques 
+
+ Find the time complexity of 
+
+ 2. Binary search and Quick sort 
+
+ 3. Merge sort 
+
+ 4. Tree Traversals(Preorder, Inorder, Postorder) 
+
+ Decrease and ConquerTechniques 
+
+ 5. Find Time complexity of Insertion sort 
+
+ 6. DFS and BFS search 
+
+ 7. Topological Sorting 
+
+ Transform and Conquer Technique 
+
+ 8. Find the time complexity of Heap sort 
+
+ 9. AVL tree 
+
+ Speed and Time Trade off 
+
+ 10. Horspools String Matching Algorithm 
+
+ Dynamic Programming 
+
+ 11. Warshalls and Floyds Algorithm 
+
+ 12. Knapsack problem 
+
+ Greedy Technique 
+
+ 13. Prims Algorithm 
+
+ 14. Kruskals Algorithm 
+
+ 15. Dijkstras Algorithm 
+
+ Backtracking 
+
+ 16. N-Queens problem 
+
+ Branch and Bound 
+
+ 17. Travelling Salesman Problem

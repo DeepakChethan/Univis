@@ -1,0 +1,23 @@
+Analog IC And Industrial Electronics Lab 
+
+1. Application of Op-Amp as Inverting, Non-inverting amplifier,Substractor,Voltage Follower. 
+
+2. Series regulator using Op-Amp. 
+
+3. Precision Rectifier(Full Wave),Integrator, Differentiator. 
+
+4. R.F Oscillator: Hartley, Colpitt and Crystal Oscillator. 
+
+5. A.F Oscillator: RC Phase shift,Wein Bridge Oscillator. 
+
+6. Astable Multivibrator, Monostable Multivibrator and Schmitt trigger using Opamp. 
+
+7. Timer 555-timing circuits(Astable and Monostable). 
+
+8. Use of DIAC and TRIAC for rms voltage control with lamp load. 
+
+9. Use of power MOSFET or GTO or SCR for an inverter (series and parallel). 
+
+10. Use of Power MOSFET or MOSFET or GTO or SCR for a DC chopper(average voltage control). 
+
+11. Half controlled bridge with R load-control of average voltage.

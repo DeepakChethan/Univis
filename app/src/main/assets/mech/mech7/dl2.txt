@@ -1,0 +1,69 @@
+2K11 ME 707: DESIGN LABORATORY – II 
+
+Class: 3 Hrs / week Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT- I 
+
+I. Photo Elasticity Experiments: 
+
+Calibration of photoelastic model material by using circular disc under diametrical compression. Calibration of photoelastic model material by using a beam subjected to pure bending. Determination of stress concentration factor in a plate with circular hole under tension. 
+
+Determination of contact stress and sub surface shear stress in a circular cutout subjected to uniaxial tensile load. 
+
+Determination of stress concentration factor in plate with circular cutout under transverse bending. 
+
+II. Strain Gauge Experiments: 
+
+Determination of stress concentration factors in a plate with a circular cut out under uniaxial tensile load using strain gauges. 
+
+Determination of magnitudes and directions of a principal stress, principal strain, maximum shear stress and maximum shear strain using strain rosettes. 
+
+Study of Pressure distribution and coefficient of friction in journal bearing. 
+
+Study of pressure distribution and coefficient of friction in slider bearing. 
+
+Study of wear resistance of engineering materials using pin on disc apparatus. 
+
+Experiments on four ball tester for testing lubricating oil. 
+
+UNIT- II 
+
+III. Study of Finite Element Analysis package (ANSYS) 
+
+Static Finite Element Analysis of: 
+
+i) Bars, Trusses and Beams. 
+
+ii) Plane Stress and Plain Strain problems. 
+
+iii) Axis – Symmetric Problems. 
+
+iv) Solids (3 – Dimensional) 
+
+v)Simple problems on one-dimensional heat transfer. 
+
+Books for Reference: 
+
+1. Experimental stress Analysis – L.S. Srinath, M.R. Raghavan, K. Lingaiah, 
+
+i. G. Ganesha, K. Ramachandra and B. Pant. 
+
+2. Experimental stress Analysis – Dally and Riley. 
+
+3. Lubrication of Bearings by Radzimovsky. 
+
+4. Principles and applications of Tribology by Moore. 
+
+5. Strain Gauge by primer. 
+
+6. Introduction to FEM – T. Chandrupatla. And Belagundu 
+
+Scheme for Examination: 
+
+One experiment in Unit I 40 
+
+One experiment in Unit II 40 
+
+Viva-voce 20

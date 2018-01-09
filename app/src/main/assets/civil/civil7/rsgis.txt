@@ -1,0 +1,83 @@
+2K11CE701 REMOTE SENSING and GIS 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1.Principle of Remote sensing: Introduction, remote sensing system, electromagnetic spectrum black body, atmospheric windows, energy interaction with esurface, range of sensing system.(6 Hrs.) 
+
+2.Platform Sensors and Date products: Definition types of platform, photographic sensors, scanners, radiometers and radar. Date types and format scale and legend, false color composition.(6 Hrs.) 
+
+3.Earth Resources Satellites: Landsat, SPOT, IRS, satellites. Meteorological, satellites Ocean monitoring andearth observing satellites.(6 Hrs.) 
+
+4.Date Interpretation and Analysis Techniques: Multispectural, Multitemporal, multisensrol, multistageconcept, photo interpretation techniques for arieal photo and satellite imagery (visual and digital), interpretation elements, etc. preprocessing and processing.(10 Hrs.) 
+
+5.Thematic maps: SOI topomas, delineation of study area, Base maps, Land use/land cover, soil, hydogeomorphology, Motrphometric analysis-linear, aerial aspects.(10 Hrs.) 
+
+6.Geographical Information System (GIS): Definition, components of GIS different types of GIS, Data structures –Raster and vector, Data analysis and map generation.(6 Hrs.) 
+
+7.RS and GIS for water resources Engineering: Water balance, crop inventory, disaster management, ground water, ground water inventory, soil moisture study, runoff and soil loss estimation, rain water harvesting.(10 Hrs.) 
+
+8.RS and GIS for Environmental Engineering: Environmental impact assessment, forest fire, management of sewerage and solid waste disposal sites. (6 Hrs.) 
+
+Question paper Pattern: 
+
+Instruction: Students has tom answer Part-A and any Five Full question of the remaining by selecting at least two from each part. 
+
+Part-A Compulsory covering the entire syllabus 10 question to be set of 2 marks each Part-B four question to be set of 16 marks each covering topic 1, 2, 3, 4 
+
+Part-C four question to be set of 16 Marks covering Topics 5, 6, 7, 8. 
+
+Reference Books:
+
+ 1. Thomas M. Lillisand eandsensingR.W. andKieferimage.“Remotinterpr
+
+ 2. Sabins and Floyd, F. J. R “Remote sensing prin
+
+ 3. James B Campbell “Introduction to remote sensi
+
+ 4. Johnson b. Jensen, “Introductory Digital Image Pr
+
+ 5. Johnson B. Jensen “Remote sening of the enviro
+
+ 6. Engman E T and Gurney R J “Remote sensing in H
+
+ 7. Burroughs P A and PA Mc Donnel, “Principle of Geo
+
+ Press.
+
+ 8. Kang tsung Chang “Introduction to Geographical
+
+ 9. Anji Reddy “Text book of reormoateion’ssensingsystem”and geB
+
+ Hyderbad. 10. George Joseph “Fundamental of remote sensing” u
+
+ 11. Current literatures and publication.
+
+ 
+
+2. Bearing capacity and settlement of shallow foundations: Introduction, bearing capacity, gross pressure intensity, net pressure intensity, ultimate bearing capacity, net ultimate bearing capacity, Net safe bearing capacity, Safe braring capacity and allowable bearing pressure, General, Local and punching shear failure of soil foundation system and factors affecting foundations, assumptions and limitations. Determination of Bearing Capacity of soil foundation system byTerzaghi’s theory for general and local shear f of immediate (Elastic) and consolidation settlement. Uniform Settlement and Differential settlement, permissible settlement and toletate Distortion as Per Latest Relevant IS Code, Determination of BearingCapacity of Soils from N –Values By Teng’s (Modified) and Mey15 Hrs.
+
+ 
+
+PART –C 
+
+3. Pile Foundations: Introduction, Classification of Piles Based On Function, Materials Composition and Installation. Selection and Uses of Piles, Under –Reamed Piles, Determination of Load Carrying Capacity of Single Pile Dynamic Pile Driving Formulae and its Limitations. Skin Resistance and Point Bearing Resistance of Piles in Cohensionless and cohesive soils, Static Formula. Bearing Capacity of Piles in Granular soil From SPT values, Pile load test, pile groups, Number and the spacing of Piles in a group. Pile group efficiency settlement of group of piles in cohesive soils, Allowable load on group of piles, Negative skin Friction, Causes and its determination. 15 Hrs.
+
+ 
+
+PART –D 
+
+4. Soil Exploration: Introduction, Depth of exploration, number and disposition of borings, Methods of site exploration, Auger boring, Auger and shell boring, wash boring, percussion drilling, rotary drilling methods. Soil samples and samplers, requirements. Disturbed , undisturbed and remoulded samples, Open drive sampler , stationery piston sampler stabilization of boreholes, standard penetration test, correlations, static cone penetration test, seismic refraction test, Electrical resistivity method, Bore logs, Geotechnical investigation report. 
+
+Ground Improvement: Introduction, Soil stabilization techniques, Mechanical, Cement, Lime, Chemical and electrical methods of stabilization. 15 Hrs. 
+
+Question Paper Pattern: 
+
+Nine question should be set two from each part and one compulsory question covering all the chapters. The students should answer the compulsory question and one question from each part.

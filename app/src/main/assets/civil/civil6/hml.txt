@@ -1,0 +1,46 @@
+2K11CE608 HIGHWAY MATERIALS LABORATORY 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+A. Test on bitumen 
+
+1. Specific gravity 
+
+2. Penetration test 
+
+3. Ductility test 
+
+4. Softening point test 
+
+5. Flash and Fire point test 
+
+6. Viscosity test on cutback 
+
+B. Test on Aggregates 
+
+1. Specific gravity and water absorption test 
+
+2. Impact test 
+
+3. Crushing value test 
+
+4. Los Angeles Abrasion test 
+
+5. Shape test 
+
+C. Tests on Subgrade soil CBR test 
+
+D. Proportioning of aggregates by Rothfutch’s method 
+
+References:
+
+ 1. I.S. 73 1992, IS 8887 IRC SP. 53
+
+ 2. Khanna S.K., Justo, C.E.G., Veeraragavan A. ‘HBros, Roorkee
+

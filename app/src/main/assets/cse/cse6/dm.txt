@@ -1,0 +1,57 @@
+UVCE Syllabus
+
+
+ 2K11CI 66 : DATA MINING 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1: Introduction 6 Hours 
+
+ Importance of Data Mining, Data Mining Functionalities, Different kinds of Data, Classification of Data Mining Systems, Primitives, Major Issues and challenges in Data Mining. 
+
+ Chapter 2: Data Preprocessing 6 Hours 
+
+ Descriptive Data Summarization, Data Cleaning, Data Integration and Transformation, Data Reduction, Data Discretization and Concept Hierarchy Generation. 
+
+ Chapter 3: Classification and Prediction 6 Hours 
+
+ Supervised and unsupervised learning, Definition of classification, Issues in Classification, Decision Tree Induction, Bayesian classification, Rule Based Classification, K-nearest neighbor method, Prediction using Linear and Non-linear Regression, Classification Accuracy and Error Measures. 
+
+ Chapter 4: Clustering 6 Hours 
+
+ Types of Data in Cluster Analysis, Classification of clustering methods, K-means and K-Methods Algorithms, BIRCH, DBSCAN, STING, Expectation-Maximization and Outlier Analysis. 
+
+ PART B 
+
+ Chapter 5: Association Rule Mining-1 6 Hours 
+
+ Basic concepts, Classification of Association Rules, Apriori Algorithms, Multilevel Association rules, FP Tree, Categorical Association Rules, Multidimensional Association Rules. 
+
+ Chapter 6: Association Rule Mining-2 6 Hours 
+
+ Mining Frequent closed Itemsets, Metarule-guided Association Rules, Constraint Based Association Rules. 
+
+ Chapter 7: Data Warehouse and OLAP Technology 6 Hours 
+
+ OLAP and OLTP, Data Ware house Model, Star Schema and Show flake Schema, Dataware Architecture, Data ware house Implementation, Data Cube Computation. 
+
+ Chapter 8: Big Data 6 Hours 
+
+ Basic concepts of Big data, Four dimensions of Big Data: Volume, Velocity, Variety and Veracity. Introduction to storage, Map Reduce and Query Stack.Overview of Big Data Stores, Processing of Big Data.Overview of tools and techniques to analyze Big Data. 
+
+ References : 1. Jiawei Han and MichelineKamber, Data Mining, Concepts and Techniques, Elsevier,Second Edition, 2001. 
+
+ 2. Pang-Ning Tan, Michael Steinbach and Vipin Kumar, Data Mining Algorithms, 2005. 
+
+ 3. Big Data Now, O’REILLY Media, First Edition, 2012. 
+
+ 4. David Hand, HeikkiMannila, Padhraic Smyth, Principles of Data Mining, PHI, 2001. 
+
+ 5. Margaret H Dunham, Data Mining Introductory and Advanced Topics, Pearson Education, 2008. 
+

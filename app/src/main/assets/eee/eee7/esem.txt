@@ -1,0 +1,41 @@
+Estimation, Specification and Engineering Management 
+
+PART A 
+
+1. General Principles of Estimation : 
+Introduction to estimation, Electrical Schedule, Catalogues, Market Survey and source selection, Recording of estimates, Determination of required quantity of material, Labor conditions, Determination of cost material and labour, Contingencies, Overhead charges, Profit, Purchase system, Purchase enquiry and selection of appropriate purchase mode, Comparative statement, Purchase orders, Payment of bills, Tender form, General idea about IE rule, Indian Electricity Act and major applicable I.E rules. 
+
+2. Specification : 
+Importance of specification, ISI specifications of Alternators, Power Transformers, AC Motors, Circuit Breakers, Overhead line Conductors, Insulated HT underground cables, porcelain insulators, Insulating wire, Power line carrier Communication (PLCC) equipment. 
+
+3. Service connection, Inspection and Testing of Installation : Concept of service connection, Types of service connection and their features, Method of installation of service connection, Inspection of internal wiring installations, Inspection of new installations, Testing of installations, Testing of wiring installations, Reason of excess recording of energy consumption by energy meter. 
+
+4. Electrical Installation for Power Circuits : 
+Introduction, Important considerations regarding motor installation, wiring, Determination of input power, Determination of input current to motors, Determination of rating of cables, determination of rating of fuse, Determination of size of Condit, distribution, Board main switch and starter. 
+
+5. Residential Building Electrification : 
+General rules guidelines for wiring of residential installation and positioning of equipments, Principles of circuit design in lighting and power circuits, Procedures for designing the circuits and deciding the number of circuits, Method of drawing single line diagram, Selection of type of wiring and rating of wires and cables, Load calculations and selection of size of conductor, Selection of rating of main switch, distribution board, protective switch gear ELCB and MCB and wiring accessories, Earthing of residential Installation, Sequence to be followed for preparing estimate, Preparation of detailed estimates and costing of residential installation. 
+
+6. Electrification of Commercial Installation : 
+Concept of commercial installation, differentiate between electrification of residential and commercial installation, fundamental considerations for planning of an electrical installation system for commercial building, design considerations of electrical installation system for commercial building, Load calculation and selection of size of service connection and nature of supply, Deciding the size of the cables, bus bar and bus bar chambers, Mounting arrangements and positioning of switchboards, distribution boards main switch etc., Earthing of the electrical installation, Selection of type wire, wiring system and layout, sequence to be followed to prepare estimate, Preparation of detailed estimate and costing of commercial installation. 
+
+
+PART B 
+
+7. Estimation : 
+Estimation of 400KV, 66KV Transmission lines and Distribution lines (400/230V, 11kV) : Introduction, Typical AC electrical power system, Main components of overhead lines, Line supports, Factors governing height of pole, Conductor materials, Determination of size of conductor for overhead transmission line, Cross arms, pole brackets and clamps, Guys and Stays, Conductors configuration spacing and clearances, Span lengths, Overhead line insulators, Insulator materials, Types of insulators, Lightning Arrestors, Phase plates, Danger plates, Anti climbing devices, Bird guards, Beads of jumpers, Muffs, Points to be considered at the time of erection of overhead lines, Erection of supports, Setting of stays, Fixing of cross arms, Fixing of insulators, Conductor erection, Repairing and jointing of conductor, Dead end clamps, Positioning of conductors and attachment to insulators, Jumpers, Tee-offs, Earthing of transmission lines, Guarding of overhead lines, Clearances of conductor from ground, Spacing between conductors, Testing and commissioning of overhead distribution lines, Some important specifications. 
+
+8. Design and Estimation of Substations: 
+Introduction, Classification of substation, Indoor substations, Outdoor substations, Selection and location of site for substation, Main Electrical Connections, Graphical symbols for various types of apparatus and circuit elements on substation main connection diagram. Key diagram of typical substations, Equipment for substation and switchgear installations, Substation auxiliaries supply, Substation Earthing. 
+
+9. Growth and concept of Industry : 
+Types of ownership, principles of management, principles of Taylor, Henny l. Gantt and Henry Fayol in modern Industry, functions and process of management. 
+
+10. Organization : 
+Types of organizations, Line type, Line and staff, Functional, Line-functional and Matrix types. Authorities and responsibilities, managerial controls 
+
+11. Production Management : 
+Plant location, layout of plants, production planning and control, routine, scheduling, inspection, Line balancing, automation characteristics, impact of automation - advantages and disadvantages of automation, quality control - scope, organization, standards and specifications (Tolerances). Statistical quality control, control charts, techniques of Time and Motion study. 
+
+12. Personnel Management and Human Relations : 
+Introduction, qualification of personnel recruitment and selection of personnel. Training of personnel - Craftsmen, supervisors (TWI scheme), managers. Employer and Employee relations, Employees morale, health and welfare of workers, effect of noise, lighting, ventilation on production. Fatigue and reduction of fatigue, accidents and their reduction, settlement of individual disputes, ILO, workers participation in management.

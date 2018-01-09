@@ -1,0 +1,27 @@
+
+ 2K11EM1101 MECHANICAL ENGINEERING SCIENCES
+ (Common to all branches except B.Arch) 
+ 
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+ PART –A 1. 
+ Energy and its Sources: Energy –renewable and non-renewable, thermal, hydroelectric, solar, wind, tidal, ocean and nuclear energy. 
+ 3 hrs. 2. Steam Generation
+ Boilers –Fire tube (Vertical Fire tube Boiler) and Water tube boiler (Babcock and Wilcox Boiler). Concept of wet, dry and superheated stream, Enthalpy, Latent heat, dryness fraction, degree of superheat and Entropy, Related numerical problems. 
+ 4 hrs. 3. Energy Conversion : Using the following
+ a) Steam turbines: impulse and reaction turbines. 
+ 4 hrs. b) I.C. Engines: Diesel and petrol engines. Four stroke and two stroke engines. Indicated power and brake power, mechanical efficiency and thermal efficiency, Related numerical problems. 6 hrs. 
+ 4. a) Air Compressor : Use of compressed air. Working of compressor, brief introduction and advantages of multi stage compressors.3 hrs. b) Refrigeration and Air Conditioning: vapor compression and vapor absorption refrigeration, Principles of air conditioning 3 hrs. 
+ PART –B
+ 5. Fasteners: Temporary and permanent fasteners, ISO thread profile, single and multi start threads, lead and pitch Left and right hand threads, Hexagonal and square head bolts and Nuts, Riveted joints- single riveting and double riveting and welded joints. 6 hrs. 
+ 6. Power Transmission: Belt, rope, chain and gear drives, Velocity ratio, Ratio of Tensions, power transmitted given the relevant formulae (derivation of formulae is Not included) 6 hrs. 
+ 7. Brakes, dynamometers and clutches: Functions and types of brake, dynamometers and clutches. 3 hrs. 
+ 8. Bearings and Lubrication: Type of bearing, Journal bearing, and ball bearing. Necessity of lubrication. Types of lubricants, properties of a good lubricant. 4 hrs. 
+ 
+ PART –C 9. Basic principles, procedures, advantages and limitations. Applications and examples involved in the following processes. 12 hrs. a. Casting b. Forging c. Rolling d. Drawing e. Extrusion f. Welding g. Brazing and Soldering
+ 9. Machining Lathe: Block diagram of lathe, Basic concepts in turning, taper turning and thread cutting operation. Drilling: classification of Drilling Machines and their operations. 6 hrs. 
+ Question paper pattern: Question paper shall contain 8 questions, Five questions to be answered choosing at least 2 from Part A and Part B and one from Part C. Part A contains 3 questions and Part B contains 3 questions and Part C contains 2 questions
+ Reference Books: 
+ 1. Workshop Technology : Raghuwamashi
+ 2. Workshop Technology : HajraChoudhary
+ 3. Elements of Mechanical Engineering : K.R.Gopalkrishna
+ 4. Theory of Machines : P.L. Ballaney

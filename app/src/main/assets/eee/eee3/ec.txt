@@ -1,0 +1,27 @@
+Electric Circuits 
+
+PART-A 
+
+1. Basic Concepts: 
+Linear, Non Linear, Unilateral, Bi-lateral circuits with examples. Independent and Dependent sources with examples. Source shifting and transformation technique. The concept of loop current and node voltage analysis solution of network by loop-current, node voltage method and star-delta networks. 
+
+2. Network Topology: 
+Graph of a network, concept of a tree and links, incidence matrix, tie-set and cut-set schedule, solution of networks, Principle of duality in networks. 
+
+3. Network Theorems: 
+Superposition, reciprocity, Thevenin’s nortorn’s, Maximum power transfer theorems, Millman’s theorem. 
+
+
+PART- B 
+
+4. Resonant Circuits Locus Diagrams, Coupled circuits: 
+Series and parallel resonance, frequency response of series and parallel circuits, solution of series and parallel networks using Locus diagrams. Mutual inductance, coefficient of coupling, DOT convention, analysis of coupled circuits, conductivity equivalent coupled circuits. 
+
+5. Poly phase Circuits: 
+Analysis of balanced 3-phase circuits. Measurement of active and reactive power with balanced and unbalanced load. 
+
+6. Transient Behavior and initial conditions in network: 
+Behavior of circuit elements under transient condition. Transient response of a circuit for AC and DC excitations. Importance of initial conditions. Evaluation of initial condition in RL, RC and RLC circuits. 
+
+7. Two port networks: 
+Open circuit, impedance parameters, Short circuit Admittance parameters, Transmission and Hybrid parameters. Relation between parameter sets, Calculation of these parameters for a given Network. Network functions of one port and two port networks, poles and zeros, Time domain response from pole zero diagram.

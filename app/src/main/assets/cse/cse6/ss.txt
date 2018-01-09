@@ -1,0 +1,52 @@
+
+
+ 2K11CI 63: SYSTEM SOFTWARE 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE question selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1 : Machine Architecture 6 Hours 
+
+ Introduction, System software and machine architecture, Simplified Instructional Computers (SIC), SIC Machine Architecture, SIC/XE Machine Architecture, SIC Programming Examples. 
+
+ Chapter 2 : Assemblers-1 6 Hours 
+
+ Machine Independent Assembler Features – A Simpler SIC Assembler, Assembler Algorithm and Data Structures, Machine Dependent Assembler Features - Instruction Formats and Addressing Modes, Program Relocation. 
+
+ Chapter 3 : Assemblers-2 6 Hours 
+
+ Machine Independent Assembler Features – Literals, Symbol-Definition Statements, Expressions, Program Blocks, Control Sections and Programming Linking, Assembler Design Operations – One –Pass Assembler, Multi-Pass Assembler, Implementation Examples – MASM Assembler. 
+
+ Chapter 4 : Loaders And Linkers 6 Hours 
+
+ Basic Loader Functions – Design of an Absolute Loader, A Simple Bootstrap Loader, Machine-Dependent Loader Features – Relocation, Program Linking, Algorithm and Data Structures for a Linking Loader; Machine-Independent Loader Features- Automatic Library Search, Loader Options, Loader Design Options - Linkage Editor, Dynamic Linkage, Bootstrap Loaders, Implementation Examples, MS_DOS Linker. 
+
+ PART B 
+
+ Chapter 5 :Editors And Debugging Systems 6 Hours 
+
+ Text Editors – Overview of Editing Process, User Interface, Editor Structure, Interactive Debugging Systems – Debugging Functions and Capabilities, Relationship With Other parts of the System, User-Interface Criteria. 
+
+ Chapter 6 : Macro Processor – 1 6 Hours 
+
+ Basic Macro Processor Functions - Macro Definition and Expansion, Macro Processor Algorithm and Data Structures, Machine-Independent Macro Processor Features - Concatenation of Macro Parameters, Generation of Unique Labels. 
+
+ Chapter 7 : Macro Processor – 2 6 Hours 
+
+ Conditional - Macro Expansion, Keyword Macro Parameters, Macro Processor Design Options – Recursive Macro Expansion, General-Purpose Macro Processors, Macro Processing Within Language Translators, Implementation Examples – MASN Macro Processor, ANSI C Macro Processor. 
+
+ Chapter 8 : LEX And YACC 6 Hours 
+
+ Lex And Yacc – The Simple Lex Program, Counting Words, And Lines, Symbol Tables, Grammars, A YACC Parser, The Definition Section, The Rules Section, Symbol, Symbol Values and Actions, Parsing a Command Line, Compiling and Running a Simple LEX and YACC. 
+
+ References: 1. System Programming and Operating Systems – D.M.Dhamdhere, Second Edition, TataMcGraw – Hill,1999
+
+ 2. System Software - Leland L Beck, System Software, Third Edition, Addison-Wesley, 1997. 
+
+ 3. Lex and Yacc – John.R.Levine, Mason and Doug Brown, O’Reilly, SPD, 1998. 
+

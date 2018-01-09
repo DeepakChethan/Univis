@@ -1,0 +1,36 @@
+2K11CE806 ENVIRONMENTAL ENGINEERING LAB 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Determination of alkalinity, Acidity, pH. 
+
+2. Determination of Total Solids, Fixed Solids Volatile Solids suspended Solids and Settable Solids. 
+
+3. Determination of Dissolved Oxygen, BOD, COD. 
+
+4. Determination of Total Hardness, Calcium and Magnesium Hardness. 
+
+5. Determination of Chlorides, Residual Chlorides, Chlorine demand and precent age of available chlorine in bleaching powder. 
+
+6. Determination of Iron, Manganese, Sodium. 
+
+7. Turbidity determinations and optimum dosage of coagulant. 
+
+8. Demonstration Respirable air sample and stack monitoring, Automobile exhaust analysis, Industrial emission analysis, Ambient air quality analysis, Solid waste analysis. 
+
+9. Total count test and MPN determination, microbiological analysis. 
+
+10. Analysis using precision instruments –Analysis of parameters should be carried out by conventional methods and by following precision instruments –atomic Absorption Spectrometer (AAS) X-Ray fluorescence Spectrophotometer, Fourier, transform infrared Spectrophotometer, Chemiluminescence detector, Gas Chromatograph, Total Organic Carbon (TOC) Analyzer, Flame Photometer, Polargraphic Analyzer, Scoxhlet Apparatus, paper tape sampler, duct fall bucket, Cascade impactor, Flame Ionization Detector, Filter photometre, U –V and visible range photometr, electron Microscope specific Iron meter, Ambient air quality Analyzer. 
+
+Reference Books: 1. Sawyer and Mc Carty, “Chemistry for Environment
+
+ 2. Manual of Water and Waste Water Analysis –NEERI publication.
+
+ 3. Standard Methods for Examination of Water and Waste Water-American Publication associates, Water Pollution Control Federation, American Water works Association.
+

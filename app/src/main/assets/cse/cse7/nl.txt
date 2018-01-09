@@ -1,0 +1,27 @@
+
+ 
+ 2K11CIL75: NetworkING LABORATORY 
+ HoursperWeek:3 ExaminationMarks :100 SessionalMarks :25 
+ PaRTa
+ 1. WriteaProgramtoimplement RSa algorithm. 
+ 2. WriteaProgramtofindtheshortestpathina Networkof6to10nodes. 
+ 3. Write a program for error detecting code using CRC-CCITT (16- bits). 
+ 4. Write a program for distance vector algorithm to find suitable path for transmission. 
+ 5. Using TCP/IP sockets, write a client – server program to make the client send the file name and to make the server send back the contents of the requested file if present. 
+ 6. Write a program for error detecting using Hamming Code. 
+ 7. WriteaProgram to implement sliding window protocol. 
+ 8. Write a program to implement FIFO-Client and FIFO-Server to transfer files. 
+ 9. Using UDP Sockets write client server program to transfer files. 
+ 10. Write a program to implement Diffie-Hellman key Exchange. 
+ 11. Write a program to implement Congestion Control using leaky bucket. 
+ 12. Write a Socket program to implement PING/ECHO. 
+ 
+ PaRT B 
+ (Simulation Exercises) 
+ The following experiments shall be conducted using NS2 or any other suitable simulator. 1. Simulate a three nodes point – to – point Network with duplex links between them. Set the queue size and vary the bandwidth and find the number of packets dropped. 
+ 2. Simulate a four node point-to-point Network with the links connected as follows: n0 – n2, n1 – n2 and n2 – n3. apply TCP agent between n0-n3 and UDP between n1-n3. apply relevant applications over TCP and UDP agents changing the parameter and determine the number of packets sent by TCP / UDP. 
+ 3. Simulate the transmission of ping messages over a Network topology consisting of 6 nodes and find the number of packets dropped due to congestion. 
+ 4. Simulate an Ethernet LaN using n nodes and set multiple traffic nodes and plotcongestion window for different source / destination. 
+ 5. Simulate an Ethernet LaN using n nodes (6-10), change error rate and data rate and compare throughput. 
+ Note: 
+ The evaluationis based on execution of one program from PaRT-a and one program from PaRT-B. 

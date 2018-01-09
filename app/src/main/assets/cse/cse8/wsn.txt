@@ -1,0 +1,29 @@
+2K11CI84.1 WIRELESS SENSOR NETWORKS 
+
+Note : 
+
+FOUR questions from PART A and FOUR questions from PART B to be set. 
+
+Students should answer FIVE questions selecting atleast TWO from each PART . 
+
+For every SIX hours of syllabus ONE question may be set. 
+
+Hours per week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+PART A 
+
+Chapter 1: Introduction 6 Hours Unique Constraints and Challenges, Advantages of Sensor Networks, Energy advantage, Detection advantage, Sensor Network Applications, Habitat monitoring, Wildlife conservation through autonomous, non-intrusive sensing, Tracking chemical plumes, Ad hoc, just-in-time deployment mitigating disasters, Smart transportation: networked sensors making roads safer and less congested, Collaborative Processing. 
+
+Chapter 2 : Key Definitions And The Problem 6 Hours Key Definitions of Sensor Networks, Canonical Problem: Localization and Tracking, Tracking Scenario, Problem Formulation, Sensing model, Collaborative localization, Bayesian state estimation, Distributed Representation and Inference of States, Impact of choice of representation, Design desiderata in distributed tracking, Tracking Multiple Objects, State space decomposition, Data association, Sensor Models, Performance Comparison and Metrics. 
+
+Chapter 3: Networking And Protocols 6 Hours Networking Sensors, Key Assumptions, Medium Access Control, The SMAC Protocol, IEEE 802.15.4 Standard and ZigBee, General Issues, Geographic, Energy-Aware Routing, Unicast Geographic Routing, Routing on a Curve, Energy-Minimizing Broadcast, Energy-Aware Routing to a Region, Attribute-Based Routing, Directed Diffusion, Rumor Routing, Geographic Hash Tables. Infrastructure Establishment, Topology Control, Clustering. 
+
+Chapter 4 : Time Synchronization 6 Hours Clocks and Communication Delays, Interval Methods, Broadcasts, Localization and Localization Services, Ranging Techniques, Range-Based Localization Algorithms, Other Localization Algorithms, Location Services. Sensor Tasking and Control, Task-Driven Sensing, Roles of Sensor Nodes and Utilities, Information- Based Sensor Tasking, Sensor selection, IDSQ: Information-driven sensor querying, Cluster leader based protocol, Sensor tasking in tracking relations, Joint Routing and Information Aggregation, Moving center of aggregation, Multi-step 11 information-directed routing, Sensor group management, Case study: Sensing global phenomena. 
+
+PART B 
+
+Chapter 5 : Databases 10 Hours Sensor Network Databases, Sensor Database Challenges, Querying The Physical Environment, Query Interfaces, Cougar sensor database and abstract data types, Probabilistic queries, High-level Database Organization, In- Network Aggregation, Query propagation and aggregation, Tiny DB query processing, Query processing scheduling and optimization, Data-Centric Storage, Data Indices and Range Queries, One-dimensional indices, Multidimensional indices for orthogonal range searching, Non-orthogonal range searching, Distributed Hierarchical Aggregation, Multi-resolution, Partitioning, Fractional cascading, Locality preserving hashing, Temporal Data, Data aging, Indexing motion data. 
+
+Chapter 6 : Platforms and Tools 6 Hours Sensor Network Platforms and Tools, Sensor Network Hardware, Berkeley motes, Sensor Network Programming Challenges, Node-Level Software Platforms, 
+
+Chapter 7 : Operating System 8 Hours Tiny OS, Imperative language: NesC, Dataflow style language: Tiny GALS, Node-Level Simulators, ns-2 and its sensor network extensions, TOSSIM, Programming Beyond Individual Nodes: State-centric programming, Collaboration groups, PIECES: A state-centric design framework, Multi-target tracking problem revisited. Applications and Future Directions. References 1. Feng Zhao, Leonidas Guibas: Wireless Sensor Networks – An Information Processing Approach, Elsevier, 2004. 2. Waltenegus Dargie, Christian Poellabauer, Fundamentals of Wireless Sensor Networks: Theory and Practice, a John Willey and sons publication , Third edition, 201 3. C.S. Raghavendra, Krishna M. Sivalingam, Taieb Znati, Wireless Sensor Networks, Springer, 2004

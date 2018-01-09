@@ -1,0 +1,67 @@
+2K11CE501 DESIGN OF STEEL STRUCTURES 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1.Introduction- 
+
+Common Steel Structures, Advantages and Disadvantages of Steel Structures, Types of Steel, Properties of Structural Steel, Rolled Steel Sections, Special Considerations in Steel Design, Loads, Load Combinations, Structural Analysis, Design Philosophy, Principles of Limit State Design- Design Requirements, Limit States, Actions(Loads), Design Strength, Deflection Limits, Other Serviceability Limits, Stability Checks 4 Hrs. 
+
+2.Bolted Connection- 
+
+Riveted Connections, Bolted Connections, Classification of Bolted Based on Type of Load Transfer, Advantages and Disadvantages of Bolted Connections, Terminology, IS 800-2007 Specification for spacing and Edge Distances of Bolt Holes, Types of Bolted connections, Types of Actions on Fasteners, Assumptions in Design of Bearing Bolts, Principles Observed in the Design, Design Strength of Bearing Bolts, Design Strength of Bearing Bolts, Design Procedure with Bearing Type Bolts Subject to Shearing Forces, Efficiency of a Joint, Eccentric Connection with Bearing Bolts When Load is in the Plane of Group of Bolts, Design of Bearing Bolts Subjected to Eccentric Loading in the Plane of Bolts, Tension capacity of Bolts, Design Criteria for Bolts Subjected to Combined Shear and Tension, Design of Bearing Bolts Subjected to Eccentric loading Causing Moment in the plane, Perpendicular to the Plane of Group of Bolts, Shear Capacity of HSFG bolts, Tension Resistance of HSFG Bolts, Interaction Formula for Combined Shear and Torsion, Prying Forces 14 Hrs. 
+
+3.Welded Connections- 
+
+Advantages and Disadvantages of Welded connections, Types of Welded Joints, Important Specifications for Welding, Design Stresses in Welds, Reduction in Design Stresses for Long Joints, Eccentric Connections –Plane of Moment and Plane of Welds in Same, Combined axial and Shearstresses, Eccentric connection- Moment at Right Angles to the Plane of Weld 5 Hrs. 
+
+4. Design of Tension Members- 
+
+Design Strength of a Tension Member, factors affecting the strength of members, Design of tension members for axial and tension members. 6 Hrs. 
+
+5.Design of Compression Member- 
+
+Buckling Class of Cross Section, Slenderness Ratio, Design Compressive stress and Strength, IS Table for Design Stress, Shapes of Compression members, Design of Compression Members, Laced and Battened Columns, Design of Laced Columns, Design of Battened Columns, Column splice, Design of Column Splice, Column Bases, Design Slab Base, Design of Gusseted Base 8 Hrs. 
+
+6.Design of Beams- 
+
+Plastic Moment Carrying Capacity of sections, Classifications of Cross Sections, Design Procedure, Bending Strength of Laterally Supported Beams, Shear Strength of Laterally Supported Beams, Deflection Limits, Web Buckling strength, Web Crippling, Design of Built Section, Design Strength of Laterally Unsupported Beams, Effective Length for Lateral Torsional Buckling, Design of Laterally Unsupported Beams, Shape Factor 8 Hrs. 
+
+7.Design of Bolted Beam Connections- 
+
+Types of Beam Connections, Design of Framed Connections Using Bolt, Design of Unstiffened Seated Connections, Design of Stiffened Seated Connections, Design of Small Moment Resistant Connections, Design of Large Moment Connection, Design Welded Beam Connections, Framed Connections, Welded Unstiffened Seat Connections, Stiffened Welded Seat Connections, Moment Resistant Welded Connections 7 Hrs. 
+
+8.Design of Plate Girders, Elements of Plate Girders, Self-Weight of Plate Girder, Economical Depth, Size of Flanges, Shear Buckling Resistance of Web, End Panel Design, Anchor Forces, Design of Connections Between Flange and Web Plates, Design of Bearing Stiffeners, Weld for End Stiffeners, Design of Intermediate Stiffeners, Connection of Intermediate Stiffeners to Web, Procedure of Design of Plate Girder 8 Hrs. 
+
+Question Paper Pattern: 
+
+To set Eight full questions consisting Theory and problems covering entire syllabus of 20 marks each. To answer any Five full questions, each of 20 marks. 
+
+Reference Books: 
+
+1.S.Bhavikatti,Design of Steel Structures, IK, Interline Publishers, 2012 
+
+2.N.Subramanian ,Design of Steel Structures- Oxford University Press 
+
+3.Krishnaraju.N,Structural Design and drawing, University Press India 
+
+4.Shah and Vena Gore-Limit State Design of Steel Structures-SreeS.S.Karmi, Sales-Structures Publications-Pune. 
+
+5.V.Ramachandra,Design of Steel Structures, Scientific Publishers, India 
+
+6.S.K.Duggal, “Limit State Design of Steel Structure 
+
+7.R.S.Jindal and Kazmi, Steel Structures, PHI 
+
+8.Codes- 
+
+a.IS-800-2007 Code of Practice for Design of Steel Structures, IS-New Delhi 
+
+b.IS-875-1987 Code of Practice of Loads

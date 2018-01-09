@@ -1,0 +1,30 @@
+Control Engineering 
+
+PART-A 
+
+1. Introduction: 
+Open Loop and closed loop systems comparison concepts of linear-non linear, time invariant, time variant, continuous data and discrete data control systems. 
+
+2. Mathematical Models of Linear Systems: 
+Mechanical and Electrical systems- Analogous systems. 
+
+3. Methods of Analysis: 
+Block diagrams and block reduction techniques. Signal flow graph methods- Manson’s gain formula. 
+
+4. Time Response Analysis: 
+Transfer function and impulse response – Dependence on pole locations, dominant pole concept, equation and order of the systems. Step response of first order and second order systems, time domain specifications and evaluation for second order systems. Steady state analysis – Static error constants-Error series and Dynamic error coefficients. 
+
+5. Frequency Response Analysis: 
+General nature, Frequency domain specifications. Evaluation for second order systems and M and N circles. Nichol’s charts and its application. 
+
+
+PART-B 
+
+6. Stability Studies: 
+R-H criterion and its limitations, Root locus method-sketching procedure and interpretations. Nyquist criterion and Relative stability – Gain and phase margins from polar plots, Bode plots and Relative stability. Time Domain for Domain specifications and correlation. 
+
+7. Introduction to Design: 
+Lead and Lag compensation design of simple compensation using Bode Plots only. 
+
+8. Modern Control Theory: 
+Concepts of states, State Variables and state model. Obtaining state model from differential equations and Transfer functions. Phase variables canonical form and Lure’s (Diagonal) canonical forms Jordan form for LTI, SISO systems, State Transition matrix and its properties – Solution of state equations. Concepts of controllability and observability.

@@ -1,0 +1,58 @@
+
+
+ 2K11CI 54 : SOFTWARE ENGINEERING and TESTING 
+
+ Note: 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1: Introduction and System Engineering 6 Hours 
+
+ FAQs about software engineering, Professional and ethical responsibility, Emergent system properties, Systems and their environment, System Modeling, The system engineering process, System procurement. 
+
+ Chapter 2: Software Process 6 Hours 
+
+ Software process models, Process iteration, Software specification, Software design and implementation, Software validation, Software evolution, Automated process support. 
+
+ Chapter 3: Software Project Management 8 Hours 
+
+ Management activities, Project planning, Project scheduling, Risk management, Limits to thinking, Group working Choosing and keeping people, Software Cost Estimation, Productivity, Estimation techniques, Algorithmic cost Modeling, Project duration and staffing, Quality assurance and standards, Quality planning, Quality control, Software measurement and metrics. 
+
+ Chapter 4: Software Requirement Engineering 4 Hours 
+
+ Software Requirements, Functional and non-functional requirements, User requirements , System requirements, The software requirements document, Requirements Engineering Processes, Feasibility studies, Requirements elicitation and analysis , Requirements validation , Requirements management. 
+
+ PART B 
+
+ Chapter 5 :Software Testing 6 Hours 
+
+ The Six Essentials of Software Testing : The State of the art and state of the practice. The clean sheet approach to getting started, Establishing a practical perspective, critical choices : What, When and how to test – Risk and Risk Management, Start testing early, Basic forms of the testing process, Testing the development cycle and the real world of contracts, Effective and cost effective testing. Critical Disciplines : Frameworks for Testing – Planning, Software Engineering Maturity and the SEI, Configuration Management, Standards, Formal Documents, Testware, Measurement, Tools. 
+
+ Chapter 6 : Testing Methods 6 Hours 
+
+ Verification Testing : Basic verification methods, getting leverage on verification, verifying documents at different phases, getting the best from verification, three critical success factors for implementing verification, recommendation. Validation Testing : Validation overview, Validation Methods, Validation Activities, Recommendation Strategies for Validation Testing. Controlling Validation Costs: Minimizing the cost performing tests, Minimizing the cost of maintaining the tests, Minimizing validation testware development costs, Recommendations. 
+
+ Chapter 7: Testing Tasks 6 Hours 
+
+ Testing Tasks, Deliverables and Chronology : Master test planning, verification testing tasks and deliverables, Validation testing tasks and deliverables, A testing orphan – User manuals, Product release criteria, Summary of IEEE/ANSI test related documents. Software Testing Tools : Categorizing testing tools, Tool acquisition. Measurements : Useful and other interesting measures, Recommendations. 
+
+ Chapter 8 : Managing Testing Technology 6 Hours 
+
+ Organizational Approaches to Testing : Organizing and Reorganizing Testing, Structural Design Elements, Approaches to organizing the test functions, Selecting the right approach. Current Practices, Trends, Challenges: GUIs: What is new here, Usage testing, tester to developer ratios, Software measures and practices benchmark study. Getting Sustainable Gains in Place: Getting gains to happen, Getting Help, Follow up, Verification Check Lists. 
+
+ References: 1. Ian Sommerville, Software Engineering, Pearson Education, Seventh Edition, 2004. 
+
+ 2. Pressman R.S, Software Engineering, McGraw Hill, Seventh Edition, 2010. 
+
+ 3. Jalote P., An integrated approach to Software Engineering, Narosa.2005. 
+
+ 4. Ed Kit : Software Testing in the Real World, Addison Wesley,1995. 
+
+ 5. William Perry : Effective Methods for Software Testing, Third Edition, John Wiely,2006. 
+
+ 6. Bezier B : Software Testing Techniques, Second Edition, Van NstrandReinluold, 1990. 
+

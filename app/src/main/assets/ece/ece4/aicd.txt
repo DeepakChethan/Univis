@@ -1,0 +1,33 @@
+Analog IC System Design 
+
+PART A 
+
+1. Introduction: 
+Internal block schematic of OP-AMP, Characteristics, Parameters, FET input op-amp. Analysis of op-amp circuit-compensation techniques. 
+
+2. Op-Amp Circuits: 
+Analysis and design of inverting, non inverting amplifiers, voltage follower, summer, difference amplifier, integrator, differentiator, Instrumentatal amplifier. Op-amp oscillator-RC phase shift and Wein bridge oscillator. Analog computation-solution of linear differential equations without scaling 
+
+3. Precision Rectifiers: 
+Peak detectors, Log and Anti Log amplifiers, Sample and Hold circuits, Comparators, Schmitt trigger, Monostable and Astable circuits, staircase and triangular waveform generators. 
+
+
+PART B 
+
+4. Interfacing devices: 
+Weighted resistor and R-2R type, Current driven type parameters, DAC 0800 chip. ADC’s parameters. Different type Flash, Successive approximation,Single and Dual ramp type,8bit ADC chip. 
+
+5. Active Filters: 
+First and second order butterworth filters-Design and Response (LP, HP, BP, BE, Narrow band, All pass filters) 
+
+6. Timer: 
+Basics of timer circuit, Details of 555 timer IC, 555 timer used as Astable, Monostable multivibrators, frequency division. 
+
+7. Regulator and power supplies: 
+Series and switching regulators using Op-Amps, Study of 723 chip, Basic principles of switch mode power supply. Op-Amp audio power amplifiers, Study of LM380 chip. Analysis and design of series and shunt voltage regulator-series current regulator-Switching regulator-discussion on short circuit protections (using BJT). 
+
+8. PLL: 
+Basic PLL. Description and analysis of each block, Application like frequency multiplication, frequency translation and FM detection using 565PLL chip. 
+
+9. Oscillators: 
+Barkhausen criterion-condition for sustained oscillations-Colpitt’s and Hartley oscillators-Analysis and design-Pierce crystal oscillator. RC phase shift and Wien Bridge.

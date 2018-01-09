@@ -1,0 +1,57 @@
+2K11 ME 304 Fluid Mechanics 
+
+Lecture: 4 Hrs / week Internal Assessment Marks: 25 
+
+Total No. of Hours: 60 Examination: 3 Hrs 
+
+ Max marks for Examination: 100 
+
+PART A 
+
+1. Fundamental concepts and properties. Fluid-definition, concepts of continuum, shear stress as applied to fluids, fluid properties viscosity, Newton’s law, surface tension, Bulk modulus, compressibility, vapour pressure, capillarity, international standard atmosphere, numerical problems pressure at a point, gauge and absolute pressures of a fluid. 6 
+
+2. Fluid Statics: 
+
+Principle of manometers, simple and differential manometers, Bourdon’s pressure gauge, Pascal’s law, Numerical problems, Hydrostatic forces on plane and inclined surfaces, numerical problems. 4 
+
+3. Floatation of bodies - 
+
+Archimedes principle, stability of floating bodies. Determination of Metacentric height - experimental and analytical methods - numerical problems. 4 
+
+4. Fluid Kinetics 
+
+Definitions of path line, steam line, streak line, flow nets, steam tube, steam function, velocity potential function, numerical problems, continuity equation for one dimensional fluid flow, types of fluid flow steady flow, uniform, rotational flow, laminar flow, turbulent flow, Compressible flow. Acceleration of a fluid particle. 10 
+
+PART B 
+
+5. Fluid Dynamics 
+
+Forces acting on fluid mass, Eulers equation of motion, energy possessed by a fluid particle, Bernoulli’s equation derivation from one dimensional Eulers equation of motion. Applications of Bernoulli’s principle venturimeter, orifice meter, pitot tube, notches- rectangular, triangular, trapezoidal notches orifices: vertical, horizontal numerical problems. Vortex motion, Reynolds Number and its significance. Hagen poiseulles equation for flow through pipes. Turbulent flow: Darcy’s equation for turbulent flow through pipes, Unsteady Flow-Water Hammer. numerical problems. 15 
+
+6. Dimensional analysis: 
+
+Principle of dimensional analysis, Buckingham pi- theorem, application, dimensionless numbers and introduction to model studies. 7 
+
+PART C 
+
+7. Flow Around Bodies: 
+
+Bluf body, streamlined body, Aerofoil, flow past bluff body, streamlined body and aerofoil with examples, concept of boundary layer, circulation, lift and drag (physical concepts) 7 
+
+8.Compressible Flow: 
+
+Velocity of sound wave in isothermal and adiabatic conditions, Mach number and its significance and mach cone, numerical problems. Bernoulli’s equation for compressible flow 7 
+
+Books for Reference: 
+
+1. Fluid Mechanics – Streter 
+
+2. Fluid Mechanics and Hydraulic Machines – Modi and Seth 
+
+3. Fluid mechanics and fluid power D.S. Kumar 
+
+Scheme of Examination: 
+
+Questions to be set: 3 questions from part A 3 questions from part B 2 questions from part C 
+
+Students are to answer 5 questions choosing at least 2questions from each Part.A and B and one question from Part C

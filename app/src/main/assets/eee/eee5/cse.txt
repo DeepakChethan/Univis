@@ -1,0 +1,33 @@
+Control Systems Engineering 
+
+PART - A 
+
+1. Modeling of Systems: 
+Definition of Control systems, open loop and closed loop systems, types of feedback, Modelling of Electrical, Mechanical and electromechanical systems, differential equations of physical system. F-I and F-V analogous circuits. Linear and non-linear, continuous, discrete data, time invariant, time variant control systems. 
+
+2. Block diagram and Signal flow graphs: 
+Transfer function, block diagram representation of control system, block diagram reduction techniques, signal flow graphs, Mason’s gain formula. 
+
+3. Time Domain Analysis of control systems: 
+Standard test signals, Type and order of a system, unit step response of first and second order systems, time domain specifications and transient response of a prototype second order system. Steady state error and static error analysis: Steady state error and static error constants. Generalised or Dynamic error co-efficients. 
+
+4. Feedback Characteristics of Control Systems: 
+Sensitivity of Control system to parameter variations, Effect of feedback on overall gain, stability, external disturbances and Time constant of a control system, linearising effect of feedback and Regeneratve feedback. 
+
+
+PART B 
+
+5. Stability analysis : 
+Concept of stability, Necessary conditions for stability,methods of determining stability, Routh-Hurwitz criterion. 
+
+Stability in Complex Domain: 
+Root locus Technique: Basic properties and construction. Procedure to construct root locus diagram. Effect of Addition of Zeroes and poles. Analysis of Simple problems using root locus. 
+
+Stability in Frequency Domain: 
+Polar plots, Bode plots, Nyquist stability criterion, relative stability using polar plot, Bode plot and Nyquist criterion. 
+
+6. Frequency domain Specifications: 
+Resonant peak, resonant frequency and bandwidth. Correlation between time and frequency response. 
+
+7. Compensation Technique: 
+Introduction, Cascade competition networks, Lead compensation, Lag compensation and Lag-lead compensation.

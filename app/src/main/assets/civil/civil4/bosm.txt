@@ -1,0 +1,50 @@
+2K11CE405 BASICS OF SOIL MECHANICS. 
+
+ Hours / Week: 4 Exam: 3 Hours 
+
+ Total: 60 hours Class Marks: 25 
+
+ Max Marks: 100 
+
+ PART –A 
+
+ 1. Soil in engineering practice : Introduction, Soil formation, weathering phenomena, Basic types of soils, Nomenclature of important types of soils. Three phase and Two phase representation. Basic definition of terms. Phase relationships derivations. Numerical problems. (10 Hrs.) 
+
+ 2. Physical properties of soils. Introduction, Field identification tests for soils and classification tests : Specific gravity, water content, density, relative density. Consistency of soils Atterberg limits and other indices, their determination.Particle size distribution. Sieve analysis, Stokes law (derivation not required). Concepts of sedimentation analysis, Theory and use of hydrometer.Numerical problems.(12 Hrs.) 
+
+ PART –B 3. Structure of soil and soil classification : Introduction. Particle size and shape, specific surface area. Basic types of clay minerals, their formation, influence of bonds, adsorbed water, diffused double layer. Base exchange capacity. Different types of soil structure. Single grained, honey combed, flocculent and dispersed. Brief description of different soil classification systems in vogue, Indian standard soil classification system, Use of plasticity chart.(10 Hrs.) 
+
+ 4. Flow of water through soils : Introduction, Darcys law, assumptions and validity. Coefficient of permeability, factors affecting it. Discharge velocity and seepage velocity, coefficient of percolation, Equivalent permeability for layered soil deposits depending on direction of seepage flow. Laboratory methods of finding coefficient of permeability of soils. Confined and unconfined aquifers. Dupuits theory, expressions for permeability of soils, pumping tests Numerical problems. (10 Hrs.) 
+
+ 
+
+ PART –C
+
+ 5. Compaction of soils : Introduction, Basic concepts of different compaction methods, static, kneading, impact and vibration. Factors affecting compaction. laboratory compaction tests, light and heavy as per Indian standards. Dry density moisture content relationship. Significance of zero air voids line. Field compaction equipments, their suitability to soil type and their efficiency.Control of field compaction of soils.Numerical problems.(8 Hrs.) 
+
+ 6. Consolidation characteristics of soils : Introduction, Compressibility of soil. Mechanical analogy to consolidation process. Terzaghis theory of one dimensional consolidation with final solution form (derivation not required). pressure void ratio diagram. Basic definition of termsk, Compression and swelling indices, over consolidation ratio, coefficient of compressibility, coefficient of consolidation. Time fitting methods to evaluate coefficient of consolidation, Degree and rate of consolidation, approximate theoretical relationships. Consolidation test as per latest relevant IS code. Concept of normally consolidated, pre consolidated and heavily over consolidated clays. Determination of pre consolidation pressure and its importance.Utility of consolidation test data.Numerical problems.(10 Hrs.) 
+
+ 
+
+ Question Paper Pattern: 
+
+ Eight Questions should be set, two each from Part-A and B, three from Part - C and one compulsory question covering all the Chapters. Students should answer the compulsory question and any other four questions selecting one Questions each from Part - A and B and two questions from Part - C. All main questions carry 20 marks each. 
+
+ 
+
+ Reference Books: 
+
+ 1. Soil mechanics and foundations by B.C. Punmia, Laxmi publications Ltd., New Delhi. 
+
+ 2. Soil mechanics and foundation engineering by V.N.S. Murthy, SaiKripa technical consultants Bangalore. 
+
+ 3. Basic and applied soil mechanics by GopalRanjan and A.S.R. Rao, Wiley Eastern Ltd., New Delhi. 
+
+ 4. Geotechnical engineering by C.Venkataramaiah, New Age International publishers Bangalore. 
+
+ 5. Geotechnical engineering by P. Purushothama Raj, Tata McGraw Hill Com. New Delhi. 
+
+ 6. Modern Geotechnical engineering by Aaam Singh. CBS publishers and distributors ltd., New Delhi. 
+
+ 7. Soil mechanics in engineering practice by Terzhaghi and Peck. 
+

@@ -1,0 +1,61 @@
+2K11 ME 504 Mechanical Measurements 
+
+Lecture: 4 Hrs / week Exam: 3 Hrs 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Exam Marks: 100 
+
+PART - A 
+
+1. MEASUREMENT and MEASUREMENT SYSTEMS: Introduction, Definition, Basic requirements, Methods of measurement. Generalized measurement system, fundamental and Derived units, Standards of measurements, Role of Measurement in Industry. 3 
+
+2. STATISTICAL TREATMENT OF DATA AND STATIC CHARACTERISTICS: Definition-Accuracy, Precision, sensitivity, Error, Result, True value. Hysterics, Mean and Standard deviation, Variance, Median, Mode. Calibration and its importance, Classification of errors. Treatment of Single and Multi sample data by uncertainty analysis. 7 
+
+3. DYNAMIC CHARACTERISTICS OF MEASUREMENT SYSTEMS: Types of input signals, System Response, Measurement [First order control system], Wave forms, Harmonic Analysis, Relation between sensitivity and period. 5 
+
+4. TRANSDUCERS : Classification of transducers, Transfer efficiency, Variable-resistance, inductance and Capacitive transducers, LVDT, Piezoelectric transducer, Electronic transducer, Photo-Voltaic, emissive and conductive transducers. Relative merits and demerits of Mechanical and Electrical Transducers. 5 
+
+5. INTERMEDIATE MODIFYING DEVICES : Mechanical devices, Simple current sensitive circuit, Ballast circuit, Voltage dividing and balancing circuit, Resistance and Impedance bridges. 5 
+
+6. TERMINATING DEVICES : Different types of meter indicators, VTVM, CRO, Oscillographs, X-Y Plotters, Vibrometer and Accelerometer. 4 
+
+PART – B 
+
+APPLIED MECHANICAL MEASUREMENTS: 
+
+7. MEASUREMENT OF COUNT and FREQUENCY: EPUT Meter, Time interval meter, Mechanical counters, Stroboscope, Measurements of frequency and Phase by using Lissajous diagrams, Discussion of applications. 3 
+
+8. MEASUREMENT OF STRAIN: Types of strain gauges, Selection and installation, Gauge factor, Temperature Compensation, Configuration for measuring tensile and bending strains and Stresses, Discussion of application. 3 
+
+9. MEASUREMENT OF FORCE, TORQUE and POWER: Proving Ring, Load Cell, Absorption and Transmission dynamometers, Discussion of application. 2 
+
+10. MEASUREMENT OF PRESSURE, FLOW and TEMPERATURE: MC lead gauge, Pirani gauge, Diaphragm and Bellows, Bourdon pressure gauge. Rota meter, Magnetic flow meter, Turbine meter, Rotating disc meter. Bimetallic thermometers, Resistance thermometer, Thermisters, Thermocouples, Thermopiles, Pyrometers, Discussion of application. 2 
+
+11. LINEAR MEASUREMENTS: Gauge Blocks, Dial gauge, Bevel protractors, Sine bar, Planimeter, Tool room microscope, Profile projector, use of Auto collimator, Straightness testing. Principle of Interferometry-otical flats, NPL flatness interferometer, Measurement of surface roughness, Discussion of application. 2 
+
+Note: Question paper Pattern: 
+
+There will be two parts, four questions will be set in each part. 
+
+Answer any complete Five Questions choosing at least two from each part. 
+
+REFERENCE BOOKS: 
+
+1. Mechanical Measurement - Beckwith and Buck, Roy. D. Marangoni, John. H. Lienhard. 
+
+2. Experimental methods for engineers - J.P. Hollman 
+
+3. Engineering Measurements - Deoblin 
+
+4. Engineering Measurements - Collet and Hope. 
+
+5. Mechanical Measurements - Sirohi and Radhakrishna. 
+
+6. Mechanical Measurements - RK Jain 
+
+7. Engineering Metrology - RK Jain 
+
+8. Engineering Metrology - IC Guptha 
+
+9. Principles of Measurement Systems – John P. Bentley

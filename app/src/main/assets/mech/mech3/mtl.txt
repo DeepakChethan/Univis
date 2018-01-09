@@ -1,0 +1,49 @@
+2K11 ME 307 Material Testing Laboratory 
+
+Laboratory :3 Hrs / week Internal Assessment Marks:25 
+
+Examination: 3 Hrs Max. Marks for Examination: 100 
+
+Group Test 
+
+1. Testing of materials using UTM 
+
+Tension Test 
+
+Bending Test 
+
+2. Torsion Test 
+
+Individual Tests: 
+
+3. Hardness Tests 
+
+3.1 Brinell Hardness Test 
+
+3.2 Rockwell Hardness Test 
+
+3.3 Vickers Hardness Test 
+
+4.Impact Tests 
+
+4.1 Izod Test 
+
+4.2 Charpy Test 
+
+5. Tensile Testing of Welded joints 
+
+6. Shear Test on metals 
+
+7. Shear Test on wood 
+
+8. Compression test on metals 
+
+9. Compression test on wood 
+
+Scheme of examination: 
+
+Viva and voce 20 marks 
+
+One experiment in group test 60 marks 
+
+One experiment on individual test 20 marks

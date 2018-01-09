@@ -1,0 +1,54 @@
+2K11CI 51: DATABASE MANAGEMENT SYSTEMS 
+
+ Note: 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week: 4 Examination Marks: 100 Sessional Marks: 25 
+
+ PART A 
+
+ Chapter 1: Introduction to DBMS 6 Hours 
+
+ Introduction to DBMS with Examples, File System Vs DBMS, People who deal with databases, Intended uses of a DBMS, Implications of the Database Approach. Data models, Schemas and instances, DBMS Architecture and data independence, Database languages and Interfaces, The database system environment, Classification of Database Management Systems. 
+
+ Chapter 2: Conceptual Design and the ER Models 6 Hours 
+
+ Overview of Database design, ER model concepts, Notation for ER diagrams, Proper naming of schema constructs, Examples. 
+
+ Chapter 3: Relational Model and Relational Algebra 6 Hours 
+
+ Relational model concepts, Constraints, Update operations on Relations and dealing with constraints violations, Relational Algebra, Relational algebra operations and Queries in the Relational Algebra, Mapping ER model to Relations. 
+
+ Chapter 4: SQL 6 Hours 
+
+ SQL Standards, SQL92; Data definition, Queries, Update statements, Views and Assertions in SQL. 
+
+ PART B 
+
+ Chapter 5: Database Design 6 Hours 
+
+ Informal design guidelines for Relational Schemas, Functional dependencies, Normal Forms based on primary keys, Generalized definitions of 2NF and 3NF; BCNF, Algorithms for Relational Database Schema design, Multi-valued Dependencies and 4NF.Join dependencies and 5NF.Inclusion dependencies, Template dependencies, DKNF. 
+
+ Chapter 6: Record Storage and Primary File Organization 6 Hours 
+
+ Introduction, Secondary storage devices, RAID Technology, Buffering blocks, Heap and sorted Files, Hashing Techniques, Index – Types of Index, Single level, multi-level and Multiple key indexes. 
+
+ Chapter 7: Examples of Commercial Database Systems 6 Hours 
+
+ ORACLE: Architecture, Languages and interfaces, Embedded SQL. MS ACCESS: Architecture, Overview of the features. 
+
+ Chapter 8: Emerging Technologies 6 Hours 
+
+ Data Warehousing, Data mining, WWW databases, Text and Digital library data bases, Multimedia databases, Parallel databases, Mobile databases. 
+
+ References : 
+
+ 1. Elmasri and Navathe, Fundamentals of Database Systems, Fourth Edition, Addison – Wesley, 2006. 
+
+ 2. Raghu Ramakrishnan, Database Management Systems, McGraw Hill, Thrid Edition, 2003. 
+
+ 3. Peter Rob and Carlos Coronel, Database Systems: Design, Implementation, and Management, Fifth Edition, Thomson learning, 2006. 
+
+ 4. Abraham Silberschatz, Henry F Korthand SSudarshan ,Database System Concepts, Sixth Edition, 2010. 
+

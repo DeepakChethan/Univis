@@ -1,0 +1,22 @@
+
+ 
+ 2K11EM1201 ENGINEERING DRAWING 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+ PART –A
+ Fundamentals of Engineering Drawing: 
+ B.I.S. Conventions for Engineering Graphics, Dimensioning, Use of instruments, Simple geometrical constructions, construction of polygons, lettering, concept of R.F. (Representative Fraction) in scales. 6 hrs. 
+ Projection of Points: Concept of Orthographic Projection; Projection of points in different quadrants, emphasizing on First Angle Projection. 3 hrs. 
+ Projection of Straight Lines: Projection of lines in simple positions, inclined to one plane and parallel to other plane, inclined to both planes. To find true length and true inclinations, Practical problems.12 hrs. 
+ 
+ 
+ PART –B Projection of Plane Surfaces: Projection of right regular triangle, hexagon and pentagon, square, rectangle and circle without through holes (by change of position method and auxiliary plane method) 12 hrs. 
+ Projection of Solids: Projection of the following simple and right regular solids: Prisms, Pyramids, Cones and Cylinders (without through holes), inclined to both HP and VP (by change of position method) and Auxiliary Plane Method. 15 hrs. 
+ 
+ PART –C Isometric Projection: of right regular solids viz, prisms, pyramids, cone, cylinder and their frustums and sphere and combination of any two of these solids. Simple Department of Mechanical Engineering, UVCE, Bangalore (2K10 Scheme of study) machine parts. 12 hrs. 
+ Question paper pattern: 
+ TWO questions from PART A i.e., ONE on Projection of lines, One on practical problems involving lines, Four questions from PART B, TWO on plane surfaces and Two on solids. TWO questions from PART C. Student to answer ONE from PART A and THREE from PART B and ONE from PART C each of 20 Marks
+ Reference Books: 
+ 1. Eng. Drawing Vol - I and Vol –II in Angle Projection, Gopala Krishna K. R 
+ 2. Eng. Drawing in I Angle Projection, Bhatt N.D 
+ 3. Machine drawing, Gopala Krishna K.R 

@@ -1,0 +1,18 @@
+Computer Techniques In Power System Analysis 
+
+PART A 
+
+1. Network Topology and Matrices : 
+Oriented Graphs, Primitive Impedance and Admittance matrices, Formation of Y-Bus, formation of Bus impedance Matrix - Z Bus building algorithm. 
+
+2. Load flow studies : 
+Introduction, Power flow equations, classification of Buses, Gauss-Seidal method-Algorithm, Flow chart, Acceleration factor, Newton-Raphson method in polar co-ordinates-Algorithm, flow chart, FDLF method- Algorithm, Flow chart, Problems on all load flow methods, Representation of Transformer tap settings, Comparison of load flow studies. 
+
+
+PART B 
+
+3. Economic operation of Power system: 
+Introduction, performance curves, Economic generation scheduling, Neglecting losses and generator limits – Economic generation scheduling including generator limits and neglecting losses-Iterative techniques-Economic dispatch including transmission losses-penalty factor. Iterative technique for solution of economic dispatch with losses-Derivation of transmission loss formula-optimal scheduling of hydrothermal plants-problem formulation solution procedure and algorithm. 
+
+4. Transient Stability studies: 
+Numerical solution of swing equation-point-by point method, Modified Euler’s method, Range-Kutta method, Representation of power system for transient stability studies, load representation, Factors and methods of improving Transient stability.

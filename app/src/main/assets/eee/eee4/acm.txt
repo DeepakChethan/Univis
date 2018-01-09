@@ -1,0 +1,30 @@
+AC Machines 
+
+PART-A 
+
+1. Three-Phase Induction Motor: 
+Types, Construction, Rotating Magnetic Field, Principle of Operation, Equivalent circuit, Phasor diagram, Slip, Torque equation and Maximum torque, Torque Slip characteristic. Relation between Slip, Rotor copper losses, Rotor input and Efficiency. Free Run and Blocked Rotor Tests, Circle diagram. Methods of starting, Star-Delta starter, Auto transformer starter, Rotor resistance starter. Different types of speed control of Induction motor. Synchronous cusps, cogging and crawling. Double cage induction motor (Torque-slip characteristics). 
+
+2. Induction Generator: 
+Negative slip. Generator v/s Motor action. Characteristics and Circle diagram. Phasor diagram for induction generator. 
+
+3. Single-Phase Motors: 
+Construction, Double Revolving Field theory and Principle of operation. Starting torque and methods of starting - Split phase, Shaded pole, Capacitor start and Capacitor run. Universal motor, Applications. 
+
+
+PART-B 
+
+4. Synchronous Generators: 
+Construction, Salient and Non-salient pole machines, EMF equation, Different types of windings, winding factors, Fractional slot windings. Harmonics reduction and elimination. Armature reaction - leakage reactance and synchronous reactance. Vector diagram of alternator (non-salient type). 
+
+5. Two Reaction Theory: 
+Direct axis and quadrature axis synchronous reactance, vector diagram, Slip test and Regulation,. Equation for power in terms of power angle for salient and non-salient pole alternator. 
+
+6. Voltage Regulation: 
+EMF, MMF, ZPF method. Short circuit ratio of alternators. 
+
+7. Parallel Operation of Alternators: 
+Effect of change of excitation and input. Conditions for parallel operation. Synchronisation and Synchronising power, operation of alternator on infinite bus. Division of load between two alternators. Operating characteristics of turbo alternator. 
+
+8.Synchronous Motor: 
+Principle of operation, Rotating magnetic field, vector diagram for salient and non-salient pole motor. Torque and torque angle, Blondel diagram, Effect of change in load. Effect of change in excitation. V and inverted V curves. Synchronous condensor. Maximum power. Hunting and damping. Methods of starting synchronous motors. Power angle curve.

@@ -1,0 +1,40 @@
+2K11CE703 BRIDGE ENGINEERING 
+
+Hours / Week: 4 Exam: 3 Hours 
+
+Total: 60 hours Class Marks: 25 
+
+Max Marks: 100 
+
+1.Introduction to different types of bridges- Principle of load distribution- bridge response under03hrs static loading and dynamic loading. 
+
+2.Design of Masonry Arch bridges. 06hrs 
+
+3.Design of RCC slab bridge, for IRC loading. 06hrs 
+
+4.Design of RCC T-beam bridges –slabs, longitudinal girder, transverse beam, related to moments10hrsand shears, 
+
+5.Bearings-elastomeric bearings, pot bearings, rockers and roller bearings. 08hrs 
+
+6.Foundation- Well and pile foundation. 10hrs 
+
+7.Piers and Abutments- stability analysis 06hrs 
+
+8.Design of Box culvert. 06hrs 
+
+9.Importance of flyovers- types of flyovers, concept of analysis design and construction aspects.05hrs 
+
+Question paper pattern: 
+
+Answer any five of the eight main questions, to be set covering the entire syllabus 
+
+Reference Books: 1. Johnson Victor, “Essentials of bridges
+
+ 2. Ponnuswamy, S, ” Bridge-McGrawHillEngineerings”Pub1992 T
+
+ 3.Aswini VijiraniandconcreteRatwani bridges“Adesign“ Khanof
+
+ 4.Krishnaraju “Design-McGrawHill Pubof Brides” Tata
+
+ 5.M.A. Jayaram,“Design –Hallofof IndiaBridgePvt.Ltd,NewStructDelhi,2004
+

@@ -1,0 +1,21 @@
+2K11 ME 706: SIMULATION LABORATORY 
+
+Class: 3 Hrs / week Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+1. Computer Simulation and experiments of pneumatic, electro pneumatic circuits involving PLC. 
+
+2. Computer Simulation and experiments of hydraulic, electro hydraulic circuits involving PLC. 
+
+3. Computer Simulation of manufacturing systems using packages like ARENA/ QUEST/ SPSS software. 
+
+Note: The details of the required relevant theory for conducting above experiments are to be covered during laboratory hours. 
+
+Scheme of examination: Two experiments are to be conducted as follows: 
+
+1. One experiment from Sl. No. 1 or 2 for 50 Marks 
+
+2. One experiment from Sl. No. 3 for 30 Marks 
+
+3. Viva Voice : 20 Marks.

@@ -1,0 +1,77 @@
+2K11 ME 503 Manufacturing Process - II 
+
+Lecture: 4 Hrs / week Exam: 3 Hrs 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Exam Marks: 100 
+
+PART-A 
+
+1. Machining Processes and Machining Tools 
+
+Machining Processes - Turning, Drilling, Boring, Milling, Shaping, Planing, Broaching and Grinding. Machine Tools-Components, Working, Operations Performed, Tools used, Measurement of Cutting time and metal removal rate in Lathe, Drilling machine, Milling machine, Broaching machine and Grinding machine, Tools. Single point cutting Tool-Tool angles and tool Signature, Testing of Machine tools. Problems. 
+
+PART-B 
+
+2.Mechanics of Machining Processes 
+
+Orthogonal cutting, Oblique cutting, basics of chip formation in machining processes, types of chips, orthogonal cutting-Determination of shear plane angle, cutting forces in orthogonal cutting, Merchant model for orthogonal cutting, Velocity relations, shear strain and rate of Shear strain, plowing force and size effect in metal cutting, Problems. Considerations for optimum machining practices, Dynamometers: Measurement of cutting forces in Turning, Drilling and Milling operations, Frictions in Metal cutting. Problems. 
+
+3.Thermal aspects of Machining Processes 
+
+Heat generation and Temperature distribution in Metal cutting, measurement of temperature in meal cutting. Tool wear- Mechanisms of tool wear, geometry of tool wear, factors affecting tool wear. Tool life- Definition, Criterion for measurement of tool life, Factors affecting tool life, Problems. 
+
+PART-C 
+
+4.Tool Materials, Cutting fluid and Machinability 
+
+Cutting Tool materials-Characteristics, contents, Advantages and Limitations of HSS, Stellite, Carbides, Ceramics, Abrasives, Diamond, CBN, SIALON and other recently developed tool materials. Cutting fluids-Functions, Requirements and types. Machinability and Machinabilty index-Meaning, Factors affecting and evaluation of machinability, Problems. 
+
+5.Non Conventional Machining Processes 
+
+Need for Non conventional machining processes, Classification based on type of energy, Mechanism of metal removal, media for energy transfer and source of energy. Principle of operation, components, process description, process parameters, process capability, applications and limitations of: 
+
+(i) Ultrasonic Machining 
+
+(ii) Electric Discharge Machining 
+
+(iii) Electro Chemical Machining 
+
+(iv) Laser Beam Machining 
+
+6. Finishing Processes Honing, Lapping and Super finishing processes-Process description and capabilities. 
+
+Text Books 
+
+1. Fundamentals of metal machining and machines, Geoffrey Boothroyd pub: McGraw Hill Book company 
+
+2. Manufacturing Science– Amitabha Ghosh and A.K. Malik Pub: Affiliated East west press Pvt. Ltd, New Delhi 
+
+3. A text book of Production Engineering – P.C. Sharma, Pub S. Chand and Company 
+
+4. Fundamentals of metal cutting and Machine Tools-B.L. Juneja and G.S. Sekhon. Pub: New age International (p) Ltd, New Delhi.1998. 
+
+References 
+
+1. Tool and Manufacturing Engineering Hand Book – ASTME 
+
+2. Metal Cutting Principles Milton C. Shaw, CBS Publications, New Delhi. 
+
+3. Modern Machining Processes – Pandey PC, Pub: Tata Mc Graw Hill. Co.1993. 
+
+4. Non Traditional Machining Processes – Wellar, SME, Michigan 1984. 
+
+5. New Technology – Bhattacharya, B.E. Publisher, 1984. 
+
+6. A text book of Manufacturing Technology- R.K. Rajput, Laxmi Publications (P) Ltd, New Delhi. 
+
+7. Manufacturing Technology- D.K. Singh, Pub: Pearson Education, New Delhi. 
+
+8. Theory of Metal cutting and Practices– Dr. B.J. Ranganath, Pub: Vikas Publishers. 
+
+Scheme of Examination: 
+
+Examiners to set Two Questions in Part-A, Three Questions in Part-B and Part-C. 
+
+Students are to answer Five full questions choosing at least One full question from each Part.

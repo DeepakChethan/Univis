@@ -1,0 +1,49 @@
+2K11ME 803. ENERGY RESOURCES AND POWER PLANTS 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT-I 
+
+1. Hydro-Electric Power Plant: Energy lines- HGL and TEL, hydro meteoric survey, selection of site for a dam, head race, tail race, gross head, net head, Comparison of Thermal and Hydroelectric Power Cost. Assessment of Available Power for a proposed Hydel Power station, Types of Hydropower Power Plant, Run-of-river Plants, Reservoir Plants, Pumped storage Plants, Base-load Plants, Peak – Load Plants, Primary and Secondary Power, Layout of Hydro electric Power Plant- Dam, Water way, Penstock, Forebay, Intake structure, Trash rack, Surge Tank, Power House. Connected Load, Maximum Demand, Demand Factor, Load curve, load factor, Plant-use Factor, capacity factor, diversity factor, peak load, numerical Problems. 12 Nuclear Power Plants :Fission and Fusion reaction, salient features of a nuclear reactor, types of reactors, boiling water reactors, pressurized water reactor, liquid metal cooled, gas cooled. CANDU reactors, nuclear power plants. 10 
+
+UNIT-II 
+
+1. Introduction to Energy sources: Energy sources and their availability, Conventional and non-conventional energy source, prospects of non-conventional energy sources. 2 
+
+2. Solar energy: Solar radiation and its measurements: Solar radiation geometry, Solar radiation, measurements, solar radiation data, average solar radiation, solar radiation on a tilted surface. 4 
+
+3. Solar collectors: Principle f conversion of solar energy to heat. Flat plate collectors- Configuration, basic energy balance equation, general characteristics, overall heat transfer coefficient, collector performance, absorbers, selective coating. Concentrating collectors: Types comparison between flat plate and concentrating collectors, general characteristics. 6 
+
+5. Solar energy storage: Storage systems, thermal, electrical, chemical, mechanical, electromagnetic, solar pond. 4 
+
+6. Solar energy applications: Solar water heating, space heating, space cooling, solar thermal electric conversion, solar electric power generation, agriculture and industrial process heat, distillation, pumping, solar furnace, solar green houses, hydrogen generation. Numerical problems. 6 
+
+UNIT-III 
+
+7. Wind energy: Introduction. Principles of energy conversion, wind data and energy estimation, site selection, basic components of the system, classification, advantages and disadvantages of wind energy conversion system. Design consideration of horizontal axis machines, vertical axis machines, performance of wind machines using basic power expression, wind energy storage, application of wind energy system. Numerical problems. 8 
+
+8. Energy from bio-mass: Bio-mass conversion, bio-gas generation, factors affecting the gas generation, classification of bio-gas plants, relative, advantages and disadvantages. Constructional details of KVIC and Janata model, community bio gas plants, raw materials used, digester design, fuel properties of bio gas, utilization of bio gas, energy plantation, bio mass gasification, classification of gasifiers, application of the gasifiers, Numerical problems. 8 
+
+Books for Reference: 
+
+Principles of Energy Conversion- Archie W Culp 
+
+Non conventional Energy sources – G.D. Rai 
+
+Solar energy –S.P. Sukhatme 
+
+Power plant engineering- E.L Wakil 
+
+Power plant engineering – Rajput 
+
+Power plant engineering – Doomkundwar 
+
+Scheme of Examination: 
+
+Examiners to set three questions from each UNIT-I and UNIT-II and 2 questions from UNIT-III. 
+
+Students are to answer any five full questions choosing at least one full question from each part.

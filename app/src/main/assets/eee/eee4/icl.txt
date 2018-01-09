@@ -1,0 +1,39 @@
+IC Laboratory 
+
+Linear ICs : 
+1. Op-amp applications- 
+(i) Inverting 
+(ii) Non-Inverting 
+(iii) 
+Voltage follower 
+(iv) Integrator 
+(v) Differentiator 
+(vi) FW Precision rectifier 
+
+2. Wein's Bridge Oscillator using Op-amp 
+
+3. Op-amp used as Astable and Monostable Multivibrators 
+
+4. 555 Timer used as Astable andMonostable Multivibrators 
+
+5. ZCD and Schmitt trigger using Op-amp 
+
+
+Digital ICs : 
+6. Transfer Characteristics of TTL and CMOS Logic Families 
+
+7. Realization of 2's Complement Full Adder/Subtractor - 7483 
+
+8. Realization of MUX and DEMUX using NAND gates. Design of combinational circuits using 74153 MUX 
+
+9. Code converter : Design of Gray to Binary and Vice-Versa 
+
+10. Realization of RS and JK flip flops using NAND gates 
+
+11. Modulo-N counter using 7490, 7493 and 74193 IC chips 
+
+12. Study of 7495 Shift Register - SISO, SIPO, PIPO, PISO and its applications such as Ring Counter, Twisted Ring Counter. 
+
+13. D/A Converter R to 2R type - Staircase Waveform Generator. ADC - Successive Approximation Method 
+
+14. Single Digit Display using 7-Segmented Display Device, Counter and a Decoder 7447/7446 IC.

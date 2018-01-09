@@ -1,0 +1,34 @@
+2K6EC301: EMBEDDED SYSTEM 
+
+PART – A 
+
+1.INTRODUCTION TO EMBEDDED SYSTEMS 
+Characteristics, brief review of sensors, signal conditioning, data encoding, and data converters. Examples for embedded system digital camera. -6hrs 
+
+2.EMBEDDED HARDWARE 
+16 bit microcontroller, HCS 12 architecture, addressing modes, instruction queue, and introduction Set interrupt priority and management, memory management and paging, Introduction to code warrior. Brief introduction to architecture of 32 bit ARM processor-ARM Architecture and organization ARM Programming Model. -12hrs 
+
+3.BUS STRUCTURE 
+Introduction to serial bus RS232, USB, 12C, CAN and Fire Wire buses and their protocols and applications. -6hrs 
+
+
+PART – B 
+
+4.WIRELESS PROTOCOLS 
+Bluetooth and IEEE 802.11, 802.15, 802.16.: introduction, features, area of applications. Interface for IRDA and WEB enabling. -6hrs 
+
+5.EMBEDDED SOFTWARE 
+Software Architecture –Round-Robin, Round-Robin with Interrupts, Function-Queue Scheduling Architecture , Real time Operating System Architecture. Introduction to RTOS-Task and task status, tasks and data, Semaphore and shared data. Other OS services-message Queues, Mailboxes and pipes, Timer Functions, Events, Memory management, Interrupt Routing in RTOS. Basic design using RTOS-principles and an example, Encapsulating semaphores and Queues. Hard real time Scheduling Considerations, Saving memory space and power. Embedded software development –Host and Target machines, linker, Prom programmers, emulators and monitors. Debugging Techniques- Testing host machine, introduction set simulators tools, assert macro, laboratory tools. 12hrs 
+
+6.PROGRAMMING CONCEPT AND EMBEDDED PROGRAMMING 
+Programming in assembly Language and High level language C/C++, Source Code Engineering Tools, Program modelling concept in single and multiprocessor system software, Software Engineering Practices in Embedded Software Development Process. -6hrs 
+
+REFRENCE BOOKS: 
+1.Vahid F., Givargies T., “Embedded System Design”, John Wiley 2002. 
+2.David E Simon,”An embedded software primer”. 
+3.Free scale reference /user manual. 
+4.Manual of ARM Processor. 
+5.Raj Kamal, “Embedded Systems-Architecture, Programming and Design”, TMH 2003. 
+6.Gupta R., “Co-systems of hardware and software for digital embedded systems”, Kluwer. 
+7.Barr M., “RTOS”. 
+8.Liu,”Real Time systems”, Pearson Ed. Asia.

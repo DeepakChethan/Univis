@@ -1,0 +1,33 @@
+DSP Lab 
+
+1. Getting started with MATLAB. 
+
+2. Discrete time signals and systems. 
+
+Find Impulse response, step response, Ramp response of a given system. 
+3. Time and Frequency domain responses 
+a. Linear convolution. 
+b. Circular convolution. 
+c. Verification of Linear convolution using DFT. 
+d. Finding DFT and FFT algorithms. 
+e. Finding the inverse FFT. 
+
+4. Z-Transform 
+a. Finding solution to LCCDE 
+b. Partial fraction expansion of Z- Transform. 
+
+5. Digital filter design 
+a. IIR Digital filter design using Impulse Invariant Method(both Butterworth and Chebyshev filters) 
+b. IIR Digital filter design using Bi-Linear Transformation(both Butterworth and Chebyshev filters) 
+c. FIR Digital filter design by Windows. 
+
+6. Simulink and DSO block set, 
+
+7. DSP hardware experiments using DSP starter Kits. 
+a. Addition 
+b. Subtraction 
+c. Multiplication 
+d. Division 
+e. Factorial 
+f. Generation of Different waveforms 
+g. Generation of Echo.

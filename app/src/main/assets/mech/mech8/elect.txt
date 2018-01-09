@@ -1,0 +1,425 @@
+2K11ME 805.A. TECHNOLOGY FOR RURAL DEVELOPMENT 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT I 
+
+1. Necessity for harnessing Science and Technology towards rural India. An account of the efforts of some 
+
+important institutions in this direction. Challenges for application of S and T in rural areas. 10 
+
+2. Technologies to meet the energy needs. Use of locally available materials. Use of Unconventional (Non Conventional) or sources other than fossil fuels. Case studies. 10 
+
+3. Alternate building technologies and materials. Construction and maintenance of efficient sanitation systems. 10 
+
+UNIT II 
+
+4. Efficient management of water. Rain water harvesting, low cost water treatment plants. Prevention of water pollution in water bodies in rural areas. 10 
+
+5. Use of locally available materials and fuels. Case studies. 10 
+
+6. Small and medium scale hydroelectric power generation case, studies. 10 
+
+Books for Reference: 
+
+There is no single book in this subject. Teaching material is prepared using technical papers published in journals. 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit 2K11ME 805.B. MECHANISMS AND TRANSMISSION 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT I 
+
+1. Introduction: Review of fundamentals of kinematics, planar, spherical and spatial mechanisms, analysis, kinematics inversion, Grashof’s law, Mechanical advantage, coupler curves. 8 
+
+2. Kinematic Analysis: Position – Definition, Loop closer equation. The chance solutions, Algebraic position analysis. 8 
+
+3. Velocity –Definition, Instantaneous center of velocity, The Arnold-Kennedy theorem of three centres, locating instantaneous center of velocity analysis using instant centres. The angular velocity ration theorem, Freudenstein’s theorem, Index of merit, centroids. 8 
+
+4. Acceleration – Definition Analytical method of acceleration fixed and moving centroids, inflection points an circle. Euler savary equation. The bubblier construction, the cubic of stationary curvature.6 
+
+UNIT II 
+
+5. Synthesis of Mechanisms : Type, number and dimensional synthesis, function generation, path generation and body guidance, graphical method. Three-position synthesis, point position reduction,four precision points, overlay method, Cognate lingages- coupler curve synthesis, Robert-Chebychev theorem Freudensteins equation and analytical synthesis, Design of six bar mechanisms. 15 
+
+Any 1 question in unit II. 
+
+6. Transmission: Clutches-purpose-operation- of friction clutches, gear box – purpose- requirement, ideal transmission, mechanical gear box, sliding, mesh, constant mesh, and synchromesh. Fluid coupling and torque converter, epicycle gearing, principles of automatic transmission. Propeller shafts and universal joints, differentials, rear axle, different arrangements. 15 
+
+Books for Reference 
+
+1. Theroy of Machines and Mechanics by J E Shigley and J J Vicker, International student edition McGraw Hill 
+
+2. Design of Machinary Mc Graw Hill by Norton R L. 
+
+3. Mechanisms and Dynamics of Machinary by Mobic and Reinholtz. 
+
+4. Advanced Mechanism Design Analysis and Synthesis, Prentice Hall by Sandor G N and Erdman A G 
+
+5. Automotive Mechanism by Sirgham 
+
+6. Autocar handbook by Heitner’ 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit. 2K11ME 805 .C. FAILURE ANALYSIS AND DESIGN 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT I 
+
+1. Fundamental understanding of failures in materials 
+
+1. Modes of Mechanical Failure: Definition of Failure Mode – Failure modes observed in practice – Different Failure modes and their importance in maintenance. 
+
+2. Functions of Failure: Functions and Performance Standards – Functional Failures – Failure Modes – Failure Effects. 
+
+3. Failure Consequences: Hidden Failure Consequences – Safety and Environmental consequences – Operational Consequences – Non-Operational Consequences. 10 
+
+2. Classifications of failure: Instantaneous Damage and cumulative damage, failure patterns and distributions, failure data analysis, objective of failure analysis, step by step procedure for metallurgical failure analysis. 4 
+
+3. Ductile and brittle fracture, micro mechanism of fractures, fatigue fracture, fundamental of crack propagation. 4 
+
+4. Corrosion failure, Environment induced fractures. 6 
+
+5. Wear failures, fretting failure.High temperature failures. 6 
+
+UNIT II 
+
+6. Creep and stress ruptures. 6 
+
+7. Bearing failures, rolling bearing failure. Gear failures. Failure of friction surfaces. Seal failures. Shaft failure. Failure of pressure vessels. 6 
+
+8. Failure detection methods. 6 
+
+9. Failure prevention methods. 4 
+
+10. Case studies. 8 
+
+Books for Reference: 
+
+1. K.H.B. Krdonsity, ?Models of failure, Springer Vertag -1969. 
+
+2. L.F. Pau ?Failure Diagnosis and Performance Monitoring?, Marcel Dekker Inc. 
+
+3. ?Lubrication and wear?, The institution of Mechanical Engineering. 
+
+4. H.P. Garg ?Industrial Maintenance?. 
+
+5. Catagelo and Heiser Wiley ?Analyis of Metallurgical Failuress?. 
+
+6. L. Engel and H. Klingale Wolfe ?An atlas of metal damage?. 
+
+7. Failure Analysis and prevention American Society of Metal Hand Book V 10.11 and 17. 
+
+Scheme of Examination: 
+
+Examiners to set 3 questions in Unit I and five questions in Unit II. 
+
+Students are to answer five questions selecting at least one question from Unit I and three questions from Unit II. 2K11ME 805.D. MATERIALS MANAGEMENT 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+Unit I 
+
+1. Integrated Materials Management 
+
+Integrated Materials Management (IMM): Introduction and its need – Purchasing Management and its 
+
+importance –Vendor Development and Vendor Management. 10 
+
+2. Purchasing Management Goals of Purchasing – Negotiation – Purchase system price forecasting – Purchasing under uncertainty – Purchasing of capital equipment - International Purchasing. 10 
+
+3. Warehousing and Stores Management Stores Management – Stores Systems and Procedures - Incoming Materials Control – Stores accounting and Stock Verification – Obsolete, Surplus and Scrap Management. 10 
+
+Unit II 
+
+4. Inventory Management Introduction – Economic Order Quantity – Practical Inventory Systems – Computers in IMM. 10 
+
+5. Materials Planning and Budgeting Importance and Definition – Techniques and Guidelines - Budgeting.10 
+
+6. Logistics Management Importance – Choice of Mode of Transport – Route selection, Rate verification and Auditing – Lost shipments and Claims. 10 
+
+Books for References: 
+
+1. Materials Management by P. Goplakrishnan and M. Sundaresan, Prentice Hall of India Pvt. Ltd. NewDelhi. 
+
+2. Industrial Engineering and Management by O.P. Khanna, Dhanpat Rai Publications. 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit. 2K11ME 805.E. PRODUCTION AND OPERATION MANAGEMENT 
+
+Lecture: 4 Hrs/ week 
+
+Total No. of Hours: 60 Hrs. Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT I 
+
+1. Introduction to POM: Historical evolution of POM, the system concept, system efficiencies and effectiveness, decision making for POM systems, role of models, the internal and external environment of POM, concepts of production and the measurement. 5 
+
+2. Designing of the POM systems: Output design, materials and processing considerations, design specifications and tolerances, standardization and interchangeability, human engineering. 5 
+
+3. Facility design: Layout types, functional and product type’s layouts, fixed position layout, cellar layouts, line balancing, new manufacturing methods, problems. 5 
+
+4. Operation standards and work measurements: Job design, production and operations standards, work measurement techniques. 5 
+
+5. Capacity planning: Capacity planning decisions, capacity planning models, decision tree analysis and break-even analysis, problems. 5 
+
+UNIT II 
+
+6. Location analysis: Location factors, Industrial plant locations, models for single facility and multi- facility locations, transportation model, simple median model problems. 5 
+
+7. Forecasting: Requirements of forecasting for operations, categories of forecasting methods, moving averaging method, exponential smoothing with trend and seasonality, forecasting errors, regression analysis, delphi method, problems. 6 
+
+8. Aggregate planning: Aggregate planning costs, the goals of aggregate planning, strategies for developing aggregate planning, mathematical models, aggregate planning by linear programming approach (transportation model) problems. 6 
+
+UNIT III 
+
+9. Inventory control: Inventory types, Inventory costs, ABC’s of inventory, EOQ models with and without shortage, production Inventory model, inventory model with price break, problems. 6 
+
+10. Operation Scheduling: Job shop scheduling, scheduling for batches, high volume continues systems, 
+
+scheduling for service systems. 6 
+
+11. Materials requirement planning: Planning for material needs, capacity planning, limitations and advantages of MRP, Manufacturing Resource Planning (MRP-II), Just-In-Time (J I T) manufacturing.6 
+
+Books for Reference: 
+
+1. Production and operation management By Adam and EBERT 
+
+2. Modern Production Operation Management By BUFFA 
+
+3. Operation Management By Joseph Monks 
+
+4. Production and Operation Management By S. N. Chary. 
+
+Scheme of Examination: 
+
+Examiners are to set Three questions from each of Unit-I and Unit-II and Two questions from Unit-III. Students to answer Five full questions choosing Two from Unit-I and Unit-II One from Unit-III. 2K11ME 805.F. COMPUTATIONAL FLUID DYNAMICS 
+
+Lecture: 4 Hrs/ week 
+
+Total No. of Hours: 60 Hrs. Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+1. Philosophy of C.F.D. : Computational Fluid Dynamics: Introduction, C.F.D. As a Research Tool, C.F.D. As a Design Tool, Automobile and Engine Applications, Naval Architecture Applications, Civil Engineering Applications, Environmental Engineering Applications, Industrial Manufacturing Applications. 12 
+
+2. The Governing Equations of Fluid Dyanamics: Their derivations, a discussion of their Physical meaning and a presentation of forms particularly suitable to CFD. Models of flow, Finite Control Volume, Infinitesimal Fluid Element, The substantial Derivative, The Divergence of Velocity: Its Physical meaning, The Continuity Equation, Four Models and its Comparison, Manipulations, The momentum equation, The Energy Equation, Equations for Viscous Flow (Navier Stokes Equation), Equations for Inviscid Flow (Euler Equation Problems). 12 
+
+3. Mathematical Behaviour of P.D.E : The impact on C.F.D. classifications of Quasi-linaer P.D.E.s, General Method of Determining the classification of (P.D.E), The partial Differential Equation: The Eigen value Method, General behaviour of different classes of P.D.E.: Impact on physical and C.F.D., Hyperbolic, Parabolic and Elliptic Equations. 10 
+
+4. Basics of the Numeric : Introduction to Finite Differences, Difference Equations, Explicit and Implicit approaches; Definitions and Contrasts. 10 
+
+5. Grids with Appropriate Transformations : General Transformation of the equations, Matrices and Jacobians, Forms of the governing equations particularly suited for C.F.D. 8 
+
+6. Simple C.F.D. Techniques: The LAX-WENDROFF Technique, MACCDRMACK’S Technique. 8 
+
+References: 
+
+1. Computational Fluid Dynamics by John D Anderson J R 
+
+2. Numerical Heat Transfer and Fluid Flow 
+
+3. Computational Fluid Mechanics and Heat Transfer by ANDERSON, D A TANNEHIL J C 
+
+Scheme of Examination: 
+
+Number of questions to be set =8 
+
+Number of questions to be answered =5 2K11ME 805.G. COMPUTER AIDED ENGINEERING 
+
+Lecture: 4 Hrs/ week 
+
+Total No. of Hours: 60 Hrs. Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+1. AN OVERVIEW OF COMPUTER AIDED ENGINEERING: Application of computers to design, case studies of application of CAD and benefits of Computers Aided Design. Computer hardware, computer fundamentals, classification of computers used for design, hardware of PENTIUM and RISC based graphic workstations. Serial and parallel interfacing, display devices, graphic input devices, output devices and operating systems, windows 95 and windows NT. 10 
+
+2. PRINCIPLES OF COMPUTER GRAPHICS: Creation of graphic primitives, graphical input techniques, display transformation in 2-D and 3-D, viewing transformation, scan conversion, clipping, hidden line elimination, rendering, shading and animation. 
+
+3. DESIGN DATA BASE: Concept, objectives, data structures, creation of data files and accessing data files in application programs and relational database management systems. 
+
+4. AUTOMATED DRAFTING: Configuration of a typical drafting package, layers, enitities, editing, display commands, hatching, dimensioning, text plotting, script files, DXF and IGES files, blocks, parametric programming, customization of drafting packages and graphic standards. 
+
+5. MODELLING: Schemes for representing solid objectives, construction solid geometry and boundary representation, features of solid modeling packages, modeling of curves and surfaces, techniques of splining, cubic splines, Bezier splines, B-splines, non-uniform rational B-splines, sculptured surfaces. Examples of creation of solid models, interface to drafting, design analysis and NC programming. 
+
+6. FINITE ELEMENT ANALYSIS: Introduction, types of analysis, procedure for finite element analysis – stiffness matrix, solution procedure, details of a finite element analysis package, model building, post processing and optimization. 
+
+7.MECHANISMS MODELLING: Inertial data specification, constraints, forces, generic system, modeling, kinematic and dynamic analysis, post processing and simulation. 
+
+REFERENCES: 1. CAD/CAM and Practice by IBRAHIM ZEID TMH.
+
+ 2. Mathematical Elements of Computer Graphics, by Roger and Adams
+
+ 3. Computer Graphics by Hearn and Beker.
+
+ 4. Introduction to Finite Elements in Engineering - Tirupathi Chandrupatla, Ashok Belegundi (P H I).
+
+ 5. Finite Element Methods-Abel and Desai.
+
+ 6 Numerical Control Machines and Computer Aided Manufacturing.Kunder, Tewari, Rao. Pub: Tata McGraw Hill.
+
+ 2K11ME 805.H. ENTERPRISE RESOURCE PLANNING 
+
+Lecture: 4 Hrs/ week 
+
+Total No. of Hours: 60 Hrs. Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT – I 
+
+1. MANUFACTURING INDUSTRY MANAGEMENT CHARACTERISTICS AND INFORMATION REQUIREMENTS : Industry classification, product / market / process characteristics, manufacturing planning cycle, information planning and control techniques. ERP concept and evolution history: MRP– I, MRP-II, ERP. Client server technology. RDBMS. 
+
+2. SALES, PURCHASE AND INVENTORY CONTROL CONCEPTS: Classification/ coding of materials and finished goods, sales enquiry, quotation, order, invoicing, delivery, finished food valuation, purchase requisition, enquiry, supplier quotation, purchase order, material receipts. Material issues, methods of issue valuation (FIFI/LIFO/ Weighted Average cost/ Std. Cost), returns from operations, returns to suppliers, stock adjustments, physical stock verification, ABC analysis. Lot and location control, replenishment order control (safety stocks, reorder point, economic order quantity). 
+
+3. MANUFACTURING: Aggregate planning-master production scheduling – capacity requirement planning, bill of material, material requirement planning, loading and scheduling. 
+
+UNIT – II 
+
+4. FINANCIAL AND COST ACCOUNTING: Basic accounting principles day book-cast book, journal, purchase and sales. Ledgers- general, supplier, customer, advances etc., trail balance, profit and loss / income and expenditure account and balance sheet. Fixed assets and depreciation, Budgeting – revenue, capital, cash, cost elements-direct material, direct labour, direct expenses and overheads Marginal costing and break even analysis, standard costing, activity based costing. 
+
+5. MANUFACTURING MODULE OF Baan: Module architecture – overview capacity requirement, planning, engineering change control, engineering data management, master production scheduling, materials requirement planning, product classification/ configuration. Production planning / control.10 
+
+6. DISTRIBUTION MODULE OF BaaN: Module architecture – overview, item data, purchase ordering/ control, sales ordering / control, replenishment order control, electronic data interchange. 
+
+Books for Reference: 1. Vollmann T.E. etal. ?Manufacturing Planning and Control?, Galgotia Publishers 1998
+
+ 2. Dilworth J.B. ?Operations Management?, McGraw Hill International Edition. 1992
+
+ 3. Buffa E S., ?Modern Production / Operations Management? John Wiley and Sons 1994
+
+ 4. Prasanna-Chandra, ?Fundamentals of Financial Management? Tata McGraw Hill 1994
+
+ 5. Gopalakrishnan, ?Materials Management?. Prentice Hall of India 1994.
+
+ 6. BaaN Student Manuals, BaaN Education Centre, Hydradab 1996.
+
+ 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit. 2K11ME 805.I. VALUE ENGINEERING 
+
+Lecture: 4 Hrs/ week 
+
+Total No. of Hours: 60 Hrs. Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT I 
+
+1. An Overview: Definitions, construction management contracts, value engineering case studies. Definition, value engineering recommendations, programmes, advantages. 
+
+2. APPROACH OF FUNCTION: Evaluation of function, determining function, classifying function, evaluation of costs, evaluation of worth determining worth and evaluation of value. 
+
+3.VE JOB PLAN: Introduction, orientation, information phase, speculation phase, analysis phase, development phase – implementation follow up phase. 
+
+4.SELECTION OF EVALUATION OF VE PROJECTS: Projects selection, methods selection, value standards, application of VE methodology. 
+
+UNIT II 
+
+5.VERSATILITY A VE PROGRAMME: Introduction training plan, career development for VE specialists. 
+
+6.INITIATING A VE PROGRAMME: Introduction, training plan, career development for VE specialists. 
+
+7.FAST DIGRAMMING: Cost models, life cycle costs. 
+
+8. VE LEVEL OF EFFORT: VE team, co-ordinator, designer, different services, definition, construction management contracts, value engineering case studies. 
+
+TEXT BOOK: 1. Tufy Herald, G. ?Compendium on value Engineering?, The Indo American society, First Edition 1983.
+
+ 
+
+Books for Reference: 1. Miles, L.D., ?Techniques of Value Engineering and Analysis?, MC Graw Hill, Second Edition, 1972.
+
+ 2. Khanna, O.P., ?Industrial Engineering and Management? Dhanpat Rai and Sons, 1993.
+
+ Scheme of Examination:
+
+ Examiners are to set four questions from each Unit.
+
+ Students are to answer five full questions choosing at least two from each Unit.
+
+ 2K11ME 805.J. MECHATRONICS 
+
+Lecture: 4 Hrs/ week 
+
+Total No. of Hours: 60 Hrs. 
+
+Internal Assessment Marks: 25 
+
+Examination: 3 Hrs 
+
+Max marks for Examination: 100 
+
+UNIT I 
+
+1.Introduction - Definition of Mechatronics - Scope of mechatronics. 
+
+2.Sensors and transducers - signal conditioning – Measurement systems. 
+
+3.Pneumatic, Hydraulic, Mechanical and Electrical actuation systems. 
+
+4.Basic system models - Engineering systems Rotation / Translational system, Electromechanical and Hydro mechanical systems. 
+
+5.Microprocessors-Basic structure-Languages - Instruction sets - problems with basic mathematical operations. 
+
+6. Input / Output systems - interfacing - memory mapped system peripheral interface adapters - poling and interrupts - speed control of motors. 
+
+UNIT II 
+
+7. Programmable logic controllers (PLC’s) - Basic structure - I/O processing - Examples of PLC’s – Timers, markers and counters - selections of PLC’s for mechanical engineering applications - 
+
+Problems using Laddet logic diagram. 
+
+Fault detection techniques - common faults in PLC systems. 
+
+9.Design and mechatronics - Mechanisms - Examples of design. 
+
+10. Electronics for mechanical engineers - passive components and active components used in electronics- Transformers - Silicon controlled rectifiers (SCR) - Integrated circuits (IC) - Digital circuits. 
+
+11. CNC systems - Introduction - Configuration of the CNC systems - Interfacing - Monitoring - Diagnostics - Machine data - Direct numerical control (DNC) 
+
+Books for Reference: 1. W.BOLTON Mechatronics - Electronic control systems in mechanical engineering - Awlongman publications, 1996.
+
+ 2. MECHATRONICS by HMT LIMITED, Tata Mc Graw Hill Publishing Co. 1998.
+
+ 
+
+Scheme of Examination: 
+
+Examiners are to set four questions from each Unit. 
+
+Students are to answer five full questions choosing at least two from each Unit

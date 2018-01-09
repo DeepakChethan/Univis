@@ -1,0 +1,25 @@
+2K11CE305 ENGINEERING GEOLOGY 
+
+Hours / Week: 4 Exam: 3 Hours 
+
+Total: 60 hours Class Marks: 25 
+
+Max Marks: 100 
+
+1.INTRODUCTION AND SCOPE Introduction to geology, different branches of Geology 2 Hrs. Geological time scale 1 Hrs. Interior of the earth 1 Hrs. Importance of geology in civil engineering 1 Hrs. 
+
+2.Geomorphology and Geodynamics: Weathering : Agent, Types and Products. 1 Hrs. River : stages, Geological work of rivers 1 Hrs. Soil : Soil profile classification, Erosion and Conservation 1 Hrs. Land slides : Cause, effects and remedical measures 1 Hrs. Earth quake : Causes, effects Concept of Plate tectonics, Engineering consideration and Seismic resistant structures with reference to India 2 Hrs. 
+
+3.CRYSTALLOGRAPHY and MINERALOGY: Crystallography : Introduction, Crystal system. 3 Hrs. Mineralogy : Definition of mineral, genesis, classification of Silicates, Oxides, Carbonates, Sulphates etc., of rock forming minerals ore and industrial minerals. 1 Hrs. Physical properties, chemical composition and uses of the minerals. 3 Hrs. 
+
+4.PETROLOGY: Classification of rocks based on genesis 1 Hrs. Igneous rocks : definition, forms of igneous rocks, textures and Classifications. 2 Hrs. Sedimentary rocks : Genesis, classifications and primary secondary structures of Sedimentary rocks. 2 Hrs. Metamorphic rocks : definition, factors and types of Structure of metamorphic rocks use. 2 Hrs. Study of different rock types in Karnataka and Engineering importance. 2 Hrs. 
+
+5.STRUCTURAL GEOLOGY: Introduction, dip and strike, compass clinometers. 1 Hrs. Fold and its types 3 Hrs. Faults and its types 3 Hrs. Joints and its types Unconformity and its types. 3 Hrs. 
+
+6.ENGINEERING GEOLOGY: Rocks as engineering materials : building and ornamental stones And their occurrence in India, Concrete aggregate, road metals and Railway ballast. 3 Hrs. Geological consideration for site selection : Dams and reservoirs, tunnelling, bridges roads and railways. 6 Hrs. 
+
+7.HYDROGEOLOGY: Hydrological cycle, Aquifers and its types. 1 Hrs. Occurrence of ground water in different rock types. 1 Hrs. Ground water recharge and management 2 Hrs. Geological and Geophysical methods of Ground water exploration (Electrical Resistivity and Seismic method and interpretation of resistivity curves for ground water studies and engineering works) 4 Hrs. Importance of Rainwater harvesting and types of rainwater harvesting techniques. 1 Hrs. 
+
+8.GEOMATICS AND ENVIRONMENTAL GEOLOGY: Study of Toposheets, Remote Sensing Techniques.Application of GIS and Study of Toposheets, Remote Sensing Techniques.Application of GIS and GPS (Global Positioning System) in Civil Engineering projects.3 Hrs. Evaluation of natural resources. 1 Hrs. Impact of mining, Quarrying and Reservoir on Environment 1 Hrs. 
+
+Reference Books: Text book of Geology - P/K. Mukarjee, Principles of engineering Geology - KVGK Gokhale, Principles of Engineering Geology and Geotechniques - Kyrnion and A.B. Jdd., Structural Geology - M.P. Billings, Ground water Hydrology - D.K. Todd., Engineering and General Geology - Parbin Singh., Engineering Geology - Venkata Reddy., Civil and engineering Materials - Rangawala., Geology and engineering - R.P. Legeet., Geology for engineers - Blyth., Principles of Petrology - C.W. Tyrrel.,

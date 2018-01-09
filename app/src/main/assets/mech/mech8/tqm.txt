@@ -1,0 +1,53 @@
+2K11ME 804 TOTAL QUALITY MANAGEMENT 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT I 
+
+1. Introduction to TQM: The TQM axioms, Consequences of total quality, Costs of total quality, Tools for total quality. 4 
+
+2. The Deeming Approach to Management: Historical background, Deming’s 14 principles, Implementing Deming’s Philosophy. 2 
+
+3. Juran’s Approach to Quality: Developing quality, Quality trilogy, and Universal breakthrough sequence. 2 
+
+4. Crosby’s Approach to Quality: Diagnosis of a troubles company, Quality vaccine, Absolutes for quality management, fourteen steps for quality improvement management. 
+
+5.The concept of kaizen: kaizen and innovation, Kaizen Management practices. 2 
+
+6. Technical Tools for Quality: Techniques for general use, Bar chart, Brain storming, Cause and effect analysis, QFD, Pareto analysis, cost benefit analysis, customer supplier relationship checklist, quality costing. 10 
+
+7. Technical Tools for Quality: Techniques for quality control, Introduction, Data collection plan variable control chart (X and R) Process capability studies. 5 
+
+UNIT II 
+
+8. Attributes Control Chart: P and nP, C and U control charts, interpreting the control charts and their applications, case studies and problems 5 
+
+9. Aspects of Specification and Tolerance: statistical tolerance, precision predictability and accuracy. Probability distributions problems 10 
+
+10. Acceptance Sampling: Fundamental concepts, discrete and continuous distribution, OC curves, AQL, LTPD, AOQL Sampling plans, Single, Double and multiple sampling plans. 10 
+
+UNIT III 
+
+11. Reliability: Definition, MTBF, Failure rate and reliability, calculation, reliability improvement, redundancy, reliability testing. 5 
+
+12. ISO 9000: Introduction, standards, benefits of ISO. 5 
+
+Books for Reference: 
+
+1. Managing for total quality - from Deeming to Taguchi’s and SPC By N. Logothetis, PHI-EEE. 
+
+2. Statistical Quality Control - Eugene L, Grant and Richard S. Leaven worth Mc. Grew Hill. 
+
+3. TQM and ISO 14000 - Dr. K.C. Arora, S.K. Kataria and Sons 
+
+4. Total Quality Management - Hohn S. Oakland, Heinmann Professional Publishing. 
+
+5. Total Quality Management- Besterfield, Pearson’s Pub. 
+
+Scheme of Examination: 
+
+Examiners are to set Three questions from each of Unit-I and Unit-II and Two questions from Unit-III. Students to answer Five full questions choosing Two from Unit-I and Unit-II One from Unit-III.

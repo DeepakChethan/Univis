@@ -1,0 +1,58 @@
+
+
+ 2K11CI82 : DISTRIBUTED OPERATING SYSTEMS 
+
+ Note: 
+
+FOUR questions from PART A and FOUR questions from PART B to be set. 
+
+Students should answer FIVE questions selecting atleast TWO from each PART. 
+
+For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1: Introduction To Network And Distributed Operating System 6 Hours 
+
+ Functions of an OS, Design Approaches, Issues in DOS, Process Synchronisation, Resource Management, Communication Primitives, Message Passing Model and RPC. 
+
+ Chapter 2:Clocks And Distributed Mutual Exclusion 6 Hours 
+
+ Introduction, Inherent Limitations of Distributed System, Lamport’s Logical Clocks, Vector Clocks, Casual Ordering of Messages, Global State, Termination Detection, A simple solution to Distributed Mutual Exclusion, Non token based Algorithms, Lamport’s algorithm, The RicartAgrawala Algorithm, Maekawa’s Algorithm, Token based Algorithms, Suzuki Kasami’s Broadcast Algorithm, Singhal’s Heuristic Algorithm, Raymond’s Tree based Algorithm. 
+
+ Chapter 3:Distributed Deadlock Detection 6 Hours 
+
+ Preliminaries, Deadlock Handling strategies in Distributed systems, Issues in Deadlock Detection and Resolution, Control Organizations for Distributed Deadlock Detection, Centralized Deadlock Detection algorithms, Distributed Deadlock Detection Algorithms, Hierarchical Deadlock Detection Algorithms. 
+
+ Chapter 4:Agreement Protocols 6 Hours 
+
+ Classification of Agreement Problems, Solutions to the Byzantine Agreement Problem, Applications of agreement algorithms. 
+
+ PART B 
+
+ Chapter 5:Distributed Scheduling 6 Hours 
+
+ Issues in Load Distribution, components of a load distributing algorithm, stability, load distributing algorithms, performance comparison, selecting a suitable load sharing algorithm, requirements for load sharing policies. 
+
+ Chapter 6:Fault Tolerance 6 Hours 
+
+ Atomic actions and committing, commit protocols, non blocking commit protocols, voting protocols, dynamic voting protocols, The majority based reassignment protocols. 
+
+ Chapter 7:Resource Security And Protection 6 Hours 
+
+ Access and flow control : The access matrix model, implementations of access matrix, safety in the access matrix model, requirement of a database operating system, database systems, a concurrency control model of a database systems, the problem of concurrency control, serializability theory. 
+
+ Chapter 8:Concurrency Control Algorithms 6 Hours 
+
+ Introduction, Basic Synchronization Primitives, Lock Based algorithms, timestamp based algorithms, optimistic algorithms, concurrency control algorithms, data replication. 
+
+ References 
+
+ 1. MukeshSingal and NiranjanShivaratri, Advanced Concepts in Operating Systems, Tata Mcgraw Hill. 
+
+ 2. Bernstein P A Hazallacos and Goodmani M, Concurrency Control and Recovery in Database Systems, Addison Wesley Co. 
+
+ 3. Ceri S and Pelagorthi S, Distributed Databases, McGraw Hill. 
+

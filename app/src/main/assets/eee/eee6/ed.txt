@@ -1,0 +1,27 @@
+Electric Drives 
+
+PART A 
+
+1. Introduction : 
+Classification of drives, Basic elements of an electric drive. Dynamic conditions and Stability considerations. 
+
+2. DC drives : 
+Introduction, Basic characteristics of DC drives, operating modes, Single phase drives, 3 phase drives, DC – DC converter drives, Closed loop control of DC Drives (Open loop transfer function, closed loop transfer function, Micro computer control of DC drives). 
+
+3. Induction motor drives : 
+Stator voltage control, rotor voltage control, v/f control, Slip regulation method of speed control of Induction motor. 
+
+
+PART B 
+
+4. Permanent magnet motor drives : 
+Brushless DC motor (BLDC), Permanent Magnet Synchronous motor (PMSM). 
+
+5. Synchronous motor drives : 
+Voltage source inverter, Current source inverter fed synchronous motor drives. 
+
+6. Variable Reluctance motor drives : 
+Stepper motor drives, Switched Reluctance motor drives (SRM). 
+
+7. Rating and Heating of motors : 
+Requirements of a drive motor, Power losses and heating of electric motors, Cooling of electric motors, Classes of duty and selection of motor. Applications : Drive Considerations for Textile mills, Steel rolling mills, Cranes and hoist drives, Cement mills, Sugar mills, Machine tools, Paper mills.

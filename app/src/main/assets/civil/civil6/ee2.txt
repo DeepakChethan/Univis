@@ -1,0 +1,54 @@
+2K11CE604 ENVIRONMENTAL ENGINEERING –II 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+PART –A 
+
+1. Necessity, Key terms, sewerage systems, sources, quantity, variations in the quantity sewage and their effects on the design, quantity of storm water, characteristics, BOD, COD, total solids, Estimation-population equivalent, cycles of decomposition. (6 hrs.) 
+
+2. Design of sewers-self cleansing velocity. Non-scouring velocities, hydraulic formulae-full and partial flow in sewers-use of charts and nomograms. (4 hrs.) 
+
+3. Sewer materials, shapes, types, testing, sewer appurtenances , manholes, drop manholes, lamp holes, flushing tank, grease and oil traps, storm regulators, storm inlet, clean out, inverted siphons, venti1ation, pumping of sewage requirements -types of pumps, Joints Ventilators, measuring devices, sewer cleaning equipment. (6 hrs.) 
+
+4. Disposal methods: suitability, advantages and disadvantages, methods of disposal-dilution methods, standards of dilution, self-purification of natural streams-zones of pollution, oxygen sag curve-Disposal by land treatment method. Standard doses for sewage farming. Treatment standards for sewage effluents. Effluent irrigation and sewage farming. Methods of applying sewage effluents to farms, crops grown on sewage farm and their hygienicaspects. (10 hrs.) 
+
+PART –B 
+
+5. Treatment of sewage: Sequence of treatment unit, functions and efficiencies, Screen, grit chambers Detritous tanks: objectives, skimming tank; types, constructed details principle of treatment, design parameters, design.(6 hrs.) 
+
+6.Primary sedimentation: Principle of sedimentation with coagulation, theory of sedimentation types, construction 
+
+details. Septic tanks and imhoff tanks - principles of treatment, design details.(4 hrs.) 
+
+7.Biological Treatment of Sewage: Activated sludge process, Trickling filters, Definition, Concept of treatment, different types, constructional features, advantages and disadvantages suitability associated problem. Tertiary treatment of sewage.(10 hrs.) 
+
+8.Sludge digestion and its disposal: Definition, process, stages in sludge digestion, factors affecting sludge digestion and their control. Sludge digestion tanks, disposal of sludge. Septic and imhoff tank –principles of treatment and design details.(6 hrs.) 
+
+9.Low cost wastewater treatment units, suitability. Principles and operation of units with constructional and design details.(4 hrs.) 
+
+10.Plumbing in buildings single and two pipe types, traps and other fixture and house drainage plans.(4 hrs.) 
+
+Question paper pattern: 
+
+Five question to be answered with a minimum of two from each part. Question paper should be set for 8 minimum with 3 question from Part A and 5 in Part B. All main question should carry 20 marks each. 
+
+Reference Books:
+
+ 1.S. K. Garg “Sewage and waste–Khanna publicationsdisposal.Engineer
+
+ 2.Sawyer And McCart}-Chemistry for Environmental Engineering, McGraw-hill International Edition
+
+ 3.Howard S Peavy, Donald Rowe and George Technobolous environmental Engineering–Hill “international edition.
+
+ 4. Environmental Engineering I (Water supply Engineering –2003): B C Punmia, Ashoka jain, Arun Jain; Laxmi publication (p) Ltd., New Delhi
+
+ 5. Hammer and Hammer” Water and WasteallofIndiaPvtWaterLtd., Techno
+

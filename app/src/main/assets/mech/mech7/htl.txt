@@ -1,0 +1,37 @@
+2K11 ME 708 HEAT TRANSFER LAB 
+
+Class: 3 Hrs / week Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+1. Determination of thermal conductivity of metal rod 
+
+2. Determination of thermal conductivity of insulating powder 
+
+3. Determination of thermal conductivity of composite wall 
+
+4. Determination of heat transfer for free convection from a cylinder 
+
+5. Determination of heat transfer co-efficient for forced flow over tubes 
+
+6. Determination of heat transfer and effectiveness of a fin 
+
+7. Determination of emissivity of a surface 
+
+8. Determination of LMTD and effectiveness of 
+
+a. Parallel flow heat exchanger 
+
+b. Counter flow heat exchanger 
+
+9. To study the boiling and condensation phenomenon 
+
+10. Verification of stiffen – Boltzmann constant 
+
+11. Performance test on refrigerator and air conditioning. 
+
+Scheme of examination: One exercise. :- 30 marks 
+
+One exercise. :- 50 marks 
+
+Viva-voice :- 20 marks

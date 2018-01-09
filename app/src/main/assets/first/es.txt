@@ -1,0 +1,34 @@
+
+
+ 2K11EE1101 ELECTRICAL SCIENCES 
+(Common to all branches except B.Arch) 
+
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+
+ PART –A 
+
+ 1. ELECTROMAGNETISM: Faraday’s laws of Electromagnet–Self and mutual, Inductance as a circuit element. 3+1* hrs. 
+
+ 2. DC CIRCUITS: Concept of an Electric circuit, Kirchhoff’s laws. Analysis of DC method (ii) Kirchhoff’s laws (iii) Mesh current5+1*hrs. 
+
+ 3. AC CIRCUITS : A. SINGLE-PHASE CIRCUITS: Generation of ac power, Average and effective values of sine wave, form factor and peak factor. Phasor representation, voltage, current and power relations in R-L, R-C and R-L-C circuits. Analysis of series, parallel, and Series-Parallel circuits. 
+ B. THREE-PHASE CIRCUITS: Advantage of three phase systems. Star and delta connections. Relationship between line and phase values. Measurement of three phase power using two wattmeters in a three phase balanced system. 10+2* hrs.
+ 4. DC MACHINES : 
+ A. DC GENERATOR: Basic principle of working, constructional features, Lap and Wave Windings. Types of Generators, EMF equation, Concept of armature reaction and commutation. Characteristics and applications of DC machines.
+ B. DC MOTOR: Principle of operation, back EMF, Torque equation, types of motors, characteristics and applications. Necessity of starters, three point starter (excluding design). 7+1* hrs.
+ PART –B
+ 5. SINGLE PHASE TRANSFORMER: Principle of operation, Construction, EMF equation, Power losses and efficiency. Definition of Regulation, Open circuit and Short circuit tests. Predetermination of regulation and efficiency from OC and SC test data. All day efficiency. 6+2* hrs.
+ 6. THREE PHASE INDUCTION MOTOR: Constructional features, Principle of operation, Production of Torque, Slip, Torque-slip characteristics, losses and efficiency, Star-delta starter and applications. 5+1* hrs.
+ 7. a) ALTERNATORS: Constructional features. Principle of operation, EMF equation considering winding factors (Excluding derivation of winding factors). b) Different methods of Power Generation. 6+1*hrs.
+ 8. a) MEASURING INSTRUMENTS: Moving iron and moving coil meters-extension of ranges Dynamometer type of wattmeter. Induction type energy meter. 5 + 1* hrs. b) EARTHING : Necessity, Types of earthing. 3 hrs.
+ 50 hrs. + 10* hrs. Tutorials 
+
+ Question paper pattern: 
+ The question paper consists of 8 questions of 20 marks each. The students have to answer 5 full questions, selecting at least two questions from each PART.
+ Reference Books:
+ 1. Electrical Technology - H. Cotton 
+ 2. Electrical Engineering - Hughes 
+ 3. Electrical Technology - B. L. Theraja
+ 4. Electrical Sciences - M. V. Rao
+ 5. Electrical Engineering - V. K. Mehta 
+ 6. Basic Electrical Sciences- Prof. P. M. Chandrashekaraiah

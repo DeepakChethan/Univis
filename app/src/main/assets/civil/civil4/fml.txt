@@ -1,0 +1,44 @@
+
+
+ 
+
+ 2K11CE408 FLUID MECHANICS LABORATORY 
+
+ Hours / Week: 4 Exam: 3 Hours 
+
+ Class Marks: 25 
+
+ Max Marks: 100
+
+ 1. Calibration of Notches : 
+
+ a) V notch b) Rectangular notch c) Trapezoidal and Cipoletti notches
+
+ 2. Calibration of weirs : 
+
+ a) Ogee b) Broad crested 
+
+ 3. Determination of Hydraulic coefficients : 
+
+ a) orifice meter b) Mouth pieces. 
+
+ 4. Bernoullis Experiment 
+
+ 5. Determination of coefficient of discharge : 
+
+ a) Venturi meter b) Orifice meter c) Venturi Flume 
+
+ 6. Losses in Pipes : 
+
+ a) Loss due to Friction b) Minor Losses - Loss due to bend, sudden enlargement, sudden contraction
+
+ 7. Impact of jet on Fixed vanes : 
+
+ a) Flat b) Inclined c) curved 
+
+ 8. Performance of Pumps : 
+
+ a) Reciprocating Pump b) Centrifugal - single and Multi stage Pumps. 
+
+ 9. Calibration of Water meter. 
+

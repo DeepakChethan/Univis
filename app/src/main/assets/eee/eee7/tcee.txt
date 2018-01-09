@@ -1,0 +1,28 @@
+Testing and Commissioning Of Electrical Equipment 
+
+PART A 
+
+1. Transformers 
+a) Specifications 
+b) Installation : Location and Site selection. Design of Foundation details, code of practice for terminal plates, polarity and phase sequence, oil tanks, drying of windings with and without oil. General inspection. 
+c) Commissioning tests : National and international standards, volt-ratio test, earth resistance oil strength. Bucholz and other relays, tap changing gear, fans and pumps, insulation test, impulse test, load and temperature test. 
+d) Specific tests : Determination of performance curves like efficiency, regulation etc. and determination of mechanical stress under normal and abnormal conditions. 
+
+2. Synchronous machines 
+a) Specifications 
+b) Installation : Physical inspection, name plate details, foundation details, alignments excitation systems, cooling and control gear and drying out. 
+c) Commissioning tests : Insulation, Resistance measurement of armature and field windings, waveform, telephone interference factors, line charging capacity. 
+d) Performance tests : Tests to estimate the performance for generator operations, maximum reactance tests, Sudden short circuit tests, transient and sub-transient parameters, measurements of sequence impedance, capacitive reactance and separation of losses, temperature raise test and retardation tests. 
+e) Factory tests: Gap length, magnetic centrity, balancing, vibrations and bearing performance. 
+
+
+PART B 
+
+3. Induction Machines 
+a) Specifications : For different types of motors both for single phase and 3-phase. 
+b) Installation : Location of motors, Foundation details, Apparatus, Shaft and alignment, Fitting of pulleys and coupling. Drying of windings. 
+c) Commissioning tests : Mechanical tests, Air gap symmetry, Tests for bearings, Vibrations and balancing. 
+d) Electrical tests : Insulation test, earth resistance, high voltage test, starting up failures, Routine test, factory test and site test according to ISI code. 
+
+4. Switch and protective devices : 
+Standards, Types, specification, installation, commissioning tests, maintenance, schedule, type and routine tests.

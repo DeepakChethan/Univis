@@ -1,0 +1,54 @@
+2K11CE803 PRE-STRESSED CONCRETE 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Total: 60 hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1.Introduction: Basic concepts of presenting, historical development, advantages and disadvantages of pre- stressed concrete, Terminology, Introduction to IS 1343 (recent Revision)(2 Hrs.) 
+
+2.Materials of pre-stressed concrete: Need for high strength concrete and steel, stress –strain characteristics and properties of high strength concrete and high tensile steel.(2 Hrs.) 
+
+3.Presenting system: Introduction, tensioning devices, different systems of pre-stressing and their application, tendon splices.(4 Hrs.) 
+
+4.Analysis of flexural members: Basic assumptions, Calculations of bending stress and resultant stress for different load conditions by stress concept method, pressure Line or Thrust Line, Internal resisting Couple and Load Balancing Concepts.(12 Hrs.) 
+
+5. Losses of Pre-stress: Nature of losses of pre-stress in pre-tensioned and Post-tensioned Methods. (8 Hrs.) 
+
+6. Deflection of pre-stressed concrete members: Importance of Control Deflections, Factors influencing deflections, Predictions of short deflection ad long term deflection of uncracked members, Requirements of BIS Code of practice.(8 Hrs.) 
+
+7.Flexural strength of pre-stressed concrete members: Types of Flexural failure, Ultimate Flexure strength of Pre-tensioned and post-tensioned PSC beams by simplified code procedures.(4 Hrs.) 
+
+8.Shear and Torsional Resistance of pre-stressed concrete members: Shear and Principal stresses, Types of shear cracks, Ultimate shear resistance of PSC member, Design of shear reinforcement, shear and principal stresses due to torsion, Combined bending moment, shear and torsion, design of reinforcement for bending, shear and torsion.(8 Hrs.) 
+
+9.Transfer of pre-stress in pre-tensioned members: Transmission of pre-stress, transmission length, code provisions for bond and transmission length.(2 Hrs.) 
+
+10. Anchorage zone stresses in post-tensioned members; Stress distribution on end block, Bearing stresses and bursting tensile force in end blocks as per Rowe and IS methods, Design of end block using Rowe and Is Methods. (4 Hrs.) 
+
+11. Design of pre-stressed sections: Minimum section modulus, Pre-stressing force and Eccentricity Limitation of Pre-stress in long spans, Limiting zones for the pre-stressing force. (6 Hrs.) 
+
+Note: Use of IS 1343 (recent Edition) shall be illustrated in every topic. 
+
+Question Paper Pattern: 
+
+To set 8 full questions consisting of theory and problems covering entire syllabus (each of 20 marks) Answer any 5 questions of (20 marks each) 
+
+Reference Books:
+
+ 1. N. Krishna-stressedRaju,“PreConcrete”–HillPublishingTataCompanyMcGrawLimited,New Delhi.
+
+ 2. Lin T. Y. and H. Burs-stressedConcreteNed,Structures:,“DesignJohnWiley andofSons,preNewYork.
+
+ 3. Lin T.-stressedY.“Pre Concrete Structures”, John Wile
+
+ 4. Arthur and Nelson
+
+ 5.Libby J-.stressedRConcrete.“Pre–Dsign and construction”, The R
+
+ 6. IS 1343 (recent revision code of practice for Design of Pre-stressed Concrete Structures)
+

@@ -1,0 +1,53 @@
+
+
+ 2K11CI 62 : PROBABILITY AND STOCHASTIC PROCESS 
+ Note : 
+FOUR questions from PART A and FOUR questions from PART B to be set Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1: Introduction 6 Hours 
+
+ Probability Models, Sample Space, Events, Algebra of Events, Graphical Methods of Representing Events, Probability Axioms, Combinatorial Problems, Conditional Probability, Independence of Events, Bayes Rule, Bernoulli Trials 
+
+ Chapter 2 : Random Variables 6 Hours 
+
+ Random Variables and their event spaces, PMF, Distribution functions, Probability generating function, exponential distribution, reliability, failure density, and hazard function. 
+
+ Chapter 3: Expectation 6 Hours 
+
+ Moments, Expectation of Functions, Transform Methods, Moments and Transforms of Some Important distributions, computation of mean time to failure. 
+
+ Chapter 4 : Conditional Distribution and Expectation 6 Hours 
+
+ Mixture distributions, conditional expectations, Imperfect fault coverage and reliability, random sums. 
+
+ PART B 
+
+ Chapter 5 : Stochastic Processes 6 Hours 
+
+ Classification of Stochastic Processes, The Poisson Process, Renewal Process, Availability Analysis, Random Incidence, Renewal Model of Program Behavior 
+
+ Chapter 6 : Markov Chains 6 Hours 
+
+ Discrete Parameter Markov Chains, Computation of n-step probabilities, state classification and limiting distributions, distribution of times between state changes, Irreducible finite chains with aperiodic states, M/G/1 queuing system, discrete parameter birth death processes. 
+
+ Chapter 7 : Markov Chains 6 Hours 
+
+ Continuous parameter markov chains – birth and death process, non-birth-death process, markov chains with absorbing states. 
+
+ Chapter 8 : Network of Queues 6 Hours 
+
+ Open queuing Networks, Closed Queuing Networks, Non exponential service time distributions and multiple job types, non product form networks. 
+
+ References: 1. K S Trivedi, Probability and Statistics with Reliability, Queuing, and Computer Science Applications, PHI, Second Edition, 2001. 
+
+ 2. Sheldon M Ross, Introduction to Probability Models, Elsevier Press, Tenth Edition, 2009. 
+
+ 3. Paul J Fortier and Howard E Michel, Computer Systems Performance Evaluation and Prediction, Elsevier Press, First Edition, 2003. 
+
+ 4. A Papoulis and S UnnikrishnaPillai, Probability, Random Variables and Stochastic Processes, McGrawHill, Fourth Edition, 2002. 
+
+ 5. Richard A Johnson, Probability and Statistics for Engineers, Pearson Education, Seventh Edition, 2007. 
+

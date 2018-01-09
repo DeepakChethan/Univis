@@ -1,0 +1,30 @@
+DC Machines and Transformes 
+
+PART-A 
+
+1. DC Generator: 
+Constructional Features, EMF equations, Armature reaction – demagnetizing and cross magnetizing ampere turns. Construction, Reactance voltage, Interpoles, compensating windings. 
+
+2. DC Generator Characteristics: 
+Types – series, shunt compound and separately excited generators. Magnetization characteristics, Critical field Resistance, Load characteristics and critical load resistance. 
+
+3. DC Motors: 
+Back EMF, speed, Torque and characteristics of DC motors, Types – shunt, series, and compound motors application. 
+
+4. Speed control of DC motors: 
+Armature voltage and field current control of DC shunt motors. Series – Parallel control of series motors, Motor starters (including Design) 
+
+5. Testing of DC Machines: 
+Losses, efficiency and condition for maximum efficiency. Direct test and indirect tests : Hopkinson, Swinbume’s and Retardation tests. Load test. 
+
+
+PART-B 
+
+6. Transformers: 
+General principle, Transformer action, types of transformers, constructional features, Conservation Breather, Bushings, Cooling Methods, EMF equation, Transformer analysis on no load and Load, Equivalent circuit, 3 Phase transformer connections, Tertiary windings, Scott and open Delta connections, Variable Frequency transformers. Losses, Separation of core loss into its components. Efficiency and condition for maximum efficiency, All day efficiency and Regulation. Predetermination of efficiency and regulation. Parallel operation of single phase and three phase transformers. (Only condition) Current in rush, impact of over voltage and short circuit, No load and on load tap changes, Harmonics. 
+
+7. Auto Transformer: 
+Single phase and Three phase Autotransformers, Advantages and Disadvantages. 
+
+8. Testing of single Phase Transformer: 
+Polarity test, Short circuit and open circuit tests, Sumpner’s test.

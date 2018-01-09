@@ -1,0 +1,63 @@
+2K11 ME 303 Basic Thermodynamics 
+
+Lecture: 4 Hrs / week Internal Assessment Marks: 25 
+
+Total No. of Hours: 60 Examination: 3 Hrs 
+
+Max marks for Examination: 100 
+
+PART A 
+
+Basic Concepts: 
+
+System, Surroundings, Boundary, property, state, process, cyclic process, path function, point function, Microscopic and Macroscopic point of view of thermodynamics, thermodynamic equilibrium, 4 
+
+Zeroth law of Thermodynamics: Concept of Temperature statement and explanation of Zeroth law of Thermodynamics. Measurement oftemperature using concept of Zeroth law of thermodynamics. International scale of Temperatures. Numerical Problems. 4 
+
+Work and Heat : Work, Sign Convention of work and heat, Workdone in quasi-equilibrium process. Pdv work in frictionless quasi-static process, other types of work transfer, Heat, Comparison of heat and work. 4 
+
+First Law of Thermodynamics Joule Experiment, First law of thermodynamics for system undergoing a thermodynamic cycle, law of thermodynamics for a process in closed system, Internal energy- a property of system, Enthalpy, Specific heat, First law to closed system for different processes, Application of first law- Steady flow energy equations, Steady state flow processes, Applications of steady flow energy equations, Analysis of open system for different process, Numerical problems. 12 
+
+PART B 
+
+Second law of thermodynamics: 
+
+Limitations of First law of thermodynamics, Concept of Heat Energy, efficiency of a heat engine – concept of Heat pump and Refrigerator coefficient of performance – the two statements of II law of Thermodynamics as applied to a heat engine and heat pump. Equivalency of the above two statements – concept of PMMKII – reversible process – concept of irreversibility – Factors that render a process irreversible – analysis of reversible cannot cycle – Carnot heat engine and Carnot heat pump.- Numerical Examples 12 
+
+Entropy 
+
+Introduction, Entropy and heat, Carnot theorem, Clausius theorem, Entropy –property of a system, Clausius inequality, Entropy change of an irreversible process of a closed system, Principle of increase of entropy, combined first and second law, Entropy change for an ideal gas, Change in entropy for different processes, Isentropic process for solid, Isentropic process for solid, Isentropic work in a steady flow system. 10 
+
+PART C 
+
+Pure Substances 
+
+Definition, Explanation, Two property rule, formation of steam at constant pressure, Specific volume, External work of evaporation, True or internal latent heat, Internal energy of steam, PT,PV,TV,TP and PH diagrams, State changes of a system involving pure substances, Steam tables, Measurement of Dryness fraction, Numerical Problems. 8 
+
+Mixture of Gases: 
+
+Non reactive mixtures – mole fraction – mass fraction – volume fraction – law of partial pressures – Relatives involving pressure volume, internal energy. Enthalpy - entropy and specific heats of gaseous mixtures – Numerical examples. 6 
+
+Books of Reference: 
+
+01. A Course in thermodynamics by Kodhandaraman and others 
+
+02. Thermal Engineering – Rajput 
+
+03. Thermal Engineering – S K Kulshresta 
+
+04. Thermodynamics – M.J. Moran and H. Shapiro 
+
+05. Thermodynamics an engineering approach – Yunus. A.Cengel and (SI Units) Michael A. Boles (Tata Mc Graw – Hill 4thEdition 2005 Print) 
+
+06. Thermodynamics by Hollman 
+
+Scheme of Examination: 
+
+Questions to be set: 3 questions from part A 3 
+
+questions from part B 2 
+
+questions from part C 
+
+Students are to answer 5 questions choosing at least 2questions from each Part.A and B and one question from Part C

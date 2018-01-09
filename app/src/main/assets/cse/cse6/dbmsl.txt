@@ -1,0 +1,80 @@
+
+ 
+ 2K11CIL 68 : DATABASE MANAGEMENT SYSTEMS LABORATORY 
+ (Programming and Mini Project Laboratory) 
+ Hours per Week : 3 Examination Marks 100 Sessional Marks 25 
+ PART A I. Consider the Insurance database given below. The primary keys are underlined and the datatypes are specified. PERSON (driver – id #: String, name: string, address: string) CAR (Regno: string, model: string, year: int) ACCIDENT (report-number: int, date: date, location: string) OWNS (driver-id #:string, Regno:string) PARTICIPATED (driver-id: string,Regno:string, report-number:int, damage amount:int) 
+ i. Create the above tables by properly specifying the primary keys and the foreign keys. 
+ ii. Enter atleast five tuples for each relation. 
+ iii. Demonstrate how you 1. Update the damage amount for the car with a specific Regno in the accident with report number 12 to 25000. 
+ 2. Add a new accident to the database. 
+ ivFind the total number of people who owned cars that were involved in accidents in 2002. 
+ v. Find the number of accidents in which cars belonging to a specific model were involved. 
+ II. Consider the following relations for an order processing database application in company. 
+ CUSTOMER (cust #: int ,cname: string, city: string) ORDER (order #: int, odate: date, cust #: int, ord-Amt: int) ORDER – ITEM (order #: int, Item #: int, qty: int) ITEM (item # :int, unit price: int) SHIPMENT (order #: int, warehouse#: int, ship-date: date) WAREHOUSE (warehouse #: int, city: string) i. Create the above tables by properly specifying the primary keys and the foreign keys. 
+ ii. Enter atleast five tuples for each relation. 
+ iii. Produce a listing: CUSTNAME, #oforders, AVG_ORDER_AMT, where the middle column is the total numbers of orders by the customer and the last column is the average order amount for that customer. 
+ iv. List the order# for orders that were shipped from all the warehouses that the company has in a specific city. 
+ v. Demonstrate how you delete item# 10 from the ITEM table and make that field null in the ORDER_ITEM table. 
+ III. Consider the following database of student enrollment in courses and books adopted for each course. 
+ STUDENT (regno: string, name: string, major: string, bdate:date) COURSE (course #:int, cname:string, dept:string) ENROLL ( regno:string, course#:int, sem:int, marks:int) BOOK _ ADOPTION (course# :int, sem:int, book-ISBN:int) TEXT (book-ISBN:int, book-title:string, publisher:string, author:string) i. Create the above tables by properly specifying the primary keys and the foreign keys. 
+ ii. Enter atleast five tuples for each relation. 
+ iii. Demonstrate how you add a new text book to the database and make this book be adopted by some department. 
+ iv. Produce a list of text books (include Course #, Book-ISBN, Book-title) in the alphabetical order for courses offered by the ‘CS’ department that use more than two books. 
+ v. List any department that has all its adopted books published by a specific publisher. 
+ IV. The following tables are maintained by a book dealer. AUTHOR (author-id:int, name:string, city:string, country:string) PUBLISHER (publisher-id:int, name:string, city:string, country:string) CATALOG (book-id:int, title:string, author-id:int, publisher-id:int, category-id:int, year:int, price:int) CATEGORY (category-id:int, description:string) ORDER-DETAILS (order-no:int,book-id:int, quantity:int) 
+ i. Create the above tables by properly specifying the primary keys and the foreign keys. 
+ ii. Enter atleast five tuples for each relation. 
+ iii. Give the details of the authors who have 2 or more books in the catalog and the price of the books is greater than the average price of the books in the catalog and the year of publication is after 2000. 
+ iv. Find the author of the book which has maximum sales. 
+ v. Demonstrate how you increase the price of books published by a specific publisher by 10.
+ V Consider the following database for a banking enterprise
+ BRANCH(branch-name:string, branch-city:string, assets:real) ACCOUNT(accno:int, branch-name:string, balance:real) DEPOSITOR(customer-name:string, accno:int) CUSTOMER(customer-name:string, customer-street:string, customer-city:string) LOAN(loan-number:int, branch-name:string, amount:real) BORROWER(customer-name:string, loan-number:int) i. Create the above tables by properly specifying the primary keys and the foreign keys
+ ii. Enter atleast five tuples for each relation
+ iii. Find all the customers who have atleast two accounts at the Main branch. 
+ iv. Find all the customers who have an account at all the branches located in a specific city. 
+ v. Demonstrate how you delete all account tuples at every branch located in a specific city. 
+ 
+ 
+ PART B 
+ One mini project to be completed and submitted. A miniproject is to be implemented using an RDBMS like INGRES, ORACLE, SYBASE etc. ( Excluding dbase like systems). The project could be for 
+ • Hotel Management 
+ • Hospital administration 
+ • Inventory control 
+ • Manufacturing centre
+ • Placement centre
+ • Gas agency 
+ • Railway/Roadway/Airway reservation system 
+ • Academic administration 
+ • Sports databases 
+ • Career opportunities 
+ • Employee database 
+ • Payroll system 
+ • Library management 
+ • Examination system management 
+ • Banking operations 
+ • Finance companies 
+ • Product Management 
+ • Pharmacy
+ • Mall
+ • News
+ • Population
+ • CET
+ • College
+ • Insurance
+ • Movies
+ • Manufacturing
+ • Voting
+ • Weather
+ • Books
+ • Websites
+ • Travel
+ • Real Estate
+ • Wild life
+ • Students
+ • Income tax
+ • Import-Export
+ • Doctor
+ • Railways
+ 
+ Note : The evaluation is based on Execution of any one program from PART A and demonstration of Mini Project. The student has to submit a report to the examiner. 

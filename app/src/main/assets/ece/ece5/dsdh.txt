@@ -1,0 +1,30 @@
+Digital System Design Using HDLs 
+
+PART – A 
+
+1. Introduction: 
+Digital design. Analog versus digital. Digital devices. Electronic aspects of digital design. Software aspect of digital design. ICs, PLDs, ASICs, PCBs. Digital design levels. The real world of design. 
+
+2. Hardware description language: 
+Introduction to HDL. Different HDLs. VHDL basics. Historical overview. V HDL description of combinational networks. Modeling of flip flops. Variables, signals, constants and arrays, data types and operators, functions and procedures. Packages and Libraries. Compilation and simulation VHDL codes. Brief introduction to Verilog. 
+
+3. Design of arithmetic operating units: 
+Design of serial adder, State graph for control networks. Design of binary multiplier, Multiplication of signed binary numbers. Design of binary divider. 
+
+4. Floating point arithmetic: 
+Floating point numbers, floating point multiplication. Other floating point operation. 
+
+
+PART- B 
+
+5. Digital design with SM charts: 
+State machines, moore and mealy type machines. SM charts, Derivation and realization of SM charts. Example of DICE game. Microprogramming, linked state machine. 
+
+6. Digital design of sequential circuits: 
+Modeling of sequential circuits and writing the VHDL code. Examples of counters, shift registers and sequence generators. 
+
+7. VHDL models for memories and buses: 
+Static RAM, Simplified 486 bus model. Interfacing memory to microprocessor. Some design examples (UART, CODE Generator, filter etc). 
+
+8. Programmable logic devices: 
+ROMs, PLAs and PLDs. FPGAs. Brief explanation of these devices with an example each. Designing of digital systems using these devices with the help of VHDL.

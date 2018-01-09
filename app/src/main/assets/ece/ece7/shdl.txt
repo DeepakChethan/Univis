@@ -1,0 +1,44 @@
+SIMULATION AND HDL LAB 
+
+A -Programming 
+
+1. Realisation of gates 
+
+2. Combinational circuit designs 
+a. 2 to 4 decoder 
+b. 8 to 3 line decoder 
+c. 4 bit binary to gray code converter 
+d. 8:1 MUX 
+e. 1:8 DMUX 
+f. Comparator 
+
+3. Parity generator 
+
+4. Adders: HA and FA 
+
+5. Flip-Flops: SR, D, JK and T Flip-Flops 
+
+6. Counters: 4- bit binary counter, 4-bit BCD counter, U/D counter with loadable count. 
+
+7. 8-bit shift register 
+
+8. Test Bench for sr full adder 
+
+9. 32-bit ALU design using combinational logic to calculate output based on-bit opcode. 
+
+10. Pass the result to out bus when enable is high and Tristate the out bus when enable is low. 
+
+
+B-Interfacing 
+
+1. Waveform generation using DAC 
+
+2. Display messages on 7-segment display and LCD panel from HEX key pad 
+
+3. Input 8-channel Analog signal and display data on 7-segment display and LCD PANEL. 
+
+4. Speed control of DC motor and stepper motor 
+
+5. Simulation of elevator operations 
+
+(Programming is done using any VHDL/VERILOG compiler. Download the programs on a FPGA/CPLD development board to test the design.)

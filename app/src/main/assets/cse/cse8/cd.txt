@@ -1,0 +1,62 @@
+2K11CI81 : COMPILER DESIGN 
+
+ Note: 
+
+FOUR questions from PART A and FOUR questions from PART B to be set. 
+
+Students should answer FIVE questions selecting atleast TWO from each PART. 
+
+For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per week : 4 Examination Marks : 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1: Introduction, Lexical Analysis 6 Hours 
+
+ Language processors; structure of a Compilers; evolution of programming languages; Applications of Compiler technology; Programming language basics; Lexical analysis: Role of Lexical Analyzer; Input Buffering; Specifications of Tokens; Recognition of Tokens, Finite Automata, Regular Expression to in Lexical Analyzer 
+
+ Chapter 2: Syntax Analysis – 1 6 Hours 
+
+ Context-free Grammars; Writing a Grammar; Top-Down Parsing: Recursive-Descent Parsing, FIRST and FOLLOW, LL(1) Grammars, Nonrecursive Predictive Parsing, Error Recovery in Predictive parsing 
+
+ Chapter 3: Syntax Analysis – 2 6 Hours 
+
+ Bottom-Up Parsing; Shift –Reduce parsing, Conflicts During Shift-Reduce parsing ,LR Parsing: Simple LR, LR(0) Automation, Construction of SLR Parsing tables, Viable prefixes 
+
+ Chapter 4: Syntax Analysis – 3 6 Hours 
+
+ Canonical LR(1) Parser, LR(1) items, Construction of LR(1) Parsing Tables, Construction of LALR Parsing Tables, Compaction of LR Parsing Tables; using ambiguous grammars; Parser Generators:YACC 
+
+ PART – B 
+
+ Chapter 5: Syntax-Directed Translation 6 Hours 
+
+ Syntax-Directed definitions; Evaluation order for SDDs; Applications of Syntax-directed translation; Syntax-directed translation schemes. 
+
+ Chapter 6: Intermediate Code Generation 6 Hours 
+
+ Variants of syntax trees; Three-address code; Types and declarations; Translation of expressions; Type checking; Control flow; Back patching; Switch statements; Intermediate code for procedures. 
+
+ Chapter 7: Run-Time Environments 6 Hours 
+
+ Storage Organization; Stack allocation of space; Access to non-local data on the stack; Heap management; Introduction to garbage collection. 
+
+ Chapter 8: Code Generation 6 Hours 
+
+ Issues in the design of Code Generator; The Target language; Addresses in the target code; Basic blocks and Flow graphs; Optimization of basic blocks; A Simple Code Generator. 
+
+ References 
+
+ 1. Compilers- Principles, Techniques and Tools – Alfred V Aho, Monica S. Lam, RaviSethi, Jeffrey D Ullman –Second Edition, Addison-Wesley, 2007. 
+
+ 2. The Compiler Design Handbook: Optimization and Machine Code Generation - Y N Srikant, Priti Shankar CRC Press 2002
+
+ 3. Compiler Construction Principles and Practice – Kenneth C Louden – Thomson Education, 1997. 
+
+ 4. Modern Compiler Implementation in C – Andrew W Apple Cambridge University Press, 1997. 
+
+ 5. Compiler Design in C- Allen I Holub, Prentice Hall Inc, 1990
+
+ 6. Crafting a Compiler with C – Charles N. Fischer, Richard J. leBlanc, Jr., Pearson Education,1991. 
+

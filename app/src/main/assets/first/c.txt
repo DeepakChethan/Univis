@@ -1,0 +1,26 @@
+
+ 2K11CI1301 PROGRAMMING WITH C 
+ (Common to all branches except B.Arch) 
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+ 
+ PART –A
+ Chapter 1: Computer Fundamentals 6 hrs. Introduction to digital Computer, Input Devices, Output devices, Storage devices, Operating System, Unix Commands: ls, mkdir, rmdir, cp, mv, rm, type, cat, date, who, banner, pwd, chown. 
+ Chapter 2: Fundamentals of C 8 hrs. Introduction, Character Set, Identifier and Keywords, Constants and Variables, Character and Character Strings, Promotion and Typecasting, Labels, Data types, Operators and Expressions, Operator Precedence and Associativity, Basic Input and Output Statements, Library Functions, Programming Examples. 
+ Chapter 3: Control Statements 8 hrs. Introduction, if Statement, if-else statement, Multi-way decisions, Compound statements, Loops, for Loop, while loop, do-while loop, break statement, switch statement, continue statement, goto statement, Programming Examples. 
+ Chapter 4: Functions and Scope 8 hrs. Introduction, Necessity of Functions, Function Declaration and Definition, Classification of Functions, User defined and library functions, Function parameters, Return values, Recursion, Scope and Extent, Programming examples. 
+ 
+ PART –B 
+ Chapter 5: Arrays and Strings- 8 hrs. Introduction, Necessity of Arrays, Multidimensional arrays, Sorting and Searching of Arrays, Strings, Arrays of strings, Addition and Multiplication of 2 Matrices, Functions in string.h, Programming examples. 
+ Chapter 6: Pointers 8 hrs. Introduction to Pointers, Declaration and Initializing of pointers, Accessing a variable through its pointer, Pointers and Arrays, Passing Arrays to Functions, Pointers and Functions, Accessing arrays inside functions, Programming Examples. 
+ Chapter 7: Structures and Unions 8 hrs. Introduction, Declaring and using Structures, Structure initialization, Operations on structures, Array of structures , Array within structure, Structures and Functions, Pointers to Structure, Pointers with in the Structure, Union, Differences between Structure and Union, Operations on a union, Programming Examples. 
+ Chapter 8: Dynamic Memory Allocation 4 hrs. Introduction, Library functions for dynamic memory allocation, Dynamic multi-dimensional arrays, Self-Referential Structures, Singly linked list. 
+ Chapter 9: Files 2 hrs. 
+ Introduction, File structure, File-handling functions, File Types, Concatenation of files. 
+ Question paper pattern:The question paper consists of 8 questions of 20 marks each. The students have to answer5 full questions, selecting at least two questions from each
+ Reference Books: 
+ 1. Mastering C: Venugopal K.R et al Tata McGraw Hill, 2006. ( Chapter: 1 to 7, 8.1 to 8.6, 8.10 to 8.13, 9, 10.1 to 10.4, 14.1 to 14.3, 15) 
+ 2. Programming in ANSI C: Balaguruswamy E, Tata McGraw Hill 1992. 
+ 3. Programming in C: YashwanthKanetkar P, BPB Publications, 1997. 
+ 4. The C Programming Language: Kernighan B.W and Ritchei D.M, Prentice Hall, 1971. 
+ 5. The C Odessey: Vijay Mukhy, BPB Publications. 
+ 6. C –Aptitude: Venugopal K.R, et al, Tata McGraw Hill, 2006. 

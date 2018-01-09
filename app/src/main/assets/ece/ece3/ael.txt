@@ -1,0 +1,21 @@
+Analog electronics lab 
+
+1. Design and testing of rectifier circuits with filters(only Full wave rectifier C filter) 
+
+2. Design and testing of RC Coupled amplifier, Transformer coupled, Emitter follower. 
+
+3. Design and testing of Power amplifier-class B complementary symmetry. 
+
+4. Design and testing of Darlington pair and Bootstrap emitter follower, differential and Direct coupled amplifier. 
+
+5. Integrator and Differentiator circuits. 
+
+6. Clipping and Clamping circuits. 
+
+7. Transfer characteristics of TTL,CMOS and Schmitt trigger. 
+
+8. Sinking and sourcing Characteristics of TTL. 
+
+9. Simplification of Boolean expressions and realization using Universal Gates(max 4 variables). 
+
+10. Realization of MUXes and DE-MUXes using NAND gates.

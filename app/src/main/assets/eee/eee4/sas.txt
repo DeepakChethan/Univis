@@ -1,0 +1,21 @@
+Signals And Systems 
+
+PART-A 
+
+1. Introduction: 
+Continuous time and Discrete time signals. Transformation of independent variable, exponential and sinusoidal signals. Unit impulse and unit step functions. Discrete time systems and their basic system properties. Basic system properties. Conversion of continuous time system to discrete time system. Modeling by discrete time system. 
+
+2. Linear Time Invariant Systems (LTI): 
+Discrete time LTI systems, Convolution sum, Continuous time LTI systems, convolution integral. Properties of LTI systems, Causal LTI systems described by differential and difference equations. 
+
+3. Fourier series Representation of Periodic Signals: 
+Response of LTI systems to complex exponentials. Fourier series representation of continuous time periodic signals and discrete time periodic signals. Fourier series and LTI systems. Continuous time and discrete time Filters. 
+
+
+PART-B 
+
+4. Fourier Transform: 
+Definition of Fourier transform and its Inverse. Properties of Fourier transform. Fourier transform of periodic signal. Spectral density. Autocorrelation functions, Cross-correlation functions and its properties. Discrete time Fourier transform and its properties, frequency response of discrete time systems. Hilbert Transform: Definition of Hilbert transform, Pre-envelope. Representation of Band-pass signals and band-pass systems. 
+
+5. Z-transform: 
+Definition of Z-transform and its inverse. Properties of Z-transform, Region of convergence of Z-transform. Inverse Z-transform - inverse by long division and partial fraction expansion methods - by evaluation of residues. Analysis and characterization of LTI systems using Z-transform.

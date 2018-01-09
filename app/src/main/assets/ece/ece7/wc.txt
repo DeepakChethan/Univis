@@ -1,0 +1,30 @@
+WIRELESS COMMNICATION 
+
+PART- A 
+
+1>Introduction to wireless communication systems: 
+Evolution of mobile Radio Communication, Mobile Radiotelephony. Mobile radio systems around the world examples of wireless communication systems. Paging systems, cordless telephone systems. Comparison of common wireless communication systems. Trends in cellular radio and personal communication systems. 
+
+2>The Cellular Concept- system Design Fundamentals: 
+Introduction, Frequency Reuse, channel assignment strategies. Handoff strategies, Interference and system capacity, Trunking and grade of service. Improving coverage and capacity in cellular systems. 
+
+3>Mobile radio propagation: 
+Large scale path loss. Introduction to radio wave propagation mechanism. Reflection, Ground rejection (Two-ray) model, Diffraction, scattering, practical link budget design using path loss model, outdoor propagation models, and Indoor propagation models Signals penetrating into buildings, Ray tracing and site specific modelling. 
+
+4>Mobile radio propagation: 
+- small scale Fading and multipath. Small scale Multipath propagation, Small scale multipath propagation, Impulse response model of a multipath channel. Small scale multipath measurements, parameters of mobile multipath channels, types of small scale fading. 
+
+
+PART- B 
+
+5>Modulation Techniques for Mobile Radio: 
+Digital Modulation – an overview. Line coding, pulse shaping techniques. Geometric representation of modulation techniques. Linear modulation technique, Constant envelope modulation, combined linear and constant modulation techniques. 
+
+6>Speech coding: 
+Characteristics of speech signals, quantization techniques, Adaptive differential pulse code modulation. Frequency domain coding of speech, Vocoders. Linear predictive coders, Choosing speech codes for mobile communications, The GSM code. The USDSC code, Performance evaluation of speech coders. 
+
+7>Multiple Accesses (MA): 
+Techniques for wireless communication: Introduction, FDMA, TDMA, SDAMA, Packet radio. Capacity of cellular system. 
+
+Reference- 
+1. Wireless Communication – Principle and practise, Theodore S Rappaport, Pearson education/PHI 2002.

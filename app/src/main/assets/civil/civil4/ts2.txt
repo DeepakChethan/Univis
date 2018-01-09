@@ -1,0 +1,44 @@
+
+
+ 
+
+ 2K11CE401 THEORY OF STRUCTURES –II 
+
+ Hours / Week: 4 Exam: 3 Hours 
+
+ Total: 60 hours Class Marks: 25 
+
+ Max Marks: 100 
+
+ PART –A 
+
+ 1. Statically determinate structures, Concept of indeterminacy, Degree of Indeterminacy and determination of degree of static indeterminacy. Examples. 08 Hrs. 
+
+ 2. Fixed beams: Analysis of propped cantilever and fixed beams by double integration and conjugate beam method. 10 Hrs. 
+
+ 3. Strain Energy Method: Castiglione’ssecondtheorem(principles of least work), Application to continuous beams, trusses and portal frames (degree of indeterminacy not more than three) 
+
+ 10 Hrs. 4. Approximate lateral load analysis of Building Frames by portal method and cantilever method. 08 Hrs. 
+
+ 
+
+ PART –B 5. Slope Deflection method: Analysis of beams, frames and gables with and without side sway. 
+
+ 12 Hrs. 6. Moment Distribution Method: Analysis of beams and frames with and without side sway. 
+
+ 12 Hrs. 
+
+ Question Paper pattern: Four questions have to be set from each part and student has to answer FIVE questions by selecting TWO from each part - A and part - B
+
+ 
+
+ Reference books: 
+
+ 1. Analysis of Structures Vol. II, Vazarani and Ratwani, Khanna Publications 
+
+ 2. Wang C.K. - Statically Indeterminate Structures (Int. Edition) McGraw Hill and KogakushaPulication. 
+
+ 3. Kinny. J.S. - Indeterminate Structural analysis, Oxford IBH and Addition Wesley Publication. 
+
+ 4. Structural Analysis, Vol. I and Vol. II - DevdasMenon, Narosa Publications. 
+

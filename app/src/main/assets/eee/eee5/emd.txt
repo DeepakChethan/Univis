@@ -1,0 +1,21 @@
+Electrical Machine Design 
+
+PART A 
+
+1. Design Considerations: 
+Specification of transformers and rotating machines. Factors to be considered in design and limitations. Temperature rise in Electrical machines, Methods of cooling and quantity of cooling medium, Insulating materials. 
+
+2. DC Machines: 
+Main dimensions of the armature, design of armature winding and dimensions of the slots. Design of commutator and brushes. Design of magnetic circuit and estimation of the mmf, Design of shunt and series field windings, Design of interpoles. 
+
+3. Design of Transformers: 
+Main dimensions of the core, details of winding, No load current, leakage reactance - estimation in case of simple winding configurations, Determination of the voltage regulation and efficiency. Design of tank, round and rectangular tubes. Design of Current transformers. 
+
+
+PART B 
+
+4. Design of three phase induction motor: 
+Main dimensions of the stator, details of stator winding, dimension of the slots. Design of cage and slip ring rotor and rotor windings. No load current, leakage reactance and circle diagram. 
+
+5. Design of Synchronous machines: 
+Main dimensions of the stator, details of stator windings, dimensions of the slots. Design of rotor and rotor windings of salient and non-salient pole type alternator.

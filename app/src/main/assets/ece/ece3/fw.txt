@@ -1,0 +1,44 @@
+Fields and Waves. 
+
+PART A 
+
+1. Electric and magnetic fields electrostatics: 
+Fundamental relation of electro static field Coloumb’s law-Electric field intensity,Electrostatic potential due to point Charge, Surface charge and volume charge distribution.Work done in moving a point charge in electric field,Relation between E and V. 
+
+2. Electric Flux and Gauss Law: 
+Electric Flux and Flux density,Gauss law and its application,Divergence theorem and Gauss divergence theorem. 
+
+3. Capacitance: 
+Current,Current density and capacitance,conduction and convection current density, polarization,relative permittivity, energy stored in a capacitor,boundary conditions, Boundary between two dielectrics, boundary between a dielectric and a conductor. Energy stored in an electrostatic field. 
+
+4. Poisson and Laplace’s equation: 
+Solution of problems of one dimension. 
+
+5. Magnetostatics: 
+Biot-Savart’s law-Magnetic flux, Ampere’s law and its application. 
+
+6. Scalar and vector magnetic potentials: 
+Faraday’s laws of Electro-magnetic induction-Motional emf in a conductor, Moving conductor in a time varying field. Self inductance-Energy stored in a magnetic field and energy density in a magnetic field. 
+
+7. Maxwell’s Equations: 
+Modification of static field equations for time varying fields, continuity equation. Maxwell’s equations in differential, integral and word statement forms, condition at a boundary surface using Maxwell’s Equations. 
+
+
+PART B 
+
+8. Wave propagation: 
+Electric and magnetic equation, Uniform plane wave, Relation between E and H for a uniform plane wave-equation for uniform plane wave. 
+
+9. Uniform Plane wave in a 1.Conducting medium 2.low-loss dielectric 3.perfect dielectric, intrinsic impedance of dielectric and conducting medium.Derivation of propagation constant. Attenuation constant-Phase velocity and wavelength.Polarization of plane waves,linear ,elliptical and circular polarization. Reflectin of plane waves at the surface of conductors and dielectrics-Brewster’s angle. 
+
+10. Poynting Vector and Power Flow: 
+Poynting theorem and application, Instantaneous, average and complex pointing vector. 
+
+11. Guided waves: 
+Waves between parallel planes-TE,TM and TEM waves and their characteristics. Velocity of propagation and wave impedances. 
+
+12. Waveguides: 
+Solution of wave equation for T.E and T.M waves in rectangular waveguide, cut-off frequency ,cut-off wavelength, field pattern for dominant mode(T.E,1,0),phase and group velocity, other T.E and T.M modes. Application and comparison with rectangular waveguides. 
+
+13. Cavity Resonators: 
+Rectangular and cylindrical cavity resonators, Conditions for resonance, Expression for frequency, Applications.

@@ -1,0 +1,48 @@
+Control Systems and DSP Laboratory 
+
+PART – A 
+
+CONTROL SYSTEMS 
+
+1. Time Response Analysis: 
+Transient response of 1st, 2nd and higher order / type systems. 
+
+2. Complex domain analysis: 
+To Draw the Root locus plot. 
+
+3. Frequency Domain Analysis 
+i. To Draw the Bode plot 
+ii. To Draw Nyquist plot. 
+
+4. Determine the state model representation in different (controllable, observable and Jordan) Canonical forms. 
+
+5. Determine the Eigen values and transfer functions for a given state space model and Check for complete controllability and observability. 
+
+6. Design of full order observer. 
+
+7. Design of Lag - Lead Compensator. 
+
+8. Controllers ----- P and PI 
+
+
+PART – B 
+
+DSP 
+
+1. Discrete Time Signals and Systems : 
+Find Impulse response, Step response and Frequency response of a given system. 
+
+2. For the LTI systems described by the difference equations, generate its impulse response, and unit step response. Comment on the properties of the system 
+
+3. Compute the Auto and Cross correlation of two given sequences. 
+
+4. Time and Frequency domain responses. 
+a) Linear convolution. 
+b) Circular convolution. 
+c) Verification of Linear convolution using DFT. 
+d) Finding DFT using FFT algorithms. 
+e) Finding the Inverse FFT. 
+
+5. Design a low pass FIR FILTER using Kaiser window and hamming window techniques. 
+
+6. Design a low pass Butterworth and type-1 Chebyshev IIR FILTERS.

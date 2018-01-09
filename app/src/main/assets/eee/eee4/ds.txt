@@ -1,0 +1,29 @@
+DATA STRUCTURES 
+
+PART-A 
+
+1. Special Features of C: 
+Register variables, Bitwise operators, Bit fields, Enumerations, Command line parameters, Macros, Preprocessor statements arrays in C. 
+
+2. Functions and Recursion in C: 
+Writing recursive program: Finding factorial of a given number, GCD, Fibonacci, Binomial coefficients, Tower of Hanoi, Pointer and pointer variables in C. 
+
+3. Linked lists: 
+Circular linked lists, doubly linked lists, circular doubly linked lists. 
+
+4.Stacks and Queues: 
+Implementation using arrays and linked lists, Conversion from Infix to Postfix expression and Prefix expression, Evaluation of postfix expression. 
+
+
+PART-B 
+
+5. Application of linked list: 
+(i) Addition of two long positive numbers 
+(ii) Evaluation of polynomial 
+(iii) Addition of two polynomials 
+
+6. Trees: 
+Binary trees, Binary search tree, Threaded tree, AVL tree. 
+
+7. Sorting and Searching: 
+Bubble sort, Selection sort, Insertion sort, Merge sort, Quick sort, Shell sort, Address calculation sort, Hash sort (or) Radix sort, Heap sort, Binary tree sort, Topological sort, Linear search, Binary search.

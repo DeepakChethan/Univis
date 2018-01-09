@@ -1,0 +1,30 @@
+Computer Organization and Architecture 
+
+PART-A 
+
+1. Machines, Machine languages, and digital Logic: 
+Classification of computers and their instruction, computer instruction sets. Informal description of the simple RISC computers, Formal description of RISC using register transfer notation, RTN. Describing address notation with RTN. Register transfer and logic circuits from behavior to hardware. 
+
+2. Real Machines: 
+Machines characteristics and performance. RISC versus CISC. A CISC microprocessor. The Motorola 68000. RISC architecture, the SPARC. 6 
+
+3. Processor Design: 
+The design process, a 1-bus micro-architecture for the SRC. Data path implementation, Logic design for 1-bus SRC. The control unit 2 and 3-bus processor designs. The machine reset. Machine exceptions. 
+
+4. Processor Design: 
+Advanced topics: Pipelining Instruction-level parallelism – Microprogramming 
+
+
+PART-B 
+
+5. Computer arithmetic and the arithmetic unit 
+Number system and radix conversion, Fixed point arithmetic, Semi-numeric aspects of ALU design, Floating point arithmetic. 
+
+6. Memory system design: 
+Introduction, the components of the memory system. RAM structures, the designer’s perspective. Memory boards and modules. Two level memory Hierarchy. The cache, virtual memory. The memory subsystems in the computer. 
+
+7. Input and Outputs: 
+The I/O subsystem. Programmed I/O interrupts. Direct memory Access (DMA). I/O data format change and error control. 
+
+8. Peripheral Devices: 
+Magnetics Disk Drives, Display Devices, Printers, Input Devices. Interfacing to the analog world.

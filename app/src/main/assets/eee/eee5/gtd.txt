@@ -1,0 +1,33 @@
+Generation Transmission and Distribution 
+
+PART A 
+
+1. Generation: 
+Introduction to generation of electrical energy, Sources of energy, Types of generating stations, Thermal, Hydroelectric, Nuclear, Selection of site. Load curves, Load duration Curves. Economics of Power generation. 
+
+2. Supply Systems: 
+General layout of Power system, effect of transmission voltage on conductor weight, transmission efficiency and line drop. Effect of low Power factor and improvement of Power Factor. 
+
+3. Overhead Systems: 
+Types of supporting structures, comparison of copper, aluminium and ACSR conductors. Sag calculation, Supports at same level and at different levels. Effect of wind, ice, temperature correction. Stringing charts and Sag templates, line vibrations, vibration dampers. 
+
+4. Insulators: 
+Materials used, types of insulators, potential distribution over a string of insulators, methods of improving string efficiency, grading rings and arcing horns, Testing of insulators (with mention of relevant IS standards ) 
+
+
+PART B 
+
+5. Underground Cables: 
+Comparison with overhead lines, different types of Insulating materials used including XLPE and Gas insulation. Types of Cables, Insulation resistance, Electric stress and Capacitance of string core cables, Grading of cables, Intersheath and capacitance grading. Capacitance of Three core cables. 
+
+6. Corona: 
+Phenomena of Corona, Disruptive and visual critical voltage, power loss, advantages and disadvantages of Corona. 
+
+7. Line Parameters: 
+Inductance of single phase, two wire line, composite conductor lines, self and mutual GMD. Inductance of three phase lines, equilateral spacing, unsymmetrical spacing, transposition, Inductance of transposed line with unsymmetrical spacing, Bundle conductors. Capacitance of single phase two wire lines, 3 phase lines with symmetrical spacing and unsymmetrical but transposed lines. Ferranti effect, power loss due to charging current. Skin effect and proximity effect. 
+
+8. Line Performance: 
+Short lines, medium lines, nominal T and PI methods, long lines, ABCD constants. 
+
+9. Distribution: 
+Feeders, distributors and service mains, AC distribution.

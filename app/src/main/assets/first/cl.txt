@@ -1,0 +1,29 @@
+
+
+ 2K11CI1302 C PROGRAMMING LAB
+ (Common to all branches except B.Arch) 
+ 
+ Hours / Week: 4 Exam: 3 Hours Class Marks: 25 Max Marks: 100 1. a) Write a program to determine the mean, variance and standard deviation of n numbers. 
+ b) Write a Program to convert a given number in binary to decimal. 
+ 2. a) Write a program to find the smallest and largest element in an array. 
+ b) Write a program to concatenate two strings. 
+ 3. a) Write a program to find the sum of squares. 
+ b) Write a program to solve the quadratic equation for all conditions i.e., roots are equal, imaginary and distinct. 
+ 4. a) Write a program to print the reverse of an integer. 
+ b) Input ‘n’ integers (real, character) and store 
+ 5. Write a program to sort the elements in ascending and descending order Using a) Bubble sort b) Selection Sort
+ 6. a) Write a program to find whether the given string is a Palindrome or not. 
+ b) Write a program to insert an element into an array. 
+ 7. a) Write a program to calculate the grades of n students from three tests. 
+ b) Write a program to delete an element from an array. 
+ 8. a) Write a program to search an element using linear search. 
+ b) Write a program to find the factorial of a number using Recursion. 
+ 9. a) Write a program to search an element using binary search. 
+ b) Write a program to generate the Fibonacci series using recursion. 
+ 10. Input 2 matrices of size M X N and P X Q. Perform 
+ a) Multiplication if they are compatible. 
+ b) Transpose of the resultant matrix. Print the result in matrix form with suitable headings. 
+ 11. Write a program to read and display details of students using structure. 
+ 12. Write a program to concatenate two files 
+ 13. Write a program to display Norm and Symmetry of Matrix. 
+ 14. Write a program to create and display the linked list. 

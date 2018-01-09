@@ -1,0 +1,35 @@
+MULTIMEDIA SYSTEMS 
+
+PART- A 
+
+1>Introduction: 
+Global structure, Multimedia literature 
+
+2>Multi Media and Data streams- 
+Different mediums, Representation values and spaces. Properties of multimedia systems, Data stream characteristics- ATM, STM and IT, and Continuous media. 
+
+3>Sound: Basic sound concepts, Audio formats, Computer representation. 
+Music: MIDI Concepts, devices, messages, SMPTE timing standards and software. Speech: Generation analysis Transmission. 
+
+4>image and graphics: 
+Basic Concepts, image representation and format and graphic format. VIDEO and ANIMATION- Basic concepts, Video signal representation, Computer video format, Television-Conventional systems, High Definition systems and transmission. Computer Based animation-Basic concepts, Languages, Methods of controlling and display of animation. Transmission of animation. 
+
+
+PART- B 
+
+5>Data Compression: 
+storage space, coding requirement, source, entropy and hybrid coding, Compression techniques. 
+
+6>JPEG: 
+Image preparation. Different modes- Lossy sequential DCT. Expanded Lossy DCT, lossless mode, Hierarchical mode. H 261(P*64)-Image preparation, Coding algorithms, Data Streams 
+
+7>MPEG: 
+Video and audio encoding, Data streams MPEG-2, MPEG-4, DVI Audio and video encoding, still image encoding, Data streams. 
+
+8>Multimedia Communication systems: 
+Collaborative computing session management, Transport subsystem: - Requirements. Transport Layer, Network Layer. QOS Resource management:-Basic concepts, Establishing and closing of multimedia call, Resource management in Multimedia Transmission. 
+
+References- 
+1. Multimedia Systems by John F koegal Buford, Pearson Education Asia. 
+2. Multimedia Computing, Communication and Application by Ralf Stemmatz and Klara Nahisted, Pearson Education, Asia. 
+3. Multimedia Communication Systems by K R Rao, Zoran S Bojkovic and Dragord A Milovanovic, Pearson Education Asia.

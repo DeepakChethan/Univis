@@ -1,0 +1,25 @@
+Modern Control Theory 
+
+PART A 
+
+1. State variable analysis and Design: 
+Introduction, Concept of State, State variables and State model of linear systems, Linearization of state equations. State space Representation using physical variables, phase variables and canonical variables. State space representation of simple Electrical circuits. 
+
+2. Derivation of Transfer function from state model, Diagonalisation, Eigen values and Eigen vectors, Generalized Eigen values. 
+
+3. Solution of state equation, State transition matrix and its properties, computation using Laplace transformation, Power series method, Cayley-Hamilton method, concept of controllability and observability, methods of determining the same. 
+
+
+PART B 
+
+4. Non-Linear systems: 
+Introduction, Behavior of Non-linear systems, Common physical Non linearities-saturation, friction, backlash, dead zone, relay, multi variable non-linearity. Phase plane method, Singular points, stability of non-linear systems, limit cycles, construction of phase trajectories- Isocline method. 
+
+5. Controllers: 
+Design of P, PI and PID Controllers (Frequency domain approach). 
+
+6. Pole placement Design and state observers: 
+Introduction, Stability improvements by State feedback, Necessary and sufficient conditions for arbitrary pole placement, State regulator design, design of state. Observers. 
+
+7. Liapunov stability criterion : 
+Introduction, Liapunov functions, direct method of Liapunov and the non-linear system.

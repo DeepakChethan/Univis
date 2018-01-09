@@ -1,0 +1,27 @@
+AC Machines and Protection Laboratory 
+
+1. No-load and blocked-rotor tests on 3 phase induction motor-Predetermination of performance curves-by drawing circle diagram using Equivalent circuit. 
+
+2. Load Test on three phase induction motor. 
+
+3. Load Test on single phase induction motor. 
+
+4. Load test on induction generator. 
+
+5. Open circuit and short circuit tests on alternators-regulation by EMF and MMF methods. 
+
+6. Regulation of alternators by ZPF method. 
+
+7. Determination of Xd and Xq of a salient pole alternator and predetermination of regulation. 
+
+8. V and inverted V curves and Power angle characteristics of synchronous motor. 
+
+9. Characteristics of over current : a) directional, b) non-directional. 
+
+10. Characteristics of Overvoltage and Undervoltage relay. 
+
+11. Study of Microprocessor based Relays. 
+
+12. Study of Differential relay. 
+
+13. Study of Static over current relay.

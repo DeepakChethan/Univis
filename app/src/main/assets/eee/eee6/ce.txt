@@ -1,0 +1,25 @@
+Communication Engineering 
+
+PART A 
+
+1. Introduction : 
+Block diagram of communication system, sources of information, channel, Noise: Types – internal and external noise sources, white noise, noise calculations - SNR, Noise equivalent bandwidth, noise figure, noise temperature. 
+
+2. Modulation – Amplitude modulation: 
+Full AM, time domain and frequency domain representation of AM signal, power in AM wave; Generation of AM wave – square law modulator, switching modulator; Detection of AM wave – Square law detector, envelope detector; DSBSC system – Generation of DSBSC wave – balanced modulator; Detection of DSBSC – coherent detection; SSB system – Spectrum of SSB wave, SSB generation – phase shift method, coherent detection of SSB. 
+
+3. Angle Modulation: 
+FM, PM, Mathematical representation of FM, Spectrum of FM, Relation between FM and PM, bandwidth determination of FM, FM generation – direct and indirect method; FM detection – Slope detector, Foster Seely discriminator. 
+
+4. AM/FM SYSTEMS: 
+AM transmitter/receiver, FM transmitter/receiver (Block diagram description). 
+
+
+PART B 
+
+5. Information Theory and Coding: 
+Information, measure of information, Entropy and its properties, information rate, Markov sources, Source coding – Properties, construction of instantaneous codes, Shannon’s theorem, Shannon Fano and Huffman coding; Error control coding – Classification, block codes, Hamming code; binary cyclic codes – properties, CRC code. 
+
+6. Digital Communication: 
+Sampling theorem, sampling of low pass/bandpass signals, signal reconstruction from samples – interpolation formula, distortion in sampling; PAM – generation/detection of PAM; PCM systems – sampling, quantization, quantization noise and SNR, robust quantization, companding, DPCM/DM/ADM systems. 
+Digital Modulation: Principle of ASK, FSK and PSK modulation/demodulation.

@@ -1,0 +1,29 @@
+Non-Conventional Energy Sources 
+
+PART A 
+
+1. An Introduction To Energy Sources : 
+Introduction, Energy Sources, Energy Sources and their availability, World Energy Futures, New Energy Technologies, Renewable energy sources, Prospects of renewable Energy Sources 
+
+2. Solar Energy : 
+Introduction, Solar radiation and measurement, Different Solar energy collectors, Energy Balance equation and Collector efficiency (Problems on Efficiency equation), Solar energy storage systems, Solar Pond, Extraction of Thermal Energy, Application of Solar energy – Solar water heating, Solar thermal Electric conversion, Solar electric power generation, Solar cooking. PHOTO VOLTAICS : Introduction to solar energy conversion, PV cells, characteristics, cell efficiency, stand alone and integrated operation 
+
+3. Geothermal Energy
+ 
+
+4. Wind Energy : 
+Introduction, Basic Principles of Wind energy conversion, Basic components of Wind energy conversion systems (WECS), Classification of WECS, Advantages and Disadvantages of WECS, Types of Wind machines ( Wind Energy collection), Performance of Wind machines, Generating Systems, Applications of Wind Energy. 
+
+PART B 
+
+5. Energy From Bio-Mass : 
+Introduction, Bio-mass Conversion technology, Generation, Types of Bio-gas plants, Community bio-gas plant, Utilization of Bio-gas. 
+
+6. Hydrogen Energy and Fuel Cells: 
+Introduction, Utilization of Hydrogen gas, Hydrogen as an Alternate fuel for motor vehicles, Hydrogen Technology development in India. 
+
+7. Magneto Hydro Dynamics (MHD) : 
+Introduction, Principle of MHD Power Generation, MHD systems, Advantages of MHD systems. 
+
+8. Energy From The Oceans : 
+Introduction, Ocean Thermal Electric conversion, Energy from tides, Wave energy conversion devices.

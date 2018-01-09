@@ -1,0 +1,20 @@
+Analog Communication 
+
+PART-A 
+
+1. Introduction, definition of terms, block diagrams of communication system, communication, sources of information, channel, noise. Noise: Internal Noise-thermal noise, shot noise. External noise sources, White noise, Narrow band noise, Signal to Noise ratio[SNR], Noise equivalent bandwidth, Noise figure, Noise figure of cascaded systems, Mathematical representation of noise, Noise Temperature. 
+
+2. Amplitude modulation, frequency translation, full AM. Time domain and Frequency domain representation of AM signals. Generation of Wave: square law modulator, switching modulator, Power in AM wave. Detection of AM waves: Rectifier detector, square law detector, Envelope detector, Distortion in envelope detectors. 
+
+3. Double side band suppress carrier systems, Time domination and frequency domain representation, Spectrum of DSB Generation of DSB-SC waves: Ring modulator, Balanced modulators. Coherent Detection of DSB-SC signal, effect of phase and frequency errors in coherent detection, Costas receiver, Quadrature amplitude modulation (QAM) 
+
+4. Single Side Band (SSB) system. Hilbert transform and its properties Time domain and frequency domain description of SSB, Spectrum of SSB waves, Phase shift method of generator of SSB, Filter method of generation of SSB, Coherent method of demodulation of SSB signals. Vestigial side band transmission (VSB), Envelope detection of VSB signal. Frequency division multiplexing (FDM) Comparison of various AM systems. 
+
+
+PART-B 
+
+5. Angle modulation systems, Basic definition, FM and PM, inter relation between FM and PM Narrow band FM (NBFM), Spectrum of NBFM, Bandwidth of NBFM, Wideband FM (WBFM) analysis-spectrum of NBFM for tone modulation. Bandwidth determination by using Bessel’s coefficient, bandwidth by Carson’s Rule. Generation of FM waves: Indirect method (phase discrimination method for WBFM generation with an example). Direct method of WBFM generation. Demodulation of FM waves: Basic principle, slope detector, Foster seely discriminator, PLL for demodulation of FM. 
+
+6. Noise in CW modulation system: Introduction, receiver models, Figure of Merit (FOM), Noise in AM receivers, threshold effect. Noise in DSB-SC receivers (coherent) Noise in SSB receivers (coherent), Noise in FM receivers, Pre-emphasis, De-emphasis in FM. Comparison of Noise performance of various CW modulated systems. 
+
+7. AM and FM systems, AM transmitter- High level and low level modulators AM receivers-Super heterodyne receivers, Receiver characteristics FM transmitter and receivers, FM stereo AFC in FM.

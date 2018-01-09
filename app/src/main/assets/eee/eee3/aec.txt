@@ -1,0 +1,33 @@
+Analog Electronic Circuits 
+
+PART-A 
+
+1. Wave shaping Circuits: 
+Diode clipping and clamping circuits, Clamping circuits Theorem, Attenuator. 
+
+2. Analysis of BJT and JFET amplifiers: 
+Different types of biasing circuits for BJTs and JFETs, Stability of operating point in BJT circuits, h-parameter model of small Signal, Low frequency BJT Amplifiers, Analysis of BJT Amplifiers in CE, CB and CC Modes, Small signal model of JFET, Analysis of Low frequency Common Source and Common Drain Amplifiers, Differential Amplifiers. 
+
+3. High input Resistance BJT circuits: 
+Analysis of Emitter follower, Darlington emitter follower and Boot strapped emitter follower circuits. 
+
+4. Frequency Response of Amplifiers: 
+LF and HF response. Coupled Amplifiers – RC coupled, Transformer Coupled and Direct coupled Amplifiers. Multistage Amplifiers – Effect of Cascading on Amplifier response, Grain bandwidth product. Tuned Amplifiers – Single Tuned amplifiers, Doubled Tuned and stagger tuned Circuits – frequency response. 
+
+5. Large signal Amplifier: 
+Classification, AC Load line, Class A and AB (push pull and complementary symmetry) Amplifiers – efficiency, Linearity, Harmonic distortion. 
+
+
+PART-B 
+
+6. Feedback Amplifiers: 
+Classification, Concept of Feedback, Topologies of Feedback Amplifier, Effect of Feedback on Different characteristics of Feedback Amplifier, Analysis of Voltage series, current series, Current shunt and voltage shunt feedback Amplifiers. 
+
+7. Sinusoidal Oscillators: 
+Barkhausen criteria, Generalized Analysis of BJT oscillators – RC Phase shift and Wein bridge Oscillator, Hartley. Colpitt’s oscillator, crystal oscillators, Negative resistance – Tunnel diode: Characteristics and Tunnel diode Oscillator. 
+
+8. Voltage time base Generators: 
+Features of Time based Signal, Methods of generation of Bootstrap time base Generator – working and wave forms. 
+
+9. DC Power Supplies: 
+Half wave, Full Wave and Bridge Rectifiers – ripple factor, efficiency, regulation and transformer utilization factor. Full wave rectifier with filters – Analysis of capacitor, Inductor, LC and Pi section filters. Regulators – Zener Regulator, Series Regulator with and without feedback, Shunt regulator and current regulator. Short circuit protection, Voltage multipliers – Half wave and full wave.

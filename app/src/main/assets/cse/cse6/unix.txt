@@ -1,0 +1,55 @@
+UVCE Syllabus
+
+
+ 2K11CI 64 : UNIX/LINUX SYSTEM PROGRAMMING 
+
+ Note: 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks: 100 Sessional Marks 25 
+
+ PART A 
+
+ Chapter 1 : Introduction 6 Hours 
+
+ Unix and ANSI Standards: The ANSI C Standard, The ANSI/ISO C++ Standards, Difference between ANSI C and C++, The POSIX Standards, The POSIX.1 FIPS Standard, The X/Open Standard. UNIX and POSIX APIs: The POSIX APIs. The UNIX and POSIX Development Environment, API Common Characteristics. 
+
+ Chapter 2 : UNIX Files-1 6 Hours 
+
+ File Types, The UNIX and POSIX File System. The UNIX and POSIX File Attributes, Inodes in UNIX System V, Application Program Interface to Files, UNIX Kernel Support for Files, Relationship of C Stream Pointers and File Descriptors, Directory Files, Hard and Symbolic Links. 
+
+ Chapter 3 : UNIX Files-2 6 Hours 
+
+ UNIX File APIs: General File APIs, File and Record Locking, Directory File APIs, Device File APIs, FIFO File APIs, Symbolic Link File APIs, General File Class, regfile Class for Regular Files, dirfile Class for Directory Files, FIFO File Class, Device File Class, Symbolic Link File Class, File Listing Program. 
+
+ Chapter 4 :UNIX Processes 6 Hours 
+
+ The Environment of a UNIX Process: Introduction, main function, Process termination, Command-line arguments, Environment List, Memory layout of a C Program, Shared Libraries, Memory Allocation, Environment Variables, setjmp and longjmp Functions, getrlimit, setrlimit Functions, UNIX Kernel Support for Processes. 
+
+ PART B 
+
+ Chapter 5: Process Control 6 Hours 
+
+ Introduction, Process Identifiers, fork, vfork, exit, wait, waitpid, wait3, wait4 Functions, Race Conditions, exec Functions, Changing User IDs and Group IDs, Interpreter Files, System Function, Process Accounting, User Identification, Process Times, I/O Redirection. 
+
+ Chapter 6 : Process Relationships 6 Hours 
+
+ Introduction, Terminal Logins, Network Logins, Process Groups, Sessions, Controlling Terminal, tcgetpgrp and tcsetpgrp Functions, Job Control, Shell Execution of Programs, Orphaned Process Groups. 
+
+ Chapter 7 : Signals and Daemons 6 Hours 
+
+ Signals: The Unix Kernel Support for Signals, Signal, Signal Mask, Sigaction, The SIGCHLD Signal and the waitpid Function, The sigsetjmp and siglongjmp Functions, Kill, Alarm, Interval Timers, POSIX.1b, Timers. Daemon Processes: Introduction, Daemon Characteristics, Coding Rules, Error Logging, Client Server Model. 
+
+ Chapter 8 : Inter Process Communication 6 Hours 
+
+ Interprocess Communication: Overview of IPC Methods, Pipes, popen, pclose Functions, Coprocesses, FIFOs, System V IPC, Message Queues, Semaphores, Shared Memory, Client Server Properties, Stream Pipes, Passing File Descriptors, An Open Server Version 1, Client Server Connection Functions. 
+
+ References : 1. Terrence Chan: Unix System Programming Using C++, PHI, 1999. 
+
+ 2. W Richard Stevens: Advanced Programming in the Unix Environment, Addison-Wesley/PHI, 2005. 
+
+ 3. Maurice J Bach: The Design of the Unix Operating System, PHI, 1986. 
+
+ 4. UreshVahalia: Unix Internals, Pearson Education, 1996. 
+

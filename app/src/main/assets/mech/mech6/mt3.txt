@@ -1,0 +1,47 @@
+2K11 ME 603: Manufacturing Technology – III 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Examination: 3 Hrs Max marks for Examination: 100 
+
+UNIT-I 
+
+1. Classification of metal working processes: Advantages and limitations of wrought products. Effect of temperature, strain rate and friction on metal working. Effects of residual stresses. 6 
+
+2 Forging: Process description, Types of forging machines, Forging operations. Open and closed die forging, Forging die design. Methods of analysis. Related problems. Defects in forgings. 6 
+
+3. Rolling: Process description, Rolling mills, conditions for rolling, maximum possible reduction, effects of back and front tension, Rolling pressure. Mechanics of flat rolling. Roll torque and power. Related problems. Defects in rolled products/ 6 
+
+4. Drawing: Drawing process, Die design, die materials, Drawing machines. Effects of die cone angle on drawing forces. Mechanics of rod and wire drawing. Related problems. Defects in drawn products. 6 
+
+5. Extrusion: Types of extrusion, Extrusion products, metal flow in extrusion, Hydraulic extrusion, 
+
+Impact extrusion. Mechanics of extrusion. Related problems. Defects in extruded products. 6 
+
+UNIT - II 
+
+6. Sheet Metal Forming: dies and Tools: Simple, compound and progressive dies, Types of presses, shearing force calculation, clearance in shearing. Types of shearing operations 6 
+
+7. Deep Drawing: Process description, stresses and deformation in deep drawn cup, Deep drawability. Deep drawing practice. Formability and modeling, FLD, Dent resistance of sheet metal parts. Defects in deep drawn cup products. 6 
+
+8. Powder metallurgy: Production of metal powders. Characteristics of metal particles (powders). Blending and compaction. Pressure distribution in powder compaction. Isostatic pressing. Methods of compacting and shaping. Sintering operations. Shrinkage in sintering. Secondary and finishing operations. Economics of powder Metallurgy. Processing of composite materials and superconductors by PM route. 10 
+
+9. Miscellaneous Forming Processes: Stretch forming. Superplastic forming and diffusion bonding. Spray forming. 8 
+
+Books for Reference: 2. Manufacturing Engineering and Technology (Fifth Edition)-Kalpakjian S and Steven R Scmid. Pearson Publication.
+
+ 3. A Text book of Materials Science and Metallurgy- O P Khanna, Dhanpatrai Publication 1999
+
+ 4. Mechanical metallurgy – Dieter, Tata Mc Graw Hill Publications
+
+ 5. Materials and Processes in Manufacturing (Ninth Edition)- E. Paul Degarmo, J.T. Black and Ronald A. Kohser – John Wiley and sons. (Wiley Student Edition )
+
+ 
+
+Scheme of Examination: 
+
+Examiners are to set four questions each from Unit I and Unit II. 
+
+Students are to answer five full questions choosing at least two questions from each Unit

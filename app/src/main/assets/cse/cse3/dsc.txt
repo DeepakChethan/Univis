@@ -1,0 +1,45 @@
+
+
+ 2K11 CI32: DATA STRUCTURES WITH C 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Unit 1. Special features of C: 
+
+ Register variables, Bitwise operators, Bit fields, Enumerations, Command line parameters, Macros, Pre-processor statements, Arrays in C, Structures and unions in C. 
+
+ Unit 2. Introduction to Data Structure: 
+
+ Definition, Brief Introduction on classification of Data Structure, Dynamic Memory allocation: malloc, calloc, free, realloc. 
+
+ Unit 3. Linked List: 
+
+ General Linear lists, Lists in C, Basic Opeartions: Creation of List- insertion (front, last, Specified Position), Deletion (front, last, Specified position, specified data) Searching, traversal, Implementation of above operations using: i. Head Node ii) Data Node. 
+
+ Unit 4. Stack: 
+
+ Stack Concept: Basic Stack Operation:- push, pop, stack top, empty stack, full stack, stack Array implementation, stack linked list implementation, Conversion from Infix to postfix and infix to prefix, evaluation of postfix expressions. 
+
+ Unit 5. Queue: 
+
+ Concept, Queue operations:- Insertion, deletion, empty, full. Array implementation of queue and linked list implementation of queue, Dequeue:- I/P restricted dequeue, O/P restricted dequeue, Priority Queue:- Ascending and Descending. 
+
+ PART B 
+
+ Unit 6. Recursion: 
+
+ Recursive definition and processes, Factorial – A case study, Recursion defined, interactive solution, recursive solution, Writing recursive programs in C, Simulating recursion, GCD, Fibonacci, Tower of Hanoi, Binary Search, Binomial coefficient. 
+
+ Unit 7. Trees: 
+
+ Tree Concept: Definition of tree, leaf, height or depth of a tree, level, siblings, degree of a node, degree of a tree, Binary tree, Strictly Binary tree, complete Binary tree, Binary tree representations, creation and deletion, Traversals, Implementation of Binary tree and Binary Search tree, Expression trees, Threaded binary trees, Introduction to B-trees. Construction of tree with given inorder and preorder, inorder and postorder traversals. 
+
+ Unit 8. Sorting And Searching: 
+
+ Bubble sort, Selection sort, Insertion sort, Quick sort, Heap sort, Topological sort, Recursive : Linear and Binary search, Tree searching, Binary search tree, Hashing and its techniques, collision detection techniques.

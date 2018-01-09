@@ -1,0 +1,48 @@
+2K11CE505 ADVANCED MATERIAL CONSTRUCTION AND MANAGEMENT 
+
+Hours / Week: 4 Exam: 3 Hours 
+
+Total: 60 hours Class Marks: 25 
+
+Max Marks: 100 
+
+PART –A 
+
+1.Cement blending materials and their characteristics: GGBS, Fly Ash, Metakolin, silica fume and otherfine filler materials, admixtures-mineral, chemical, types properties and application in concrete. (4 Hrs.) 
+
+2.Fibre reinforced concrete: Fibre–Types, characteristics, mix proportions, mixing, properties of theconstituent materials and casting methods, properties of freshly mixed fibre reinforced concrete, mechanics and properties of FRC, Behaviour of hardened FRC, in compression, flexure, fatigue and impact loadings. (6 Hrs.) 
+
+3.SIFCON and Cement Polymer Composite: SIFCON–constituent materials, mix proportions, engineeringproperties behavior in compression, tension, flexure and shear, resistance to impact and blast loading and applications (10 hrs) Polymer in cement composite, terminology used in polymer concrete, classification SBR/MBE Latex - modified mortar eheology and SBR/MBE Latex - modified Concrete materials, selection and process Technology. 
+
+4.High Performance concrete, Fly ash Concrete and Silica fume Concrete: HPC-concept, types requirementsof HPC, materials selection, proportioning, applications, strength and durability aspect. (6 Hrs.) Fly ash –classification of fly ash properties in fresh state and hardened state,application durability aspect of fly ash concrete. (4 Hrs.) 
+
+Silica fume concrete- classification of silica fume, properties of silica fume concrete fresh state and hardened state, application, durability aspect. (8 Hrs.) 
+
+PART –B 
+
+5.Smart Materials: Concept of smart materials, brief introduction to typical material used in civil Engineering (4hrs) 
+
+6.Quality control and maintenance of concrete: Stage of quality control tests and acceptance criteria to concrete works during maintenance. (4 Hrs.) 
+
+7.Material management: Objectives, limitation of material management, organization of material management. Purchase if materials and material storage. Inventory control economic ordering quality and physical verification. (6 Hrs.) 
+
+8.Project management: Study of project management and engineering economics like CPM and PERT networkanalysis –critical activities and critical path with illustrative example and time management. (8 Hrs.) 
+
+Question paper Pattern: 
+
+Question Paper is to set for totally Eight questions, to answer five full questions, choosing at least 2 questions from Part A and 2 from Part B. 
+
+Reference Books:
+
+ 1. Concrete technology: A. M. Neville and J. J. Brooks international student edition pub, 1997 
+
+ 2. Fibre reinforced cement composite: Permalsamy N. BalaguruandSurendra P. Shah McGraw-Hill International edition 1992. 
+
+ 3. ACI Manual of concrete provision Volume 1-5, 2001. 
+
+ 4. Civil Engineering materials, Neil Jackson and Ravindra K. Dhir Macmillan Press Ltd. Edition 1996. 
+
+ 5. Concrete technology, M. S. Shetty, S. Chand and Company edition 1996.
+
+ 6. Project planning and control with PERT and CPM, Dr B. C. Punmia and K. K. KhandelwalLaxmi publications (p) Ltd., 2004.
+

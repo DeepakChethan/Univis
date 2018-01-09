@@ -1,0 +1,48 @@
+UVCE Syllabus
+
+
+ 
+
+ 2K11 CI35: ELECTRONIC CIRCUITS 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Unit 1. Diode Circuits: 
+
+ Diode resistance, Diode equivalent circuits, Load line analysis, AND/OR Gates, Clippers and Clampers. 
+
+ Unit 2. Transistor Biasing: 
+
+ Operating Point, Fixed bias circuits, Emitter stabilizer, biased circuits, Voltage divider biased, DC bias with voltage feedback, Miscellaneous bias configurations, Design operations, Transistor Switching networks, PNP transistors and Bias Stabilization. 
+
+ Unit 3. Transistor at Low Frequencies: 
+
+ BJT Transistor modelling, CE Fixed Bias configuration, Voltage divider bias, emitter follower, Collector feedback configuration, Analysis of Circuits: re model, Analysis of CE configuration using h-parameter model. Relationship between h-parameter model of CE, CC, CB configuration. 
+
+ Unit 4. FET Amplifiers: 
+
+ FET small signal model, Biasing of FET, Common drain common gate configurations, MOSFET’s, FET amplifier networks. 
+
+ PART B 
+
+ Unit 5. (a) General Amplifiers: Cascade connections, Darlington connection 
+
+ (b) Feedback Amplifiers: Feedback concepts, Feedback connection types, Practical feedback circuits, Design procedures for feedback amplifiers. 
+
+ Unit 6. Power Amplifiers: 
+
+ Definitions and amplifier types, series fed Class A, transformer coupled class A amplifiers, Class B amplifier operations, Class B amplifier circuits, Amplifier distortions, Designing of Power amplifiers. 
+
+ Unit 7. Oscillators: 
+
+ Oscillator operation, Phase shift oscillator, Wien Bridge Oscillator, tuned Oscillator circuits, Crystal Oscillator (BJT version only) Simple design methods of Oscillator. 
+
+ Unit 8. D/A and A/D Convertors: 
+
+ D/A conversion, Weighted resistor and R-2R ladder type DAC, using Op-amps, DAC specifications, A/D conversion, Principle of A/D conversion, Simultaneous ADC, Successive approximation ADC, ADC specifications.

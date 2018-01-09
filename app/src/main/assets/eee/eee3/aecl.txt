@@ -1,0 +1,33 @@
+Analog Electronics Circuits Laboratory 
+
+1. Characteristics of Semiconductor and Zener diodes. 
+
+2. Characteristics of transistor in CE mode: determination of static h – parameters. 
+
+3. Diode clipping and clamping circuits. 
+
+4. Single stage RC coupled amplifier. 
+
+5. Direct Coupled amplifier. 
+
+6. Transformer coupled amplifier. 
+
+7. Emitter follower. 
+
+8. Differential Amplifier. 
+
+9. Single tuned Amplifier. 
+
+10. Class AB push pull power amplifier. 
+
+11. Voltage series feedback amplifier. 
+
+12. Transistor RC phase shift (Phase lead) oscillator using BJT. 
+
+13. Transistor Hartley and Colpitt’s oscillators. 
+
+14. Piezo crystal oscillator. 
+
+15. Diode FWR with and without capacitor filter. 
+
+16. Series Voltage regulator.

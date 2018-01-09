@@ -1,0 +1,27 @@
+2KEC805- EMBEDDED SYSTEM LABORATORY 
+
+1. Measuring temperature in real time using temperature sensor. 
+
+2. Measuring X Y Z coordinates using accelerometer 
+
+3. Measuring pressure using pressure sensor. 
+
+4. Interfacing a Graphics LCD and Displaying waveforms 
+
+5. Transmission of RF signals by interfacing RF transmitter/receiver. 
+
+6. Experiment to transmit infrared rays. 
+
+7. Experiment on Bluetooth protocol. 
+
+8. Experiment on Zigbee protocol. 
+
+9. Experiment on I2C protocol. 
+
+10. Experiment on CAN protocol. 
+
+11. Experiment on Ethernet TCP/IP. 
+
+12. Interface Experiment using USB Bus. 
+
+13. Four Experiments on OFC (Depending upon the availability of kits).

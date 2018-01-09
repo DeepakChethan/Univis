@@ -1,0 +1,29 @@
+Digital Circuit Design 
+
+PART A 
+
+1. Sequential Circuit Design 
+
+2.1: Introduction to sequential circuits: 
+Flip Flops and Timing Circuits, SR Latch NOR and NAND versions. Flip Flops-Edge triggered F/Fs, SR, D, JK and T F/Fs, Conversion of one type of F/F to another (SR to JK and others).Applications of F/Fs. 
+
+2.2: Shift Registers: 
+Structure of MSI shift registers, Serial/parallel, Parallel/serial (SISO, PISO, SIPO, PIPO) conversions. Bidirectional shift registers. Shift register counters, Ring and Johnson counters. Linear feedback shift register counters, Sequence generators. Maximum length sequence generator. PBRS generators. State diagram, Shift registers using EX-OR feedback, max length sequence counters using shift registers upto 4-bits. 
+
+2.3: Counters: 
+Asynchronous counters, Ripple/binary counters, Decoding of ripple counters, MSI counters, synchronous counters. U/D counters, Hybrid counters, IC synchronous counters, cascading of synchronous counters, Pulse train generators, lock out in counters, Application of counters-Digital Clock, frequency division. Design of random sequence counters-2421, 5421, 4421, 2221, 6421 
+
+3. Sequential Machines: 
+The finite state model, state diagram, state table, transition and output table, excitation table, ASM-Moore, Measly and Mixed type synchronous state machines. Design of Moore and Mealy machines (examples designs),Impediments to synchronous design: Clock skew, Gating the clock, Asynchronous inputs, Synchronizing high speed –data transfer. 
+
+
+PART B 
+
+4. Memory Devices: 
+Role of memory devices in the digital world, Memory types and terminology. Memory organization and operation. Reading and writing. SRAMs organization. DRAMs address multiplexing. DRAM refreshing. ROMs organization and timing of ROMs. Types of ROMs, PROM, EPROMs, EEPROM, structure, operation, programming methods, Flash memories, DDRAMs memory ICs, Memory expansion. 
+
+5. Programmable Logic Devices: 
+Concept of PLDs. PROM. PAL and PLA. Multilevel PLDs. Programming of PALs using PALASM. Introduction to PPGAs -types of FPGAs based on programming techniques. SRAM,ERAM and anti fuse based FPGAs. Illustrations of a simple XC3000 series FPGA. 
+
+6. Reliable Design and Fault Diagnosis: 
+Hazards: Design of Hazard free combinational network, detection of hazards in an existing network, Hazard free asynchronous circuit design, Dynamic and essential hazards. Fault detection in combinational circuits. Fault Location experiments, Boolean difference method, Fault detection by path sensitive, Two level circuit fault detection in And/OR circuit and OR/AND circuit. Tabulation method of fault diagnosis for 2-level circuits, Fault detection in multilevel circuits. Detection of multiple faults using other methods.

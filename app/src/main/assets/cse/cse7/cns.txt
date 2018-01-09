@@ -1,0 +1,33 @@
+
+ 
+ 2K11CI73:CRYPTOGRAPHY AND NETWORK SECURITY 
+ 
+ Note: 
+ FOUR questions from PARTA and FOUR questionsfromPARTBtobeset. Students should answerFIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question maybe set. 
+ HoursperWeek:4 ExaminationMarks:100 SessionalMarks:25 
+ PARTA 
+ 
+ Chapter1:Introduction 6Hours 
+ Overview:Services,MechanismsandAttacks,TheOSISecurityArchitecture,AModelofNetworkSecurity.ClassicalEncryptionTechniques:SymmetricCipherModel,SubstitutionTechniques,TranspositionTechniques 
+ 
+ Chapter 2:SymmetricCiphers 6 Hours 
+ BlockCipherandtheDataEncryptionStandard:BlockCipherPrinciples,TheDES,TheStrengthof DES,DifferentialandLinearCryptanalysis.ConfidentialityusingConventionalEncryption:PlacementofEncryptionFunction,TrafficConfidentiality,KeyDistribution,RandomNumberGeneration. 
+ 
+ Chapter 3: Number theory6 Hours 
+ NumberTheory:PrimeNumbersFormat’sandEuler’sTheorems,TestingforPrimality,Chinese Remainder theorem 
+ 
+ Chapter 4: PublicKeyEncryption 6Hours 
+ PublicKeyCryptographyandRSA:PrinciplesofPublicKeyCryptosystems,TheRSAAlgorithms,KeyManagement,DiffieHellmanKeyExchange, Elliptic curve cryptography. 
+ PARTB 
+ 
+ Chapter 5:AuthenticationProtocols 8Hours 
+ MessageAuthentication:AuthenticationRequirements,AuthenticationFunctions,MessageAuthenticationCodes, Hash functions, Security of Hash functions and MACs, Secure Hash algorithms, DigitalSignatures. 
+
+ Chapter6:NetworkSecurity 8Hours 
+ AuthenticationApplications:Kerberos,X.509AuthenticationService,PrettyGoodPrivacy, S/MIME. IPSecurity:Overview,IPSecurityArchitecture,AuthenticationHeader,EncapsulationSecurityPayload.WebSecurity:WebSecurity considerations,SecureSocketsLayerandTransportLayerSecurity. 
+ Chapter7:SystemSecurity 8Hours 
+ Intruders, Intrusion detection,VirusesandRelatedThreats,CounterMeasures,FirewallsanditsDesignPrinciples. 
+ References: 
+ 1. WilliamStallings,CryptographyandNetworkSecurity, Fourth Edition,PearsonEducation/PHI, 2009
+ 2. Behrouz A. Forouzan: Cryptography and Network Security, Special Indian Edition, Tata McGraw-Hill,2007. 
+ 3. AtulKahate,CryptographyandNetworkSecurity,TMH. 

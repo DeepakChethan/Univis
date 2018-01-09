@@ -1,0 +1,24 @@
+2KEC804 – ADVANCED COMPUTER COMMUNICATION NETWORKS 
+
+PART – A 
+
+Basics of discrete and continues time Markov chains: Poisson Processes, Queuing theory M/M/I, M/GI/I queue, stationary distribution stability conditions, little’s Law. -15hrs 
+
+Performance analysis scheduling algorithms, MAC protocols, Slotted ALOHA, CSMA. -10hrs 
+
+
+PART – B 
+
+MPLS, QoS for real and data applications, DffServ and InterServ architectures. - 6hrs 
+
+VOIP, SIP, WLAN: MAC protocol and its performance analysis. - 6hrs 
+
+Mesh/Adhoc networks: General issues, MAC and routing protocols. - 8hrs 
+
+Introduction and issues in Sensor Networks. - 5hrs 
+
+REFERENCE 
+1.D.Bertsekas and R.Gallager, Data Networks, 2nd Edition, Prentice Hall 2002. 
+2.J.Walrand and P. Varaiya, High Performance Communication networks, Morgon-Kaufmann, 2nd Edition. 
+3.C’ Siva Ram Murthy and B.S. Manoj, Adhoc wireless Networks, Prentice Hall, 2004. 
+4.Kurose.

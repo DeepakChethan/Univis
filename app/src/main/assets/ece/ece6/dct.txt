@@ -1,0 +1,37 @@
+UVCE Syllabus
+Digital Communication Theory 
+
+PART-A 
+
+1. Introduction: 
+Model of a Digital Communication system. Comparison of Digital and analog Communication systems. Bandwidth of Digital data. Base band versus Band pass. 
+
+2. Discrete Pulse Amplitude Modulation: 
+Review of sampling theorem, sampling of low pass and band pass signals, practical aspect of sampling. Reconstruction of message from its samples. Channel band width for PAM signals. Generation and detection of PAM. 
+
+3. Coding of Base Band Analog Signals: 
+Messages, characters and Symbols, Character coding. Formatting Analog Information – sampling. Quantization, Quantization – noise, Elements of PCM . Different PCM quantizer, uniform and non-uniform quantization, companding. DPCM, PCM decoders. 
+
+4. Delta Modulation (DM): 
+Principles. Noise in DM systems, Granular and slope overload in DM systems. ASM systems. Comparing of PCM and DM. Digital Multiplexers. TDM-PCM Telephone Systems. CODEC. 
+
+5. Digital Signaling Formats: 
+Line Codes: Various types and their power spectra, regenerating repeater 3hours 
+
+6. Synchronization: 
+Bit synchronization, Word Synchronization, Frame Synchronization. Non-linear clock recovery (Codes for recovery). 
+
+
+PART-B 
+
+7. Base Band Systems 
+Introduction – Coding and Decoding, inter symbol interference. Base band shaping optimum transmitting and receiving filters. Correlative coding base band M-array PAM systems, adaptive equalizations, Eye patterns, Scrambler and de-scrambler 
+
+8. Digital Carrier Systems (Band pass data translation) 
+Elements of band pass data transmission system. Correlative receiver, matched filter receiver. Probability of error of matched filter. 
+
+9. Binary ASK 
+Modulators and demodulators performance of coherent and non-coherent BASK. Spectral properties of BASK 
+
+10. ASK Systems 
+Modulators and demodulators performance of coherent and non-coherent ASK Minimum shift keying. Binary PSK systems. Spectral properties of BPSK systems, BPSK modulators and demodulators, differential coherent demodulation of BPSK. Performance of matched filter detector, discriminator DPSK, QPSK, MPSK. Introduction to spread spectrum techniques

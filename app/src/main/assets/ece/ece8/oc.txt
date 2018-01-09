@@ -1,0 +1,36 @@
+2K6EC802-OPTICAL COMMUNICATION 
+
+PART - A 
+
+1.INTRODUCTION 
+Evolution of fiber optic communication system, advantages , Basic optical laws and definitions, Mode theory for circular waveguides, single mode and Graded-Index Fiber Structures. -7hrs 
+
+2.FIBER FABRICATION 
+Outside V-P oxidation, Vapor phase axial deposition, Modified CVD, Plasma activated CVD, Double –crucible method, Mechanical properties of fibers, Fiber optical cables, and Fiber splicing, Optical connectors. -5hrs 
+
+3.PHOTONIC SOURCES 
+Semi conducting materials for Photo devices, LEDs, structure operation, Quantum efficiency and power, Modulation of an LED, Laser diodes. Laser diode modes and threshold calculations, structures, quantum efficiency, resonant frequencies single mode lasers, Modulation of laser diodes. -7hrs 
+
+4.PHOTONIC DETECTORS 
+Principle of operation of a photodiode, Noise in a PD, detector response time, Avalanche PD, Structure of InGaAs APDs, Temperature effects and comparison of PDs. 6hrs 
+
+
+PART - B 
+
+5.TRANSMITTERS 
+Analog and digital transmitters, Schematics, LED and LD driver circuits for message modulation, source to fiber power launching, lensing schemes for coupling. 4hrs 
+
+6.SIGNAL DEGRADATION 
+Attenuation, Absorption, Scattering and bending losses in core and cladding, distortion inter and intra modal dispersion, pulse broadening effect, Measurement standards and test procedures. -6hrs 
+
+7.RECEIVERS 
+Fundamental operations of analog and digital receivers, front end and pre-amplifier stage circuits, evaluation of probability of errors, sensitivity in receivers. Analog receivers and SNR calculation. -6hrs 
+
+8.FIBER OPTIC LINKS 
+Regenerative repeaters, digital links-link power and rise time budget analyses. Analog links, C/N ratio analysis. Coherent link-Homodyne and Heterodyne detection schemes. WDM Operational principles of WDM, DWDM. Concepts and components used for all optical N/Ws. -8hrs 
+
+REFRENCE 
+1.Gerd keiser: Optical fiber communication, TMCG. 
+2.John M Senior: Optical fiber communication, PHI. 
+3.Govind P Agarwal: Fiber optic communication systems, JOHN WILEY. 
+4.John Power: Fiber optic systems, TMH, ’99.

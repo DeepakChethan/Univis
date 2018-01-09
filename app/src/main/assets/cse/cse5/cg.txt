@@ -1,0 +1,50 @@
+
+
+ 2K11CI 55 : COMPUTER GRAPHICS 
+
+ Note: 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks: 100 Sessional Marks : 25 
+
+ PART A 
+
+ Chapter 1 : Introduction 6 Hours 
+
+ Applications of computer graphics; A graphics system; Images: Physical and synthetic; Imaging Systems; The synthetic camera model; The programmer’s interface; Graphics architectures; Programmable Pipelines; Performance Characteristics Graphics Programming: The Sierpinski gasket; Programming Two Dimensional Applications. 
+
+ Chapter 2 :The OpenGL 6 Hours 
+
+ The OpenGL API; Primitives and attributes; Color; Viewing; Control functions; The Gasket program; Polygons and recursion; The threedimensional gasket; Plotting Implicit Functions. 
+
+ Chapter 3 :Input and Interaction 6 Hours 
+
+ Interaction; Input devices; Clients and Servers; Display Lists; Display Lists and Modeling; Programming Event Driven Input; Menus; Picking; A simple CAD program; Building Interactive Models; Animating Interactive Programs; Design of Interactive Programs; Logic Operations. 
+
+ Chapter 4 :Geometric Objects and Transformations-I 6 Hours 
+
+ Scalars, Points, and Vectors; Three-dimensional Primitives; Coordinate Systems and Frames; Modeling a Colored Cube; Affine Transformations; Rotation, Translation and Scaling; 
+
+ PART B 
+
+ Chapter 5 :Geometric Objects and Transformations-II 6 Hours 
+
+ Geometric Objects and Transformations; Transformation in Homogeneous Coordinates; Concatenation of Transformations; OpenGL Transformation Matrices; Interfaces to three dimensional applications; Quaternion’s. 
+
+ Chapter 6 :Viewing 6 Hours Classical and computer viewing; Viewing with a Computer; Positioning of the camera; Simple projections; Projections in OpenGL; Hidden surface removal; Interactive Mesh Displays; Parallel-projection matrices; Perspective-projection matrices; Projections and Shadows. 
+
+ Chapter 7 :Lighting and Shading 6 Hours 
+
+ Light and Matter; Light Sources; The Phong Lighting model; Computation of vectors; Polygonal Shading; Approximation of a sphere by recursive subdivisions; Light sources in OpenGL; Specification of materials in OpenGL; Shading of the sphere model; Global Illumination. 
+
+ Chapter 8 :Implementation 6 Hours Basic Implementation Strategies; Four major tasks; Clipping; Line-segment clipping; Polygon clipping; Clipping of other primitives; Clipping in three dimensions; Rasterization; Bresenham’s algorithm; Polygon Rasterization; Hidden-surface removal; Antialiasing; Display considerations. 
+
+ References: 1. Edward Angel: Interactive Computer Graphics A Top-Down Approach with OpenGL, Fifth Edition, Pearson Education, 2008. 
+
+ 2. Donald Hearn and Pauline Baker: Computer Graphics- OpenGL Version, Third Edition, Pearson Education, 2004. 
+
+ 3. F.S. Hill Jr.: Computer Graphics Using OpenGL, Third Edition, PHI, 2009. 
+
+ 4. James D Foley, Andries Van Dam, Steven K Feiner, John F Hughes, Computer Graphics, Pearson Education 1997. 
+

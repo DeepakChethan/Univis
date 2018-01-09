@@ -1,0 +1,62 @@
+Simulation Lab using Labview 
+
+1. Logic Gate – realisation:- Basic AND, OR, NOT. NAND, XOR (using Basic Gates) 
+
+2. Realisation of adders and subtractors. 
+(a) Half adder 
+(b) Full adder 
+(c) Parallel adder and 
+(d) Subtractor. 
+
+3. Conversion of 4-bit Gray code to Binary code and vice-versa. 
+
+4. Realisation of 7-segment display using case structure. 
+
+5. Generation of signals 
+(a) sinusoidal, square and triangular signal using formula node 
+(b) three phase sinusoidal signal. 
+
+6. Realisation of half wave and full wave rectifier using formula node. 
+
+7. Realisation of Multiplexer (MUX) and De-multiplexer (DEMUX) 
+
+8. Continuous monitoring of temperature using random number, every 2seconds. 
+
+9. Invert the state of Boolean indicator twice until program is stopped by user. 
+
+10. Generate random numbers, multiply by 10 and display them in 3 waveform channels. 
+
+11. Generate random numbers, multiply by 100 and display them on waveform chart. 
+
+12. Evaluate the algebraic equations (2nos) using Formula node. 
+
+13. To find square root of a given number. If number if negative display -99999 using: 
+(a) Case structure 
+(b) Select function 
+(c) Fomula node. 
+
+14. Indicate using a LED, the deviation of the temperature from a user defined value. Use while loop, tolerance be +- 50C from the set point. 
+
+15. Convert a given number to Decimal, Hexadecimal and Binary 
+
+16. Generate 5000 random numbers and display them in a continuous fashion. 
+
+17. Generate random numbers between 0 and 10. Calculate their 5 point moving average. Display generated numbers and their moving average respectively. 
+
+18. Program to indicate the matching of 2numbers. 
+
+19. Evaluate y=sin(x) and display result. Use formula node. 
+
+20. Generate 5 Random numbers and display them in an ARRAY. Also display the reversed array. 
+
+21. Develop a simple Calculator. 
+
+22. Generate 2-D array (3*10) containing random numbers. Plot each row on its own graph. 
+
+23. Convert any array into Cluster and Cluster to an Array. 
+
+24. Convert a Random Number into different forms of STRING. 
+
+25. Program that takes 1-D array (10*1) as an input, multiply pair of elements and show the resulting array (5* 1). 
+
+26. Measure temperature approximately every 0.25s, for 10s, during the data Acquistion. Display the continuous temperature variation, temperature for first 10s, Average temperature over the 10s, maximum and min temperature, Temperature values during first 10s using an array.

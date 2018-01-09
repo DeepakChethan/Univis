@@ -1,0 +1,50 @@
+2K11CE607 GEO –TECHNICAL ENGINEERING LABORATORY 
+
+Hours / Week: 4 
+
+Exam: 3 Hours 
+
+Class Marks: 25 
+
+Max Marks: 100 
+
+1. Visual Soil Classification Tests 
+
+2. Specific Gravity Test 
+
+3. Moisture Content Determination 
+
+4. Sieve analysis for coarse grained soils 
+
+5. Hydrometer analysis for fine grained soils 
+
+6. Atterberg Limits and indices 
+
+7. Standard Proctor compaction test 
+
+8. Field Density Test (Both core cutter and sand replacement methods) 
+
+9. Constant head permeability test 
+
+10. Variable head permeability test 
+
+11. Unconfined compression test 
+
+12. Direct shear test on dry cohesionless soils 
+
+13. Direct shear test on cohesive soils 
+
+14. Triaxial Test (UU Test for cohesive soils) 
+
+15. Consolidation Test (Demonstration) 
+
+16. Exposure to modern equipments like Cone penetrometer, Auto consolido meter, Swell Test apparatus, automated triaxial shear test apparatus. 
+
+Text Book: 
+
+Soil Testing for Engineers Lam be T.W. John Wiley and Sons 
+
+References: 1. Soil Testing by S. Prakash, Asia Publishing Company
+
+ 2. Engineering Properties of soils and their measurement, by J.E. Bowels, Mc Graw Hill Co.
+

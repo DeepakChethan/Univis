@@ -1,0 +1,31 @@
+2K11CE304 FLUID MECHANICS and HYDRAULIC MACHINERY 
+
+Hours / Week: 4 Exam: 3 Hours 
+
+Total: 60 hours Class Marks: 25 
+
+Max Marks: 100 
+
+Properties of Fluids: Surfaces tension, capillarity, viscosity (04 Hrs.) 
+
+Pressure and its Measurements: Fluid pressure at a point, Pascals law, Absolute gauge and Vacuum pressures.Piezometer and manometers, total pressure, centre of pressure, plane and curved immersed surfaces. (10 Hrs.) 
+
+Kinematics: methods of analysis, Types of flow, three dimensional continuity equation, Velocity potential andStream function. (6 Hrs.) 
+
+Dynamics of Flow: Equation of motion, Eulers andBernoulli’sequation,Venturimeter. Orifice meter. (6 Hrs.) 
+
+Measuring Devices: Types of Orifice and mouth pieces, Hydraulic coefficients, Cc, Cd, and Cv. Notches and Weirs:Classification, Discharge equation for rectangular, triangular and trapezoidal notches, Cippoletti notch. (10 Hrs.). 
+
+Hydraulic Machines: impact of jet-falt, inclined curved vanes, fixed and moving conditions, Turbine classifications,performance of turbines - pelton, Kaplan and Francis (no problems). Working principles - centrifugal and reciprocating pumps. (12 Hrs.) 
+
+Dimensional Analysis: Buckingham II theorem, hydraulic similitudes, model analysis and Frouds and Reynoldsnumber. (12 Hrs.) 
+
+Question Paper Pattern: 
+
+Instructions: Students have to answer Part - A and Any Five full questions of the remaining selecting at least one from each part. 
+
+Part A : Compulsory covering the entire syllabus. 10 Questions to be set of 2 Marks each. Part B : 3 Questions to be set of 16 Marks each covering Topics : 1, 2 and 3 
+
+Part C : 5 Questions to be set of 16 Marks each covering Topics : 4, 5, 6 and 7 
+
+Reference Books: 1.Modi and Sethi fluid Mechanics. 2.Bansal K Fluid mechanics. 3.Raghunath Fluid Mechanics. 4.Ramamurtham fluid Mechanics and Machinery 5.Streeter Fluid mechanics and Hydraulic Machinery.

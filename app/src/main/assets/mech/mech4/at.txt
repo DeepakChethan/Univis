@@ -1,0 +1,55 @@
+2K11 ME 405 Applied Thermodynamics 
+
+Lecture: 4 Hrs / week Exam: 3 Hrs 
+
+Total No. of Hours: 60 Internal Assessment Marks: 25 
+
+Exam Marks: 100 
+
+PART A 
+
+1. Properties of steam: 
+
+Steam generation - Enthalpy, Entropy and internal energy of steam - steam tables and charts - vapour processes - Determination of dryness fraction problems 6 
+
+2. Steam Nozzles: Expansion of steam through nozzles - optimum pressure ratio for maximum discharge - determination of cycles area of throat and exit - concepts of super saturation flow of steam. 8 
+
+3.Steam Turbines: 
+
+Principle of operation of steam turbines - Types of steam turbines - The simple impulse steam turbine - Reaction turbine - Velocity diagrams for impulse and reaction turbines - Power developed in turbines - Diagram efficiency - Stage efficiency - improvement of steam turbine efficiency - concept of reheat cycle, Regenerative cycle and Binary vapour cycle - Governing of steam turbines- problem. 10 
+
+PART B 
+
+5. Refrigeration: 
+
+Introduction - Application of refrigeration - Performance of a refrigerator (COP) - Units of refrigeration - The reverse cannot cycle - The reversed Brayton or Bell Coleman air cycle - Air refrigeration system - Vapour compression refrigeration system - Methods to improve simple refrigeration system - Properties of a good refrigerant – Vapour absorption refrigeration System – COP interms of operating temperatures of vapour absorption refrigeration system - Electrolux refrigeration system - Steam jet refrigeration system – Non conventional refrigeration systems - Thermoelectric refrigeration - Pulse tube refrigeration - Vortex tube refrigeration - Concept of low temperature refrigeration. 12 
+
+6. Air Conditioning: 
+
+Summer air conditioning and winter air conditioning, equipments used for air conditioning systems.Introduction to psychrometry, terms involved in air conditioning - Psychrometric chart - Psyctrometric processes - Concept of comfort air conditioning - Cooling loads affecting air conditioning 06 
+
+Part C 
+
+7. vapour power cycles 
+
+Cornot vapour cycle, draw backs as a reference cycles, simple rankine cycle, T-S diagram , analysis for performance. Comparison of carnot and rankine cycles, effects of pressure and temperature on rankine cycle performance. Actual power cycles. Ideal and practical regenerative rankine cycles, open and closed feed water heaters, reheat rankine cycles . 10 
+
+8. Displacement Compressors:- Use of compressed air - Reciprocating compressors - single stage compressor without clearance and without clearance volumetric efficiency - Best value for index of compression - Multistage reciprocating air compressors - minimum work input in multi stage compression - Heat rejected per Kg of air - Indicators diagram - Mean effective pressure - Indicated power - shaft power - Optimum intermediate pressure in two stage compressors - Numerical problems. 10 
+
+Book of Reference: 
+
+1. Thermal Engineering by R.K. Rajput 
+
+2. Thermal Engineering by A.S. Sarao 
+
+3. Engineering Thermodynamics by Kothandanamam and Co 
+
+4. Thermodynamics by R Yadav. 
+
+5. Thermodynamics an engineering approach – Yunus . A. Cengel and (SI Units) Michacl A. Boles (Tata Mc Graw – Hill 4thEdition 2005 Print) 
+
+Scheme of Examination: 
+
+Questions to be set: 3 questions from part A 3 questions from part B 2 questions from part C 
+
+Students are to answer 5 questions choosing at least 01questions from each Part.

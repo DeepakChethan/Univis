@@ -1,0 +1,42 @@
+
+
+ 2K11CE1101 ENGINEERING MECHANICS 
+
+ (Common to all branches except B.Arch) 
+
+ Hours / Week: 4 Exam: 3 Hours Total: 60 hours Class Marks: 25 Max Marks: 100 
+
+ PART –A
+
+ 1.Introduction : Concept of particle and rigid body, force and its characteristics, classification of force system, principle of transmissibility of a force, composition of force, resolution of a force, moment of a force, couple and its characteristics, replacement of force at4hrs.som 
+
+ 2.Resultant of coplanar force system : Resultant and coplanar concurrent force system, resultant of coplanar parallel force system, resultant of coplanar non-concurrent force system, force polygon and funicular polygon. 6 hrs. 
+
+ 3.Equilibrium of coplanar force system : Equilibrium of coplanar concurr Equilibrium of coplanar parallel force system, Types of beams, types of loadings, types of supports, Equilibrium of coplanar non-concurrent force system, reaction of statically determinate beams subjected to various types of loads. 
+
+ 6 hrs. 4.Trusses: Classification of trusses, analysis of perfect plane trusses by the method of joints and section
+
+ 5.Friction: Introduction, theory of friction laws of dry friction, equilibrium of block on horizontal and inclined planes, equilibrium of ladder, equilibrium of block and wedge. 7 hrs
+
+. 
+
+ PART –B 5.Centroid and moment of inertia: Centroid of simple geometric areas (from first principles), centroid of composite areas and built up sections. Rectangular MI, Polar MI, radius of gyration, product of inertia, parallel axes theorem, perpendicular axis theorem, MI of simple geometric areas (from first principles), MI of composite areas and built up sections. 8 hrs. 
+
+ 6.Kinematics: Kinematics of rectilinear motion with uniform and variable acceleration, kinematics of curvilinear motion in vertical plane –projectiles. 8 hrs. 
+
+ 7.Kinetics: Kinetics of rectilinear motion,equilibrium, D’Alembert’skineticsofcurvilinear motion-banking and super elevation, Design speed, Max speed , Min speed, motion on level circular path and motion on banked circular path. 8 hrs. 
+
+ 8.Work and Energy : Potential energy, kinetic energy, work done by a force, work-energy equation, work done by force on spring, virtual work, principles of virtual work. 6 hrs. 
+
+ Question paper pattern: 
+
+ The question paper contains of 4 question from Part A and 4 questions from Part B. The students have to answer 5 full questions, selecting at least 2 questions from each part. 
+
+ 
+
+ Reference books: 1.Engineering Mechanics –S SBhavikatti, New Age International (P) Ltd., 
+
+ 2.Engineering Mechanics –R K Bansal, Laxmi Publications (P) Ltd., 
+
+ 3.Engineering Mechanics –S Ramamrutham, DhanpatRai Publishing Company (P) Ltd., Mechanics for Engineers –Beer and Johnston, McGraw Hill book Company. 
+

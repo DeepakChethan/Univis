@@ -1,0 +1,47 @@
+2K11 ME 605 ADVANCED MATERIALS TECHNOLOGY 
+
+Lecture: 4 Hrs / week 
+
+Total No. of Hours: 48 
+
+Internal Assessment Marks: 25 
+
+Examination: 3 Hrs 
+
+Max marks for Examination: 100 
+
+UNIT I 
+
+1. Ferrous Materials: Iron-Carbon Equilibrium phases. Non- equilibrium T.T.T phase diagram. Phases formed in these conditions. Influence of alloying elements on Non equilibrium diagrams. 8 
+
+2. Non-ferrous materials: Phase diagrams of Al, Cu, Ni, Mg and Ti. 4 
+
+3. Heat treatment of ferrous materials: Annealing. Normalising. Hardening. Tempering. Surface hardening methods: carburizing, cyaniding, nitriding. Flame and induction hardening. Heat treatment of Non-ferrous materials: Solutionising, precipitation hardening and aging. 6 
+
+UNIT II 
+
+4.Composite Materials: Types of composite materials. Properties of fibers and matrix materials. General methods of production, properties and applications of FRP, PRC, MMC and structural composites. Expressions for density, Young’s modulus, and strength of continuous fiber reinforced composites in iso – strain and iso – stress conditions. Applications of composite materials in aerospace, automobile and other fields. 12 
+
+UNIT III 
+
+5. Composition, structure and applications of the following materials: (a) Cast irons (b) Plain Carbon Steels (c) Alloy steels (d) Copper alloys (e) Aluminium alloys (f) Titanium Alloys. 8 
+
+6.Smart Materials: Piezo -electric materials, Electrostrictive, magnetostrictive materials, shape memory alloys, fiber optic sensors. 5 
+
+7. Nano materials and Technology: Introduction,. Overview of nano-science theory. Properties at nano-scale. Nano-materials, structures and nano-surfaces. Carbon-based nano-materials. Structure and property characterization of nano-materials. 5 
+
+Books for Reference: 1. William D. Callister: Material Science and Engineering-An Introduction. John Wiley and Sons Inc. 1997
+
+ 2. William F Smith: Principles of Materials Science and Engineering. Tata Mc Graw Hill Inc 1996.
+
+ 3. Khanna O P : A Textbook of Materials Science and Metallurgy. Dhanpat Rai Publication 1999
+
+ 4. Guozhong Cao : Nanostructutres and Nanomaterials: Synthesis, Properties and Applications , John Wiley Publications
+
+ 5. Fisher T : Materials Science for Engineers. Elsevier Publications 2009.
+
+ 
+
+Scheme of Examination: 
+
+Examiners to set 3 Questions each in Unit I and Unit III and 2 questions in unit II. Students to answer a total of 5 questions choosing any 2 question in unit I and unit III.

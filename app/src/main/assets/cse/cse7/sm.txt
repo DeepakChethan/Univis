@@ -1,0 +1,40 @@
+2K11CS 74.1 : SIMULATION AND MODELING 
+
+Note : 
+
+FOUR questions from PART A and FOUR questions from PART B to be set. 
+
+Students should answer FIVE questions selecting atleast TWO from each PART . 
+
+For every SIX hours of syllabus ONE question may be set. 
+
+Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+PART A 
+
+Chapter 1: Introduction 4 Hours When Simulation is the Appropriate Tool; When Simulation is Not Appropriate; Advantages and Disadvantages of Simulation, Areas of Application, Systems and System Environment, Components of a System, Discrete and Continuous Systems, Model of a System, Types of Models, Discrete Event System Simulation, Steps in a Simulation Study. 
+
+Chapter 2: Simulation Examples 4 Hours Characteristics of Queuing Systems, Queuing Notation, Simulation of Queuing Systems, Simulation of Inventory Systems . 
+
+Chapter 3: General Principles 4 Hours Concepts in Discrete Event Simulation, The Event Scheduling/Time Advance Algorithm, World Views, Manual Simulation Using Event Scheduling. 
+
+Chapter 4: Probability Theory and Random Number Generation 8 Hours Introduction to Probability Theory, Random Variables and their Properties, Estimation of mean, variance and correlations, confidence intervals, Hypothesis tests for Mean, Properties of Random Numbers, Generation of Pseudo Random Numbers, Techniques for Generating Random Numbers, Tests for Random Numbers. 
+
+Chapter 5: Random Variate Generation 4 Hours Inverse Transform Technique, Exponential Distribution, Uniform Distribution, Discrete Distributions, Acceptance Rejection Technique, Poisson Distribution, Gamma Distribution. 
+
+PART B 
+
+Chapter 6: Input Modeling 6 Hours Data Collection, Identifying the Distribution with Data, Parameter Estimation, Goodness of Fit Tests, Selecting Input Models without Data, Multivariate and Time Series Input Models. 7 
+
+Chapter 7: Verification and Validation of Models 6 HoursModel Building, Verification and Validation, Verification of Simulation Models, Calibration and Validation of Models. 
+
+Chapter 8: Output Analysis for a Single Model 6 Hours Types of Simulations with respect to Output analysis. Stochastic nature of output data, Measures of Performance and their estimation, Output analysis of terminating simulations, Output analysis for Steady State Simulations. 
+
+Chapter 9: GPSS and SIMSCRIPT 6 Hours General Descriptions, Facilities, Storages, Queues, Transfer Blocks, Control Statements, Variables, Logic Switches, Boolean Variables, Functions Concept of User Chains, Facility Pre emption, Matching, Introduction to SIMSCRIPT and Some Simple Program using Simscript. 
+
+References : 1. Jerry Banks, John S Carson, Barry L Nelson, David M Nicol, Discrete Event System Simulation, Third Edition, Pearson Education/PHI, India.
+
+ 2. Averill M Law, W David Kelton, “Simulation Modeling and Analysis”, Third Edition, McGraw Hill.
+
+ 3. Geoffery Gordon, System Simulation, Second Edition, PHI.
+

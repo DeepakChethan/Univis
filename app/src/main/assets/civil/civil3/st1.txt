@@ -1,0 +1,27 @@
+2K11CE302 SURVEYING THEORY –I 
+
+Hours / Week: 4 Exam: 3 Hours 
+
+Total: 60 hours Class Marks: 25 
+
+Max Marks: 100 
+
+1.Chain and compass surveying: Types of chains Tapes, Types of Compass, Designation of bearing, Calculation of angles from bearing and bearing from measured angles, local attraction, Numerical problems. (8 hrs.) 
+
+2.Plan table surveying: Introduction, Plane table and accessories, advantages, and disadvantages of plane table surveying, plane table methods, solution of two and three point problems, traversing with plane table. (14 hrs.) 
+
+3.Levelling and contouring : Introduction, Technology, types of levels, leveling staff, Adjustments of a dumpy level, Booking and reduction of levels by different methods, differential leveling and sensitiveness of bubble tube, Numerical problems. (16 hrs.) 
+
+4.Measurement of areas and volumes: Introduction, methods of finding areas mid ordinated rule, trapezoidal and Simpons rule, use of planimeter, numerical problems. (10 hrs.) 
+
+5.Computer programming in surveying: Calculation of areas and volumes using differential formulae, reducing levels from the field data by different methods, numerical problems. (12 hrs.) 
+
+Question Paper Pattern: 
+
+Total eight questions should be set. 
+
+Two Questions each from Second and Third Chapters, One question each from 1st, 4th and 5th chapters, one compulsory question covering all the chapters. All questions carry equal marks (i.e., 20 each) 
+
+Students required to answer the compulsory question and any four from the remaining seven questions. 
+
+Reference Books: 1.Punmia B.C - Surveying - Vol. I and II, Standard Book House, New Delhi. 2.Arora K.R - Surveying - Vol - I and II, Standard Book House, New Delhi. 3.Duggal. S.K. - Surveying - Vol - I and II Tata MCGRAW Hill Publications co. Ltd.
