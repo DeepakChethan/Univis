@@ -1,6 +1,8 @@
 package com.uvce.univis.Activities;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -13,6 +15,8 @@ public class SettingActivity extends AppCompatActivity {
 
     private Spinner course, semester;
     private Button button;
+    private String co;
+    private int se;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,15 +30,21 @@ public class SettingActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //Update the shared prefs
-                String co;
-                int se;
-                co=course.getSelectedItem().toString();
-                se= (int) semester.getSelectedItemId();
 
+                co=course.getSelectedItem().toString();
+                se= (int) semester.getSelectedItem().toString().charAt(0);
+                // Save the user settings
+                // se values are [0 for 1st year, 1 for 3rd sem, 2 for 4th sem and so on]
+                SharedPreferences sharedPreferences = getSharedPreferences("sub_info", Context.MODE_PRIVATE);
+                SharedPreferences.Editor edit= sharedPreferences.edit();
+                edit.putString("course",co);
+                edit.putInt("sem",se);
+                edit.apply();
                 //Start our main activity
                 Intent intent = new Intent(getApplicationContext(),MainActivity.class);
                 startActivity(intent);
             }
         });
     }
+
 }

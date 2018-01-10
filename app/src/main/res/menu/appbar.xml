@@ -3,14 +3,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:icon="@drawable/change_sem_icon"
+        android:icon="@drawable/ic_settings_24dp"
         android:title="Change Sem"
         app:showAsAction="always"
         android:id="@+id/changeSem"
         />
 
     <item
-        android:icon="@drawable/about_icon"
+        android:icon="@drawable/ic_info_24dp"
         android:title="Info"
         app:showAsAction="always"
         android:id="@+id/info"
