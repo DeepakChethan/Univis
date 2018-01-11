@@ -1,0 +1,35 @@
+2K11CIL 58 : JAVA PROGRAMMING LABORATORY  (Regular Laboratory) 
+
+ Hours per Week : 3 Examination Marks : 100 Sessional Marks : 25
+
+ 1. Program to implement Stack operations ( push, pop and Display). 
+
+ 2. Program to print all the solutions of a quadratic equation. 
+
+ 3. Program to read student’s name, regno, marks and display the student details with total marks, using single and multilevel inheritance. 
+
+ 4. a)Program to implement Queue operations ( insert, delete and display). 
+    b)Program to read two integers, perform division of two numbers, display the result with appropriate messages using the concept of Exception Handling.
+    
+ 5. Implement different String Operations(strcpy, strlength, strcat, strcmp, str.charAt(i)) using method overloading. 
+
+ 6. Program to multiply given two matrices of size mxn. 
+
+ 7. a)Program to count the frequency of words. (using String Tokenizer) 
+    b)Program to read N values using an array and sort them using Bubble Sort.
+    
+ 8. Program to perform addition, subtraction, division and multiplication of complex numbers. (use method overloading) 
+
+ 9. Program to find the values of unknowns in the polynomial degree of n. 
+
+ 10. Program to create threads A,B and C for three different tasks using Thread class with a thread for main method. 
+
+ 11. Program to overload the function search() to search an integer key value and key value of type double using Binary Search. 
+
+ 12. Applet program that automatically display the text with Font style, Font type using getParameter(), getCodeBase() and getDocumentBase().
+
+ 13. Create two classes ‘Teacher’ and ‘Student’. Perform interfacing of classes with appropriate attributes. 
+
+ 14. Develop an Applet that receives an integer in one text field and computes it’s factorial value and returns it in another text field, when the button named “computes” is clicked. 
+
+ Note: The evaluation is based on any one program from the list of programs.

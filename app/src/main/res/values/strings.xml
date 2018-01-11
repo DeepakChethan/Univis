@@ -17,6 +17,7 @@
         <item>ECE</item>
         <item>EEE</item>
         <item>MECH</item>
+        <item>OTH</item>
     </string-array>
 
     <string-array name="sem_list">

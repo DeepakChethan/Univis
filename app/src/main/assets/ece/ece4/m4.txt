@@ -1,0 +1,55 @@
+
+
+ 2K11 M 41: ENGINEERING MATHEMATICS –IV 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART-A 
+
+ Unit 1 : 
+
+ Sets in a complex plane –Functions of a complex variables. Limit, Continuity and Differentiability (definitions only). Analytic function, Cauchy-Riemann equations in Cartesian and Polar form. Harmonic functions, constructions of analytic functions (Cartesian and polar forms). 
+
+ Unit 2 : 
+
+ Line integral. - corollariesCauchy?stheorem.Cauchy?s integral for derivatives, conformal transformations: 1/z, z2, e2, and z+(a2/z) ( z ? 0). Bilinear 
+
+ Unit 3 : 
+
+ Power series, convergence, radius of convergence only) Singularities. Poles. Calculation of residues. Residue theorem (without proof)-problems. 
+
+ Unit 4 : 
+
+ Evaluation of counter integrals. 
+
+ PART-B 
+
+ Unit 5 : 
+
+ Numerical solutions of algebraic and transcendental equations- solution by Bisection, Ramanujan method, linear iteration and Newton-Raphson methods. Solution of linear simultaneous equations: Gauss elimination method, Gauss Jordan method, Gauss seidel methods, LU decomposition method of Crout, Doolittle and Cholesky. 
+
+ Unit 6 : 
+
+ Finite differences (Forward and Backward differ backward interpolation formulae, Central difference formulae: S Interpolation with unequal spaced points: Lagrange interpolation formula and inverse interpolation formulae and Hermite interpolation formula. 
+
+ Unit 7 : 
+
+ Divided differences and their properties: Newton?s general interpolat iteration, Numerical differentiation using Newto Numerical integration: Trapezoidalrdrule,Simthpson?sethod,rule, Boole?3/8Simpsod weddle?s rule. 
+
+ Unit 8 : 
+
+ Numerical solution of ordinary differential equat successive approximation, modified Euler?s metho order, Predictor and corrector methods- Adams-Bashforth method, Adams-Moultons method. 
+
+ References: 
+
+ 1. Erwin Kreyszig, Advanced Engineering Mathematics, John Wiley, 10th edition, 2011. 
+
+ 2. O Neil, Advanced Engineering Mathematics, Pearson/Thompson. 
+
+ 3. S.S.Sastry, Introductory methods of Numerical analysis, 3rd edition, Prentice-Hall India 
+
+ 4. M.K.Jain, S.R.K.Iyengar, R.K.Jain, Numerical methods for scientific and engineering computation, New Age International publishers.

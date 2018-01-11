@@ -4,10 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_margin="16dp"
+    
+    android:background="@color/colorPrimary"
     tools:context="com.uvce.univis.Activities.SettingActivity"
     >
-
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/ic_launcher"/>
 
 
     <TextView
@@ -16,14 +22,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/select_your_course"
-        android:layout_marginBottom="@dimen/dope_dimension"
+        android:textColor="@android:color/white"
+        
         android:textAlignment="center"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
          />
 
     <Spinner
         android:id="@+id/course"
+        android:layout_margin="26dp"
         android:layout_width="match_parent"
+        style="@style/spinner_style"
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/dope_dimension"
         android:layout_below="@id/textView"
@@ -34,7 +43,9 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="26dp"
         android:text="@string/select_your_semester"
+        android:textColor="@android:color/white"
         android:layout_marginBottom="@dimen/dope_dimension"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
         android:textAlignment="center"
@@ -45,6 +56,8 @@
         android:id="@+id/semester"
         android:layout_width="match_parent"
         android:entries="@array/sem_list"
+        android:layout_margin="26dp"
+        style="@style/spinner_style"
         android:layout_marginBottom="@dimen/dope_dimension"
         android:layout_height="wrap_content"
         android:layout_below="@id/textView2"
@@ -55,6 +68,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/lets_go"
+        android:layout_margin="26dp"
+        android:background="@android:color/white"
+        android:textColor="@color/colorPrimary"
         android:layout_below="@id/semester"
         />
 

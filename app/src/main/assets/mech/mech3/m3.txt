@@ -1,0 +1,45 @@
+
+
+ 2K11 M31: ENGINEERING MATHEMATICS –III 
+
+ Note : 
+
+ FOUR questions from PART A and FOUR questions from PART B to be set. Students should answer FIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question may be set. 
+
+ Hours per Week : 4 Examination Marks 100 Sessional Marks : 25 
+
+ PART A 
+
+ Unit 1 : Partial Differential Equations (P.D.E): 
+
+ Formulation of P.D.E, solution of non-homogenous P.D.E by direct integration, Method of separation of variables. (First and second order type Pp+Qq=R, solution of standard types of non-linear partial differential equations - Charpit Method. 
+
+ Unit 2 : Fourier Series: Periodic functions, Fourier expansions, half range Fourier expansions, Complex form of Fourier Series. Practical harmonic analysis. 
+
+ Unit 3 : Fourier Transforms: 
+
+ Finite and Infinite Fourier transform, Fourier Sine and Cosine transforms, properties, Inverse transforms. 
+
+ Unit 4 : Z-Transforms Basic definition: 
+
+ Standard Z-transforms, Linearity property, damping rule, shifting rule, initial value and final value theorems. Inverse Z-transform. Application of Z-transforms to solve difference equations. 
+
+ PART B 
+
+ Unit 5 : Statistics and Probability: 
+
+ Curve fitting, Fitting of a straight line, Fitting of curves of the form y=abx , Fitting of a parabola, correlation, Regression, basic concepts of probability, Addition theorem, conditional probability, multiplication theorem, Baye’s theorem. 
+
+ Unit 6 : Random variables: 
+
+ Discrete and continuous random variables PDF-CDF, Binomial, Poisson, Exponential and normal distributions. 
+
+ Unit 7 : Joint Probability and Markov Chains: 
+
+ Joint probability distributions, concept of joint probability, joint distributions, discrete and continuous, independent random variables, problems on expectations and variance. 
+
+ Markov Chains: probability vector, stochastic matrices, Fixed vectors and regular stochastic matrices, higher transition probabilities, stationary distributions and absorbing states. 
+
+ Unit 8 : Calculus of Variations: 
+
+ Variation of a function and a functional, Exter equation, standard variational problems, includiong Geodesics, Minimal surface of revolution,hanging chain, brahistochrone problems.

@@ -146,7 +146,7 @@ public class SyllabusFragment extends Fragment {
                         break;
                 }break;
             case "EEE":
-                relative_address="eee";
+                relative_address="eee/";
                 switch (pope){
                     case 3: curr_sub_list=s.EEE3;
                         curr_file_list=s.EEE3_files;
@@ -201,6 +201,11 @@ public class SyllabusFragment extends Fragment {
                         relative_address+="ece8/";
                         break;
                 }break;
+            case "OTH":
+                relative_address="oth/";
+                curr_sub_list=s.OTH;
+                curr_file_list=s.OTH_files;
+                break;
             
         }
         // its 18 because the margin value is 8+8+8+8 and padding

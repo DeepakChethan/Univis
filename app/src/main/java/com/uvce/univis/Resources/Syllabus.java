@@ -31,30 +31,29 @@ public class Syllabus {
 
         public String[] CSE7={"Advanced Computer Architecture","Soft Computing","Cryptography and Network Security","Simulation and Modelling",
                 "Networking laboratory","IP lab","Project"};
-        public String[] CSE7_files={"acl.txt","sc.txt","cns.txt","sm.txt","nl.txt","ipl.txt","proj.txt"};
+        public String[] CSE7_files={"aca.txt","sc.txt","cns.txt","sm.txt","nl.txt","ipl.txt","proj.txt"};
 
         public String[] CSE8={"Compiler Design","Distributed Operating System","Mobile Computing","Wireless Sensor Networks","C# laboratory","Project"};
-        public String[] CSE8_files={"cd.txt","dos.txt","mc.txt","wsn.txt","","proj.txt"};
+        public String[] CSE8_files={"cd.txt","dos.txt","mc.txt","wsn.txt","cs.txt","proj.txt"};
 
 
         //The Civil and Corresponding files
         public String[] CIVIL3={"Engineeing Mathematics 3","Theory of Structures","Surveying Theory 1","Building Materials and construction",
-                "Fluid Mechanics and hydraulic machinery","Engineering Geology","SOM lab","Surveying Practice 1","Kannada"};
-        public String[] CIVIL3_files={"m3.txt","ts.txt","st1.txt","bmc.txt","fmhm.txt","eg.txt","soml.txt","sp1.txt","k.txt"};
+                "Fluid Mechanics and hydraulic machinery","Engineering Geology","SOM lab","Surveying Practice 1"};
+        public String[] CIVIL3_files={"m3.txt","ts.txt","st1.txt","bmc.txt","fmhm.txt","eg.txt","soml.txt","sp1.txt"};
 
         public String[] CIVIL4={"Theory of structures 2","Concrete technology","Design of RC structures","Surveying Theory 2",
-                "Basics of soil mechanics","Building Drawing","Surveying Practice 2","Fluid Mechanics Lab","Geology Lab","Environmental Science"};
-        public String[] CIVIL4_files={"ts2.txt","ct.txt","drcs.txt","st2.txt","bosm.txt","bd.txt","sp2.txt","fml.txt","gl.txt","es.txt"};
+                "Basics of soil mechanics","Building Drawing","Surveying Practice 2","Fluid Mechanics Lab","Geology Lab"};
+        public String[] CIVIL4_files={"ts2.txt","ct.txt","drcs.txt","st2.txt","bosm.txt","bd.txt","sp2.txt","fml.txt","gl.txt"};
 
         public String[] CIVIL5={"Design of steel structures","Hydrology and Irrigation Engineering","Environmental Engineering 1",
-                "Transportation Engineering 2","Advanced material Construction and management","Earth and Earth Retaining Structures","Design and Drawing RCC",
-                "Technical English"};
+                "Transportation Engineering 2","Advanced material Construction and management","Earth and Earth Retaining Structures","Design and Drawing RCC"};
         public String[] CIVIL5_files={"dss.txt","hie.txt","ee.txt","te1.txt","amcm.txt","eers.txt","dd.txt","te.txt"};
 
         public String[] CIVIL6={"Theory of structures 3","Hydraulic Structures","Transportation Engineering 2","Environmental Engineering 2",
-                "Design and Drawing Steel Structures","Elective","Geo Technical Engineering laboratory","Highway Materials laboratory","Engineering Project Tour",
-                "Constitution"};
-        public String[] CIVIL6_files={"ts3.txt","hs.txt","te2.txt","ee2.txt","ddss.txt","elect.txt","gtel.txt","hml.txt",""};
+                "Design and Drawing Steel Structures","Elective","Geo Technical Engineering laboratory","Highway Materials laboratory","Engineering Project Tour"
+                };
+        public String[] CIVIL6_files={"ts3.txt","hs.txt","te2.txt","ee2.txt","ddss.txt","elect.txt","gtel.txt","hml.txt","ept.txt"};
 
         public String[] CIVIL7={"Remote Sensing and IGS","Foundation Engineering","Bridge Engineering","Transportation Engineering 3",
                 "Design and drawing Hydraulic Structures","Elective"};
@@ -129,7 +128,7 @@ public class Syllabus {
 
         public String[] MECH6={"Object Oriented Programming","Machine Design 2","Manufacturing Technology 3","Heat and Mass transfer",
                 "Advanced material technology","CAD lab 2","Design Lab 1","Manufacturing Lab"};
-        public String[] MECH6_files={"oop.txt","md2.txt","mt3.txt","hmt.txt","amt.txt","cl2.txt","dl2.txt","ml.txt"};
+        public String[] MECH6_files={"oop.txt","md2.txt","mt3.txt","hmt.txt","amt.txt","cl2.txt","dl1.txt","ml.txt"};
 
         public String[] MECH7={"Automation in Manufacturing","Operation Research","Theory of Elasticity","Theory of IC engines","Electives",
                 "Simulation Laboratory","Design Lab 2","Heat transfer lab"};
@@ -138,5 +137,9 @@ public class Syllabus {
         public String[] MECH8={"CAD and Robotics","Finite Element Analysis","Energy Resources and powerplants","Total quality management",
                 "Elective","CAD and robotics laboratory","Project Work","Seminar","Project Tour"};
         public String[] MECH8_files={"ccr.txt","fea.txt","erpp.txt","tqm.txt","elect.txt","ccrl.txt","p.txt","s.txt","pt.txt"};
+
+        public String[] OTH={"Kannada","Environmental Science","Technical English","Constitution"};
+        public String[] OTH_files={"k.txt","es.txt","te.txt","ci.txt"};
+
 
 }

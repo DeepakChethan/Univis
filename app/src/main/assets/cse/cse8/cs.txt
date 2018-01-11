@@ -1,0 +1,43 @@
+2K11CIL85 C# .NET LABORATORY 
+
+ Hours per week : 3 Examination Marks : 100 Sessional Marks : 50 
+
+ WRITE AND EXECUTE C# PROGRAMS ON .NET PLATFORM 1.Program to Check whether a number is Palindrome or not. 
+
+ 2. Program to demonstrate Command line arguments Processing. 
+
+ 3. Program to find the roots of Quadratic Equation. 
+
+ 4. Program to demonstrate boxing and unBoxing. 
+
+ 5. Program to implement Stack operations. 
+
+ 6. Write a program to demonstrate Operator overloading. 
+
+ 7. Program to find the second largest element in a single dimensional array. 
+
+ 8. Program to multiply to matrices using Rectangular arrays. 
+
+ 9. Find the sum of all the elements present in a jagged array of 3 inner arrays. 
+
+ 10. Write a program to reverse a given string . 
+
+ 11. Using Try, Catch and Finally blocks Program to demonstrate error handling. 
+
+ 12. Design a simple calculator using Switch Statement . 
+
+ 13. Demonstrate Use of Virtual and override key words with a simple program
+
+ 14. Implement linked lists using the existing collections name space. 
+
+ 15. Write a program to demonstrate abstract class and abstract methods . 
+
+ 16. Program to build a class which implements an interface which already exists. 
+
+ 17. Write a program to illustrate the use of different properties . 
+
+ 18. Demonstrate arrays of interface types with a C# program
+
+ The student should develop an integrated mini project to demonstrate their skill on .NET platform 
+
+ Note: The evaluation is based on execution of any one program from PART A and demonstration of mini project. The student has to submit a report to the examiner.

@@ -4,29 +4,31 @@
  
  Note: 
  FOUR questions from PARTA and FOUR questionsfromPARTBtobeset. Students should answerFIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question maybe set. 
- HoursperWeek:4 ExaminationMarks:100 SessionalMarks:25 
- PARTA 
+PARTA 
  
- Chapter1:Introduction 6Hours 
- Overview:Services,MechanismsandAttacks,TheOSISecurityArchitecture,AModelofNetworkSecurity.ClassicalEncryptionTechniques:SymmetricCipherModel,SubstitutionTechniques,TranspositionTechniques 
+ Chapter 1:Introduction 6Hours 
+ Overview: Services, Mechanisms and Attacks,The OSI Security Architecture, A Model of Network Security. Classical Encryption Techniques: Symmetric Cipher Model, Substitution Techniques,Transposition Techniques 
  
- Chapter 2:SymmetricCiphers 6 Hours 
- BlockCipherandtheDataEncryptionStandard:BlockCipherPrinciples,TheDES,TheStrengthof DES,DifferentialandLinearCryptanalysis.ConfidentialityusingConventionalEncryption:PlacementofEncryptionFunction,TrafficConfidentiality,KeyDistribution,RandomNumberGeneration. 
+ Chapter 2:Symmetric Ciphers 6 Hours 
+ Block Cipher and the Data Encryption Standard: Block Cipher Principles,The DES,The Strength of DES, Differential and Linear Cryptanalysis. Confidentiality using Conventional Encryption: Placement of Encryption Function,Traffic Confidentiality, Key Distribution, Random Number Generation. 
  
- Chapter 3: Number theory6 Hours 
- NumberTheory:PrimeNumbersFormat’sandEuler’sTheorems,TestingforPrimality,Chinese Remainder theorem 
+ Chapter 3: Number theory 6 Hours 
+ Number Theory: Prime Numbers Format’s and Euler’s Theorems, Testing for Primality, Chinese Remainder theorem 
  
- Chapter 4: PublicKeyEncryption 6Hours 
- PublicKeyCryptographyandRSA:PrinciplesofPublicKeyCryptosystems,TheRSAAlgorithms,KeyManagement,DiffieHellmanKeyExchange, Elliptic curve cryptography. 
- PARTB 
- 
- Chapter 5:AuthenticationProtocols 8Hours 
- MessageAuthentication:AuthenticationRequirements,AuthenticationFunctions,MessageAuthenticationCodes, Hash functions, Security of Hash functions and MACs, Secure Hash algorithms, DigitalSignatures. 
+ Chapter 4: PublicKeyEncryption 6 Hours 
+ Public Key Cryptography and RSA: Principles of Public Key Cryptosystems, The RSA Algorithms, Key Management, DiffieHellman Key Exchange, Elliptic curve cryptography. 
 
- Chapter6:NetworkSecurity 8Hours 
- AuthenticationApplications:Kerberos,X.509AuthenticationService,PrettyGoodPrivacy, S/MIME. IPSecurity:Overview,IPSecurityArchitecture,AuthenticationHeader,EncapsulationSecurityPayload.WebSecurity:WebSecurity considerations,SecureSocketsLayerandTransportLayerSecurity. 
- Chapter7:SystemSecurity 8Hours 
- Intruders, Intrusion detection,VirusesandRelatedThreats,CounterMeasures,FirewallsanditsDesignPrinciples. 
+PART B
+ 
+ Chapter 5: Authentication Protocols 8 Hours 
+ Message Authentication: Authentication Requirements ,Authentication Functions, Message Authentication Codes, Hash functions, Security of Hash functions and MACs, Secure Hash algorithms, DigitalSignatures. 
+
+ Chapter 6: Network Security 8Hours 
+ Authentication Applications: Kerberos, X.509 Authentication Service, PrettyGoodPrivacy, S/MIME. IPSecurity: Overview, IPSecurity Architecture, Authentication Header,Encapsulation Security Payload. WebSecurity: WebSecurity considerations, SecureSockets Layer and Transport Layer Security.
+ 
+ Chapter7: System Security 8Hours 
+ Intruders, Intrusion detection, Viruses and Related Threats, Counter Measures, Firewalls and its Design Principles.
+ 
  References: 
  1. WilliamStallings,CryptographyandNetworkSecurity, Fourth Edition,PearsonEducation/PHI, 2009
  2. Behrouz A. Forouzan: Cryptography and Network Security, Special Indian Edition, Tata McGraw-Hill,2007. 
