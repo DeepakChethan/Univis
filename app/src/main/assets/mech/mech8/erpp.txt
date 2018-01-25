@@ -8,7 +8,9 @@ Examination: 3 Hrs Max marks for Examination: 100
 
 UNIT-I 
 
-1. Hydro-Electric Power Plant: Energy lines- HGL and TEL, hydro meteoric survey, selection of site for a dam, head race, tail race, gross head, net head, Comparison of Thermal and Hydroelectric Power Cost. Assessment of Available Power for a proposed Hydel Power station, Types of Hydropower Power Plant, Run-of-river Plants, Reservoir Plants, Pumped storage Plants, Base-load Plants, Peak – Load Plants, Primary and Secondary Power, Layout of Hydro electric Power Plant- Dam, Water way, Penstock, Forebay, Intake structure, Trash rack, Surge Tank, Power House. Connected Load, Maximum Demand, Demand Factor, Load curve, load factor, Plant-use Factor, capacity factor, diversity factor, peak load, numerical Problems. 12 Nuclear Power Plants :Fission and Fusion reaction, salient features of a nuclear reactor, types of reactors, boiling water reactors, pressurized water reactor, liquid metal cooled, gas cooled. CANDU reactors, nuclear power plants. 10 
+1. Hydro-Electric Power Plant: Energy lines- HGL and TEL, hydro meteoric survey, selection of site for a dam, head race, tail race, gross head, net head, Comparison of Thermal and Hydroelectric Power Cost. Assessment of Available Power for a proposed Hydel Power station, Types of Hydropower Power Plant, Run-of-river Plants, Reservoir Plants, Pumped storage Plants, Base-load Plants, Peak – Load Plants, Primary and Secondary Power, Layout of Hydro electric Power Plant- Dam, Water way, Penstock, Forebay, Intake structure, Trash rack, Surge Tank, Power House. Connected Load, Maximum Demand, Demand Factor, Load curve, load factor, Plant-use Factor, capacity factor, diversity factor, peak load, numerical Problems. 12
+
+2. Nuclear Power Plants :Fission and Fusion reaction, salient features of a nuclear reactor, types of reactors, boiling water reactors, pressurized water reactor, liquid metal cooled, gas cooled. CANDU reactors, nuclear power plants. 10 
 
 UNIT-II 
 

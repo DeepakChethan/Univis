@@ -3,13 +3,14 @@
  2K11CI72:SOFT COMPUTING 
  Note: 
  FOUR questions from PARTA and FOUR questionsfromPARTBtobeset. Students should answerFIVE questions selecting atleast TWO from each PART. For every SIX hours of syllabus ONE question maybe set. 
- HoursperWeek:4 ExaminationMarks:100 SessionalMarks:25 
- PART A 
+ Hours per Week:4 Examination Marks:100 Sessional Marks:25
  
- Chapter 1: Introduction 6 Hours 
-Neural Networks, Fuzzy Logic, Genetic Algorithms, Hybrid Systems. 
+PART A 
+ 
+ Chapter 1: Introduction 6 Hours
+ Neural Networks, Fuzzy Logic, Genetic Algorithms, Hybrid Systems. 
 
-Chapter 2: Artificial Neural Networks 6 Hours 
+ Chapter 2: Artificial Neural Networks 6 Hours 
  Fundamental Concepts, Basic Models of Artificial Neural Networks, Important Terminologies of ANN, McCulloch Pitts Neuron, Linear Separability, Hebb Network. 
 
  Chapter 3: Supervised Learning Network 6 Hours 
@@ -17,7 +18,8 @@ Chapter 2: Artificial Neural Networks 6 Hours
 
  Chapter 4: Unsupervised Learning Networks 6 Hours 
  Kohonen Self Organizing Feature Maps, Learning Vector Quantization, Counterpropagation Networks, ART. 
- PART B 
+
+PART B 
  
  Chapter 5: Fuzzy Sets and Fuzzy Relations 6 Hours 
  Crisp Setsvs Fuzzy Sets, Operations and Properties, Classical Relation vs Fuzzy Relations, Tolerance and Equivalence Relations. 

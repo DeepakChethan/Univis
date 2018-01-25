@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83de632-4632-4046-9d1e-6b2e2f041d4f" name="Default" comment="">
+<<<<<<< HEAD
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_3_1.xml" afterPath="" />
@@ -50,6 +51,50 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_qpaper.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_qpaper.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_syllabus.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_syllabus.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+=======
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/civil/civil3/k.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/civil/civil4/es.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/civil/civil5/te.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/civil/civil6/ci.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/civil/civil4/gl.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/civil/civil4/gl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/civil/civil4/ts2.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/civil/civil4/ts2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/civil/civil6/hs.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/civil/civil6/hs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/cse/cse5/jl.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/cse/cse5/jl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/cse/cse6/dbmsl.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/cse/cse6/dbmsl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/cse/cse7/cns.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/cse/cse7/cns.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/cse/cse7/nl.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/cse/cse7/nl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/cse/cse7/sc.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/cse/cse7/sc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/cse/cse8/proj.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/cse/cse8/proj.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/first/c.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/first/c.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/first/ec.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/first/ec.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/first/ecl.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/first/ecl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/first/ep.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/first/ep.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/first/m2.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/first/m2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/first/mes.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/first/mes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/first/wd.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/first/wd.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/first/wp.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/first/wp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mech/mech3/msm.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/mech/mech3/msm.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/mech/mech8/erpp.txt" afterPath="$PROJECT_DIR$/app/src/main/assets/mech/mech8/erpp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/InfoFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/InfoFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SettingActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SettingActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusDisplay.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusDisplay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/Syllabus.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/Syllabus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_syllabus_display.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_syllabus_display.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_info.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
     </list>
     <ignored path="Univis.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,6 +126,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="QPaperLab.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/QPaperLab.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,6 +148,14 @@
               <folding>
                 <element signature="e#180#181#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="ic_info_24dp.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_info_24dp.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
             </state>
           </provider>
         </entry>
@@ -109,8 +163,13 @@
       <file leaf-file-name="EEE.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/EEE.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="136">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+=======
+            <state relative-caret-position="339">
+              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="57" selection-end-column="58" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
               <folding>
                 <element signature="e#132#133#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
@@ -119,6 +178,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="ECE.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/ECE.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,21 +194,40 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1649">
               <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+=======
+      <file leaf-file-name="SettingActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SettingActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="CIVIL.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/CIVIL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+=======
+      <file leaf-file-name="activity_setting.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="dms.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/assets/cse/cse3/dms.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -187,6 +266,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+=======
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
               <folding />
             </state>
           </provider>
@@ -2053,23 +2139,32 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Activities/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Activities/SettingActivity.java" />
         <option value="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Activities/SyllabusFragment.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_info.xml" />
+=======
+        <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/QPaperFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_qpaper.xml" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/InfoFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SettingActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/assets/Temp" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_syllabus_display.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+=======
+        <option value="$PROJECT_DIR$/app/src/main/assets/Temp" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/MainActivity.java" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
         <option value="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/appbar.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_settings_24dp.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_info_24dp.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusDisplay.java" />
@@ -2088,6 +2183,21 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/ECE.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/EEE.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/CIVIL.java" />
+=======
+        <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/Syllabus.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_syllabus_display.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/InfoFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_info.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_back_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusDisplay.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SettingActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       </list>
     </option>
   </component>
@@ -2115,7 +2225,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2192,8 +2309,77 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="univis" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+=======
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Univis" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Univis" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Univis" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="univis" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Univis" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="univis" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Activities" />
@@ -2202,9 +2388,12 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
+=======
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2212,18 +2401,24 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="device.picker.selection" value="f098ee93" />
     <property name="VectorAssetImportPath" value="$PROJECT_DIR$/.." />
     <property name="sync.plugin.last.upgrade.timestamp" value="1515615793860" />
+=======
+    <property name="device.picker.selection" value="0123456789ABCDEF" />
+    <property name="VectorAssetImportPath" value="$USER_HOME$" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
+      <recent name="com.uvce.univis.Activities" />
       <recent name="com.uvce.univis" />
       <recent name="com.uvce.univis.Activities.Activities" />
     </key>
     <key name="android.template.parentActivityClass">
-      <recent name="com.uvce.univis.Activities.SettingActivity" />
       <recent name="" />
+      <recent name="com.uvce.univis.Activities.SettingActivity" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2557,11 +2752,28 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="20" y="45" width="1324" height="701" extended-state="0" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="0" y="-18" width="1366" height="766" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2574,8 +2786,13 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20904836" sideWeight="0.4935275" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27389985" sideWeight="0.4935275" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2591,8 +2808,11 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2611,6 +2831,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Activities/SyllabusDisplay.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Activities/MainActivity.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Resources/Syllabus.java" />
@@ -2652,6 +2873,18 @@
         <state relative-caret-position="345">
           <caret line="34" column="73" lean-forward="false" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
         </state>
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Activities/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Resources/Syllabus.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_home_black_24dp.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Activities/QPapersFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_qpapers.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Activities/QPaperFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/navigation.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/Temp">
@@ -2683,6 +2916,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/appbar.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -2692,6 +2926,24 @@
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Main2Activity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main2.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+          <folding>
+            <element signature="e#564#582#0" expanded="false" />
+            <element signature="e#809#827#0" expanded="false" />
+            <element signature="e#1152#1185#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
     </entry>
     <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/app/Activity.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
@@ -2701,6 +2953,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
@@ -2713,32 +2966,55 @@
       </provider>
     </entry>
     <entry file="jar:///opt/android-sdk/extras/android/m2repository/com/android/support/design/25.3.1/design-25.3.1-sources.jar!/android/support/design/widget/BottomNavigationView.java">
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/QPaperFragment.java">
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="95" column="13" lean-forward="false" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Temp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="59" lean-forward="false" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_qpaper.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_syllabus_display.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -2763,24 +3039,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_syllabus.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_syllabus.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/appbar.xml">
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="289">
           <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
@@ -2819,10 +3110,45 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+=======
+        <state relative-caret-position="270">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="2564" column="0" selection-start-line="2564" selection-start-column="0" selection-end-line="2564" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="78" column="77" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/Syllabus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="141" column="61" selection-start-line="141" selection-start-column="61" selection-end-line="141" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_syllabus_display.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/civil/civil3/m3.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -2833,10 +3159,22 @@
         <state relative-caret-position="-171">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+=======
+        <state relative-caret-position="321">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/civil/civil3/sp1.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -2850,12 +3188,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusFragment.java">
+=======
+        <state relative-caret-position="306">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_info_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/syllabus_icon.xml">
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="77" column="49" lean-forward="true" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/QPaperFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -2892,10 +3248,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/question_paper_icon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/InfoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/Branch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -2905,24 +3284,58 @@
             <element signature="e#262#263#0" expanded="true" />
           </folding>
         </state>
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_settings_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/Splash_Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/cse/cse3/dms.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/Syllabus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/MECH.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -2930,13 +3343,38 @@
           <folding>
             <element signature="e#180#181#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_info.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="147" selection-start-line="26" selection-start-column="147" selection-end-line="26" selection-end-column="147" />
+          <folding>
+            <element signature="e#519#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_back_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/EEE.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+=======
+        <state relative-caret-position="339">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="57" selection-end-column="58" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
           <folding>
             <element signature="e#132#133#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
@@ -2944,26 +3382,61 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/ECE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SyllabusDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+          <folding>
+            <element signature="e#1429#1571#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="42" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/CSE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
           <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Activities/SettingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/uvce/univis/Resources/CIVIL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+>>>>>>> ab61e5743f30bc78ff4630b251805545620edfad
           <folding />
         </state>
       </provider>

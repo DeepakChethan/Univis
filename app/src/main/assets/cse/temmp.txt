@@ -1,0 +1,48 @@
+III Semester B.E. (CSE/ISE) Degree Examination,
+December 2014/January 2015
+(2K11 Scheme)
+CI 32 : DATA STRUCTURES WITH C
+Time : 3 Hours Max. Marks : 100
+Instruction : Answer any five complete questions, selecting atleast two
+questions from each Part.
+PART – A
+1. a) What are macros ? Explain various macros with an example for each. 8
+b) Differentiate static and Dynamic memory allocation. Write the syntax for mallo( )
+and realloc ( ) and explain. 8
+c) Explain bit fields with an example. 4
+2. a) Write C functions to insert an item at a specified position and delete a specified
+data from a singly linked list. 10
+b) What are circular linked list ? Write a C program to create an ordered linked
+list. 10
+3. a) Define stack. Explain the various stack operations with relevant functions. 8
+b) Convert the following infix expression to prefix expression using stack
+(a – b) + c / (d ∗ c) ↑ / (f – g). 8
+c) Evaluate the following postfix expression using stack. Given A = 1, B = 2 and
+C = 4. ABC + ∗ CBA – + ∗ . 4
+4. a) Write a program to implement Queue using Array. 10
+b) Write a note on priority queues. 5
+c) What are Header nodes ? Write its significance. 5
+P.T.O.
+ED – 758 -2- 
+PART – B
+5. a) Explain the Tower of Hanoii problem. Explain the recursive tree showing the
+recursive calls. 10
+b) Write a recursive function to find the Binomial coefficient. 5
+c) Define the following terms Binary Search Tree, Height of a Tree, Max Heap,
+Almost complete Binary Tree siblings. 5
+6. a) Define Binary Tree. Write the functions for various Tree Traversal Techniques.
+Give example. 8
+b) Obtain an expression Tree for the following infix expression and give its
+equivalent postfix and prefix expression (A + B) ∗ (C + D) ↑ E / (F – H). 8
+c) Construct a Binary Tree. Given its inorder and preorder Traversal.
+in-order – FACBEDG
+pre-order – DAFBCEG 4
+7. a) Write a C function to sort a given array using insertion sort. 4
+b) Construct an heap for the following array elements and sort using Heap sort
+25, 12, 15, 30, 55, 70, 43. 10
+c) Write a C function to sort the array using Quick sort. 6
+8. a) Write a recursive function for Binary Search. 4
+b) Write a C program to perform insert and delete operation in a Binary Search
+Tree. 10
+c) Define hashing. Explain various Hash functions. 6
+–

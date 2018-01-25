@@ -11,15 +11,21 @@ import java.util.ArrayList;
 
     public class Subject {
 
-        public String mSubjectName;
-        ArrayList<QPaper> mQPapers;
+       String mSubjectName;
+        String mUri;
 
-        public Subject(String mSubjectName, ArrayList<QPaper> mQPapers) {
+        public Subject(String mSubjectName, String uri) {
             this.mSubjectName = mSubjectName;
-            this.mQPapers = mQPapers;
+            this.mUri = uri;
         }
 
+    public String getSubjectName() {
+        return mSubjectName;
     }
+    public String getUri() {
+            return mUri;
+    }
+}
 
 
 

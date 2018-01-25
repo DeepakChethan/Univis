@@ -17,6 +17,7 @@
         <item>ECE</item>
         <item>EEE</item>
         <item>MECH</item>
+        <item>OTH</item>
     </string-array>
 
     <string-array name="sem_list">
@@ -29,6 +30,18 @@
         <item>8th sem</item>
     </string-array>
     <string name="title_activity_main2">Main2Activity</string>
+
+
+    <string-array name="cse_third_sem">
+        <item>1fKqpaMRlTkizpsY9PREEDGeEiYCbaaMk</item>
+        <item>1EMQAf8_C8a7AnzB6avh5gwsPmv0tUfD0</item>
+        <item>1TFmb37lR3v4FQOvxbMtJgsjXH-nI8Zbs</item>
+        <item>1fKqpaMRlTkizpsY9PREEDGeEiYCbaaMk</item>
+        <item>1iJbhMZvD2FGQ-vlQLQgS0ZcjuGAEcNnW</item>
+        <item>1qqMvRKUPq9iaOW199Ardu_uLvPRg_V00</item>
+    </string-array>
+
+    <string name="base_url">https://drive.google.com/uc?export=download&amp;id=</string>
 
 
 </resources>

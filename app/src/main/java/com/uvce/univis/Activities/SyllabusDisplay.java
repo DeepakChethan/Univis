@@ -1,12 +1,14 @@
 package com.uvce.univis.Activities;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.text.Html;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -34,18 +36,16 @@ public class SyllabusDisplay extends AppCompatActivity {
         String subject=getIntent().getExtras().getString("sub_name");
         String file=getIntent().getExtras().getString("file_name");
         String path=getIntent().getExtras().getString("rel_add");
-
-        // TODO change the text color to white
-        // If I change the color like I did in the MainActivity, the homeupasenabled icon will result in a crash
         tools.setTitle(subject);
+        tools.setTitleTextColor(Color.WHITE);
+        tools.setNavigationIcon(R.drawable.ic_arrow_back_24dp);
         setSupportActionBar(tools);
-
-        //TODO The back button not working on this activity
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        //getSupportActionBar().setDisplayShowHomeEnabled(true);
-        //Toast.makeText(this,path+file,Toast.LENGTH_SHORT).show();
-        getSupportActionBar().setTitle(subject);
-
+        tools.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
         write_syllabus(path+file);
 
     }

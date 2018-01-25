@@ -29,14 +29,11 @@
         <activity
             android:name=".Activities.SyllabusDisplay"
             android:label="Syllabus"
-            android:parentActivityName="com.uvce.univis.Activities.MainActivity"
-            >
+            android:parentActivityName=".Activities.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.uvce.univis.Activities.MainActivity" />
-
         </activity>
-
     </application>
 
 </manifest>

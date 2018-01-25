@@ -1,6 +1,12 @@
 package com.uvce.univis.Resources;
 
+import android.content.Context;
+import android.content.res.Resources;
+
+import com.uvce.univis.R;
+
 import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * Created by sagar on 1/11/18.
@@ -9,32 +15,30 @@ import java.util.ArrayList;
 public class CSE extends Branch {
 
 
-    SEM1_2 msem1_2;
-
-    SEM3 mSem3;
-
-    SEM4 mSem4;
-
-    SEM5 mSem5;
-
-    SEM6 mSem6;
-
-    SEM7 mSem7;
-
-    SEM8 mSem8;
 
 
 
-    CSE() {
 
-        super("Computer Science & Engineering");
+
+
+    CSE(Context context) {
+
+        super(context,"Computer Science & Engineering");
+        mAppContext = context;
+
+        mSem1_2 = new SEM1_2();
+
         mSem3 = new SEM3();
-        mSem4 = new SEM4();
-        mSem5 = new SEM5();
-        mSem6 = new SEM6();
-        mSem7 = new SEM7();
-        mSem8 = new SEM8();
 
+        mSem4 = new SEM4();
+
+        mSem5 = new SEM5();
+
+        mSem6 = new SEM6();
+
+        mSem7 = new SEM7();
+
+        mSem8 = new SEM8();
     }
 
 
@@ -43,7 +47,82 @@ public class CSE extends Branch {
 
 
 
-    class SEM1_2 {
+
+
+
+    public class SEM3 extends Semester {
+
+        public static final int SEMESTER_NO = 3;
+        // defining all the Subject names as String constants
+
+        public static final String ENGINEERING_MATHEMATICS_3 = "Engineering Mathematics-3";
+        public static final String DATA_STRUCTURES_WITH_C = "Data Structures With C";
+        public static final String DIGITAL_SYSTEM_DESIGN = "Digital System Design";
+        public static final String DISCRETE_MATHEMATICAL_STRUCTURES = "Discrete Mathematical Structures";
+        public static final String ELECTRONIC_CIRCUITS = "Electronic Circuits";
+        public static final String OBJECT_ORIENTED_PROGRAMMING_WITH_CPP = "Object Oriented Programming With C++";
+
+        public static final int THEORY_SUBJECTS_NO = 6;
+
+        public String[] mUrlList = mAppContext.getResources().getStringArray(R.array.cse_third_sem);
+
+        public String[] mQSubjectNames = {
+
+                ENGINEERING_MATHEMATICS_3,
+                DATA_STRUCTURES_WITH_C,
+                DIGITAL_SYSTEM_DESIGN,
+                DISCRETE_MATHEMATICAL_STRUCTURES,
+                ELECTRONIC_CIRCUITS,
+                OBJECT_ORIENTED_PROGRAMMING_WITH_CPP
+        };
+
+
+
+
+        /*  subjects is an ArrayList which contains objects of class 'Subject'.
+         *  Each "Subject" object will have subjectName as String and an ArrayList that contains associated Question papers;
+        */
+
+
+        //    mQpaper is an array of ArrayList where each ArrayList stores the set of question papers for each subject
+        public String[] mQpaper;
+
+
+
+
+        void setUpQuestionPaper(int index) {
+
+            mQpaper[index] = new String(mBaseUrl+mUrlList[index]);
+
+        }
+
+         SEM3() {
+
+
+             //initialize the subjects ArrayList
+            subjects = new ArrayList<Subject>();
+            //initialize the mQpaper as an array of ArrayList
+
+            mQpaper = new String[THEORY_SUBJECTS_NO];
+
+
+            for(int i = 0; i < THEORY_SUBJECTS_NO; i++) {
+
+                //initialize each array element as an ArrayList of Question Paper
+                setUpQuestionPaper(i);
+
+            }
+
+
+            for(int i = 0; i < THEORY_SUBJECTS_NO; i++) {
+                subjects.add(i, new Subject(mQSubjectNames[i], mQpaper[i]));
+            }
+
+        }
+
+    }
+
+    class SEM1_2 extends Semester{
 
         public static final String MATHEMATICS1 = "Engineering Mathematics-1";
         public static final String ENGINEERING_MECHANICS = "Engineering Mechanics";
@@ -68,56 +147,7 @@ public class CSE extends Branch {
 
     }
 
-
-    class SEM3 {
-
-        public static final String ENGINEERING_MATHEMATICS_3 = "Engineering Mathematics-3";
-        public static final String DATA_STRUCTURES_WITH_C = "Data Structures With C";
-        public static final String DIGITAL_SYSTEM_DESIGN = "Digital System Design";
-        public static final String DISCRETE_MATHEMATICAL_STRUCTURES = "Discrete Mathematical Structures";
-        public static final String ELECTRONIC_CIRCUITS = "Electronic Circuits";
-        public static final String OBJECT_ORIENTED_PROGRAMMING_WITH_CPP = "Object Oriented Programming With C++";
-        public static final String DSD_EC_LAB = "DSD & EC Lab";
-        public static final String DATA_STRUCTURES_LAB = "Data Structures Lab";
-
-        public static final int THEORY_SUBJECTS_NO = 6;
-        public static final int PRACTICAL_LABS = 2;
-        public static final int TOTAL_SUBS = 8;
-
-        public final String[] mQSubjectNames = {
-
-                ENGINEERING_MATHEMATICS_3,
-                DATA_STRUCTURES_WITH_C,
-                DIGITAL_SYSTEM_DESIGN,
-                DISCRETE_MATHEMATICAL_STRUCTURES,
-                ELECTRONIC_CIRCUITS,
-                OBJECT_ORIENTED_PROGRAMMING_WITH_CPP
-
-        };
-
-
-
-
-        public  final ArrayList<Subject> subjects = new ArrayList<>();
-        public ArrayList<QPaper> mQpaper[] = new ArrayList[8];
-
-         SEM3() {
-
-
-            for(int i = 0; i < THEORY_SUBJECTS_NO; i++) {
-                mQpaper[i] = new ArrayList<QPaper>();
-            }
-
-
-            for(int i = 0; i < THEORY_SUBJECTS_NO; i++) {
-                subjects.set(i, new Subject(mQSubjectNames[i], mQpaper[i]));
-            }
-
-        }
-
-    }
-
-    class SEM4 {
+    class SEM4 extends Semester {
 
         public static final String ENGINEERING_MATHEMATICS_4 = "Engineering Mathematics-4";
         public static final String MICROPROCESSORS = "Microprocessors";
@@ -130,7 +160,7 @@ public class CSE extends Branch {
 
     }
 
-    class SEM5 {
+    class SEM5 extends Semester {
 
         public static final String DATABASE_MANAGEMENT_SYSTEM= "Database Management System";
         public static final String OPERATING_SYSTEM = "Operating System";
@@ -143,7 +173,7 @@ public class CSE extends Branch {
 
     }
 
-    class SEM6 {
+    class SEM6 extends Semester{
 
         public static final String COMPUTER_NETWORKS_2 = "Computer Networks-2";
         public static final String PROBABILITY_AND_STOCHASTIC_PROCESS = "Probability And Stochastic Process";
@@ -156,7 +186,7 @@ public class CSE extends Branch {
 
     }
 
-    class SEM7 {
+    class SEM7 extends Semester{
         public String[] CSE7={"Advanced Computer Architecture","Soft Computing","Cryptography and Network Security","Simulation and Modelling",
                 "Networking laboratory","IP lab","Project"};
         public static final String ADVANCED_COMPUTER_ARCHITECTURE = "Advanced Computer Architecture";
@@ -169,7 +199,7 @@ public class CSE extends Branch {
 
     }
 
-    class SEM8 {
+    class SEM8 extends Semester{
 
         public String[] CSE8={"Compiler Design","Distributed Operating System","Mobile Computing","Wireless Sensor Networks","C# laboratory","Project"};
         public static final String COMPILER_DESIGN = "Compiler Design";

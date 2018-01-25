@@ -3,6 +3,8 @@ package com.uvce.univis.Activities;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Color;
+import android.os.Build;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -24,13 +26,15 @@ public class SettingActivity extends AppCompatActivity {
         course = (Spinner) findViewById(R.id.course);
         semester = (Spinner) findViewById(R.id.semester);
         button = (Button) findViewById(R.id.button);
-
-
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN_MR1) {
+            course.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
+            semester.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
+        }
+        // TODO set the text color of spinners to white
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //Update the shared prefs
-
                 co=course.getSelectedItem().toString();
                 se= (int) semester.getSelectedItem().toString().charAt(0);
                 // Save the user settings
