@@ -57,7 +57,7 @@ public class SyllabusFragment extends Fragment {
         String dope = sharedPreferences.getString("course","");
         int pope = sharedPreferences.getInt("sem", 0)-'0';
         //Toast.makeText(getContext(),pope+"",Toast.LENGTH_SHORT).show();
-        if (pope != 1)
+
         switch (dope){
             case "ISE":
             case "CSE": relative_address="cse/";
@@ -205,8 +205,16 @@ public class SyllabusFragment extends Fragment {
                 relative_address="oth/";
                 curr_sub_list=s.OTH;
                 curr_file_list=s.OTH_files;
+                //Toast.makeText(getContext(),"This is working",Toast.LENGTH_LONG).show();
                 break;
             
+        }
+        if (pope == 1 && !dope.equals("OTH")){
+            curr_sub_list=s.firstYearSubjects;
+            curr_file_list=s.firstYearSubjects_files;
+            //Toast.makeText(getContext(),"This is not",Toast.LENGTH_SHORT).show();
+            relative_address="first/";
+
         }
         // its 18 because the margin value is 8+8+8+8 and padding
         int x=(width/2)-(int)(18*getResources().getDisplayMetrics().density);

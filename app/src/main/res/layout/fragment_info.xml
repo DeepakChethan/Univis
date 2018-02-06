@@ -21,8 +21,7 @@
         android:layout_marginTop="60dp"
         android:textColorLink="@color/colorPrimary"
         android:autoLink="all"
-        android:text="To change the course or semester, click on the setting-ish icon on the top right.You can find the electives like kannada,english etc., under the name OTH\nIf you have any issues regarding the app, contact \n
-deepakchethan@outlook.com \t\t For Syllabus part\nsagar_mail_insert@here.com \t\t For question paper part\n
+        android:text="To change the course or semester, click on the setting-ish icon on the top right.You can find the electives like kannada,english etc., under the name OTH\n
 If you want to take things to your own hands, you can find the source code at \n
 https://www.github.com/DeepakChethan/Univis\n\nIssue a pull request or just clone and make your own version or whatever.\n\nThanks for using univis!"/>
 
