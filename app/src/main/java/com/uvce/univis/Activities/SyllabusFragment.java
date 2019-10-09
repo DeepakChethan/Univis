@@ -54,14 +54,14 @@ public class SyllabusFragment extends Fragment {
         gl=(android.support.v7.widget.GridLayout)view.findViewById(R.id.gridLayout);
 
         SharedPreferences sharedPreferences = getContext().getSharedPreferences("sub_info", Context.MODE_PRIVATE);
-        String dope = sharedPreferences.getString("course","");
-        int pope = sharedPreferences.getInt("sem", 0)-'0';
+        final String course_name = sharedPreferences.getString("course","");
+        int semester_no = sharedPreferences.getInt("sem", 0)-'0';
         //Toast.makeText(getContext(),pope+"",Toast.LENGTH_SHORT).show();
 
-        switch (dope){
+        switch (course_name){
             case "ISE":
             case "CSE": relative_address="cse/";
-                switch (pope){
+                switch (semester_no){
 
                     case 3: curr_sub_list=s.CSE3;
                             curr_file_list=s.CSE3_files;
@@ -90,7 +90,7 @@ public class SyllabusFragment extends Fragment {
                 }break;
             case "CIVIL":
                     relative_address="civil/";
-                switch (pope){
+                switch (semester_no){
                     case 3: curr_sub_list=s.CIVIL3;
                         curr_file_list=s.CIVIL3_files;
                         relative_address+="civil3/";
@@ -119,7 +119,7 @@ public class SyllabusFragment extends Fragment {
                 }break;
             case "MECH":
                 relative_address="mech/";
-                switch (pope){
+                switch (semester_no){
                     case 3: curr_sub_list=s.MECH3;
                         curr_file_list=s.MECH3_files;
                         relative_address+="mech3/";
@@ -147,7 +147,7 @@ public class SyllabusFragment extends Fragment {
                 }break;
             case "EEE":
                 relative_address="eee/";
-                switch (pope){
+                switch (semester_no){
                     case 3: curr_sub_list=s.EEE3;
                         curr_file_list=s.EEE3_files;
                         relative_address+="eee3/";
@@ -175,7 +175,7 @@ public class SyllabusFragment extends Fragment {
                 }break;
             case "ECE":
                 relative_address="ece/";
-                switch (pope){
+                switch (semester_no){
                     case 3: curr_sub_list=s.ECE3;
                         curr_file_list=s.ECE3_files;
                         relative_address+="ece3/";
@@ -209,7 +209,7 @@ public class SyllabusFragment extends Fragment {
                 break;
             
         }
-        if (pope == 1 && !dope.equals("OTH")){
+        if (course_name == 1 && !course_name.equals("OTH")){
             curr_sub_list=s.firstYearSubjects;
             curr_file_list=s.firstYearSubjects_files;
             //Toast.makeText(getContext(),"This is not",Toast.LENGTH_SHORT).show();

@@ -18,31 +18,10 @@ import com.uvce.univis.R;
 public class MainActivity extends AppCompatActivity {
 
     private Toolbar tools;
-    /*private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
-            = new BottomNavigationView.OnNavigationItemSelectedListener() {
-
-        @Override
-        public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-            switch (item.getItemId()) {
-                case R.id.syllabus:
-                    // changing to the syllabus fragment
-                    getSupportFragmentManager().beginTransaction().replace(R.id.content,new SyllabusFragment()).commit();
-                    return true;
-                case R.id.questionPapers:
-                    // Changing to the question paper fragment
-                    getSupportFragmentManager().beginTransaction().replace(R.id.content,new QPaperFragment()).commit();
-                    return true;
-            }
-
-
-            return false;
-        }
-
-    };*/
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.appbar,menu);
+        getMenuInflater().inflate(R.menu.appbar, menu);
         return true;
     }
 
